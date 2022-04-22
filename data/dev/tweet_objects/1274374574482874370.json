@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Jun 20 16:12:29 +0000 2020",
+    "id": 1274374574482874370,
+    "id_str": "1274374574482874370",
+    "text": "@shoesnark @Carolkry @sjmmz34 @Cynthia0259 @catturd2 @Acosta So there’s nothing on the WHO site advising healthy pe… https://t.co/xYDT2bN5n4",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Carolkry",
+                "name": "CMK",
+                "id": 2531462340,
+                "id_str": "2531462340",
+                "indices": [
+                    11,
+                    20
+                ]
+            },
+            {
+                "screen_name": "sjmmz34",
+                "name": "🇺🇸 Ⓢⓐⓜⓐⓝⓣⓗⓐ Ⓙⓞⓝⓔⓢ 🌊🌈💙",
+                "id": 27190617,
+                "id_str": "27190617",
+                "indices": [
+                    21,
+                    29
+                ]
+            },
+            {
+                "screen_name": "catturd2",
+                "name": "Catturd ™",
+                "id": 1043185714437992449,
+                "id_str": "1043185714437992449",
+                "indices": [
+                    43,
+                    52
+                ]
+            },
+            {
+                "screen_name": "Acosta",
+                "name": "Jim Acosta",
+                "id": 22771961,
+                "id_str": "22771961",
+                "indices": [
+                    53,
+                    60
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/xYDT2bN5n4",
+                "expanded_url": "https://twitter.com/i/web/status/1274374574482874370",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 226325216,
+        "id_str": "226325216",
+        "name": "felicia the critic",
+        "screen_name": "felicianista",
+        "location": " The Colored Girls Museum",
+        "description": "Nut Enthusiast. Harry Girl. Grad Student. Tragic Artist. Old/Round Earther. #BlackHistory365.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3170,
+        "friends_count": 1992,
+        "listed_count": 169,
+        "created_at": "Mon Dec 13 22:12:21 +0000 2010",
+        "favourites_count": 208505,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39091,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1491139315941974022/PSlNbfiv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491139315941974022/PSlNbfiv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226325216/1565210249",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01a9a39529b27f36",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+        "place_type": "city",
+        "name": "Manhattan",
+        "full_name": "Manhattan, NY",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}
