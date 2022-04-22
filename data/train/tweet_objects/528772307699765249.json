@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 02 04:55:16 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    72
+                ],
+                "text": "bordersareforhumansonly"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528772307699765249,
+    "id_str": "528772307699765249",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528237933661544448,
+    "in_reply_to_status_id_str": "528237933661544448",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@washingtonpost he's an Indian citizen for sure #bordersareforhumansonly :D",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 31 06:10:26 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Indian,aiyn parast,loves good food, books,music, travel, history, aircraft, swords, kids, puppies and beautiful women",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7290,
+        "follow_request_sent": false,
+        "followers_count": 385,
+        "following": false,
+        "friends_count": 778,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 70325248,
+        "id_str": "70325248",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Jhumri Talaiyya",
+        "name": "Narayana Sharma",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70325248/1553055734",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850614845728727041/AHHouPNV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850614845728727041/AHHouPNV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tsoont123",
+        "statuses_count": 17331,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

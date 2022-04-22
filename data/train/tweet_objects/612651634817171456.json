@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 16:01:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    15,
+                    22
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            },
+            {
+                "id": 797674317261709312,
+                "id_str": "797674317261709312",
+                "indices": [
+                    23,
+                    37
+                ],
+                "name": "lightskinzayn",
+                "screen_name": "lightskinzayn"
+            }
+        ]
+    },
+    "favorite_count": 76,
+    "favorited": false,
+    "geo": null,
+    "id": 612651634817171456,
+    "id_str": "612651634817171456",
+    "in_reply_to_screen_name": "swtwfa",
+    "in_reply_to_status_id": 612651150370803712,
+    "in_reply_to_status_id_str": "612651150370803712",
+    "in_reply_to_user_id": 2335473751,
+    "in_reply_to_user_id_str": "2335473751",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 50,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@winterxlarrys @ajplus @lightskinzayn People arrested for protesting in Baltimore were left for days in jail cells with just stale bread.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 12 17:03:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83e\udd74",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andrewxfleming.com",
+                        "expanded_url": "http://www.andrewxfleming.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SBko5rG8yP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1945,
+        "follow_request_sent": false,
+        "followers_count": 414,
+        "following": false,
+        "friends_count": 476,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39542769,
+        "id_str": "39542769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "",
+        "name": "fleming",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39542769/1557840345",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128290291465715712/UPuRP6q9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128290291465715712/UPuRP6q9_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "flightrisker",
+        "statuses_count": 26140,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SBko5rG8yP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

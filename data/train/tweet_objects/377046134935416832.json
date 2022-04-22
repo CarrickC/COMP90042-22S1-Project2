@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 12:29:38 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425231,
+                "id_str": "2425231",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Fact",
+                "screen_name": "Fact"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 377046134935416832,
+    "id_str": "377046134935416832",
+    "in_reply_to_screen_name": "Fact",
+    "in_reply_to_status_id": 377002232257855488,
+    "in_reply_to_status_id_str": "377002232257855488",
+    "in_reply_to_user_id": 2425231,
+    "in_reply_to_user_id_str": "2425231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Fact YESSSS!!!!! Finally!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 27 13:35:59 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "One word that decribes me-Reader. I love love love books, Harry Potter, THG, Percy Jackson and Divergent and The Fault In Our Stars in particular :)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1473,
+        "follow_request_sent": false,
+        "followers_count": 224,
+        "following": false,
+        "friends_count": 558,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1550618256,
+        "id_str": "1550618256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Indian living in Singapore",
+        "name": "Sruthi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550618256/1383221375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492926181486759937/KO9f90Ry_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492926181486759937/KO9f90Ry_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "imcrazy4btr",
+        "statuses_count": 1400,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

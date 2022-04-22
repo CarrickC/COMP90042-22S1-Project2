@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 09 19:02:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.mash.to/ZgsDwh",
+                "expanded_url": "http://on.mash.to/ZgsDwh",
+                "indices": [
+                    72,
+                    94
+                ],
+                "url": "http://t.co/uG7IJLnStu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    2,
+                    11
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 520288138913402880,
+    "id_str": "520288138913402880",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 520284654755381249,
+    "in_reply_to_status_id_str": "520284654755381249",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT@mashable: Amazon plans to open its first physical store, in New York http://t.co/uG7IJLnStu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 19 12:25:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Journaliste, Le Monde.  La d\u00e9connexion des \u00e9lites. Comment Internet d\u00e9range l'ordre \u00e9tabli (Ar\u00e8nes, 2015) belot@lemonde.fr",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ladeconnexiondeselites.com",
+                        "expanded_url": "http://ladeconnexiondeselites.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/O57hHzdnW0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3534,
+        "follow_request_sent": false,
+        "followers_count": 6091,
+        "following": false,
+        "friends_count": 4973,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 376164732,
+        "id_str": "376164732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 244,
+        "location": "Paris",
+        "name": "Laure Belot",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/376164732/1361826237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3116211521/4cf5d71d42532984697286b8550f7b07_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3116211521/4cf5d71d42532984697286b8550f7b07_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "curieusedetout",
+        "statuses_count": 1153,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/O57hHzdnW0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

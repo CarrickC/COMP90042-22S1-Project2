@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 27 22:39:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1233159738214535168",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/Mg9hOyJ0WG"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 236132475,
+                "id_str": "236132475",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Josh Gauntt",
+                "screen_name": "joshg_TV"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1233159738214535168,
+    "id_str": "1233159738214535168",
+    "in_reply_to_screen_name": "joshg_TV",
+    "in_reply_to_status_id": 1233159665556520965,
+    "in_reply_to_status_id_str": "1233159665556520965",
+    "in_reply_to_user_id": 236132475,
+    "in_reply_to_user_id_str": "236132475",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@joshg_TV My friend ordered a package from China that I touched (not the plastic the gift inside) only briefly but\u2026 https://t.co/Mg9hOyJ0WG",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 16:05:18 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Natsupoi Enthusiast | IG - https://t.co/2KglbxZS2G | \ud83d\udc4c\ud83c\udffb",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/natsupoibasis_",
+                        "expanded_url": "http://instagram.com/natsupoibasis_",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "url": "https://t.co/2KglbxZS2G"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8509,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1184862932708052994,
+        "id_str": "1184862932708052994",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "NatsupoiBasis",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184862932708052994/1638047181",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496987081779855360/VbL_Uw7h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496987081779855360/VbL_Uw7h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BanksBasis",
+        "statuses_count": 3858,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

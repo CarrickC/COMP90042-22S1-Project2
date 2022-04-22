@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 12:57:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19364382,
+                "id_str": "19364382",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Toby Harnden",
+                "screen_name": "tobyharnden"
+            },
+            {
+                "id": 24258355,
+                "id_str": "24258355",
+                "indices": [
+                    13,
+                    24
+                ],
+                "name": "Abby Martin",
+                "screen_name": "AbbyMartin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 539040619189268480,
+    "id_str": "539040619189268480",
+    "in_reply_to_screen_name": "tobyharnden",
+    "in_reply_to_status_id": 539040370978729984,
+    "in_reply_to_status_id_str": "539040370978729984",
+    "in_reply_to_user_id": 19364382,
+    "in_reply_to_user_id_str": "19364382",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@tobyharnden @AbbyMartin We asked them about this last week and they denied it",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 02 17:45:31 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Freelance journalist https://t.co/D3Xr3mlAzF and poor man's Alistair Cooke for @mailplus and @theipaper",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "danielgbates.com",
+                        "expanded_url": "http://danielgbates.com",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "url": "https://t.co/D3Xr3mlAzF"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "danielgbates.com",
+                        "expanded_url": "http://www.danielgbates.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EKpwlfHGhF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 576,
+        "follow_request_sent": false,
+        "followers_count": 1002,
+        "following": false,
+        "friends_count": 192,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 79240547,
+        "id_str": "79240547",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "Brooklyn, NY",
+        "name": "Daniel Bates",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573883363481649152/-RZPyLel_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573883363481649152/-RZPyLel_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danielgbates",
+        "statuses_count": 6044,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EKpwlfHGhF",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

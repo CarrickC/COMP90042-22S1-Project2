@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 19 18:20:04 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    4,
+                    18
+                ],
+                "text": "NewCrownVirus"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/LouDobbs/statu\u2026",
+                "expanded_url": "https://twitter.com/LouDobbs/status/1240617299406729221",
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/tUSL9H1gHm"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1240704608130883584,
+    "id_str": "1240704608130883584",
+    "in_reply_to_screen_name": "jj_talking",
+    "in_reply_to_status_id": 1240656018159177728,
+    "in_reply_to_status_id_str": "1240656018159177728",
+    "in_reply_to_user_id": 826129656856207360,
+    "in_reply_to_user_id_str": "826129656856207360",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Mar 19 12:33:08 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1240617299406729221",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/Hbv4UUCRP4"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 936,
+        "favorited": false,
+        "geo": null,
+        "id": 1240617299406729221,
+        "id_str": "1240617299406729221",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 547,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "WHO isn't including the United States, its largest contributor, as well as that of the UN! US will NOT be included\u2026 https://t.co/Hbv4UUCRP4",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/LouDobbs",
+                            "expanded_url": "https://linktr.ee/LouDobbs",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vYm0CcvB1k"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 20831,
+            "follow_request_sent": false,
+            "followers_count": 2184969,
+            "following": false,
+            "friends_count": 2104,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 26487169,
+            "id_str": "26487169",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 5321,
+            "location": "New York, NY",
+            "name": "Lou Dobbs",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1636587333",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1458579103725109248/XdX40QNz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458579103725109248/XdX40QNz_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LouDobbs",
+            "statuses_count": 38838,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/vYm0CcvB1k",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1240617299406729221,
+    "quoted_status_id_str": "1240617299406729221",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "29) #NewCrownVirus \ud83d\udc51\n\nWHO is on China's\ud83c\udde8\ud83c\uddf3 side https://t.co/tUSL9H1gHm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 30 18:07:13 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#KAG #MAGA FOREVER #SAVEAMERICA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 167403,
+        "follow_request_sent": false,
+        "followers_count": 4417,
+        "following": false,
+        "friends_count": 3023,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 826129656856207360,
+        "id_str": "826129656856207360",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "PNW",
+        "name": "Joni Job",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826129656856207360/1624121507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938458038721064960/aMQATzvZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938458038721064960/aMQATzvZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jj_talking",
+        "statuses_count": 153365,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -78.84219786,
+            36.03163921
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Jul 17 20:52:52 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    53
+                ],
+                "text": "MH17"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FSJo4TUCiW",
+                "expanded_url": "https://twitter.com/NBCNightlyNews/status/489874311143260160/photo/1",
+                "id": 489874310568239104,
+                "id_str": "489874310568239104",
+                "indices": [
+                    109,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/BsxiFwoCYAA1Clk.png",
+                "media_url_https": "https://pbs.twimg.com/media/BsxiFwoCYAA1Clk.png",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 489874311143260160,
+                "source_status_id_str": "489874311143260160",
+                "source_user_id": 8839632,
+                "source_user_id_str": "8839632",
+                "type": "photo",
+                "url": "http://t.co/FSJo4TUCiW"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 8839632,
+                "id_str": "8839632",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "NBC Nightly News with Lester Holt",
+                "screen_name": "NBCNightlyNews"
+            },
+            {
+                "id": 803694179079458816,
+                "id_str": "803694179079458816",
+                "indices": [
+                    19,
+                    22
+                ],
+                "name": "Vice President Kamala Harris",
+                "screen_name": "VP"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FSJo4TUCiW",
+                "expanded_url": "https://twitter.com/NBCNightlyNews/status/489874311143260160/photo/1",
+                "id": 489874310568239104,
+                "id_str": "489874310568239104",
+                "indices": [
+                    109,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/BsxiFwoCYAA1Clk.png",
+                "media_url_https": "https://pbs.twimg.com/media/BsxiFwoCYAA1Clk.png",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 654
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 489874311143260160,
+                "source_status_id_str": "489874311143260160",
+                "source_user_id": 8839632,
+                "source_user_id_str": "8839632",
+                "type": "photo",
+                "url": "http://t.co/FSJo4TUCiW"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            36.03163921,
+            -78.84219786
+        ],
+        "type": "Point"
+    },
+    "id": 489875403792596992,
+    "id_str": "489875403792596992",
+    "in_reply_to_screen_name": "NBCNightlyNews",
+    "in_reply_to_status_id": 489874311143260160,
+    "in_reply_to_status_id_str": "489874311143260160",
+    "in_reply_to_user_id": 8839632,
+    "in_reply_to_user_id_str": "8839632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.3219475,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        36.588118
+                    ],
+                    [
+                        -84.3219475,
+                        36.588118
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Carolina, USA",
+        "id": "3b98b02fba3f9753",
+        "name": "North Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NBCNightlyNews: .@VP Biden: Malaysia Airlines #MH17 was 'shot down not an accident. Blown out of the sky.' http://t.co/FSJo4TUCiW\u201dso sad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 10 13:47:25 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Midwestern transplant in the New South, healthcare pro, music lover, Peloton fan, partnered and dog dad to Cooper and Sophia! \ud83d\udc68\ud83c\udfff\u200d\ud83e\udd1d\u200d\ud83d\udc68\ud83c\udffb\ud83d\udc36\ud83d\udeb4\ud83c\udffb\ud83e\udd41\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1181,
+        "follow_request_sent": false,
+        "followers_count": 78,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 214066509,
+        "id_str": "214066509",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Durham NC",
+        "name": "Tony B.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1453179502415204352/765qKjUr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453179502415204352/765qKjUr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tbdogdad1974",
+        "statuses_count": 2892,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

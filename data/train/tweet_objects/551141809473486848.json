@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 22:23:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vjKZ2Jjfbq",
+                "expanded_url": "https://twitter.com/ABC/status/551123464640536576/photo/1",
+                "id": 551123463864188928,
+                "id_str": "551123463864188928",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6X73tMCAAA6ly-.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6X73tMCAAA6ly-.png",
+                "sizes": {
+                    "large": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 758
+                    },
+                    "medium": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 758
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 551123464640536576,
+                "source_status_id_str": "551123464640536576",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486",
+                "type": "photo",
+                "url": "http://t.co/vjKZ2Jjfbq"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcn.ws/1wLcp7s",
+                "expanded_url": "http://abcn.ws/1wLcp7s",
+                "indices": [
+                    94,
+                    116
+                ],
+                "url": "http://t.co/uUIswf0DC8"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vjKZ2Jjfbq",
+                "expanded_url": "https://twitter.com/ABC/status/551123464640536576/photo/1",
+                "id": 551123463864188928,
+                "id_str": "551123463864188928",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6X73tMCAAA6ly-.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6X73tMCAAA6ly-.png",
+                "sizes": {
+                    "large": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 758
+                    },
+                    "medium": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 758
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 551123464640536576,
+                "source_status_id_str": "551123464640536576",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486",
+                "type": "photo",
+                "url": "http://t.co/vjKZ2Jjfbq"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551141809473486848,
+    "id_str": "551141809473486848",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 551123464640536576,
+    "in_reply_to_status_id_str": "551123464640536576",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@ABC: Donna Douglas, known for role as Elly May Clampett on 'The Beverly Hillbillies', dies: http://t.co/uUIswf0DC8 http://t.co/vjKZ2Jjfbq\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 23:06:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Voice Actor/Writer/Producer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 159370,
+        "follow_request_sent": false,
+        "followers_count": 4202,
+        "following": false,
+        "friends_count": 4041,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 57475868,
+        "id_str": "57475868",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 61,
+        "location": "32.814581000, -96.942926000",
+        "name": "Ken Harrelson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57475868/1511320961",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1383466847056531459/svLoXxe9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383466847056531459/svLoXxe9_normal.jpg",
+        "profile_link_color": "E7CB3C",
+        "profile_sidebar_border_color": "E7CB3C",
+        "profile_sidebar_fill_color": "9B141B",
+        "profile_text_color": "111111",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "angrypuppyfilms",
+        "statuses_count": 50512,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 03 21:48:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 558866314,
+                "id_str": "558866314",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Max Howroute\u25ab\ufe0f",
+                "screen_name": "howroute"
+            }
+        ]
+    },
+    "favorite_count": 27,
+    "favorited": false,
+    "geo": null,
+    "id": 1234958870218465283,
+    "id_str": "1234958870218465283",
+    "in_reply_to_screen_name": "howroute",
+    "in_reply_to_status_id": 1234958521613127680,
+    "in_reply_to_status_id_str": "1234958521613127680",
+    "in_reply_to_user_id": 558866314,
+    "in_reply_to_user_id_str": "558866314",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@howroute This is what we seen in china",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 25 15:49:55 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 464,
+        "follow_request_sent": false,
+        "followers_count": 20,
+        "following": false,
+        "friends_count": 89,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1221097832784039936,
+        "id_str": "1221097832784039936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "t",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486744209096945680/Jc4OC6I2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486744209096945680/Jc4OC6I2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Crusadetime23",
+        "statuses_count": 2573,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

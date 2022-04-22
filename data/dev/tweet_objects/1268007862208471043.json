@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 02:33:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nytimes.com/interactive/20\u2026",
+                "expanded_url": "https://www.nytimes.com/interactive/2020/06/02/us/elections/results-iowa-house-district-4-primary-election.html",
+                "indices": [
+                    107,
+                    130
+                ],
+                "url": "https://t.co/SLjaPeqZdt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3383880269,
+                "id_str": "3383880269",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Gershon Klapper",
+                "screen_name": "gershon_JP"
+            },
+            {
+                "id": 161163311,
+                "id_str": "161163311",
+                "indices": [
+                    12,
+                    23
+                ],
+                "name": "Jeff B. is *BOX OFFICE POISON*",
+                "screen_name": "EsotericCD"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1268007862208471043,
+    "id_str": "1268007862208471043",
+    "in_reply_to_screen_name": "gershon_JP",
+    "in_reply_to_status_id": 1267999920306507782,
+    "in_reply_to_status_id_str": "1267999920306507782",
+    "in_reply_to_user_id": 3383880269,
+    "in_reply_to_user_id_str": "3383880269",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@gershon_JP @EsotericCD Don't know when it'll be called, but you can obsessively hit F5 on this page here:\nhttps://t.co/SLjaPeqZdt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 10 02:22:16 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Set your twitter profile for the job you want, not the job you have. Smicha from Keter HaTorah. Jewish stuff & Star Trek https://t.co/4ofGFv3CVI",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/AriEliasBachra\u2026",
+                        "expanded_url": "https://linktr.ee/AriEliasBachrach",
+                        "indices": [
+                            121,
+                            144
+                        ],
+                        "url": "https://t.co/4ofGFv3CVI"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "leolamvaed.com",
+                        "expanded_url": "http://www.leolamvaed.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Pjobu9t4cw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 682,
+        "follow_request_sent": false,
+        "followers_count": 672,
+        "following": false,
+        "friends_count": 513,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 176648414,
+        "id_str": "176648414",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "WashingtonDC .us",
+        "name": "Ari E-B, Federation Rabbi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226699963717079042/RECx4y0j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226699963717079042/RECx4y0j_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Trek_Rav",
+        "statuses_count": 8310,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Pjobu9t4cw",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

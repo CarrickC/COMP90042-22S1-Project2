@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 14:28:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278334601715314689",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/GMnY7oNzlh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1278334601715314689,
+    "id_str": "1278334601715314689",
+    "in_reply_to_screen_name": "AlexBerenson",
+    "in_reply_to_status_id": 1278168876027650049,
+    "in_reply_to_status_id_str": "1278168876027650049",
+    "in_reply_to_user_id": 87679233,
+    "in_reply_to_user_id_str": "87679233",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AlexBerenson Likely adding the number of \u201cpositive  antibodies\u201d test results in with the \u201ccovid positive\u201d results.\u2026 https://t.co/GMnY7oNzlh",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 11 01:37:54 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Trump2020 | Our Constitutional Rights Are Not To Be Trampled Or Removed! United we stand, divided we fall | Tango Romeo Uniform Mike Papa \ud83d\udcaa non deficere",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 127576,
+        "follow_request_sent": false,
+        "followers_count": 1647,
+        "following": false,
+        "friends_count": 2992,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 818995316661727232,
+        "id_str": "818995316661727232",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Wild Space ",
+        "name": "FreeBird \ud83e\udd89resistance \ud83c\udff4",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818995316661727232/1609364640",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179176545929355264/hHY4CLyI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179176545929355264/hHY4CLyI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LibertyBella9",
+        "statuses_count": 50125,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

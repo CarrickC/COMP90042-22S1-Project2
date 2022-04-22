@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 28 03:50:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 30699754,
+                "id_str": "30699754",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "Rukmini Callimachi",
+                "screen_name": "rcallimachi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 615004254600757248,
+    "id_str": "615004254600757248",
+    "in_reply_to_screen_name": "NickKristof",
+    "in_reply_to_status_id": 614617234942656512,
+    "in_reply_to_status_id_str": "614617234942656512",
+    "in_reply_to_user_id": 17004618,
+    "in_reply_to_user_id_str": "17004618",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NickKristof @rcallimachi Glad they have the right, sympathize with their being born that way.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 08 16:41:58 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3564,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 249228091,
+        "id_str": "249228091",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "New York, NY",
+        "name": "jacob",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249228091/1454644571",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695455854900826113/jmpSaygp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/695455854900826113/jmpSaygp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tacoyac88",
+        "statuses_count": 4122,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            106.69227616,
+            10.77883856
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 13 13:07:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "apne.ws/14V0FcG",
+                "expanded_url": "http://apne.ws/14V0FcG",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/OdiPJzV8S4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    1,
+                    4
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            },
+            {
+                "id": 1228123789,
+                "id_str": "1228123789",
+                "indices": [
+                    104,
+                    113
+                ],
+                "name": "Joseph Reytan",
+                "screen_name": "JoeRey89"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            10.77883856,
+            106.69227616
+        ],
+        "type": "Point"
+    },
+    "id": 554988187416682496,
+    "id_str": "554988187416682496",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 554979642210549760,
+    "in_reply_to_status_id_str": "554979642210549760",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        106.356398,
+                        10.365786
+                    ],
+                    [
+                        107.012798,
+                        10.365786
+                    ],
+                    [
+                        107.012798,
+                        11.160291
+                    ],
+                    [
+                        106.356398,
+                        11.160291
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Vi\u1ec7t Nam",
+        "country_code": "VN",
+        "full_name": "H\u1ed3 Ch\u00ed Minh, Vi\u1ec7t Nam",
+        "id": "0079932b106eb4c9",
+        "name": "H\u1ed3 Ch\u00ed Minh",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0079932b106eb4c9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@AP: Mozambique death toll rises to 72 from beer poisoned with crocodile bile: http://t.co/OdiPJzV8S4\u201d @JoeRey89 crikey",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 22 18:43:52 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "American guy working at an Australian school in Vietnam.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fromthecornertothewok.tumblr.com",
+                        "expanded_url": "http://fromthecornertothewok.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sZYNfzpsBp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 263,
+        "follow_request_sent": false,
+        "followers_count": 126,
+        "following": false,
+        "friends_count": 323,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 256134452,
+        "id_str": "256134452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Saigon",
+        "name": "Jacob Roy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256134452/1365184284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918201113014358022/xTbc6iFI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918201113014358022/xTbc6iFI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jacobwroy",
+        "statuses_count": 2229,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/sZYNfzpsBp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

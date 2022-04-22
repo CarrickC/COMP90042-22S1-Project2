@@ -1,0 +1,273 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 12 13:02:10 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1271427574376345600",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jeoc30FrRB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 134941111,
+                "id_str": "134941111",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Jim Woodgett",
+                "screen_name": "jwoodgett"
+            },
+            {
+                "id": 1375976088,
+                "id_str": "1375976088",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "Pamela Libralesso",
+                "screen_name": "Plibra123"
+            },
+            {
+                "id": 768976342369071105,
+                "id_str": "768976342369071105",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Tara Moriarty",
+                "screen_name": "MoriartyLab"
+            },
+            {
+                "id": 1096205507348623360,
+                "id_str": "1096205507348623360",
+                "indices": [
+                    35,
+                    43
+                ],
+                "name": "David Fisman",
+                "screen_name": "DFisman"
+            },
+            {
+                "id": 1345345074,
+                "id_str": "1345345074",
+                "indices": [
+                    44,
+                    57
+                ],
+                "name": "Andrew Morris",
+                "screen_name": "ASPphysician"
+            },
+            {
+                "id": 1093695069176000512,
+                "id_str": "1093695069176000512",
+                "indices": [
+                    58,
+                    70
+                ],
+                "name": "Isaac Bogoch",
+                "screen_name": "BogochIsaac"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1271427574376345600,
+    "id_str": "1271427574376345600",
+    "in_reply_to_screen_name": "jwoodgett",
+    "in_reply_to_status_id": 1271425945249996800,
+    "in_reply_to_status_id_str": "1271425945249996800",
+    "in_reply_to_user_id": 134941111,
+    "in_reply_to_user_id_str": "134941111",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 12 11:29:49 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1271404333305860098",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/nR809ekhhY"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1345345074,
+                    "id_str": "1345345074",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Andrew Morris",
+                    "screen_name": "ASPphysician"
+                },
+                {
+                    "id": 1093695069176000512,
+                    "id_str": "1093695069176000512",
+                    "indices": [
+                        14,
+                        26
+                    ],
+                    "name": "Isaac Bogoch",
+                    "screen_name": "BogochIsaac"
+                }
+            ]
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "geo": null,
+        "id": 1271404333305860098,
+        "id_str": "1271404333305860098",
+        "in_reply_to_screen_name": "ASPphysician",
+        "in_reply_to_status_id": 1271403873236910081,
+        "in_reply_to_status_id_str": "1271403873236910081",
+        "in_reply_to_user_id": 1345345074,
+        "in_reply_to_user_id_str": "1345345074",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@ASPphysician @BogochIsaac I\u2019d disagree with this.  There\u2019s much more that could have been done with test capacity\u2026 https://t.co/nR809ekhhY",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 15 00:32:14 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Air: it\u2019s the new poop. \ud83d\udca8\ud83d\udca9\ud83d\ude37\n@tylerblack32 stan account\nCertified Happiness Destroyer\u2122\ufe0f\nHave the day you deserve",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dlsph.utoronto.ca/faculty-profil\u2026",
+                            "expanded_url": "https://www.dlsph.utoronto.ca/faculty-profile/fisman-david-n/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/u7yYQwRkwt"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 56221,
+            "follow_request_sent": false,
+            "followers_count": 114943,
+            "following": false,
+            "friends_count": 11945,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1096205507348623360,
+            "id_str": "1096205507348623360",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1503,
+            "location": "Chelm",
+            "name": "David Fisman",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096205507348623360/1650542607",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1513234248114782217/kzj_LllD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513234248114782217/kzj_LllD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DFisman",
+            "statuses_count": 47173,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/u7yYQwRkwt",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1271404333305860098,
+    "quoted_status_id_str": "1271404333305860098",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@jwoodgett @Plibra123 @MoriartyLab @DFisman @ASPphysician @BogochIsaac But you'd think they'd at least listen to pe\u2026 https://t.co/jeoc30FrRB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 23 14:19:34 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Aerospace Engineer. Think I know about aerospace industry, military, history and energy. Know I don't know about politics and economics. Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17037,
+        "follow_request_sent": false,
+        "followers_count": 255,
+        "following": false,
+        "friends_count": 444,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2750467438,
+        "id_str": "2750467438",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "",
+        "name": "Andre Beltempo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507921418903121921/zAuKJ5UL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507921418903121921/zAuKJ5UL_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndreBeltempo",
+        "statuses_count": 17283,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

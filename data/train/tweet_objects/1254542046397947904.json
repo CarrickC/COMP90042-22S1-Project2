@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 26 22:45:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1254542046397947904",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/zF6KDxtn8b"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1254542046397947904,
+    "id_str": "1254542046397947904",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1254538699414609920,
+    "in_reply_to_status_id_str": "1254538699414609920",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.520202,
+                        55.899872
+                    ],
+                    [
+                        -4.49107,
+                        55.899872
+                    ],
+                    [
+                        -4.49107,
+                        55.914716
+                    ],
+                    [
+                        -4.520202,
+                        55.914716
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bishopton, Scotland",
+        "id": "54ccd1d9e345ae78",
+        "name": "Bishopton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/54ccd1d9e345ae78.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TIME Initially it's exhaled water droplets which can be inhaled or by transferance from surfaces.The virus can sur\u2026 https://t.co/zF6KDxtn8b",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 02 11:56:26 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "son of the late Tsar Alexis II of Russia.Tsarevich,Grand Duke and Prince of Russia.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 324,
+        "follow_request_sent": false,
+        "followers_count": 138,
+        "following": false,
+        "friends_count": 216,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 110680476,
+        "id_str": "110680476",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Bishopton,Scotland,U.K.",
+        "name": "Alexei Romanov",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110680476/1387163219",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/412412394615209985/m-A8YMWi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/412412394615209985/m-A8YMWi_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dvarets",
+        "statuses_count": 28079,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

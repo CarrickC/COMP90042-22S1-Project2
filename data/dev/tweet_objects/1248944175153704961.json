@@ -1,0 +1,91 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 11 12:01:10 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1248944175153704961,
+    "id_str": "1248944175153704961",
+    "in_reply_to_screen_name": "mitl234",
+    "in_reply_to_status_id": 1248941545157537793,
+    "in_reply_to_status_id_str": "1248941545157537793",
+    "in_reply_to_user_id": 573090341,
+    "in_reply_to_user_id_str": "573090341",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.twitter.com/EndlessJeopardy\" rel=\"nofollow\">trebek</a>",
+    "text": "@timl2222 That is correct for $800!\n\n(Your current score: $800)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 14 20:48:47 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Procedurally generated clues every hour. Points awarded to best-liked responses made within 15 minutes. By @neilcic",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/neilcic",
+                        "expanded_url": "https://www.twitter.com/neilcic",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SdmdpEbOeY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 31268,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1096149275048853505,
+        "id_str": "1096149275048853505",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 146,
+        "location": "Culver City, CA",
+        "name": "Endless Jeopardy",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096149275048853505/1550265952",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096521086521536517/kiJ9sEz9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096521086521536517/kiJ9sEz9_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EndlessJeopardy",
+        "statuses_count": 169940,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SdmdpEbOeY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 12 17:29:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.nbc10.com/rtfBCKj",
+                "expanded_url": "http://on.nbc10.com/rtfBCKj",
+                "indices": [
+                    101,
+                    123
+                ],
+                "url": "http://t.co/aYo2PoJD1T"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15755669,
+                "id_str": "15755669",
+                "indices": [
+                    7,
+                    23
+                ],
+                "name": "NBC10 Philadelphia",
+                "screen_name": "NBCPhiladelphia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 554691678448021505,
+    "id_str": "554691678448021505",
+    "in_reply_to_screen_name": "NBCPhiladelphia",
+    "in_reply_to_status_id": 554688527435563008,
+    "in_reply_to_status_id_str": "554688527435563008",
+    "in_reply_to_user_id": 15755669,
+    "in_reply_to_user_id_str": "15755669",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "O_o RT @NBCPhiladelphia TRAGIC: Nearly 70 people died at a funeral after drinking contaminated beer: http://t.co/aYo2PoJD1T",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 27 18:19:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "12Tail \u2666\ufe0f #Actor. #Writer? Morehouse Man. Not often that I lose. Master of the Satsui No Hadou. Part time Sith Lord. When the Zombie Apocalypse comes, get w/me",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/Parkour_Lewis",
+                        "expanded_url": "http://Instagram.com/Parkour_Lewis",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cLkDWgy4oA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 687,
+        "follow_request_sent": false,
+        "followers_count": 6276,
+        "following": false,
+        "friends_count": 933,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 42941784,
+        "id_str": "42941784",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 113,
+        "location": "Brooklyn, NY",
+        "name": "The Protaganist",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42941784/1545856201",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514223311076605952/IXj3YWsO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514223311076605952/IXj3YWsO_normal.jpg",
+        "profile_link_color": "DE0B0B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "363434",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Parkour_Lewis",
+        "statuses_count": 497247,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cLkDWgy4oA",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

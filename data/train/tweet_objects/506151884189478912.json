@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 31 18:49:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2757239331,
+                "id_str": "2757239331",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Tupac ",
+                "screen_name": "ReaI_Tupac"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 506151884189478912,
+    "id_str": "506151884189478912",
+    "in_reply_to_screen_name": "ReaI_Tupac",
+    "in_reply_to_status_id": 506118402466152449,
+    "in_reply_to_status_id_str": "506118402466152449",
+    "in_reply_to_user_id": 2757239331,
+    "in_reply_to_user_id_str": "2757239331",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ReaI_Tupac: I'm alive, see you soon !\u201d yall want this nigga to be alive so bad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 22 03:06:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 74606,
+        "follow_request_sent": false,
+        "followers_count": 1331,
+        "following": false,
+        "friends_count": 1037,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 963530959,
+        "id_str": "963530959",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Earf ",
+        "name": "SILAS",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963530959/1641072841",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506904800952143872/3wLocJbP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506904800952143872/3wLocJbP_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sighIess",
+        "statuses_count": 145276,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

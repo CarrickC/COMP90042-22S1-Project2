@@ -1,0 +1,106 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 19:19:21 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    50
+                ],
+                "text": "be"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 110458336,
+                "id_str": "110458336",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "CNN Entertainment",
+                "screen_name": "CNNent"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 638068505372262401,
+    "id_str": "638068505372262401",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 638050997340893184,
+    "in_reply_to_status_id_str": "638050997340893184",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNN @CNNent the force is strong with this one #be well sir",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 14:36:48 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 187,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2447355122,
+        "id_str": "2447355122",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Charles Beaver",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CharlesBeaver6",
+        "statuses_count": 290,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

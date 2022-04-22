@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -87.65414498,
+            41.96238961
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Feb 19 15:55:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1c2EpuB",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/1kzbHwEraq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 6539592,
+                "id_str": "6539592",
+                "indices": [
+                    106,
+                    118
+                ],
+                "name": "Jim Gaffigan",
+                "screen_name": "JimGaffigan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.96238961,
+            -87.65414498
+        ],
+        "type": "Point"
+    },
+    "id": 436167196947935232,
+    "id_str": "436167196947935232",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 436160836524965891,
+    "in_reply_to_status_id_str": "436160836524965891",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@CNN: Nestl\u00e9 USA has issued a recall of Hot Pockets. See the varieties affected: http://t.co/1kzbHwEraq\u201d @JimGaffigan diarrhea pocket! Lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 16 01:41:57 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Digital Content Manager @WatchMarquee ________ Follow my \ud83d\udcf8 IG @scottycphotography | Fan of Cubs, KC Chiefs, Bulls, Hawks, Salukis, Illini  Pronounced shag-non",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marqueesportsnetwork.com",
+                        "expanded_url": "http://marqueesportsnetwork.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QKSKi6T4lp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 75152,
+        "follow_request_sent": false,
+        "followers_count": 2973,
+        "following": false,
+        "friends_count": 3638,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 826279885,
+        "id_str": "826279885",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 60,
+        "location": "Chicago, IL",
+        "name": "Scott Changnon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826279885/1478366286",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432001910215782414/92og1Tmn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432001910215782414/92og1Tmn_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ScottyChags",
+        "statuses_count": 18175,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QKSKi6T4lp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

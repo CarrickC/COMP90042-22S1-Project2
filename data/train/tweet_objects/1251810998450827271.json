@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 09:52:54 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251810998450827271",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/v88oW8Z0jD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1251810998450827271,
+    "id_str": "1251810998450827271",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DrZweliMkhize Can we follow the rules on quarantine and social distancing published by St Georges Unviversitu of L\u2026 https://t.co/v88oW8Z0jD",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 10:58:08 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Humanitarian & Businessman. https://t.co/Nc6MPTbOzJ web:https://t.co/tJsJnEfr4s https://t.co/I4p1G6ydLw https://t.co/O2t3FiTFa3",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "motoza.weebly.com",
+                        "expanded_url": "http://motoza.weebly.com",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "url": "https://t.co/Nc6MPTbOzJ"
+                    },
+                    {
+                        "display_url": "lavarisolutions.com",
+                        "expanded_url": "http://lavarisolutions.com",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "url": "https://t.co/tJsJnEfr4s"
+                    },
+                    {
+                        "display_url": "motozagroup.co.za",
+                        "expanded_url": "http://motozagroup.co.za",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "url": "https://t.co/I4p1G6ydLw"
+                    },
+                    {
+                        "display_url": "remoteergonomics.co.za",
+                        "expanded_url": "http://remoteergonomics.co.za",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "url": "https://t.co/O2t3FiTFa3"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "motozagroup.co.za",
+                        "expanded_url": "http://www.motozagroup.co.za",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/k7g7xdMdIf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17775,
+        "follow_request_sent": false,
+        "followers_count": 3376,
+        "following": false,
+        "friends_count": 4061,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1250740199426064384,
+        "id_str": "1250740199426064384",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Johannesburg",
+        "name": "Vho-Duncan_Netshituka",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250740199426064384/1638443093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514982389164154880/O4tahi0U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514982389164154880/O4tahi0U_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "netshitukad",
+        "statuses_count": 8105,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/k7g7xdMdIf",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

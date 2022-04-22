@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 15:37:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436162679061766144,
+    "id_str": "436162679061766144",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 436160836524965891,
+    "in_reply_to_status_id_str": "436160836524965891",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN I do not buy these processed craps anyway.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 24 11:37:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vedic Life Coach/Thought leader/ Strategy/Analyst/Entertain/ Media/Podcaster/NITR Alumni/UNC Greensboro Alumni/American Indian/Opinions and tweets are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amazingraj.com",
+                        "expanded_url": "https://www.amazingraj.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JC2rO3KK3L"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1361,
+        "follow_request_sent": false,
+        "followers_count": 665,
+        "following": false,
+        "friends_count": 1481,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 304361964,
+        "id_str": "304361964",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "USA",
+        "name": "Amazing Raj",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304361964/1633358144",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1482762071469178888/FQ9Hv9eP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482762071469178888/FQ9Hv9eP_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmazingRaj",
+        "statuses_count": 6145,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JC2rO3KK3L",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

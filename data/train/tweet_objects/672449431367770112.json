@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:16:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 715044396,
+                "id_str": "715044396",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "Lisa",
+                "screen_name": "Rockprincess818"
+            },
+            {
+                "id": 539566673,
+                "id_str": "539566673",
+                "indices": [
+                    31,
+                    43
+                ],
+                "name": "John R Lott Jr.",
+                "screen_name": "JohnRLottJr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672449431367770112,
+    "id_str": "672449431367770112",
+    "in_reply_to_screen_name": "ToddCMeyer1",
+    "in_reply_to_status_id": 672448924632915968,
+    "in_reply_to_status_id_str": "672448924632915968",
+    "in_reply_to_user_id": 33357659,
+    "in_reply_to_user_id_str": "33357659",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Todd_C_Meyer @Rockprincess818 @JohnRLottJr Maybe they aren't totally accurate. But we weren't having these kinds of convos pre-2008z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 07 06:08:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, blogger, podcaster, pop culture enthusiast & Disney Travel Planner at @THEmagiconadollar.... Tries to be awesome. Fails frequently.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "daviddollar.net",
+                        "expanded_url": "https://daviddollar.net/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7zo5lTNWyF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 26745,
+        "follow_request_sent": false,
+        "followers_count": 1080,
+        "following": false,
+        "friends_count": 908,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23171317,
+        "id_str": "23171317",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 45,
+        "location": "Birmingham, AL",
+        "name": "d$",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23171317/1639575959",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515061331954655240/wb2X0Yon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515061331954655240/wb2X0Yon_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davedollar",
+        "statuses_count": 21635,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7zo5lTNWyF",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

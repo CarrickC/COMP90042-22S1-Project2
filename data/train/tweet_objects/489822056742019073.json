@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 17:20:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            },
+            {
+                "id": 813286,
+                "id_str": "813286",
+                "indices": [
+                    28,
+                    40
+                ],
+                "name": "Barack Obama",
+                "screen_name": "BarackObama"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    70,
+                    85
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489822056742019073,
+    "id_str": "489822056742019073",
+    "in_reply_to_screen_name": "CBSNews",
+    "in_reply_to_status_id": 489820657291911168,
+    "in_reply_to_status_id_str": "489820657291911168",
+    "in_reply_to_user_id": 15012486,
+    "in_reply_to_user_id_str": "15012486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CBSNews Another feather in @BarackObama foreign policy cap. Where is @HillaryClinton and the RESET BUTTON when you need it most?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 27 22:29:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Louisiana Patriot \ud83d\udc0a\ud83e\udd9e\ud83e\udd80\ud83c\udf64 USAF Vietnam Vet \u270c\ud83e\udd85MAGA \ud83d\udd2b 50 year NRA Life Member",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "stevebougon.com",
+                        "expanded_url": "http://www.stevebougon.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f5qJ6Lkq5C"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12629,
+        "follow_request_sent": false,
+        "followers_count": 3735,
+        "following": false,
+        "friends_count": 4527,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27114612,
+        "id_str": "27114612",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Las Vegas, NV (reluctantly)",
+        "name": "Salty Steve\ud83d\udc0a\ud83c\udf77",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27114612/1648477825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497455128529584130/EZ-GFA42_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497455128529584130/EZ-GFA42_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lsutiger67",
+        "statuses_count": 17759,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/f5qJ6Lkq5C",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

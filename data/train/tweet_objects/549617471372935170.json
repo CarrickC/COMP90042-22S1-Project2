@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 29 17:26:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 44317593,
+                "id_str": "44317593",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Ishaan Tharoor",
+                "screen_name": "ishaantharoor"
+            },
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    15,
+                    30
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 549617471372935170,
+    "id_str": "549617471372935170",
+    "in_reply_to_screen_name": "ishaantharoor",
+    "in_reply_to_status_id": 549599086073368576,
+    "in_reply_to_status_id_str": "549599086073368576",
+    "in_reply_to_user_id": 44317593,
+    "in_reply_to_user_id_str": "44317593",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@ishaantharoor @washingtonpost Totally thought this was an Onion article.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 19 02:49:08 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I write about food & travel \ud83d\udc49 https://t.co/xQvrfuQY6H, @stlmag, @MissouriLife, and @feastmag | \ud83d\udcf8: https://t.co/B1b8mZeadL",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "allezlefood.com",
+                        "expanded_url": "http://allezlefood.com",
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "url": "https://t.co/xQvrfuQY6H"
+                    },
+                    {
+                        "display_url": "instagram.com/emily_m_wasser\u2026",
+                        "expanded_url": "https://www.instagram.com/emily_m_wasserman/",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/B1b8mZeadL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15690,
+        "follow_request_sent": false,
+        "followers_count": 540,
+        "following": false,
+        "friends_count": 661,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 766789868,
+        "id_str": "766789868",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "\ud83d\udccdSTL \u27a1\ufe0f \ud83c\uddeb\ud83c\uddf7 \u27a1\ufe0f CHI \u27a1\ufe0f DC ",
+        "name": "Emily Wasserman",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/766789868/1626472224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375907316189560835/9rqHTbNU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375907316189560835/9rqHTbNU_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EmilyMWasserman",
+        "statuses_count": 8920,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

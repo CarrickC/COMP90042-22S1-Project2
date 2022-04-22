@@ -1,0 +1,87 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 05:50:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1236892055198224384",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/SWAEQ1jCbA"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1236892055198224384,
+    "id_str": "1236892055198224384",
+    "in_reply_to_screen_name": "CoronaVirusQA",
+    "in_reply_to_status_id": 1236892053738487808,
+    "in_reply_to_status_id_str": "1236892053738487808",
+    "in_reply_to_user_id": 1236885104108199936,
+    "in_reply_to_user_id_str": "1236885104108199936",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.\nWhy? When some\u2026 https://t.co/SWAEQ1jCbA",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 05:22:51 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Q&A on Coronavirus (COVID-19) and updates",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 385,
+        "following": false,
+        "friends_count": 21,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1236885104108199936,
+        "id_str": "1236885104108199936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Corona virus (COVID-19) Q&A and updates",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236885863436627968/kL4GQ9se_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236885863436627968/kL4GQ9se_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CoronaVirusQA",
+        "statuses_count": 22,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

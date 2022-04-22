@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 02 06:03:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1244028728826449920,
+                "id_str": "1244028728826449920",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "SDEntertainment",
+                "screen_name": "SDEntertainment"
+            },
+            {
+                "id": 1566889742,
+                "id_str": "1566889742",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Michael Rozzen",
+                "screen_name": "SDNewsBoy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 616487439813599232,
+    "id_str": "616487439813599232",
+    "in_reply_to_screen_name": "AudraStaffordTV",
+    "in_reply_to_status_id": 616485765086883840,
+    "in_reply_to_status_id_str": "616485765086883840",
+    "in_reply_to_user_id": 21905160,
+    "in_reply_to_user_id_str": "21905160",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SDentertainment @SDNewsBoy Hmm...I'm doing the 7 Monday. Did this happen in the 18 hundreds?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 15 23:09:56 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Reporter/producer for @10News, longtime sportscaster, tweeting San Diego news and sports. Went on Jeopardy! Finished with $1, but at least I made Alex laugh.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "10News.com",
+                        "expanded_url": "http://10News.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jKgQNXneOw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2168,
+        "follow_request_sent": false,
+        "followers_count": 1150,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 191236651,
+        "id_str": "191236651",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 86,
+        "location": "San Diego, CA",
+        "name": "Jeff Lasky",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/191236651/1436459873",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570899254135107584/8RctdPje_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570899254135107584/8RctdPje_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "10NewsLasky",
+        "statuses_count": 5259,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jKgQNXneOw",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

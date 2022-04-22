@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 16 12:00:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19417492,
+                "id_str": "19417492",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "National Review",
+                "screen_name": "NRO"
+            },
+            {
+                "id": 34434801,
+                "id_str": "34434801",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "Lou",
+                "screen_name": "lr3031"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666224225900892160,
+    "id_str": "666224225900892160",
+    "in_reply_to_screen_name": "NRO",
+    "in_reply_to_status_id": 666051332504207360,
+    "in_reply_to_status_id_str": "666051332504207360",
+    "in_reply_to_user_id": 19417492,
+    "in_reply_to_user_id_str": "19417492",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alabama, USA",
+        "id": "288de3df481163e8",
+        "name": "Alabama",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@NRO @lr3031 one wonders if BHO and his DHS are rewarding outspoken Republican Governors with 10,000 Syrian refugees apiece.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 25 04:15:36 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired U.S. Army Colonel. Maybe it's time for compulsory national service for all? Being a citizen is not free: there are responsibilities and obligations.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10268,
+        "follow_request_sent": false,
+        "followers_count": 4541,
+        "following": false,
+        "friends_count": 4589,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 536065674,
+        "id_str": "536065674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 84,
+        "location": "Alabama",
+        "name": "Don Riedel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/536065674/1462752742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2834394523/2d562d1508fa59c28d43bddf00c8046b_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2834394523/2d562d1508fa59c28d43bddf00c8046b_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DonRiedel",
+        "statuses_count": 60293,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

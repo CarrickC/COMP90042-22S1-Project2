@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 11:16:13 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1231900633936125954",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/nPkXtZGtv5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1231900633936125954,
+    "id_str": "1231900633936125954",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1231835437246926849,
+    "in_reply_to_status_id_str": "1231835437246926849",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHO Stop sharing ways to protect the virus. Find the vaccine! Just take action now for God sake! Otherwise, this t\u2026 https://t.co/nPkXtZGtv5",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 24 11:03:28 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "May God save the humankind!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 49,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1231897390417838082,
+        "id_str": "1231897390417838082",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Cerberus",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231897390417838082/1582546183",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239550030262013952/P7ZifZxn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239550030262013952/P7ZifZxn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cerberussky",
+        "statuses_count": 42,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

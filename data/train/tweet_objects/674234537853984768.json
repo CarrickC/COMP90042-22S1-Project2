@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:30:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16343974,
+                "id_str": "16343974",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Telegraph",
+                "screen_name": "Telegraph"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674234537853984768,
+    "id_str": "674234537853984768",
+    "in_reply_to_screen_name": "Telegraph",
+    "in_reply_to_status_id": 674229534888185856,
+    "in_reply_to_status_id_str": "674229534888185856",
+    "in_reply_to_user_id": 16343974,
+    "in_reply_to_user_id_str": "16343974",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Telegraph I fear for the world if Trump becomes the next president. I thought Kanye and Kim were dangerous but this guy is mad.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 24 13:57:02 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "BA in Philosophy, Volunteer at WDC, Campaign leader of BritishAirways/SeaWorld petition to end orca captivity! Pro Ethics, Non-Human Personhood, Animal Rights.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "change.org/en-GB/petition\u2026",
+                        "expanded_url": "https://www.change.org/en-GB/petitions/keith-williams-chief-executive-at-british-airways-british-airways-stop-selling-trips-to-seaworld-end-your-support-for-these-cruel-orca-circuses",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Am3n7SOlHO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5891,
+        "follow_request_sent": false,
+        "followers_count": 516,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2359541594,
+        "id_str": "2359541594",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "",
+        "name": "Kathleen Haase",
+        "notifications": false,
+        "profile_background_color": "071314",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2359541594/1441109765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/437955499854536705/3MslOmsM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/437955499854536705/3MslOmsM_normal.jpeg",
+        "profile_link_color": "1C2657",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0A24C",
+        "profile_text_color": "EFD5AE",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Orcakaty",
+        "statuses_count": 6870,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Am3n7SOlHO",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

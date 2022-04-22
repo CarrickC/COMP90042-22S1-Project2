@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 13 13:44:57 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 40954616,
+                "id_str": "40954616",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Jamaica Gleaner",
+                "screen_name": "JamaicaGleaner"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1249695068480561153,
+    "id_str": "1249695068480561153",
+    "in_reply_to_screen_name": "JamaicaGleaner",
+    "in_reply_to_status_id": 1249692635780038657,
+    "in_reply_to_status_id_str": "1249692635780038657",
+    "in_reply_to_user_id": 40954616,
+    "in_reply_to_user_id_str": "40954616",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@JamaicaGleaner I think the myth is based on nonsensical idea that 5G networks somehow weaken the immune system",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 16 16:42:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Presenter @skynews",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 506,
+        "follow_request_sent": false,
+        "followers_count": 2006,
+        "following": false,
+        "friends_count": 1441,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 227357811,
+        "id_str": "227357811",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "London, England",
+        "name": "Kamali Melbourne",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227357811/1639427398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1511606364103135234/RGdfP51O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1511606364103135234/RGdfP51O_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KamaliMelbourne",
+        "statuses_count": 2681,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

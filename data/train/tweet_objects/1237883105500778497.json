@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 11 23:28:25 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1237883105500778497",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/96ix1dYkSh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 118587344,
+                "id_str": "118587344",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "(((The Beaks)))",
+                "screen_name": "EvrytngElszTakn"
+            },
+            {
+                "id": 877662547,
+                "id_str": "877662547",
+                "indices": [
+                    17,
+                    31
+                ],
+                "name": "Julien Arbor, PsyD \u5deb",
+                "screen_name": "DrJulienArbor"
+            },
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    32,
+                    42
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1237883105500778497,
+    "id_str": "1237883105500778497",
+    "in_reply_to_screen_name": "marspleb",
+    "in_reply_to_status_id": 1237883022109749248,
+    "in_reply_to_status_id_str": "1237883022109749248",
+    "in_reply_to_user_id": 450710734,
+    "in_reply_to_user_id_str": "450710734",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@EvrytngElszTakn @DrJulienArbor @CBCAlerts This is why it is important to stay more than 1 meter (3 feet) away from\u2026 https://t.co/96ix1dYkSh",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 30 15:27:14 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "On my flight to the moon \ud83d\ude80",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5771,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 556,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 450710734,
+        "id_str": "450710734",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Canada",
+        "name": "Ashley Tsui \ud83c\udde8\ud83c\udde6\ud83d\udc7d\ud83c\udf08\ud83c\udf0e\ud83c\udfae\ud83c\udf38",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/450710734/1482629283",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097521051796492288/kiglQOT6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097521051796492288/kiglQOT6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marspleb",
+        "statuses_count": 1911,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 22:05:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 54947470,
+                "id_str": "54947470",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Poputarian",
+                "screen_name": "Poputarian"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1277000060061061121,
+    "id_str": "1277000060061061121",
+    "in_reply_to_screen_name": "Poputarian",
+    "in_reply_to_status_id": 1276993910385098752,
+    "in_reply_to_status_id_str": "1276993910385098752",
+    "in_reply_to_user_id": 54947470,
+    "in_reply_to_user_id_str": "54947470",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Poputarian @nytimes ....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 04 16:16:44 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "she/they | MA disability studies | advocate, organizer, writer | words in @teenvogue | now: @disrightsct | personal account, views my own | contact@kaylejh.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kaylejh.com",
+                        "expanded_url": "http://kaylejh.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SIWY7b3cbV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 54904,
+        "follow_request_sent": false,
+        "followers_count": 8039,
+        "following": false,
+        "friends_count": 981,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 514498219,
+        "id_str": "514498219",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "Connecticut, USA",
+        "name": "kayle hill \u267f\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/514498219/1642152888",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481921471471624200/jk0HdNbZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481921471471624200/jk0HdNbZ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kaylejh",
+        "statuses_count": 22087,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/SIWY7b3cbV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

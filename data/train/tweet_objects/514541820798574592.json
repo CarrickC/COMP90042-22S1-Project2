@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 22:28:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    60,
+                    82
+                ],
+                "url": "http://t.co/h88BIoI3V9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514541820798574592,
+    "id_str": "514541820798574592",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/h88BIoI3V9\u201d this is crazy \ud83d\ude33",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 08 18:41:33 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Soccer fanatic | A general lover of sport | Manchester United\u2764\ufe0f | Very opinionated | Loves fashion and pop culture | An absoulute TV fanatic",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1639,
+        "follow_request_sent": false,
+        "followers_count": 341,
+        "following": false,
+        "friends_count": 1305,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1252440468,
+        "id_str": "1252440468",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Durban, South Africa",
+        "name": "Kiosha Ramlachan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252440468/1595807952",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1466708321885462529/tnACYZLS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466708321885462529/tnACYZLS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kiosha_30",
+        "statuses_count": 4831,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

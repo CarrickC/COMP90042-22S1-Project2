@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 03:13:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24828703,
+                "id_str": "24828703",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "SSU",
+                "screen_name": "suzsu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642174118742368256,
+    "id_str": "642174118742368256",
+    "in_reply_to_screen_name": "suzsu",
+    "in_reply_to_status_id": 642146355159285761,
+    "in_reply_to_status_id_str": "642146355159285761",
+    "in_reply_to_user_id": 24828703,
+    "in_reply_to_user_id_str": "24828703",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@suzsu What was your first clue?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 02:27:53 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "In a time of Hyperinflation, buying Bitcoin is a Revolutionary Act",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 131063,
+        "follow_request_sent": false,
+        "followers_count": 644,
+        "following": false,
+        "friends_count": 303,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3167872671,
+        "id_str": "3167872671",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "Data Driven USA ",
+        "name": "STFU James M \ud83d\ude80",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167872671/1621309601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1377826641095843841/dVEM6vFZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377826641095843841/dVEM6vFZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jmanos195Manos",
+        "statuses_count": 54133,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

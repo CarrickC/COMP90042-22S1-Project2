@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 00:14:33 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    80,
+                    119
+                ],
+                "text": "SomethingElseIWillHappilyBlameObamaFor"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469194846,
+                "id_str": "469194846",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Twitchy Team",
+                "screen_name": "TwitchyTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387008003938852864,
+    "id_str": "387008003938852864",
+    "in_reply_to_screen_name": "TwitchyTeam",
+    "in_reply_to_status_id": 387006700609228801,
+    "in_reply_to_status_id_str": "387006700609228801",
+    "in_reply_to_user_id": 469194846,
+    "in_reply_to_user_id_str": "469194846",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TwitchyTeam Did the government shutdown your comments section on the link too? #SomethingElseIWillHappilyBlameObamaFor",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 01 21:36:57 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "work hard, play hard",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7072,
+        "follow_request_sent": false,
+        "followers_count": 621,
+        "following": false,
+        "friends_count": 1309,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 452456493,
+        "id_str": "452456493",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Defiance, Ohio",
+        "name": "Laura W. Kline",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/452456493/1480905924",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1444816234839687170/R6vjUXpz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444816234839687170/R6vjUXpz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LauraWKline",
+        "statuses_count": 8687,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 14:26:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523117776181796865,
+    "id_str": "523117776181796865",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BBCBreaking This is great news! I hope this is reported on the news today.  I hope that the school girls can get on with their lives.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 01 21:46:52 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Adventurist, Chemist, Hostess, Lawyer, Promoter, Ancestral Research Guru and Security! Previous Organizer @NCDemParty  Politically minded",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9945,
+        "follow_request_sent": false,
+        "followers_count": 877,
+        "following": false,
+        "friends_count": 3903,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 596911851,
+        "id_str": "596911851",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Richfield, MN",
+        "name": "Husniyah",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/596911851/1443115801",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/773741961471729664/unD86i8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/773741961471729664/unD86i8y_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pleasant_11",
+        "statuses_count": 3390,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

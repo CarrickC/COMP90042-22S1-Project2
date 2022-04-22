@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 04 02:35:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 1419110924888248321,
+                "id_str": "1419110924888248321",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "BrandonsBanter",
+                "screen_name": "BrandonsBanter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 628393731784204289,
+    "id_str": "628393731784204289",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 628319096606732290,
+    "in_reply_to_status_id_str": "628319096606732290",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BuzzFeed @BrandonsBanter Brilliant. If people are dumb enough to pay for it kudos to WF for taking advantage of idiots",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 14 20:55:49 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Checking out of Twitter & FB. Find me on IG for now. Same handle.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2218,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 23,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1090144363,
+        "id_str": "1090144363",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Not Twitter",
+        "name": "Dawn Taylor-Brown",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090144363/1415859459",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755522178750099457/M9zZhQSK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755522178750099457/M9zZhQSK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KaelArmyShesus",
+        "statuses_count": 2141,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

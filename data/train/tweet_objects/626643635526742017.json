@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 06:40:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 177926698,
+                "id_str": "177926698",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "asdfghjkl",
+                "screen_name": "PrachiRai"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626643635526742017,
+    "id_str": "626643635526742017",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626642648179159040,
+    "in_reply_to_status_id_str": "626642648179159040",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BuzzFeed @PrachiRai as weird as this! :D i mean, wtf!!!!!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 19 17:09:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "United only love.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1154,
+        "follow_request_sent": false,
+        "followers_count": 176,
+        "following": false,
+        "friends_count": 240,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 529540526,
+        "id_str": "529540526",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Kolkata",
+        "name": "Mallhar",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/529540526/1489315260",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135277085553881090/3KLEZy2w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135277085553881090/3KLEZy2w_normal.jpg",
+        "profile_link_color": "887766",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sixyardbox_",
+        "statuses_count": 34428,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

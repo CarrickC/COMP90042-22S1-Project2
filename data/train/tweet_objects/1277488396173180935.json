@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 29 06:25:42 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1277488396173180935",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/e7ToVT7jmb"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3722,
+    "favorited": false,
+    "geo": null,
+    "id": 1277488396173180935,
+    "id_str": "1277488396173180935",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1139,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "former cabinet secretary Gus O\u2019Donnell has just asked how making David Frost national security adviser fits in with\u2026 https://t.co/e7ToVT7jmb",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 20:06:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Political Correspondent, Financial Times: Political Journalism team award 2019 & 2021 (iPhone pics here https://t.co/hMlEuOCKoF)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "jimpickard.picfair.com",
+                        "expanded_url": "http://jimpickard.picfair.com",
+                        "indices": [
+                            110,
+                            133
+                        ],
+                        "url": "https://t.co/hMlEuOCKoF"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ft.com",
+                        "expanded_url": "http://ft.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aEYKPbNP07"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 74501,
+        "follow_request_sent": false,
+        "followers_count": 206848,
+        "following": false,
+        "friends_count": 4930,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 69080476,
+        "id_str": "69080476",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2424,
+        "location": "London",
+        "name": "Jim Pickard",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69080476/1645553765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486728102893944836/SGlmYIcw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486728102893944836/SGlmYIcw_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PickardJE",
+        "statuses_count": 59002,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aEYKPbNP07",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

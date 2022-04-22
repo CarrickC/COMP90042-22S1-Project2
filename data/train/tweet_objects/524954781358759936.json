@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 16:05:47 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    52,
+                    61
+                ],
+                "text": "staysafe"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            },
+            {
+                "id": 479084332,
+                "id_str": "479084332",
+                "indices": [
+                    8,
+                    17
+                ],
+                "name": "Mary Landon",
+                "screen_name": "lmary822"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524954781358759936,
+    "id_str": "524954781358759936",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 524950264303075328,
+    "in_reply_to_status_id_str": "524950264303075328",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@PzFeed @lmary822 hope you are all ok... Just heard #staysafe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 06 01:18:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife, Mom, Aesthetician(Mobile)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 637,
+        "follow_request_sent": false,
+        "followers_count": 158,
+        "following": false,
+        "friends_count": 697,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 234589704,
+        "id_str": "234589704",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ontario, Canada",
+        "name": "Coleen D",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234589704/1512871872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186119471989231616/_90mQSfN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186119471989231616/_90mQSfN_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "coleenjud",
+        "statuses_count": 2265,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

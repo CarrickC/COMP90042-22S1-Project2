@@ -1,0 +1,254 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 27 23:41:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/CDCgov/status/\u2026",
+                "expanded_url": "https://twitter.com/CDCgov/status/1233134710638825473",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/0Kvg39d0Dz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2577020798,
+                "id_str": "2577020798",
+                "indices": [
+                    67,
+                    78
+                ],
+                "name": "KY Medical Assoc",
+                "screen_name": "KYMedAssoc"
+            },
+            {
+                "id": 27922157,
+                "id_str": "27922157",
+                "indices": [
+                    79,
+                    95
+                ],
+                "name": "AMA",
+                "screen_name": "AmerMedicalAssn"
+            },
+            {
+                "id": 2339177324,
+                "id_str": "2339177324",
+                "indices": [
+                    96,
+                    103
+                ],
+                "name": "chfsky",
+                "screen_name": "CHFSKy"
+            }
+        ]
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "geo": null,
+    "id": 1233175449980874752,
+    "id_str": "1233175449980874752",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Feb 27 21:00:00 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        88
+                    ],
+                    "text": "coronavirus"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1233134710638825473",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/bzS18N5j7N"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 7767,
+        "favorited": false,
+        "geo": null,
+        "id": 1233134710638825473,
+        "id_str": "1233134710638825473",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8214,
+        "retweeted": false,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "CDC does not currently recommend the use of facemasks to help prevent novel #coronavirus. Take everyday preventive\u2026 https://t.co/bzS18N5j7N",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 21 19:40:40 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "CDC's official Twitter source for daily credible health & safety updates from Centers for Disease Control & Prevention. Privacy policy: https://t.co/N3OhkbXTAq",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/2MhQ6Hp",
+                            "expanded_url": "http://bit.ly/2MhQ6Hp",
+                            "indices": [
+                                136,
+                                159
+                            ],
+                            "url": "https://t.co/N3OhkbXTAq"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cdc.gov",
+                            "expanded_url": "http://www.cdc.gov",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/5a7cTu2vly"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 512,
+            "follow_request_sent": false,
+            "followers_count": 4894221,
+            "following": false,
+            "friends_count": 256,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 146569971,
+            "id_str": "146569971",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 19794,
+            "location": "Atlanta, GA",
+            "name": "CDC",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/146569971/1625576050",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/880104586211581952/KPwn1JyQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/880104586211581952/KPwn1JyQ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "CDCgov",
+            "statuses_count": 32832,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/5a7cTu2vly",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1233134710638825473,
+    "quoted_status_id_str": "1233134710638825473",
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Coronavirus: Should I wear a mask to protect myself from COVID-19? @KYMedAssoc @AmerMedicalAssn @CHFSKy https://t.co/0Kvg39d0Dz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 23 02:33:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "KY State Rep 64th District, Chair Health & Family Services. Founding Director NKy Office Drug Policy. AMAA Past-Pres. Conservative, wife, 5 sons.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "MoserForKentucky.com",
+                        "expanded_url": "http://Www.MoserForKentucky.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nWpiUdz6T9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4738,
+        "follow_request_sent": false,
+        "followers_count": 2651,
+        "following": false,
+        "friends_count": 894,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41956692,
+        "id_str": "41956692",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 50,
+        "location": "",
+        "name": "kimberly moser",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/698600237783506944/xzDDIVFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/698600237783506944/xzDDIVFT_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "5boymom",
+        "statuses_count": 1506,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nWpiUdz6T9",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

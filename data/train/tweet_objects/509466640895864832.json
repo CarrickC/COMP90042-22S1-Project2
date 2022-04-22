@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:21:27 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14372486,
+                "id_str": "14372486",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Engadget",
+                "screen_name": "engadget"
+            },
+            {
+                "id": 63485337,
+                "id_str": "63485337",
+                "indices": [
+                    20,
+                    26
+                ],
+                "name": "Notch",
+                "screen_name": "notch"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509466640895864832,
+    "id_str": "509466640895864832",
+    "in_reply_to_screen_name": "engadget",
+    "in_reply_to_status_id": 509466295344304129,
+    "in_reply_to_status_id_str": "509466295344304129",
+    "in_reply_to_user_id": 14372486,
+    "in_reply_to_user_id_str": "14372486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.86894,
+                        33.606077
+                    ],
+                    [
+                        -117.695781,
+                        33.606077
+                    ],
+                    [
+                        -117.695781,
+                        33.773387
+                    ],
+                    [
+                        -117.86894,
+                        33.773387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Irvine, CA",
+        "id": "3d533362cdab8107",
+        "name": "Irvine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3d533362cdab8107.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@engadget Good job, @notch",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 17 05:33:54 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I trade securities and travel a lot. Tweets are not financial advice. Ex Amazon. #satellites #HF #tech #travel #linux",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jarrettw.com",
+                        "expanded_url": "http://jarrettw.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5Ui8zlI44v"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23871,
+        "follow_request_sent": false,
+        "followers_count": 1534,
+        "following": false,
+        "friends_count": 2718,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14417142,
+        "id_str": "14417142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Seattle, WA",
+        "name": "Jarrett Williams",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14417142/1585199498",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085543055934062593/K08TkP8L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085543055934062593/K08TkP8L_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jnw415",
+        "statuses_count": 19092,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/5Ui8zlI44v",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

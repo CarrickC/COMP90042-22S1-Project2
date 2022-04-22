@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 22:59:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78370132,
+                "id_str": "78370132",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "R T",
+                "screen_name": "waterhauler"
+            },
+            {
+                "id": 64244841,
+                "id_str": "64244841",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "Thankmaster Give-Hud",
+                "screen_name": "The_Yodacat"
+            },
+            {
+                "id": 1469430608841646080,
+                "id_str": "1469430608841646080",
+                "indices": [
+                    42,
+                    56
+                ],
+                "name": "Nate Hamilton",
+                "screen_name": "nate_hamilton"
+            },
+            {
+                "id": 166999015,
+                "id_str": "166999015",
+                "indices": [
+                    57,
+                    69
+                ],
+                "name": "Dude, just no",
+                "screen_name": "dhambrick63"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    70,
+                    86
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 519985496047362048,
+    "id_str": "519985496047362048",
+    "in_reply_to_screen_name": "waterhauler",
+    "in_reply_to_status_id": 519980842186457089,
+    "in_reply_to_status_id_str": "519980842186457089",
+    "in_reply_to_user_id": 78370132,
+    "in_reply_to_user_id_str": "78370132",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@waterhauler @The_Yodacat @jackdavies4317 @Nate_Hamilton @dhambrick63 @realDonaldTrump whoa whoa whoa let's not get carried away here.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 23 01:06:50 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Owner/GM of the Screaming Babies Franchise. I once turned an unassisted triple play in tee ball. Ever seen a guy with a fake head?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7043,
+        "follow_request_sent": false,
+        "followers_count": 629,
+        "following": false,
+        "friends_count": 452,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 560805300,
+        "id_str": "560805300",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "The 940",
+        "name": "Hawk",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/560805300/1472856429",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793598795770585088/YHuXfqUB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793598795770585088/YHuXfqUB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hawk2973",
+        "statuses_count": 29071,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

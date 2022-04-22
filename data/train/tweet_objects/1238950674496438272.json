@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 14 22:10:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238950674496438272",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/dwUIcPlHM3"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 457060718,
+                "id_str": "457060718",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nadine Dorries",
+                "screen_name": "NadineDorries"
+            }
+        ]
+    },
+    "favorite_count": 15,
+    "favorited": false,
+    "geo": null,
+    "id": 1238950674496438272,
+    "id_str": "1238950674496438272",
+    "in_reply_to_screen_name": "NadineDorries",
+    "in_reply_to_status_id": 1238949499302748165,
+    "in_reply_to_status_id_str": "1238949499302748165",
+    "in_reply_to_user_id": 457060718,
+    "in_reply_to_user_id_str": "457060718",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@NadineDorries Very disappointed you are not explaining what it was like to have Covid-19 You had a golden opportun\u2026 https://t.co/dwUIcPlHM3",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 14 12:25:33 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "BeeKeeper, Dog lover. A believer in training UK School leavers before importing skills, Brexit supporter. UK needs to take back control of its future.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19752,
+        "follow_request_sent": false,
+        "followers_count": 487,
+        "following": false,
+        "friends_count": 412,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 786905782268944384,
+        "id_str": "786905782268944384",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "East, England",
+        "name": "as",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sksanglia",
+        "statuses_count": 59927,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

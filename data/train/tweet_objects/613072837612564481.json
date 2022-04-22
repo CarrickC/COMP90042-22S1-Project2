@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 19:55:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613072837612564481,
+    "id_str": "613072837612564481",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 613023744454475776,
+    "in_reply_to_status_id_str": "613023744454475776",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNNPolitics @cnnbrk @RepMiaLove Do you Know who's Giving You $$'s",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 22 20:53:35 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10761,
+        "follow_request_sent": false,
+        "followers_count": 170,
+        "following": false,
+        "friends_count": 426,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19360575,
+        "id_str": "19360575",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "B Cassell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1033476080861171712/rhBsES22_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033476080861171712/rhBsES22_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alljoy",
+        "statuses_count": 35417,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

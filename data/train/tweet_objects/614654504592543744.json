@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 04:40:28 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    131,
+                    134
+                ],
+                "text": "p2"
+            },
+            {
+                "indices": [
+                    135,
+                    139
+                ],
+                "text": "gop"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1917731,
+                "id_str": "1917731",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The Hill",
+                "screen_name": "thehill"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614654504592543744,
+    "id_str": "614654504592543744",
+    "in_reply_to_screen_name": "thehill",
+    "in_reply_to_status_id": 614645853291155457,
+    "in_reply_to_status_id_str": "614645853291155457",
+    "in_reply_to_user_id": 1917731,
+    "in_reply_to_user_id_str": "1917731",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@thehill Has anything like this EVER been down to the Peoples House before?  Its in your face insulting to those who do not agree! #p2 #gop",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 01 15:01:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A Proud Reagan Conservative, fed up with the Liberal/Progressive policies that are perverting our American Constitutional Republic into European Socialism #tcot",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 259,
+        "follow_request_sent": false,
+        "followers_count": 418,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 78924260,
+        "id_str": "78924260",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "NE Florida",
+        "name": "Lee Corn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78924260/1347973750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648532628388184064/XCAsxR1v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648532628388184064/XCAsxR1v_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ConserveCast",
+        "statuses_count": 23229,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

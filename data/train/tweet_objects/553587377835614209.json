@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 16:21:30 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    16
+                ],
+                "text": "BREAKING"
+            },
+            {
+                "indices": [
+                    17,
+                    30
+                ],
+                "text": "CharlieHebdo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 553587377835614209,
+    "id_str": "553587377835614209",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 553587013409325058,
+    "in_reply_to_status_id_str": "553587013409325058",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@AFP: #BREAKING #CharlieHebdo gunmen's hostage freed and safe after police assault\u201d Hoping this is accurate.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 28 10:52:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Foreign news reporter @SVT. Russia/Ukraine/MENA/etc. Usual caveats. BJJ, h\u00e5rd musik, ett skoningsl\u00f6st krig mot trist utrikesjournalistik.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gjopen.com/memberships/97\u2026",
+                        "expanded_url": "https://www.gjopen.com/memberships/97753",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CH05zzomFF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6231,
+        "follow_request_sent": false,
+        "followers_count": 11224,
+        "following": false,
+        "friends_count": 5762,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 258730076,
+        "id_str": "258730076",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 351,
+        "location": "Stockholm, Sweden",
+        "name": "Carl Fridh Kleberg",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258730076/1648370459",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1507096679861915662/Bjv45bxC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1507096679861915662/Bjv45bxC_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FridhKleberg",
+        "statuses_count": 44812,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CH05zzomFF",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

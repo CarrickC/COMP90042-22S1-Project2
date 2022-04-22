@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.1956236,
+            51.59531731
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 24 22:35:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 143145579,
+                "id_str": "143145579",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The Poke",
+                "screen_name": "ThePoke"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.59531731,
+            -0.1956236
+        ],
+        "type": "Point"
+    },
+    "id": 537011613237514240,
+    "id_str": "537011613237514240",
+    "in_reply_to_screen_name": "ThePoke",
+    "in_reply_to_status_id": 536991428694376448,
+    "in_reply_to_status_id_str": "536991428694376448",
+    "in_reply_to_user_id": 143145579,
+    "in_reply_to_user_id_str": "143145579",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2925791,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.6685903
+                    ],
+                    [
+                        -0.2925791,
+                        51.6685903
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Barnet, London",
+        "id": "7ef79c5ab17d518c",
+        "name": "Barnet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ThePoke",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 09 19:26:52 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 292,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 116,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2537615319,
+        "id_str": "2537615319",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Islington, London",
+        "name": "Wayne",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1427024390294851584/UBcgJWB2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1427024390294851584/UBcgJWB2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "waynegreen1970",
+        "statuses_count": 159,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 17 17:01:22 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    26,
+                    30
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 688768083960332288,
+    "id_str": "688768083960332288",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.22808,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.672684
+                    ],
+                    [
+                        -75.9118121,
+                        36.932399
+                    ],
+                    [
+                        -76.22808,
+                        36.932399
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia Beach, VA",
+        "id": "84229b03659050aa",
+        "name": "Virginia Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FiNeSSeHaVeN @samatson21 @kfc that article is about holiday turkeys from November 2015....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 11 20:25:50 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "That F\u2019n Cat | Sports Betting Degenerate \ud83e\udd11 | You can\u2019t win a game without playing \ud83e\udd1d",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 45874,
+        "follow_request_sent": false,
+        "followers_count": 667,
+        "following": false,
+        "friends_count": 488,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2700293879,
+        "id_str": "2700293879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Lounging",
+        "name": "JEFF",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2700293879/1647117121",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1442866142641475598/vmXuBuI2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442866142641475598/vmXuBuI2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OneSharpCat",
+        "statuses_count": 11006,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

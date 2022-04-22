@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 09 20:40:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 466645191,
+                "id_str": "466645191",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Cloyd Rivers",
+                "screen_name": "CloydRivers"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 619244864266350593,
+    "id_str": "619244864266350593",
+    "in_reply_to_screen_name": "CloydRivers",
+    "in_reply_to_status_id": 619242759359037440,
+    "in_reply_to_status_id_str": "619242759359037440",
+    "in_reply_to_user_id": 466645191,
+    "in_reply_to_user_id_str": "466645191",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@CloydRivers We learn from the changing world around us and reevaluate bigoted opinions. Hell yeah! Merica. \ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 19 00:28:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "probably catch me in the streets.. I walk a lot. slangin' pies and changin' lives. noodle boi. ice cold since '94",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "buzzed-for-lightyears.tumblr.com",
+                        "expanded_url": "http://buzzed-for-lightyears.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/K3iSiz3Evn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 415,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 393735428,
+        "id_str": "393735428",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "843",
+        "name": "nigerian midnight",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/393735428/1405782948",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232202839264563206/1Wjgcd9n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232202839264563206/1Wjgcd9n_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "akaBlackTony",
+        "statuses_count": 9167,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/K3iSiz3Evn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

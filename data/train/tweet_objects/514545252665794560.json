@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 22:42:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    60,
+                    82
+                ],
+                "url": "http://t.co/0As5KbXw1b"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514545252665794560,
+    "id_str": "514545252665794560",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/0As5KbXw1b\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 20 03:32:56 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Want to see a better India.. Will do my best whatever I can do for my country",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 444,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 256,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 358558775,
+        "id_str": "358558775",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Brisbane, Australia",
+        "name": "Vikash Kumar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/358558775/1441542757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683239561183428608/RTPiL58h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683239561183428608/RTPiL58h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vikash_ind",
+        "statuses_count": 2087,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

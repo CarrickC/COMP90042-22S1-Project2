@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 23:11:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 44945327,
+                "id_str": "44945327",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Franklin Graham",
+                "screen_name": "Franklin_Graham"
+            },
+            {
+                "id": 42354321,
+                "id_str": "42354321",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "RENEE BROWNMATHIS",
+                "screen_name": "WHITEHOUS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 616383680211234817,
+    "id_str": "616383680211234817",
+    "in_reply_to_screen_name": "Franklin_Graham",
+    "in_reply_to_status_id": 615689290706595840,
+    "in_reply_to_status_id_str": "615689290706595840",
+    "in_reply_to_user_id": 44945327,
+    "in_reply_to_user_id_str": "44945327",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Franklin_Graham @WhiteHous  Who cares,",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 23 16:49:53 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10376,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 776334168,
+        "id_str": "776334168",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Philip J. Large",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PhilipJLarge",
+        "statuses_count": 16197,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

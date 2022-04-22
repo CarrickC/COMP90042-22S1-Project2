@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 03 21:27:06 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    58,
+                    68
+                ],
+                "text": "BARBARISM"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2422329920,
+                "id_str": "2422329920",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "\u274c\u274c McFixit1 \u274c\u274c",
+                "screen_name": "navstadt"
+            },
+            {
+                "id": 21938597,
+                "id_str": "21938597",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "Jennifer",
+                "screen_name": "Foxiemama82"
+            },
+            {
+                "id": 954124423,
+                "id_str": "954124423",
+                "indices": [
+                    23,
+                    30
+                ],
+                "name": "Amy Mek",
+                "screen_name": "AmyMek"
+            },
+            {
+                "id": 159447476,
+                "id_str": "159447476",
+                "indices": [
+                    31,
+                    46
+                ],
+                "name": "N D W",
+                "screen_name": "gentlemanirish"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    47,
+                    51
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 518150271378391040,
+    "id_str": "518150271378391040",
+    "in_reply_to_screen_name": "navstadt",
+    "in_reply_to_status_id": 516932027216850945,
+    "in_reply_to_status_id_str": "516932027216850945",
+    "in_reply_to_user_id": 2422329920,
+    "in_reply_to_user_id_str": "2422329920",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@navstadt @Foxiemama82 @AmyMek @gentlemanirish @kfc their #BARBARISM surpases none",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 14 20:34:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LAUGHTER IS THE BEST MEDICINE-The World is turned upside down, up to us to flip it over RT the wrongs",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1304,
+        "follow_request_sent": false,
+        "followers_count": 1393,
+        "following": false,
+        "friends_count": 2000,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 133024127,
+        "id_str": "133024127",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": "",
+        "name": "Doctor B",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133024127/1363030829",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3429985696/913bdffa1077060ed692c91f2480be1e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3429985696/913bdffa1077060ed692c91f2480be1e_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chirofrenzy",
+        "statuses_count": 118450,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 27 18:46:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1243610423343157253",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/8cVqsttaYF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 992741970148839424,
+                "id_str": "992741970148839424",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Nonso's DYNASTY",
+                "screen_name": "NonsoDynasty"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1243610423343157253,
+    "id_str": "1243610423343157253",
+    "in_reply_to_screen_name": "NonsoDynasty",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 992741970148839424,
+    "in_reply_to_user_id_str": "992741970148839424",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.9380658,
+                        4.7337699
+                    ],
+                    [
+                        7.1244854,
+                        4.7337699
+                    ],
+                    [
+                        7.1244854,
+                        4.9154902
+                    ],
+                    [
+                        6.9380658,
+                        4.9154902
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Port Harcourt, Nigeria",
+        "id": "0008cb6457ff0b55",
+        "name": "Port Harcourt",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0008cb6457ff0b55.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@NonsoDynasty \n2. How Does COVID-19 spread?\nThe virus that causes COVID-19 probably emerged from an animal source,\u2026 https://t.co/8cVqsttaYF",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 24 21:01:18 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nutrition | Food | Lifestyle #Blogger #Writer. \nBeauty and Health enthusiast,graphics geek. \nIG:\nhttps://t.co/1whAEh242Q\nEmail\ud83d\udce9:fortunealex19@yahoo.com",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/unusual4tune",
+                        "expanded_url": "https://www.instagram.com/unusual4tune",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "url": "https://t.co/1whAEh242Q"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "unusual4tune.wordpress.com",
+                        "expanded_url": "https://unusual4tune.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6X5lYhG0rb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33921,
+        "follow_request_sent": false,
+        "followers_count": 716,
+        "following": false,
+        "friends_count": 707,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1132028825339146240,
+        "id_str": "1132028825339146240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Nigeria",
+        "name": "Miss inspired",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132028825339146240/1590161296",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132035883669053442/tW0CrOXZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132035883669053442/tW0CrOXZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "unusual4tune",
+        "statuses_count": 6744,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6X5lYhG0rb",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 17:47:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 284279792,
+                "id_str": "284279792",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Westboro Baptist Church Signs",
+                "screen_name": "WBCsigns"
+            },
+            {
+                "id": 276673850,
+                "id_str": "276673850",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Fred Phelps, Jr.",
+                "screen_name": "WBCFredJr"
+            },
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    21,
+                    33
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    34,
+                    45
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614852617093648384,
+    "id_str": "614852617093648384",
+    "in_reply_to_screen_name": "WBCsigns",
+    "in_reply_to_status_id": 614623773237624832,
+    "in_reply_to_status_id_str": "614623773237624832",
+    "in_reply_to_user_id": 284279792,
+    "in_reply_to_user_id_str": "284279792",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WBCsigns @WBCFredJr @NickKristof @WhiteHouse he won't forget you lies or abuse either",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 15:49:18 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3337081725,
+        "id_str": "3337081725",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "fostersisit",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fostetsforever",
+        "statuses_count": 158,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

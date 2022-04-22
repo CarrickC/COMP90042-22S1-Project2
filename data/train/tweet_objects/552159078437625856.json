@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 05 17:45:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2HQMTMHlxD",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "id": 552112449113968640,
+                "id_str": "552112449113968640",
+                "indices": [
+                    82,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "medium": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "small": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552112474913136641,
+                "source_status_id_str": "552112474913136641",
+                "source_user_id": 14629315,
+                "source_user_id_str": "14629315",
+                "type": "photo",
+                "url": "http://t.co/2HQMTMHlxD"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1zOfpCr",
+                "expanded_url": "http://bit.ly/1zOfpCr",
+                "indices": [
+                    59,
+                    81
+                ],
+                "url": "http://t.co/dXgDj29R57"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14629315,
+                "id_str": "14629315",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "XXL Magazine",
+                "screen_name": "XXL"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2HQMTMHlxD",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "id": 552112449113968640,
+                "id_str": "552112449113968640",
+                "indices": [
+                    82,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "medium": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "small": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552112474913136641,
+                "source_status_id_str": "552112474913136641",
+                "source_user_id": 14629315,
+                "source_user_id_str": "14629315",
+                "type": "photo",
+                "url": "http://t.co/2HQMTMHlxD"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552159078437625856,
+    "id_str": "552159078437625856",
+    "in_reply_to_screen_name": "XXL",
+    "in_reply_to_status_id": 552112474913136641,
+    "in_reply_to_status_id_str": "552112474913136641",
+    "in_reply_to_user_id": 14629315,
+    "in_reply_to_user_id_str": "14629315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@XXL: President Obama\u2019s daughter wears a Pro Era t-shirt: http://t.co/dXgDj29R57 http://t.co/2HQMTMHlxD\u201d Lmao",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 14 21:00:38 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "He/Him l Social: @Indycar \ud83c\udfce | Jeremiah 29:11 | #JM3 | #SavannahStrong | @JacksonStateU Alum |\ud83d\udcf8: dgraves_media| \u201cWater your garden.\u201d| Prev: @NASCAR @RevRacin|",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gondola.cc/DontreGraves?p\u2026",
+                        "expanded_url": "https://gondola.cc/DontreGraves?page=1&profileuser=DontreGraves",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5KWKjNlkVq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 146019,
+        "follow_request_sent": false,
+        "followers_count": 4201,
+        "following": false,
+        "friends_count": 2095,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 390973515,
+        "id_str": "390973515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "W$GT$",
+        "name": "Dontre Graves \ud83c\udfc1",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390973515/1588217643",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1448672784289312772/LHo4JDgH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448672784289312772/LHo4JDgH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DontreGraves",
+        "statuses_count": 191724,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/5KWKjNlkVq",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

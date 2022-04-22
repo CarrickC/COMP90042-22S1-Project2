@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 15 18:38:31 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            },
+            {
+                "id": 17986456,
+                "id_str": "17986456",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Ian",
+                "screen_name": "elvis717"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 334739587119316992,
+    "id_str": "334739587119316992",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@stephenfry @elvis717 That's blatantly a hoax! The neighbour's last name is Swedish slang for hard-on.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 21 15:43:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer \u2022 Textile Artist \u2022 Needleworker",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4155,
+        "follow_request_sent": false,
+        "followers_count": 544,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41610372,
+        "id_str": "41610372",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 46,
+        "location": "Sweden",
+        "name": "Chiaki",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41610372/1609542178",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345098708531220481/PQfdpQSo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345098708531220481/PQfdpQSo_normal.jpg",
+        "profile_link_color": "008B00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chistardust",
+        "statuses_count": 9839,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

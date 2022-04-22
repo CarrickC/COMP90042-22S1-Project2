@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 20 16:47:47 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            },
+            {
+                "id": 1463213971,
+                "id_str": "1463213971",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "Ryan Smith",
+                "screen_name": "SmeatoSmith"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 755806421388845056,
+    "id_str": "755806421388845056",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 705084574833864704,
+    "in_reply_to_status_id_str": "705084574833864704",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Gotham3 @SmeatoSmith \u2934\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 29 11:01:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Alanna McCracken, 29 \ud83e\udd95 \u24cbegan, Animal Lover. \u2765",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/Gilded_Butterf\u2026",
+                        "expanded_url": "http://Instagram.com/Gilded_Butterfly",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QWmGisfFBs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1504,
+        "follow_request_sent": false,
+        "followers_count": 11758,
+        "following": false,
+        "friends_count": 12635,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 424135585,
+        "id_str": "424135585",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Falkirk, Scotland",
+        "name": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Alanna McCracken. \u2765",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/424135585/1546898147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1269403802324656128/IrSV8r2q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269403802324656128/IrSV8r2q_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cup_Cake_Kisses",
+        "statuses_count": 8267,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QWmGisfFBs",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

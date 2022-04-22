@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 15:33:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35459922,
+                "id_str": "35459922",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Spread Love and Kindness \ud83d\ude4f",
+                "screen_name": "FashionweekNYC"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614818767999225860,
+    "id_str": "614818767999225860",
+    "in_reply_to_screen_name": "FashionweekNYC",
+    "in_reply_to_status_id": 614628136634949632,
+    "in_reply_to_status_id_str": "614628136634949632",
+    "in_reply_to_user_id": 35459922,
+    "in_reply_to_user_id_str": "35459922",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@FashionweekNYC @WhiteHouse the Rainbow White House",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 01:36:22 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dixon_is_life and let nobody bully you EVER!!!!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 99,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3109130913,
+        "id_str": "3109130913",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Irmo, south carolina",
+        "name": "Rachel Rasmussen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580182617569415168/4DAui0yE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580182617569415168/4DAui0yE_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Norman502024",
+        "statuses_count": 68,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

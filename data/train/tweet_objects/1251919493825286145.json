@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 17:04:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251919493825286145",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/nTL59alaRk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251919493825286145,
+    "id_str": "1251919493825286145",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DrZweliMkhize Retail staff and merchies are not social distancing- they always standing together in the aisles, ch\u2026 https://t.co/nTL59alaRk",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 20 18:19:12 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "designer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6962,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 334,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 339182785,
+        "id_str": "339182785",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Noodle McNoodleface",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/339182785/1353063597",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336769432958414848/UJ1aWw8u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336769432958414848/UJ1aWw8u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vanoodle12",
+        "statuses_count": 3241,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

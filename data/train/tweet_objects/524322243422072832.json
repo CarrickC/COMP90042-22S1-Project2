@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:12:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524322243422072832,
+    "id_str": "524322243422072832",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AlfredoFlores I love you fredo \u263a\ud83d\udc95",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 03 18:09:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Supporting JB for more than 10 years & counting \u2014 NEVER leaving him no matter what! He inspired me to be who I am today and I will be forever grateful for that.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25322,
+        "follow_request_sent": false,
+        "followers_count": 18765,
+        "following": false,
+        "friends_count": 285,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 129259900,
+        "id_str": "129259900",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 853,
+        "location": "Brazil",
+        "name": "136",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/129259900/1647188686",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517274308854300673/p5ep8OFi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517274308854300673/p5ep8OFi_normal.jpg",
+        "profile_link_color": "111111",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gotbieb",
+        "statuses_count": 108264,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

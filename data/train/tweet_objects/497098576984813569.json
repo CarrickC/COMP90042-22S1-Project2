@@ -1,0 +1,204 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 06 19:15:11 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    16
+                ],
+                "text": "Breaking"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/PehtcaHUou",
+                "expanded_url": "https://twitter.com/TMZ/status/497073936077959169/photo/1",
+                "id": 497073935880826880,
+                "id_str": "497073935880826880",
+                "indices": [
+                    77,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/BuX2HG9IMAABnkI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BuX2HG9IMAABnkI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 397,
+                        "resize": "fit",
+                        "w": 700
+                    },
+                    "medium": {
+                        "h": 397,
+                        "resize": "fit",
+                        "w": 700
+                    },
+                    "small": {
+                        "h": 386,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 497073936077959169,
+                "source_status_id_str": "497073936077959169",
+                "source_user_id": 16331010,
+                "source_user_id_str": "16331010",
+                "type": "photo",
+                "url": "http://t.co/PehtcaHUou"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "tmz.me/FZo9BGc",
+                "expanded_url": "http://tmz.me/FZo9BGc",
+                "indices": [
+                    54,
+                    76
+                ],
+                "url": "http://t.co/H2NpscmFhM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16331010,
+                "id_str": "16331010",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "TMZ",
+                "screen_name": "TMZ"
+            },
+            {
+                "id": 14790499,
+                "id_str": "14790499",
+                "indices": [
+                    101,
+                    112
+                ],
+                "name": "R\u1d0f\u0274 T\u1d07\u0280\u0280\u1d07\u029f\u029f",
+                "screen_name": "RonTerrell"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/PehtcaHUou",
+                "expanded_url": "https://twitter.com/TMZ/status/497073936077959169/photo/1",
+                "id": 497073935880826880,
+                "id_str": "497073935880826880",
+                "indices": [
+                    77,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/BuX2HG9IMAABnkI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BuX2HG9IMAABnkI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 397,
+                        "resize": "fit",
+                        "w": 700
+                    },
+                    "medium": {
+                        "h": 397,
+                        "resize": "fit",
+                        "w": 700
+                    },
+                    "small": {
+                        "h": 386,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 497073936077959169,
+                "source_status_id_str": "497073936077959169",
+                "source_user_id": 16331010,
+                "source_user_id_str": "16331010",
+                "type": "photo",
+                "url": "http://t.co/PehtcaHUou"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 497098576984813569,
+    "id_str": "497098576984813569",
+    "in_reply_to_screen_name": "TMZ",
+    "in_reply_to_status_id": 497073936077959169,
+    "in_reply_to_status_id_str": "497073936077959169",
+    "in_reply_to_user_id": 16331010,
+    "in_reply_to_user_id_str": "16331010",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TMZ: #Breaking: Justin Bieber thwarts bear attack!! http://t.co/H2NpscmFhM http://t.co/PehtcaHUou\u201d @RonTerrell you have got to see this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 00:47:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201cBefore you judge someone stop and remember we all see the same sun\u201d Love my Sooners.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 65720,
+        "follow_request_sent": false,
+        "followers_count": 2008,
+        "following": false,
+        "friends_count": 2952,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 481638082,
+        "id_str": "481638082",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Tulsa OK",
+        "name": "Nathan",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/481638082/1577644222",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514786880532844548/bRjjgcvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514786880532844548/bRjjgcvA_normal.jpg",
+        "profile_link_color": "FF001E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AsgardSG1",
+        "statuses_count": 72498,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

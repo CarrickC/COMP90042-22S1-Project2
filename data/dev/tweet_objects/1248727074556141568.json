@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 10 21:38:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1248727074556141568",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/bc8LST1m38"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14411304,
+                "id_str": "14411304",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Sacramento Bee",
+                "screen_name": "sacbee_news"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1248727074556141568,
+    "id_str": "1248727074556141568",
+    "in_reply_to_screen_name": "sacbee_news",
+    "in_reply_to_status_id": 1248717007102640138,
+    "in_reply_to_status_id_str": "1248717007102640138",
+    "in_reply_to_user_id": 14411304,
+    "in_reply_to_user_id_str": "14411304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@sacbee_news The answer is no to an immunity certificate.  How much closer can officials get to 1984.   No making t\u2026 https://t.co/bc8LST1m38",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 16 18:22:39 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55,
+        "follow_request_sent": false,
+        "followers_count": 6,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 909120362926837761,
+        "id_str": "909120362926837761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "tree15",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "treelevv",
+        "statuses_count": 4370,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

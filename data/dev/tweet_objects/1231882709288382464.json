@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 10:04:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1231882709288382464",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rzhgng2SY2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1231882709288382464,
+    "id_str": "1231882709288382464",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1231835437246926849,
+    "in_reply_to_status_id_str": "1231835437246926849",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO Your advice is garbage! \ud83d\ude21\u26a1\ufe0f\ud83d\udca3\nYou\u2019re the only one saying the virus spreads through droplets\u2014everyone else, incl\u2026 https://t.co/rzhgng2SY2",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 26 03:48:36 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Tibet today is like a giant prison. Torture and violence are widespread. Over 150 Tibetans have self-immolated to protest China\u2019s occupation. Help free Tibet.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 888,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 362274812,
+        "id_str": "362274812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Free Tibet",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/362274812/1577065848",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513809932/Tibetan_Flag_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513809932/Tibetan_Flag_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "freetibet99",
+        "statuses_count": 1336,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

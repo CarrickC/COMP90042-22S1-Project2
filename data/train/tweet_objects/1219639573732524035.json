@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 21 15:15:08 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 479264032,
+                "id_str": "479264032",
+                "indices": [
+                    5,
+                    17
+                ],
+                "name": "WHO Thailand",
+                "screen_name": "WHOThailand"
+            },
+            {
+                "id": 538804810,
+                "id_str": "538804810",
+                "indices": [
+                    18,
+                    26
+                ],
+                "name": "WHO Centre for Health Development",
+                "screen_name": "WHOKobe"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    27,
+                    36
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    37,
+                    45
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1219639573732524035,
+    "id_str": "1219639573732524035",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1218269428166602753,
+    "in_reply_to_status_id_str": "1218269428166602753",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO @WHOThailand @WHOKobe @WHOSEARO @WHOWPRO This is a legitimate and terrible risk of becoming a pandemic.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 14 02:59:44 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Art, music, the great outdoors. Career Registered nurse. Proud Nana \u2764\ufe0fDad was a member of the IWW. The nastiest woman. BIDEN (and justice) WON!  \ud83c\uddfa\ud83c\udde6",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17617,
+        "follow_request_sent": false,
+        "followers_count": 2592,
+        "following": false,
+        "friends_count": 5000,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 820103073074966528,
+        "id_str": "820103073074966528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Great Falls, MT",
+        "name": "Jean Kampfer",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820103073074966528/1518115324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1035226484208676864/keXxq4c2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035226484208676864/keXxq4c2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KampferFisher",
+        "statuses_count": 34919,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

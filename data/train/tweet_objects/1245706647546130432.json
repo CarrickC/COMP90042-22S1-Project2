@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 02 13:36:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1245706647546130432",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/iViCeXCvXx"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1245706647546130432,
+    "id_str": "1245706647546130432",
+    "in_reply_to_screen_name": "dvemure",
+    "in_reply_to_status_id": 1245706645851656192,
+    "in_reply_to_status_id_str": "1245706645851656192",
+    "in_reply_to_user_id": 833430048,
+    "in_reply_to_user_id_str": "833430048",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "The COVID-19 virus may survive on surfaces for a few hours to several days, but simple disinfectants can kill it. S\u2026 https://t.co/iViCeXCvXx",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 19 14:20:36 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u2039\ud835\udff9 \ud83e\uddf8\u2605\u00a0\u00a0 \u22b9\u00a0\u00a0 \ud835\udfee\ud835\udfec\ud835\udfec\ud835\udff0 \u02f3 she's currently flowing with charming and classy vibes, but a total cutie inside \u2a3e \ua4b0 \ud835\udc73\ud835\udc8a\ud835\udc9b \u0559 \uae40\uc9c0\uc6d0\u00a0 \u2661\u0336\ud80c\ude12 \ua4b1",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "snd.\u2800",
+                        "expanded_url": "http://snd.xn--6ii",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/37ZIVMhifK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2082,
+        "follow_request_sent": false,
+        "followers_count": 4018,
+        "following": false,
+        "friends_count": 3901,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 833430048,
+        "id_str": "833430048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "loml, iyan jelka celop.",
+        "name": "4G. jerin, palthea",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/833430048/1639157413",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1471044203396300805/6aNFuUid_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471044203396300805/6aNFuUid_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dvemure",
+        "statuses_count": 82139,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/37ZIVMhifK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

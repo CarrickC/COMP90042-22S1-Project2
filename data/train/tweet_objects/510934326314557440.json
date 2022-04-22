@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 13 23:33:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510934326314557440,
+    "id_str": "510934326314557440",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 510931521306243072,
+    "in_reply_to_status_id_str": "510931521306243072",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FoxNews So do something about it Mr. PM!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 14 13:36:27 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "(Ret) Language Analyst for Intelligence Community, married to (Ret) USAF. America First. Will block you if you DM me after you follow me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 128791,
+        "follow_request_sent": false,
+        "followers_count": 20183,
+        "following": false,
+        "friends_count": 18664,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2567146231,
+        "id_str": "2567146231",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "Just Me",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2567146231/1641665120",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481763228824870913/ksqll6z3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481763228824870913/ksqll6z3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrsMalindo45",
+        "statuses_count": 352935,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

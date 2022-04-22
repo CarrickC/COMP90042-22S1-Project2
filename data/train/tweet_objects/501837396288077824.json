@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 21:05:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 48956231,
+                "id_str": "48956231",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Zaid Benjamin",
+                "screen_name": "zaidbenjamin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501837396288077824,
+    "id_str": "501837396288077824",
+    "in_reply_to_screen_name": "zaidbenjamin",
+    "in_reply_to_status_id": 501827465032237056,
+    "in_reply_to_status_id_str": "501827465032237056",
+    "in_reply_to_user_id": 48956231,
+    "in_reply_to_user_id_str": "48956231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@zaidbenjamin Who would FAVORITE this?!?! May God be with his family and him.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 30 16:07:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Christian Sports e-Mag that introduces people to God through sports!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sportsfaith.com",
+                        "expanded_url": "http://www.sportsfaith.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AXiYoLZYww"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 39,
+        "follow_request_sent": false,
+        "followers_count": 1029,
+        "following": false,
+        "friends_count": 1755,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 27668000,
+        "id_str": "27668000",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "Wisconsin, USA",
+        "name": "Matt Kowalczyk",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27668000/1397492307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455739101765828609/lYo_zlu__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455739101765828609/lYo_zlu__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SportsFaith",
+        "statuses_count": 2100,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/AXiYoLZYww",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

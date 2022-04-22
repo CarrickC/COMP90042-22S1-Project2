@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 31 23:09:02 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 693934039313420288,
+    "id_str": "693934039313420288",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TheValleyReport is her name Elizabeth. Cuz I know someone who would do that",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 18 04:51:56 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Old",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1152,
+        "follow_request_sent": false,
+        "followers_count": 80,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 702383714,
+        "id_str": "702383714",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "OldGoatpoop",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/702383714/1543816948",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819928391914635264/8TawWHWp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819928391914635264/8TawWHWp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elzanowoopity",
+        "statuses_count": 6783,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

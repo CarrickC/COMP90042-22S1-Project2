@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 14:20:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    21,
+                    33
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            },
+            {
+                "id": 64605770,
+                "id_str": "64605770",
+                "indices": [
+                    62,
+                    70
+                ],
+                "name": "Jenna Joensen",
+                "screen_name": "jlynn29"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524203457881059331,
+    "id_str": "524203457881059331",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@fxnscitech @FoxNews @LiveScience immediately thought I heard @jlynn29 screaming bloody murder if she saw this spider",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 09 13:08:45 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Time is the great leveler, and neither money nor power hold sway over its relentless march. #BillsMafia",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 205667,
+        "follow_request_sent": false,
+        "followers_count": 505,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 351579236,
+        "id_str": "351579236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Professional People Watcher",
+        "name": "Austin",
+        "notifications": false,
+        "profile_background_color": "110B0F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/351579236/1640567769",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484644715358306309/VSr_XYTz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484644715358306309/VSr_XYTz_normal.jpg",
+        "profile_link_color": "666C62",
+        "profile_sidebar_border_color": "9D7F65",
+        "profile_sidebar_fill_color": "AB8F67",
+        "profile_text_color": "887B68",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WritingMyLife91",
+        "statuses_count": 37799,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 05:43:11 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    57,
+                    67
+                ],
+                "text": "MikeBrown"
+            },
+            {
+                "indices": [
+                    115,
+                    124
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.ksdk.com/1ovtJPT",
+                "expanded_url": "http://on.ksdk.com/1ovtJPT",
+                "indices": [
+                    92,
+                    114
+                ],
+                "url": "http://t.co/haNBhH7Ai1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    35,
+                    44
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 499793337302261760,
+    "id_str": "499793337302261760",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Why do we need to confirm this? RT @ksdknews: Confirmed: #MikeBrown had no criminal record. http://t.co/haNBhH7Ai1 #Ferguson",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 05 04:31:25 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Live with intention | #BlackLivesMatter https://t.co/XgfjPftpjJ is where I make vegan food \ud83c\udf31\ud83d\udc69\ud83c\udffd\u200d\ud83c\udf73",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/thecommunalveg\u2026",
+                        "expanded_url": "http://instagram.com/thecommunalvegan",
+                        "indices": [
+                            40,
+                            63
+                        ],
+                        "url": "https://t.co/XgfjPftpjJ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/thecommunalveg\u2026",
+                        "expanded_url": "http://Instagram.com/thecommunalvegan",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/huQdLnIFCr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48822,
+        "follow_request_sent": false,
+        "followers_count": 977,
+        "following": false,
+        "friends_count": 665,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 71727006,
+        "id_str": "71727006",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "562",
+        "name": "D R E A",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71727006/1468210757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1439462465822023680/zYIjOoph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439462465822023680/zYIjOoph_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DreaaaLove",
+        "statuses_count": 144643,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/huQdLnIFCr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

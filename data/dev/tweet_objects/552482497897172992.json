@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 06 15:11:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1068121346,
+                "id_str": "1068121346",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "BuzzFeed UK",
+                "screen_name": "BuzzFeedUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552482497897172992,
+    "id_str": "552482497897172992",
+    "in_reply_to_screen_name": "BuzzFeedUK",
+    "in_reply_to_status_id": 552457656666185728,
+    "in_reply_to_status_id_str": "552457656666185728",
+    "in_reply_to_user_id": 1068121346,
+    "in_reply_to_user_id_str": "1068121346",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BuzzFeedUK why?!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 29 04:37:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "instagram: @Amritdasu \ud83c\uddfa\ud83c\uddf8 #TEAMDASU founder of : #TheSeptemberSounds",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imdasu.com",
+                        "expanded_url": "http://www.imdasu.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Jef2KGrACo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12802,
+        "follow_request_sent": false,
+        "followers_count": 4186,
+        "following": false,
+        "friends_count": 648,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 69790186,
+        "id_str": "69790186",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "NY/HK",
+        "name": "Amrit Dasu",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69790186/1583879792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496572372169728011/vPbf8Q_7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496572372169728011/vPbf8Q_7_normal.jpg",
+        "profile_link_color": "3E4D52",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "595957",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmritDasu",
+        "statuses_count": 8198,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/Jef2KGrACo",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

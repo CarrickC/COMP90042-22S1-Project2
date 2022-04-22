@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 04 09:55:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1257247402785771520",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/tbVfQoumLT"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 35,
+    "favorited": false,
+    "geo": null,
+    "id": 1257247402785771520,
+    "id_str": "1257247402785771520",
+    "in_reply_to_screen_name": "myoctoberain",
+    "in_reply_to_status_id": 1257247397341655040,
+    "in_reply_to_status_id_str": "1257247397341655040",
+    "in_reply_to_user_id": 1106485471721320448,
+    "in_reply_to_user_id_str": "1106485471721320448",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 10,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "because you don\u2019t see the results you expect. Not all of us tweet how much we stream or keep the views moving. The\u2026 https://t.co/tbVfQoumLT",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 15 09:21:08 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "i love renjun being loved . \u22c6 * .\u22c6 \u02da \u00b7 *. \u22c6 \u2733\ufe0e \u263e",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "octber.carrd.co",
+                        "expanded_url": "https://octber.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rYvOloy6Cu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8505,
+        "follow_request_sent": false,
+        "followers_count": 3127,
+        "following": false,
+        "friends_count": 335,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1106485471721320448,
+        "id_str": "1106485471721320448",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "21+ she/they",
+        "name": "o ct \u2461 ber",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106485471721320448/1601285853",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516926830393143296/xwJ5_KYm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516926830393143296/xwJ5_KYm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "myoctoberain",
+        "statuses_count": 45091,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/rYvOloy6Cu",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

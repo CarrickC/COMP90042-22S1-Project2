@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            12.14200444,
+            57.70478633
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 21:50:22 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1cg5o8u",
+                "expanded_url": "http://huff.to/1cg5o8u",
+                "indices": [
+                    78,
+                    100
+                ],
+                "url": "http://t.co/KhpelF1usm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    4,
+                    19
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            57.70478633,
+            12.14200444
+        ],
+        "type": "Point"
+    },
+    "id": 407265442139750401,
+    "id_str": "407265442139750401",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 407262869152358400,
+    "in_reply_to_status_id_str": "407262869152358400",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.0543316,
+                        57.6823124
+                    ],
+                    [
+                        12.2249066,
+                        57.6823124
+                    ],
+                    [
+                        12.2249066,
+                        57.7759352
+                    ],
+                    [
+                        12.0543316,
+                        57.7759352
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sverige",
+        "country_code": "SE",
+        "full_name": "Partille, Sverige",
+        "id": "e47c4f3d8741b47c",
+        "name": "Partille",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e47c4f3d8741b47c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\u201c@HuffingtonPost: Paul Walker was \"so happy\" hours before his tragic death http://t.co/KhpelF1usm\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 21:12:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ALLT \u00e4r m\u00f6jligt med kaffe och mascara",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bitterblondin.se",
+                        "expanded_url": "http://bitterblondin.se",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EwWjYIlFie"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8039,
+        "follow_request_sent": false,
+        "followers_count": 1047,
+        "following": false,
+        "friends_count": 361,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19257701,
+        "id_str": "19257701",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Sweden",
+        "name": "BitterBlondin",
+        "notifications": false,
+        "profile_background_color": "F0E1F8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19257701/1486583132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743199163500789760/UkzFhhqU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743199163500789760/UkzFhhqU_normal.jpg",
+        "profile_link_color": "C53686",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josabeth",
+        "statuses_count": 15289,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EwWjYIlFie",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

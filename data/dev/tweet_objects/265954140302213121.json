@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 06 23:09:42 +0000 2012",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39364684,
+                "id_str": "39364684",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "chrissy teigen",
+                "screen_name": "chrissyteigen"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 265954140302213121,
+    "id_str": "265954140302213121",
+    "in_reply_to_screen_name": "chrissyteigen",
+    "in_reply_to_status_id": 265953285247209472,
+    "in_reply_to_status_id_str": "265953285247209472",
+    "in_reply_to_user_id": 39364684,
+    "in_reply_to_user_id_str": "39364684",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@chrissyteigen fedex some 2 me in FL Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 22 21:41:34 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The journey of a thousand miles begins with one step. Lao Tzu",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3837,
+        "follow_request_sent": false,
+        "followers_count": 49,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 587769947,
+        "id_str": "587769947",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Jamaica WI",
+        "name": "JJJ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/587769947/1435021956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613158667865559040/JabtGPzJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613158667865559040/JabtGPzJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hotstepazz",
+        "statuses_count": 7885,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

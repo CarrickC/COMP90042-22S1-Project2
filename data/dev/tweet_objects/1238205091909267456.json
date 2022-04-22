@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 20:47:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 193958168,
+                "id_str": "193958168",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Gregory McKelvey",
+                "screen_name": "GregoryMcKelvey"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1238205091909267456,
+    "id_str": "1238205091909267456",
+    "in_reply_to_screen_name": "GregoryMcKelvey",
+    "in_reply_to_status_id": 1238204465624170497,
+    "in_reply_to_status_id_str": "1238204465624170497",
+    "in_reply_to_user_id": 193958168,
+    "in_reply_to_user_id_str": "193958168",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@GregoryMcKelvey Except this has 10-60 times higher death rate. (60 times in Italy, where it's 6%, 4% | 40 times in Wuhan.)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 25 06:35:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Canadian. Writer. Recovering nomad; 25 countries, 4 years. It was worth it. Food nerd. Writes for $. Oxford commas are the hill I'll die on. (she/her) #Binders",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nomadnomore.substack.com",
+                        "expanded_url": "https://nomadnomore.substack.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qxa57lqzUS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33938,
+        "follow_request_sent": false,
+        "followers_count": 6505,
+        "following": false,
+        "friends_count": 3819,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14523404,
+        "id_str": "14523404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 502,
+        "location": "Victoria, British Columbia",
+        "name": "Steffani Cameron, Deep State Operative \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "FCFCFC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14523404/1460869849",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498043926573293572/IRiZ4XRK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498043926573293572/IRiZ4XRK_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "8F000F",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SnarkySteff",
+        "statuses_count": 293168,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/qxa57lqzUS",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

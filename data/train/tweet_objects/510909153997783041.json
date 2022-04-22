@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 13 21:53:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 322572436,
+                "id_str": "322572436",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Israel News Feed",
+                "screen_name": "IsraelHatzolah"
+            },
+            {
+                "id": 1336038645078355968,
+                "id_str": "1336038645078355968",
+                "indices": [
+                    16,
+                    30
+                ],
+                "name": "Sandra Alabama",
+                "screen_name": "SandraAlabama"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510909153997783041,
+    "id_str": "510909153997783041",
+    "in_reply_to_screen_name": "IsraelHatzolah",
+    "in_reply_to_status_id": 510906049549705216,
+    "in_reply_to_status_id_str": "510906049549705216",
+    "in_reply_to_user_id": 322572436,
+    "in_reply_to_user_id_str": "322572436",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IsraelHatzolah @SandraAlabama Bastards you will eat pork...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 23 21:13:29 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Constitutionalist, Free Thinker, Bible Believing Christian, God-Family-Country , #JohnDoe.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4870,
+        "follow_request_sent": false,
+        "followers_count": 3724,
+        "following": false,
+        "friends_count": 4275,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2151688938,
+        "id_str": "2151688938",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "Arkansas, USA",
+        "name": "michael hartley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2151688938/1610666781",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958125393474703360/oGwzgJQt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958125393474703360/oGwzgJQt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "A_Sovereign",
+        "statuses_count": 25389,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

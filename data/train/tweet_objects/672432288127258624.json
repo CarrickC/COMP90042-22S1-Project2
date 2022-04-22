@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:08:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51585817,
+                "id_str": "51585817",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Eunice H",
+                "screen_name": "luvMsE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672432288127258624,
+    "id_str": "672432288127258624",
+    "in_reply_to_screen_name": "luvMsE",
+    "in_reply_to_status_id": 672428214514491392,
+    "in_reply_to_status_id_str": "672428214514491392",
+    "in_reply_to_user_id": 51585817,
+    "in_reply_to_user_id_str": "51585817",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@luvMsE Apparently you don't know. John Lott is a source.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 06 23:30:59 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired industrial electrician",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 45,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3308250596,
+        "id_str": "3308250596",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ohio ",
+        "name": "Ray",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734980488520048640/pIi6Tbby_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734980488520048640/pIi6Tbby_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rayshoe555",
+        "statuses_count": 570,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

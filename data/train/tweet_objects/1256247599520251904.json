@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 01 15:42:22 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    2,
+                    5
+                ],
+                "text": "5G"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1256247599520251904",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/tSHBXuig9P"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1256247599520251904,
+    "id_str": "1256247599520251904",
+    "in_reply_to_screen_name": "iHealthFacts1",
+    "in_reply_to_status_id": 1256247597456666624,
+    "in_reply_to_status_id_str": "1256247597456666624",
+    "in_reply_to_user_id": 1241007911809286145,
+    "in_reply_to_user_id_str": "1241007911809286145",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u25aa\ufe0f#5G is a new generation of mobile network technology that aims to deliver faster internet speeds and a more relia\u2026 https://t.co/tSHBXuig9P",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 14:25:29 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "iHealthFacts is a resource where the public can quickly and easily check the reliability of a health claim circulated on social media.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ihealthfacts.ie",
+                        "expanded_url": "http://ihealthfacts.ie",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wXb9gJx8cc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 423,
+        "follow_request_sent": false,
+        "followers_count": 1021,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1241007911809286145,
+        "id_str": "1241007911809286145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "  ",
+        "name": "iHealthFacts",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241007911809286145/1585665125",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244995547779514369/gogE3xbZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244995547779514369/gogE3xbZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iHealthFacts1",
+        "statuses_count": 581,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wXb9gJx8cc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

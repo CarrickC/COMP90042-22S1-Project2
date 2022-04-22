@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 09:19:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "tinyurl.com/oj85hot",
+                "expanded_url": "http://tinyurl.com/oj85hot",
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/BRKaZDxhsO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 487600344,
+                "id_str": "487600344",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Bipartisan Report",
+                "screen_name": "Bipartisanism"
+            },
+            {
+                "id": 393771226,
+                "id_str": "393771226",
+                "indices": [
+                    15,
+                    31
+                ],
+                "name": "Constance Jackson",
+                "screen_name": "ConstanceJackso"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671257115307212800,
+    "id_str": "671257115307212800",
+    "in_reply_to_screen_name": "Bipartisanism",
+    "in_reply_to_status_id": 671181758692507648,
+    "in_reply_to_status_id_str": "671181758692507648",
+    "in_reply_to_user_id": 487600344,
+    "in_reply_to_user_id_str": "487600344",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Bipartisanism @ConstanceJackso REPUBLICANS AND WEAPONIZED HATRED    https://t.co/BRKaZDxhsO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 02 21:05:00 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fomer reporter & legal investigator.  Columnist at Bureaucracybuster. Fighting political & bureaucratic arrogance, incompetence and/or indifference.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bureaucracybuster.com",
+                        "expanded_url": "http://bureaucracybuster.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pGkvwHsJv8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 159,
+        "follow_request_sent": false,
+        "followers_count": 2620,
+        "following": false,
+        "friends_count": 2306,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 569505870,
+        "id_str": "569505870",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "United States",
+        "name": "Steffen White",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2185501150/SteffenWhite2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2185501150/SteffenWhite2_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Bureaucracybust",
+        "statuses_count": 17966,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/pGkvwHsJv8",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

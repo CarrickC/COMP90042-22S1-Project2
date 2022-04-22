@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 08 19:29:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26643566,
+                "id_str": "26643566",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "SpreadButter Riding The Kraken",
+                "screen_name": "SpreadButter"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 553272346585214976,
+    "id_str": "553272346585214976",
+    "in_reply_to_screen_name": "SpreadButter",
+    "in_reply_to_status_id": 553271856786968576,
+    "in_reply_to_status_id_str": "553271856786968576",
+    "in_reply_to_user_id": 26643566,
+    "in_reply_to_user_id_str": "26643566",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SpreadButter Such class in that house.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 16 00:02:54 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "God, Family, Guns, Harleys, Horses, Packers, ManU, poker. Conservative, attorney, 'papa'. Here to chew gum and stand up for freedom under God. All out of gum.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 755,
+        "follow_request_sent": false,
+        "followers_count": 2201,
+        "following": false,
+        "friends_count": 3281,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 105303715,
+        "id_str": "105303715",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 55,
+        "location": "California",
+        "name": "Papa Dog",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105303715/1402969884",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/822528094388924416/3CTsc-ed_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/822528094388924416/3CTsc-ed_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "eclectichorzman",
+        "statuses_count": 43514,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

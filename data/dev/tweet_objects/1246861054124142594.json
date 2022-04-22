@@ -1,0 +1,179 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 05 18:03:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1246861054124142594",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/LXYpaLoJJt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1244892413262311425,
+                "id_str": "1244892413262311425",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "#IndiaFightsCorona",
+                "screen_name": "COVIDNewsByMIB"
+            },
+            {
+                "id": 920488039,
+                "id_str": "920488039",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Ministry of Information and Broadcasting",
+                "screen_name": "MIB_India"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    27,
+                    31
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 231033118,
+                "id_str": "231033118",
+                "indices": [
+                    32,
+                    42
+                ],
+                "name": "PIB India",
+                "screen_name": "PIB_India"
+            },
+            {
+                "id": 1207634475254865921,
+                "id_str": "1207634475254865921",
+                "indices": [
+                    43,
+                    56
+                ],
+                "name": "PIB Fact Check",
+                "screen_name": "PIBFactCheck"
+            },
+            {
+                "id": 1056850669,
+                "id_str": "1056850669",
+                "indices": [
+                    57,
+                    71
+                ],
+                "name": "All India Radio News",
+                "screen_name": "airnewsalerts"
+            },
+            {
+                "id": 1100927498,
+                "id_str": "1100927498",
+                "indices": [
+                    72,
+                    83
+                ],
+                "name": "DD News",
+                "screen_name": "DDNewslive"
+            },
+            {
+                "id": 2596143056,
+                "id_str": "2596143056",
+                "indices": [
+                    84,
+                    96
+                ],
+                "name": "Ministry of Health",
+                "screen_name": "MoHFW_INDIA"
+            },
+            {
+                "id": 77732185,
+                "id_str": "77732185",
+                "indices": [
+                    97,
+                    112
+                ],
+                "name": "Dr Harsh Vardhan",
+                "screen_name": "drharshvardhan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1246861054124142594,
+    "id_str": "1246861054124142594",
+    "in_reply_to_screen_name": "COVIDNewsByMIB",
+    "in_reply_to_status_id": 1246841739878383617,
+    "in_reply_to_status_id_str": "1246841739878383617",
+    "in_reply_to_user_id": 1244892413262311425,
+    "in_reply_to_user_id_str": "1244892413262311425",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@COVIDNewsByMIB @MIB_India @WHO @PIB_India @PIBFactCheck @airnewsalerts @DDNewslive @MoHFW_INDIA @drharshvardhan\u2026 https://t.co/LXYpaLoJJt",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 28 10:09:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 398,
+        "follow_request_sent": false,
+        "followers_count": 7,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 109218920,
+        "id_str": "109218920",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "New Delhi, India",
+        "name": "shib token",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109218920/1441991222",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516618624110194690/apHetN4K_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516618624110194690/apHetN4K_normal.png",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shib9593",
+        "statuses_count": 42,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

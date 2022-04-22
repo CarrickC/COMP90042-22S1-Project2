@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 01:19:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            },
+            {
+                "id": 14515799,
+                "id_str": "14515799",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Brian Stelter",
+                "screen_name": "brianstelter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538864750458052608,
+    "id_str": "538864750458052608",
+    "in_reply_to_screen_name": "WesleyLowery",
+    "in_reply_to_status_id": 538851683141304320,
+    "in_reply_to_status_id_str": "538851683141304320",
+    "in_reply_to_user_id": 14849562,
+    "in_reply_to_user_id_str": "14849562",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WesleyLowery @brianstelter my understanding was that ABC said they don't pay for interviews, not that they didn't compensate Wilson somehow",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 02 19:50:33 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wave 'Em High! Tweets reflect my POV only. https://t.co/bsVzBiktEp",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "eventbrite.com/e/black-libera\u2026",
+                        "expanded_url": "https://www.eventbrite.com/e/black-liberation-walking-tour-tickets-260631454697?ref=eios",
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "url": "https://t.co/bsVzBiktEp"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blwt.org",
+                        "expanded_url": "http://blwt.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4SCmFzgRri"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34258,
+        "follow_request_sent": false,
+        "followers_count": 2433,
+        "following": false,
+        "friends_count": 2529,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17816452,
+        "id_str": "17816452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 71,
+        "location": "Town",
+        "name": "BleacherDave",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17816452/1633547122",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1500834392968597507/FyFFD4sv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500834392968597507/FyFFD4sv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bleacherdave",
+        "statuses_count": 54731,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4SCmFzgRri",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

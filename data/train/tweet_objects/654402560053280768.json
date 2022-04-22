@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 21:05:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    16,
+                    28
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    29,
+                    33
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    34,
+                    48
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    49,
+                    57
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 654402560053280768,
+    "id_str": "654402560053280768",
+    "in_reply_to_screen_name": "BenPFerrara",
+    "in_reply_to_status_id": 654343805081157633,
+    "in_reply_to_status_id_str": "654343805081157633",
+    "in_reply_to_user_id": 434655422,
+    "in_reply_to_user_id_str": "434655422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@JustThatGuyBen @CNNPolitics @CNN @BernieSanders @nytimes \nSTOP DENYING THE PEOPLES CHAMPION!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 10 02:45:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 67,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 433049674,
+        "id_str": "433049674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Basil Elamir",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BasilElamir",
+        "statuses_count": 38,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

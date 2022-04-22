@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 18:12:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523174672419258368,
+    "id_str": "523174672419258368",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BBCBreaking The horrible abuse will scare these young women for life who's going to pay for this?????",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 10 12:06:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife, Mom to 2 teenagers + 2 giant dog ARC book reviewer F1\ud83c\udfc1 Vettle Urie Panic! @ the Disco MGKelly  Lucifer Simple Creatures\ud83c\udfb8David Gandy Netflix JA Huss",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 52685,
+        "follow_request_sent": false,
+        "followers_count": 2506,
+        "following": false,
+        "friends_count": 3746,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 64387796,
+        "id_str": "64387796",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 100,
+        "location": "New York, USA",
+        "name": "Susie",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64387796/1547442016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575271849636012032/Iq-Gnp_c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575271849636012032/Iq-Gnp_c_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SwtRochester",
+        "statuses_count": 33672,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

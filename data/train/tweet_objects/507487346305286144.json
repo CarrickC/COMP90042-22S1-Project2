@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 04 11:16:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507487346305286144,
+    "id_str": "507487346305286144",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 507454543169617920,
+    "in_reply_to_status_id_str": "507454543169617920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HuffingtonPost Why do people post such crap?  And why do people re-post it without checking it out?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 12:58:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Not As Tall As I Would Like To Be.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nbc4i.com",
+                        "expanded_url": "http://www.nbc4i.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DbC2sEDRH9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21983,
+        "follow_request_sent": false,
+        "followers_count": 4612,
+        "following": false,
+        "friends_count": 1853,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 27863698,
+        "id_str": "27863698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 124,
+        "location": "Columbus, Ohio",
+        "name": "Bob Nunnally",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27863698/1500751490",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686292579701370880/foK72-fP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686292579701370880/foK72-fP_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BobNBC4",
+        "statuses_count": 50191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/DbC2sEDRH9",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

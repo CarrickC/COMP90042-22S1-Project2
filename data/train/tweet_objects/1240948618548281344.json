@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 10:29:41 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240948618548281344",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/OYPc4dIRyE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    26,
+                    34
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    35,
+                    43
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    44,
+                    53
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1240948618548281344,
+    "id_str": "1240948618548281344",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1240409217997189128,
+    "in_reply_to_status_id_str": "1240409217997189128",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO @pahowho @WHO_Europe @WHOEMRO @WHOAFRO @WHOSEARO @WHOWPRO Ibuprofen is known to cause severe complications in\u2026 https://t.co/OYPc4dIRyE",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 22 08:09:17 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Om Swamiji\u2019s disciple, practicing being mindful, compassionate, forgiving. Paediatrician, Child & newborn liver specialist by profession #Miracles Hospital",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "miracleschildrenhospital.in",
+                        "expanded_url": "http://www.miracleschildrenhospital.in",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/R2PdDmaBpl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6705,
+        "follow_request_sent": false,
+        "followers_count": 237,
+        "following": false,
+        "friends_count": 703,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 756400712335122432,
+        "id_str": "756400712335122432",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bhopal, India",
+        "name": "Rakesh Om Mishra, MD",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756400712335122432/1579875569",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1293193050492006400/xXq2VEWk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293193050492006400/xXq2VEWk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RakeshMi2",
+        "statuses_count": 582,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/R2PdDmaBpl",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

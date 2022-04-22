@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 24 04:01:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1275640171216633858",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jACq0JqOhZ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1275640171216633858,
+    "id_str": "1275640171216633858",
+    "in_reply_to_screen_name": "BurnettForCO3",
+    "in_reply_to_status_id": 1275637466683387904,
+    "in_reply_to_status_id_str": "1275637466683387904",
+    "in_reply_to_user_id": 3217310346,
+    "in_reply_to_user_id_str": "3217310346",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.608379,
+                        39.402094
+                    ],
+                    [
+                        -76.536715,
+                        39.402094
+                    ],
+                    [
+                        -76.536715,
+                        39.447047
+                    ],
+                    [
+                        -76.608379,
+                        39.447047
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hampton, MD",
+        "id": "39310e9fb359d7f9",
+        "name": "Hampton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/39310e9fb359d7f9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@dlbvet Historically it has been to do serology or blood tests for pathogen-specific antibodies. This study suggest\u2026 https://t.co/jACq0JqOhZ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 25 05:55:00 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Doloff Lab: Immunoengineering & Regen Med @TTECJHU | Ugrad @Penn @PennBioeng | PhD @BU_Tweets | Postdoc @MIT | Assist. Prof. @JohnsHopkins @JHUBME DEI YNWA!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bme.jhu.edu/dolofflab/",
+                        "expanded_url": "https://www.bme.jhu.edu/dolofflab/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jV0WhEQPzM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8555,
+        "follow_request_sent": false,
+        "followers_count": 1418,
+        "following": false,
+        "friends_count": 1125,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1055336904575647744,
+        "id_str": "1055336904575647744",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Baltimore, MD",
+        "name": "Joshua C. Doloff",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055336904575647744/1582029059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499834685492502533/asUpf3dv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499834685492502533/asUpf3dv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DoloffLab",
+        "statuses_count": 2529,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jV0WhEQPzM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

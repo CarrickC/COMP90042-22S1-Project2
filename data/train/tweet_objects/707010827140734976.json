@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 08 01:11:31 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 707010827140734976,
+    "id_str": "707010827140734976",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 705852364276666368,
+    "in_reply_to_status_id_str": "705852364276666368",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Gotham3  lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 24 06:00:07 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "~Transforming through life experience, #writing, #poetry and all things that fires up my soul.. #clinicalRN",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8218,
+        "follow_request_sent": false,
+        "followers_count": 1010,
+        "following": false,
+        "friends_count": 585,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2152354868,
+        "id_str": "2152354868",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "under the sky",
+        "name": "ina sumi ~",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2152354868/1549886446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1423249892860850180/Nv3nqKC3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423249892860850180/Nv3nqKC3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "adeline_ina",
+        "statuses_count": 3191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

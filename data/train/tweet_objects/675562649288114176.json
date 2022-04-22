@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            4.5942064,
+            8.4934636
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Dec 12 06:27:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            8.4934636,
+            4.5942064
+        ],
+        "type": "Point"
+    },
+    "id": 675562649288114176,
+    "id_str": "675562649288114176",
+    "in_reply_to_screen_name": "topislamicnet",
+    "in_reply_to_status_id": 675490515748425728,
+    "in_reply_to_status_id_str": "675490515748425728",
+    "in_reply_to_user_id": 251881119,
+    "in_reply_to_user_id_str": "251881119",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.4752509,
+                        8.4145568
+                    ],
+                    [
+                        4.6252965,
+                        8.4145568
+                    ],
+                    [
+                        4.6252965,
+                        8.5453022
+                    ],
+                    [
+                        4.4752509,
+                        8.5453022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Ilorin, Nigeria",
+        "id": "01cba65c41c20b24",
+        "name": "Ilorin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01cba65c41c20b24.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@Maestrouzy this is good. May she be guided to excel and prove all the doubting Thomases wrong. Go ahead &amp; stand protected",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 18:38:49 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 60,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3121270273,
+        "id_str": "3121270273",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Kareem  Ola Jimoh",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimoh_ko",
+        "statuses_count": 13,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

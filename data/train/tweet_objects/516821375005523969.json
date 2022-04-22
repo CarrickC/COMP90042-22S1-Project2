@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 30 05:26:32 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893966122109853696,
+                "id_str": "893966122109853696",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Placeholder",
+                "screen_name": "DavidJo52951945"
+            },
+            {
+                "id": 1308509430,
+                "id_str": "1308509430",
+                "indices": [
+                    123,
+                    136
+                ],
+                "name": "Twi#erIsNewSpeak\u274c",
+                "screen_name": "BlindManMark"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 516821375005523969,
+    "id_str": "516821375005523969",
+    "in_reply_to_screen_name": "DavidJoBrexit",
+    "in_reply_to_status_id": 516636338679197697,
+    "in_reply_to_status_id_str": "516636338679197697",
+    "in_reply_to_user_id": 1125937411,
+    "in_reply_to_user_id_str": "1125937411",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DavidJo52951945 What's next? A Burqa for The Colonel? No female employees? Why not tofu chicken so as not to offend PETA? @BlindManMark",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 10 00:37:39 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former LEO: San Diego PD. Storyteller. Conservative. Nationalist. Work in progress. Mystery & Science Fiction Writer. #1A #2A #BacktheBlue #AutismDad #MAGA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 741086,
+        "follow_request_sent": false,
+        "followers_count": 10263,
+        "following": false,
+        "friends_count": 8224,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1849848000,
+        "id_str": "1849848000",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 99,
+        "location": "San Diego, California",
+        "name": "George Eliseo",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849848000/1578544020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215127807996526593/TzPZL4kN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215127807996526593/TzPZL4kN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "003A6C",
+        "profile_text_color": "4D87B7",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GeorgeEliseo",
+        "statuses_count": 354319,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

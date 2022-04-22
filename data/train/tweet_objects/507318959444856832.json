@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 04 00:07:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507318959444856832,
+    "id_str": "507318959444856832",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 507263441359613953,
+    "in_reply_to_status_id_str": "507263441359613953",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@FoxNews @FoxCarReport A factory in middle of desert. Fossil fueled power for AC to produce an all electric car that can go 100 mile/charge!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 06 12:58:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23720,
+        "follow_request_sent": false,
+        "followers_count": 65,
+        "following": false,
+        "friends_count": 52,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 929670702,
+        "id_str": "929670702",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Ohio, USA",
+        "name": "Mike Ryan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2814444293/fb48a24f4424df200886416b05e80bf6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2814444293/fb48a24f4424df200886416b05e80bf6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikeryan68",
+        "statuses_count": 24442,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

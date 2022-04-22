@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 30 22:46:14 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 727109304,
+                "id_str": "727109304",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "Elle",
+                "screen_name": "eblockk_"
+            },
+            {
+                "id": 15791186,
+                "id_str": "15791186",
+                "indices": [
+                    13,
+                    18
+                ],
+                "name": "KHOU 11 News Houston",
+                "screen_name": "KHOU"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 517083024672841728,
+    "id_str": "517083024672841728",
+    "in_reply_to_screen_name": "eblockk_",
+    "in_reply_to_status_id": 517082687329554432,
+    "in_reply_to_status_id_str": "517082687329554432",
+    "in_reply_to_user_id": 727109304,
+    "in_reply_to_user_id_str": "727109304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@eblockk_: \u201c@KHOU: CDC has confirmed that the patient in Dallas has tested positive for the Ebola virus.\u201d g2g leaving the country\u201d \u2708\ufe0fBrazil",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 02 17:39:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Year of Rebuilding | TTU Alumna | \ud83c\udde6\ud83c\uddf4",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/c/NiciaK0713",
+                        "expanded_url": "https://youtube.com/c/NiciaK0713",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yLPODRBBG8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 38179,
+        "follow_request_sent": false,
+        "followers_count": 1653,
+        "following": false,
+        "friends_count": 1025,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 328070793,
+        "id_str": "328070793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "In the secret place",
+        "name": "BA",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328070793/1612040060",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513322833895645185/xemdg70J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513322833895645185/xemdg70J_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nicia_K",
+        "statuses_count": 105031,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yLPODRBBG8",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

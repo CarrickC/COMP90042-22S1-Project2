@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 13 14:14:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 555005086074929152,
+    "id_str": "555005086074929152",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 555003887753494528,
+    "in_reply_to_status_id_str": "555003887753494528",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@FoxNews That's got to be the most insane thing I've heard today. Give it time, something crazier awaits us.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 11 02:46:16 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "All around chill guy. Avid video gamer. Seeker of interesting knowledge and tidbits. Independent/Conservative, USA born and proud of it! Thrash metal for life!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10480,
+        "follow_request_sent": false,
+        "followers_count": 871,
+        "following": false,
+        "friends_count": 877,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 550639277,
+        "id_str": "550639277",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 33,
+        "location": "Saint Louis, MO",
+        "name": "Edward F",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550639277/1431946255",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007061882191122432/hD1X6k9h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007061882191122432/hD1X6k9h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MadeInUSA1983",
+        "statuses_count": 21911,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

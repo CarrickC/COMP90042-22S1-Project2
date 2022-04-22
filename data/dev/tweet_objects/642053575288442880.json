@@ -1,0 +1,198 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 10 19:14:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3JJAteBZK3",
+                "expanded_url": "https://twitter.com/ShortbusMooner/status/642053575288442880/photo/1",
+                "id": 642053574944538625,
+                "id_str": "642053574944538625",
+                "indices": [
+                    55,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/COkIUx1WwAE43uF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COkIUx1WwAE43uF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/3JJAteBZK3"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    36,
+                    52
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3JJAteBZK3",
+                "expanded_url": "https://twitter.com/ShortbusMooner/status/642053575288442880/photo/1",
+                "id": 642053574944538625,
+                "id_str": "642053574944538625",
+                "indices": [
+                    55,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/COkIUx1WwAE43uF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COkIUx1WwAE43uF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/3JJAteBZK3"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 642053575288442880,
+    "id_str": "642053575288442880",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 642027433693171712,
+    "in_reply_to_status_id_str": "642027433693171712",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump - http://t.co/3JJAteBZK3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 04 16:18:07 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "~Never Slow Down, Never Grow Old~ Teresa: Secular Humanist, Libertarian-leaning Centrist, Rock Music Aficionado, Sexy Minx, & All-Star Bizitch.. ;)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 57115,
+        "follow_request_sent": false,
+        "followers_count": 764,
+        "following": false,
+        "friends_count": 1280,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 293010495,
+        "id_str": "293010495",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Tampa Bay, FL",
+        "name": "Shortbus Mooner",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293010495/1410376782",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878800433816502273/U8AbhOHq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878800433816502273/U8AbhOHq_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShortbusMooner",
+        "statuses_count": 23025,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

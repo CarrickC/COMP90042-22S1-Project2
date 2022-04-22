@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 03:34:02 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "amberalert.gov",
+                "expanded_url": "http://amberalert.gov",
+                "indices": [
+                    12,
+                    34
+                ],
+                "url": "http://t.co/I5iIGL0lbX"
+            },
+            {
+                "display_url": "bit.ly/GDdkVf",
+                "expanded_url": "http://bit.ly/GDdkVf",
+                "indices": [
+                    104,
+                    126
+                ],
+                "url": "http://t.co/z87WWo3qgj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1077446982,
+                "id_str": "1077446982",
+                "indices": [
+                    127,
+                    140
+                ],
+                "name": "Rep. Roger Williams",
+                "screen_name": "RepRWilliams"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387058206041591808,
+    "id_str": "387058206041591808",
+    "in_reply_to_screen_name": "RepRWilliams",
+    "in_reply_to_status_id": 386998038004113409,
+    "in_reply_to_status_id_str": "386998038004113409",
+    "in_reply_to_user_id": 1077446982,
+    "in_reply_to_user_id_str": "1077446982",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "text": "DOJ closing http://t.co/I5iIGL0lbX violates their OWN procedures for what will be funded and what won't http://t.co/z87WWo3qgj @RepRWilliams",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 21:07:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Aspiring Conservative blogger from the Vol State. Providing you with the top stories from the Conservative Blogosphere. #TGDN",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rampartmedia.com",
+                        "expanded_url": "http://rampartmedia.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/GHLV6JUsxU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 41,
+        "follow_request_sent": false,
+        "followers_count": 1138,
+        "following": false,
+        "friends_count": 1289,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 105892267,
+        "id_str": "105892267",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 40,
+        "location": "Tennessee",
+        "name": "Rampart Media",
+        "notifications": false,
+        "profile_background_color": "EBF0F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105892267/1418015113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2890534109/b36735c6f2891f75b867c9557b46e3ab_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2890534109/b36735c6f2891f75b867c9557b46e3ab_normal.png",
+        "profile_link_color": "FF6600",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RampartMedia",
+        "statuses_count": 105685,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/GHLV6JUsxU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

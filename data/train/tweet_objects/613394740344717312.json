@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 17:14:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16374678,
+                "id_str": "16374678",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ABC7 Eyewitness News",
+                "screen_name": "ABC7"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 613394740344717312,
+    "id_str": "613394740344717312",
+    "in_reply_to_screen_name": "ABC7",
+    "in_reply_to_status_id": 613393657161510913,
+    "in_reply_to_status_id_str": "613393657161510913",
+    "in_reply_to_user_id": 16374678,
+    "in_reply_to_user_id_str": "16374678",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC7 Which is common practice for many police departments since they aren't equipped with kitchens and are required to feed their prisoners",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 30 21:17:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/2ou7sjLDoS\n\n\n\n\ud83e\udd14https://t.co/gGvnlg8piR\ud83e\udd14",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "renegadebroadcasting.com/hosts/nick/",
+                        "expanded_url": "http://www.renegadebroadcasting.com/hosts/nick/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2ou7sjLDoS"
+                    },
+                    {
+                        "display_url": "youtube.com/c/CircusMaximu\u2026",
+                        "expanded_url": "https://www.youtube.com/c/CircusMaximus14",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "url": "https://t.co/gGvnlg8piR"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "circusmaximus.podomatic.com",
+                        "expanded_url": "http://circusmaximus.podomatic.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/POIwrMpBWy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29134,
+        "follow_request_sent": false,
+        "followers_count": 1609,
+        "following": false,
+        "friends_count": 1933,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2951889245,
+        "id_str": "2951889245",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 56,
+        "location": "#Chiraq",
+        "name": "Nick Spero",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951889245/1455581003",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864321436470489088/fOXV79Wh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/864321436470489088/fOXV79Wh_normal.jpg",
+        "profile_link_color": "111111",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CircusMaximus14",
+        "statuses_count": 69007,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/POIwrMpBWy",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 02:55:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544324907400568832,
+    "id_str": "544324907400568832",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 544324444773433348,
+    "in_reply_to_status_id_str": "544324444773433348",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        169.736478,
+                        -46.052058
+                    ],
+                    [
+                        170.750898,
+                        -46.052058
+                    ],
+                    [
+                        170.750898,
+                        -45.228967
+                    ],
+                    [
+                        169.736478,
+                        -45.228967
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "Dunedin City, New Zealand",
+        "id": "00cc2a2f169735bc",
+        "name": "Dunedin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00cc2a2f169735bc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@mashable Deplorable",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 07 00:27:08 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "DEVELOPER",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shoreless.org",
+                        "expanded_url": "http://shoreless.org/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Q47XGnao7k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 57,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 351,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2921091842,
+        "id_str": "2921091842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Singapore",
+        "name": "Shaz",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2921091842/1417912837",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541389101664960512/ffobAaX4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/541389101664960512/ffobAaX4_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "metastructured",
+        "statuses_count": 165,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/Q47XGnao7k",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

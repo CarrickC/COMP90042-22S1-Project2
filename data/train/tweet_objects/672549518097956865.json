@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:54:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23171317,
+                "id_str": "23171317",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "d$",
+                "screen_name": "davedollar"
+            },
+            {
+                "id": 715044396,
+                "id_str": "715044396",
+                "indices": [
+                    26,
+                    42
+                ],
+                "name": "Lisa",
+                "screen_name": "Rockprincess818"
+            },
+            {
+                "id": 539566673,
+                "id_str": "539566673",
+                "indices": [
+                    43,
+                    55
+                ],
+                "name": "John R Lott Jr.",
+                "screen_name": "JohnRLottJr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672549518097956865,
+    "id_str": "672549518097956865",
+    "in_reply_to_screen_name": "davedollar",
+    "in_reply_to_status_id": 672449431367770112,
+    "in_reply_to_status_id_str": "672449431367770112",
+    "in_reply_to_user_id": 23171317,
+    "in_reply_to_user_id_str": "23171317",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@davedollar @Todd_C_Meyer @Rockprincess818 @JohnRLottJr cause there wasn't much social media like there is today",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 01 12:30:27 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 58,
+        "follow_request_sent": false,
+        "followers_count": 174,
+        "following": false,
+        "friends_count": 448,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 259231223,
+        "id_str": "259231223",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Mi",
+        "name": "michiganct",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2929931126/92327cf08cdfd43b7eb74f37eea1d629_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2929931126/92327cf08cdfd43b7eb74f37eea1d629_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michiganct",
+        "statuses_count": 14010,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 03 01:24:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 705202191724900352,
+    "id_str": "705202191724900352",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 705148887468609538,
+    "in_reply_to_status_id_str": "705148887468609538",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Gotham3 \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 24 08:11:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Art and Stuff",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10155,
+        "follow_request_sent": false,
+        "followers_count": 683,
+        "following": false,
+        "friends_count": 1633,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 304291729,
+        "id_str": "304291729",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 36,
+        "location": "",
+        "name": "Pinello",
+        "notifications": false,
+        "profile_background_color": "080600",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304291729/1616184777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373004581752483841/fQf_waC2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373004581752483841/fQf_waC2_normal.jpg",
+        "profile_link_color": "6A5EB3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6DCD1",
+        "profile_text_color": "53AB8D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thepinello",
+        "statuses_count": 6865,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

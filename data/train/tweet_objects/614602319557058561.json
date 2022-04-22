@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:13:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    36
+                ],
+                "text": "BEAUTIFUL"
+            },
+            {
+                "indices": [
+                    39,
+                    51
+                ],
+                "text": "GayMarriage"
+            },
+            {
+                "indices": [
+                    52,
+                    65
+                ],
+                "text": "FamilyValues"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4861868667,
+                "id_str": "4861868667",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "AWN",
+                "screen_name": "WNTonight"
+            },
+            {
+                "id": 8731312,
+                "id_str": "8731312",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Denver7 News",
+                "screen_name": "DenverChannel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614602319557058561,
+    "id_str": "614602319557058561",
+    "in_reply_to_screen_name": "ABCWorldNews",
+    "in_reply_to_status_id": 614601139422633984,
+    "in_reply_to_status_id_str": "614601139422633984",
+    "in_reply_to_user_id": 86141342,
+    "in_reply_to_user_id_str": "86141342",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@WNTonight @DenverChannel #BEAUTIFUL!! #GayMarriage #FamilyValues",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 08 01:21:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mom, advocate for at-risk women & girls, Co-chair of Zonta EducateZ helping girls succeed, mentor, trainer, singer, gardener, dog lover, liberal, Princeton '79",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 182,
+        "follow_request_sent": false,
+        "followers_count": 62,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 331344256,
+        "id_str": "331344256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Boulder, Colorado",
+        "name": "Pamela Malzbender",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/331344256/1487981418",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000071004128/de38727ca8ffa24eb7fd6000ef71c67e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000071004128/de38727ca8ffa24eb7fd6000ef71c67e_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pamrpm",
+        "statuses_count": 489,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

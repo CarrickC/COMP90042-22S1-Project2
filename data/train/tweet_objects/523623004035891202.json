@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 23:53:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 397233691,
+                "id_str": "397233691",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "16th Duke of Bedford, Marquess of Tavistock",
+                "screen_name": "POO_HAT"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 523623004035891202,
+    "id_str": "523623004035891202",
+    "in_reply_to_screen_name": "POO_HAT",
+    "in_reply_to_status_id": 523621664777834496,
+    "in_reply_to_status_id_str": "523621664777834496",
+    "in_reply_to_user_id": 397233691,
+    "in_reply_to_user_id_str": "397233691",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@POO_HAT @pourmecoffee NOT A FUCKING PUPPY, I FOCUSED ON THE WRONG KEYWORD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 06 13:59:23 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I tweet. *puts on tweeting gloves* | He/Him | https://t.co/vxV2hnmo59",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "myspace.com/toomanydudes",
+                        "expanded_url": "http://myspace.com/toomanydudes",
+                        "indices": [
+                            46,
+                            69
+                        ],
+                        "url": "https://t.co/vxV2hnmo59"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 217662,
+        "follow_request_sent": false,
+        "followers_count": 457,
+        "following": false,
+        "friends_count": 1000,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 120458723,
+        "id_str": "120458723",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "a fancy car",
+        "name": "Jozy (not Jeff)",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120458723/1356905959",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292900765523156992/B4M4hczh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292900765523156992/B4M4hczh_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JozyMcMozy",
+        "statuses_count": 18637,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 16:21:35 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    18
+                ],
+                "text": "BREAKING"
+            },
+            {
+                "indices": [
+                    86,
+                    93
+                ],
+                "text": "attack"
+            },
+            {
+                "indices": [
+                    94,
+                    100
+                ],
+                "text": "paris"
+            },
+            {
+                "indices": [
+                    101,
+                    114
+                ],
+                "text": "charliehebdo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    3,
+                    7
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 553587395942420480,
+    "id_str": "553587395942420480",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 553587013409325058,
+    "in_reply_to_status_id_str": "553587013409325058",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AFP: #BREAKING Charlie Hebdo gunmen's hostage freed and safe after police assault #attack #paris #charliehebdo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 25 07:19:33 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Journalist (news & crime) | Photo | Tweets in Dutch and English",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 856,
+        "follow_request_sent": false,
+        "followers_count": 6526,
+        "following": false,
+        "friends_count": 1554,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 117333411,
+        "id_str": "117333411",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 174,
+        "location": "The Hague",
+        "name": "John van der Tol",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117333411/1491047995",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697506074924941312/40hAuvf__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697506074924941312/40hAuvf__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "johnvandertol",
+        "statuses_count": 35882,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

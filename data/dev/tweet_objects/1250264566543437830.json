@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 03:27:56 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250264566543437830",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/F9Qm7Znvck"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            },
+            {
+                "id": 1060016923272916992,
+                "id_str": "1060016923272916992",
+                "indices": [
+                    6,
+                    22
+                ],
+                "name": "Brenda",
+                "screen_name": "BrendaLWood1970"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250264566543437830,
+    "id_str": "1250264566543437830",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1250235276464730113,
+    "in_reply_to_status_id_str": "1250235276464730113",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        130.815116992,
+                        -12.521741584
+                    ],
+                    [
+                        131.05149984,
+                        -12.521741584
+                    ],
+                    [
+                        131.05149984,
+                        -12.330059717
+                    ],
+                    [
+                        130.815116992,
+                        -12.330059717
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Darwin, Northern Territory",
+        "id": "002891d33ed032d3",
+        "name": "Darwin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002891d33ed032d3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@TIME @BrendaLWood1970 I went to read this but all that was rhere was the picture and an introductory paragraph....\u2026 https://t.co/F9Qm7Znvck",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 11:33:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@XPhilesCharity auction creator & co-ordinator! Fan of @GillianA @davidduchovny @TeaLeoni @TheXFiles @MadamSecretary #countrymusic & I'm a stand-up comedian!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/XPhilesCharity/",
+                        "expanded_url": "https://www.facebook.com/XPhilesCharity/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/B3x8BKH249"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14411,
+        "follow_request_sent": false,
+        "followers_count": 314,
+        "following": false,
+        "friends_count": 89,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25272209,
+        "id_str": "25272209",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Palmerston NT Australia",
+        "name": "Jodie Whalan (she/her)",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25272209/1619958153",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979214948088688640/DFr7X9y__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979214948088688640/DFr7X9y__normal.jpg",
+        "profile_link_color": "8A1BC2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F0B7E9",
+        "profile_text_color": "57207E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GillianMe",
+        "statuses_count": 12231,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/B3x8BKH249",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

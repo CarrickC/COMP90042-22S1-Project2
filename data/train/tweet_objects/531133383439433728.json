@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 17:17:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21932336,
+                "id_str": "21932336",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Blake Jarrell",
+                "screen_name": "BlakeJarrell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531133383439433728,
+    "id_str": "531133383439433728",
+    "in_reply_to_screen_name": "BlakeJarrell",
+    "in_reply_to_status_id": 531133138005921792,
+    "in_reply_to_status_id_str": "531133138005921792",
+    "in_reply_to_user_id": 21932336,
+    "in_reply_to_user_id_str": "21932336",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BlakeJarrell ew lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 05 10:48:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "chill\u2026 I got this.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/staygolden_gglv",
+                        "expanded_url": "http://www.instagram.com/staygolden_gglv",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xwwto6y4ym"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8502,
+        "follow_request_sent": false,
+        "followers_count": 403,
+        "following": false,
+        "friends_count": 257,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87660614,
+        "id_str": "87660614",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Las Vegas, NV",
+        "name": "Christina Sithiakakis",
+        "notifications": false,
+        "profile_background_color": "090A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87660614/1645647813",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1452633250363412484/rgE6zQD1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1452633250363412484/rgE6zQD1_normal.jpg",
+        "profile_link_color": "DB1111",
+        "profile_sidebar_border_color": "292425",
+        "profile_sidebar_fill_color": "E38695",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrissysith",
+        "statuses_count": 9146,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xwwto6y4ym",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

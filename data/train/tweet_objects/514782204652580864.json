@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 24 14:23:36 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 239672340,
+                "id_str": "239672340",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Unbox Therapy",
+                "screen_name": "UnboxTherapy"
+            },
+            {
+                "id": 39453212,
+                "id_str": "39453212",
+                "indices": [
+                    30,
+                    38
+                ],
+                "name": "GMA News",
+                "screen_name": "gmanews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514782204652580864,
+    "id_str": "514782204652580864",
+    "in_reply_to_screen_name": "UnboxTherapy",
+    "in_reply_to_status_id": 514513238613303296,
+    "in_reply_to_status_id_str": "514513238613303296",
+    "in_reply_to_user_id": 239672340,
+    "in_reply_to_user_id_str": "239672340",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UnboxTherapy Hello! I'm from @gmanews in the Philippines. May we have your permission to use this video on our TV newscasts? Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 16 00:16:57 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech, media, and telecom worker \u2022 Blogger \u2022 Into news, politics & showbiz \u2022 Webmaster, @Hallyudorama \u2022 @YahooPH alumnus \u2022 #Kdrama fan for Leni-Kiko",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ederic.net",
+                        "expanded_url": "https://ederic.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZWOgcCply5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19649,
+        "follow_request_sent": false,
+        "followers_count": 13342,
+        "following": false,
+        "friends_count": 4091,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1256401,
+        "id_str": "1256401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 182,
+        "location": "Philippines",
+        "name": "Ederic Eder \ud83c\uddf5\ud83c\udded",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256401/1505747373",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510867757654749184/FGApiB1Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510867757654749184/FGApiB1Y_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ederic",
+        "statuses_count": 49802,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/ZWOgcCply5",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

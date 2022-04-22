@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 30 13:31:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    51,
+                    65
+                ],
+                "text": "SleepingTapes"
+            },
+            {
+                "indices": [
+                    111,
+                    114
+                ],
+                "text": "Om"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "DreamingWithJeff.com",
+                "expanded_url": "http://DreamingWithJeff.com",
+                "indices": [
+                    87,
+                    109
+                ],
+                "url": "http://t.co/v854nLrkPb"
+            },
+            {
+                "display_url": "amp.twimg.com/v/c8e8c4ee-62b\u2026",
+                "expanded_url": "https://amp.twimg.com/v/c8e8c4ee-62b9-4ecd-89ed-5111997ff071",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/l4FUjHIxdz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    16,
+                    28
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    30,
+                    45
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 561154625097961473,
+    "id_str": "561154625097961473",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "OMG, you guys: \"@Squarespace: @TheJeffBridges' new #SleepingTapes album. Listen now at http://t.co/v854nLrkPb. #Om\nhttps://t.co/l4FUjHIxdz\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 12 18:54:07 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "if a little girl says I'm a pony because i have purple hair, then by God, I'm a My Little Pony. She/her",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eris4o4.wordpress.com",
+                        "expanded_url": "https://eris4o4.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RPjTKOpqax"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21461,
+        "follow_request_sent": false,
+        "followers_count": 948,
+        "following": false,
+        "friends_count": 831,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 768046,
+        "id_str": "768046",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 69,
+        "location": "\u2736 \u2736 \u2736 \u2736",
+        "name": "The Womandalorian",
+        "notifications": false,
+        "profile_background_color": "AEC75D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768046/1481042886",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865398070770532352/LWRNeULH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865398070770532352/LWRNeULH_normal.jpg",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "67AD5C",
+        "profile_text_color": "13484A",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "eris404",
+        "statuses_count": 86290,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RPjTKOpqax",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

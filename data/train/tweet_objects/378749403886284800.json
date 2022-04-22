@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -80.84147534,
+            35.22527332
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Sep 14 05:17:49 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51646137,
+                "id_str": "51646137",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Katie Hibberd",
+                "screen_name": "KayTeee1"
+            },
+            {
+                "id": 377385959,
+                "id_str": "377385959",
+                "indices": [
+                    10,
+                    26
+                ],
+                "name": "Unrevealed Facts",
+                "screen_name": "unrevealedfacts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            35.22527332,
+            -80.84147534
+        ],
+        "type": "Point"
+    },
+    "id": 378749403886284800,
+    "id_str": "378749403886284800",
+    "in_reply_to_screen_name": "KayTeee1",
+    "in_reply_to_status_id": 378747628626128896,
+    "in_reply_to_status_id_str": "378747628626128896",
+    "in_reply_to_user_id": 51646137,
+    "in_reply_to_user_id_str": "51646137",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KayTeee1 @UnrevealedFacts SHUT THE FRONT DOOR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 26 19:14:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My only wish is that I die real.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4230,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 328,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 422062715,
+        "id_str": "422062715",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Charlotte, NC",
+        "name": "Meagan",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422062715/1505755474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395197501653803009/QQMNRYjI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395197501653803009/QQMNRYjI_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "meaganig",
+        "statuses_count": 7792,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

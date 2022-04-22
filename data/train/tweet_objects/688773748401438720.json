@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 17 17:23:53 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    90
+                ],
+                "text": "cocacola4life"
+            },
+            {
+                "indices": [
+                    91,
+                    107
+                ],
+                "text": "CocaColaCountry"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 170886667,
+                "id_str": "170886667",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Eddie Lacy",
+                "screen_name": "Lil_Eazy_Ana_42"
+            },
+            {
+                "id": 900387962,
+                "id_str": "900387962",
+                "indices": [
+                    17,
+                    25
+                ],
+                "name": "CU at the Bar",
+                "screen_name": "CU_Slam"
+            },
+            {
+                "id": 26787673,
+                "id_str": "26787673",
+                "indices": [
+                    66,
+                    75
+                ],
+                "name": "Coca-Cola",
+                "screen_name": "CocaCola"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 688773748401438720,
+    "id_str": "688773748401438720",
+    "in_reply_to_screen_name": "Lil_Eazy_Ana_42",
+    "in_reply_to_status_id": 91728807081426944,
+    "in_reply_to_status_id_str": "91728807081426944",
+    "in_reply_to_user_id": 170886667,
+    "in_reply_to_user_id_str": "170886667",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Lil_Eazy_Ana_42 @CU_Slam I don't drink Pepsi cause it sucks. War @CocaCola #cocacola4life #CocaColaCountry",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 21:24:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 481,
+        "follow_request_sent": false,
+        "followers_count": 864,
+        "following": false,
+        "friends_count": 192,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 276679058,
+        "id_str": "276679058",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "",
+        "name": "Figure Four",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276679058/1491006147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1298821738/Dale_and_Danny_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298821738/Dale_and_Danny_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "figurefour_sts",
+        "statuses_count": 6849,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

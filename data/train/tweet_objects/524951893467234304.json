@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:54:19 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    121,
+                    136
+                ],
+                "text": "OttawaShooting"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cbc.ca/1.2808710",
+                "expanded_url": "http://www.cbc.ca/1.2808710",
+                "indices": [
+                    74,
+                    96
+                ],
+                "url": "http://t.co/pp6hcfWcRw"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 15,
+    "favorited": false,
+    "geo": null,
+    "id": 524951893467234304,
+    "id_str": "524951893467234304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 108,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "CXN: 1 gunman shot dead in Parliament Hill attack, soldier shot in Ottawa http://t.co/pp6hcfWcRw No report soldier dead. #OttawaShooting",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 30 05:20:39 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Latest news and analysis from CBC News. \ud83c\udde8\ud83c\udde6",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cbcnews.ca",
+                        "expanded_url": "http://www.cbcnews.ca",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xyskMwlawc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5938,
+        "follow_request_sent": false,
+        "followers_count": 3319608,
+        "following": false,
+        "friends_count": 1303,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6433472,
+        "id_str": "6433472",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15728,
+        "location": "Canada",
+        "name": "CBC News",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399862291823214594/z7G6Syta_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399862291823214594/z7G6Syta_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CBCNews",
+        "statuses_count": 262248,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xyskMwlawc",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

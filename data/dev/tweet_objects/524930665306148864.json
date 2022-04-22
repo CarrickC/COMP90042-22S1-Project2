@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:29:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 121483664,
+                "id_str": "121483664",
+                "indices": [
+                    26,
+                    41
+                ],
+                "name": "The Hon. Tony Clement",
+                "screen_name": "TonyclementCPC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524930665306148864,
+    "id_str": "524930665306148864",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 524930365400821761,
+    "in_reply_to_status_id_str": "524930365400821761",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@cnnbrk You should follow @TonyclementCPC who says he heard more than 30 shots fired within House of Parliament.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 23 01:01:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Iqaluit, Nunavut photographer, journalist, and mobile/web product developer | Casey Lessard Photography | SikSik on iOS and Android",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "northernstory.com",
+                        "expanded_url": "https://northernstory.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Msx326ex8J"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 575,
+        "following": false,
+        "friends_count": 639,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34471827,
+        "id_str": "34471827",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Iqaluit, Nunavut",
+        "name": "Casey Lessard",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34471827/1544110507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196160323792834562/boiiE9rS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196160323792834562/boiiE9rS_normal.jpg",
+        "profile_link_color": "23408F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "caseylessard",
+        "statuses_count": 752,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Msx326ex8J",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

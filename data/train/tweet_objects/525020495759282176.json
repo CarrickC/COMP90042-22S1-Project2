@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 20:26:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 894946220,
+                "id_str": "894946220",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "\ud83c\udd71RENT",
+                "screen_name": "DriesBrent"
+            },
+            {
+                "id": 44685373,
+                "id_str": "44685373",
+                "indices": [
+                    21,
+                    32
+                ],
+                "name": "Peter Henderson",
+                "screen_name": "Henderburn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525020495759282176,
+    "id_str": "525020495759282176",
+    "in_reply_to_screen_name": "DriesBrent",
+    "in_reply_to_status_id": 525014151161081856,
+    "in_reply_to_status_id_str": "525014151161081856",
+    "in_reply_to_user_id": 894946220,
+    "in_reply_to_user_id_str": "894946220",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DriesBrent @tdgecas @Henderburn You have a phone! Did you call for help? Nope. I took pics to sell and tweeted that I'm on CNN and ABC.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 10 01:37:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vancouver Canucks fan till death and beyond.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1168,
+        "follow_request_sent": false,
+        "followers_count": 98,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 433011370,
+        "id_str": "433011370",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Vancouver, BC",
+        "name": "Dyson Hellberg",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/433011370/1390293136",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1684393141/hellberg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1684393141/hellberg_normal.jpg",
+        "profile_link_color": "E38622",
+        "profile_sidebar_border_color": "21CC35",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "52BF31",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dysonhellberg",
+        "statuses_count": 2737,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

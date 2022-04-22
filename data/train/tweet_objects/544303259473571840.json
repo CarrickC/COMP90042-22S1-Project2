@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 01:29:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyp.st/16mRnXH",
+                "expanded_url": "http://nyp.st/16mRnXH",
+                "indices": [
+                    64,
+                    86
+                ],
+                "url": "http://t.co/UwdKCRf9iZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 17469289,
+                "id_str": "17469289",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "New York Post",
+                "screen_name": "nypost"
+            },
+            {
+                "id": 20402945,
+                "id_str": "20402945",
+                "indices": [
+                    89,
+                    94
+                ],
+                "name": "CNBC",
+                "screen_name": "CNBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544303259473571840,
+    "id_str": "544303259473571840",
+    "in_reply_to_screen_name": "nypost",
+    "in_reply_to_status_id": 544282005941530624,
+    "in_reply_to_status_id_str": "544282005941530624",
+    "in_reply_to_user_id": 17469289,
+    "in_reply_to_user_id_str": "17469289",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@nypost: Hostages in Sydney cafe made to hold up Islamic flags http://t.co/UwdKCRf9iZ\u201d\n\n@CNBC  \n\nReligion is a good thing in small doses!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 20 03:46:09 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "patriot,THE ELECTION IS OVER NOW,finding my way up and down the fretboard of my guitarz \ud83c\udfb8all10,America1st,66 years here,waitin 4 ship o love to attack,new life",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "HTTP.iaintgot1.com",
+                        "expanded_url": "http://WWW.HTTP.iaintgot1.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oRVidNu8YC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16701,
+        "follow_request_sent": false,
+        "followers_count": 1919,
+        "following": false,
+        "friends_count": 107,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 394470787,
+        "id_str": "394470787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 143,
+        "location": "earth911",
+        "name": "Duffy Mitchell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394470787/1487818245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839705305772519424/2Ryi7liU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839705305772519424/2Ryi7liU_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fuggenduffy",
+        "statuses_count": 73080,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oRVidNu8YC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

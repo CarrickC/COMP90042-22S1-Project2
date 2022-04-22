@@ -1,0 +1,179 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 07 14:12:51 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247527765022134273",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/qFM7Rh3Ojn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 257877382,
+                "id_str": "257877382",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "kamal garba",
+                "screen_name": "kamalkano"
+            },
+            {
+                "id": 2751526439,
+                "id_str": "2751526439",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "Ali Sabo",
+                "screen_name": "a_sabo12"
+            },
+            {
+                "id": 51727271,
+                "id_str": "51727271",
+                "indices": [
+                    21,
+                    27
+                ],
+                "name": "Yunusa Ya'u",
+                "screen_name": "YZYau"
+            },
+            {
+                "id": 1122645026,
+                "id_str": "1122645026",
+                "indices": [
+                    28,
+                    37
+                ],
+                "name": "Hamza Ibrahim",
+                "screen_name": "hamzaish"
+            },
+            {
+                "id": 411499351,
+                "id_str": "411499351",
+                "indices": [
+                    38,
+                    49
+                ],
+                "name": "Sagiru Ado Abubakar",
+                "screen_name": "sagiru_ado"
+            },
+            {
+                "id": 906090810801840129,
+                "id_str": "906090810801840129",
+                "indices": [
+                    50,
+                    60
+                ],
+                "name": "Maryam Ado Haruna",
+                "screen_name": "Mairo_Ado"
+            },
+            {
+                "id": 3254157142,
+                "id_str": "3254157142",
+                "indices": [
+                    61,
+                    73
+                ],
+                "name": "H. M Chiroma",
+                "screen_name": "ChiromaHope"
+            },
+            {
+                "id": 277125739,
+                "id_str": "277125739",
+                "indices": [
+                    74,
+                    87
+                ],
+                "name": "CITAD",
+                "screen_name": "ICTAdvocates"
+            },
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    88,
+                    96
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1247527765022134273,
+    "id_str": "1247527765022134273",
+    "in_reply_to_screen_name": "kamalkano",
+    "in_reply_to_status_id": 1247519558421737474,
+    "in_reply_to_status_id_str": "1247519558421737474",
+    "in_reply_to_user_id": 257877382,
+    "in_reply_to_user_id_str": "257877382",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kamalkano @a_sabo12 @YZYau @hamzaish @sagiru_ado @Mairo_Ado @ChiromaHope @ICTAdvocates @NCDCgov Yes, it is possibl\u2026 https://t.co/qFM7Rh3Ojn",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 08 07:41:17 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pharmacist, Public Health & Development Enthusiast |SDGs",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27599,
+        "follow_request_sent": false,
+        "followers_count": 2866,
+        "following": false,
+        "friends_count": 1840,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1159471507,
+        "id_str": "1159471507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Nigeria",
+        "name": "Nasir",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159471507/1639398605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1495074040909864972/HhmyYLXH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495074040909864972/HhmyYLXH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UsmanRx",
+        "statuses_count": 87705,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

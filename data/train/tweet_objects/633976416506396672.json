@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 12:18:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    21,
+                    36
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    37,
+                    53
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633976416506396672,
+    "id_str": "633976416506396672",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 633961125126668288,
+    "in_reply_to_status_id_str": "633961125126668288",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNNPolitics @cnnbrk @HillaryClinton @realDonaldTrump This is misleading-not a head to head poll. Trump would lead straight up one on one",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 10 14:25:53 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Broker \u2022 REALTOR\nCarolina Signature Realty\nMarried to @phaedrapistone",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tompistone.com",
+                        "expanded_url": "http://tompistone.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Oehyg0c9dz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7585,
+        "follow_request_sent": false,
+        "followers_count": 603,
+        "following": false,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 250144471,
+        "id_str": "250144471",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Lake Norman, NC",
+        "name": "Tom Pistone",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250144471/1619089693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385188683221975043/JcE2Cyd4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385188683221975043/JcE2Cyd4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TomPistone",
+        "statuses_count": 4283,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Oehyg0c9dz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

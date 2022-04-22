@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 14 16:46:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14894013,
+                "id_str": "14894013",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "\ud83d\udea8\ud83d\udd31 Robin\ud83d\udd31\ud83d\udea8",
+                "screen_name": "lauderdaleagent"
+            },
+            {
+                "id": 270535444,
+                "id_str": "270535444",
+                "indices": [
+                    17,
+                    29
+                ],
+                "name": "dexum",
+                "screen_name": "dexybailman"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 665571559352827904,
+    "id_str": "665571559352827904",
+    "in_reply_to_screen_name": "lauderdaleagent",
+    "in_reply_to_status_id": 665361505303584774,
+    "in_reply_to_status_id_str": "665361505303584774",
+    "in_reply_to_user_id": 14894013,
+    "in_reply_to_user_id_str": "14894013",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@lauderdaleagent @dexybailman Put em back on the boat and ship them straight to Latakia.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 27 02:08:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tweet others as you'd have yourself be tweeted. Christian. Conservative. Grandfather. Former 05H/98C. JACADS alum. GETTR:  octagon999",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 60296,
+        "follow_request_sent": false,
+        "followers_count": 2818,
+        "following": false,
+        "friends_count": 2519,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 243447325,
+        "id_str": "243447325",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 55,
+        "location": "Florida, USA",
+        "name": "Tom in FL",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243447325/1453229331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1801218878/rumsfeld_reloaded_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1801218878/rumsfeld_reloaded_normal.jpg",
+        "profile_link_color": "B88A00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "1B181A",
+        "profile_text_color": "817979",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thomasa56",
+        "statuses_count": 87258,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

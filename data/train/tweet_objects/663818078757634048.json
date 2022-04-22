@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 09 20:38:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 663818078757634048,
+    "id_str": "663818078757634048",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 663817239896821760,
+    "in_reply_to_status_id_str": "663817239896821760",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BuzzFeed Xmas defined by Howard Schultz? Awesome!  It's all relative!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 16 16:41:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "social inventor\u270cglobal citizen\u262e, investor, strategist, The Self Esteem Pill\u2122, The Love Diet\u00a9, eGo Commerce, FN7G film https://t.co/zzMBjLiHmz",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vimeo.com/6538094",
+                        "expanded_url": "https://vimeo.com/6538094",
+                        "indices": [
+                            118,
+                            141
+                        ],
+                        "url": "https://t.co/zzMBjLiHmz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1795,
+        "follow_request_sent": false,
+        "followers_count": 834,
+        "following": false,
+        "friends_count": 3617,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 40495022,
+        "id_str": "40495022",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 225,
+        "location": "New Mexico, USA",
+        "name": "Jacqueline Babbitt\u270c",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40495022/1476706724",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324456895143243776/0q0x7KQv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324456895143243776/0q0x7KQv_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lendinggrace",
+        "statuses_count": 6866,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

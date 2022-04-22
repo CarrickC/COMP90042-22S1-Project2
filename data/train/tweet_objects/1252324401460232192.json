@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 20 19:52:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1252324401460232192,
+    "id_str": "1252324401460232192",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrZweliMkhize Good information hope people will comply...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 20 07:20:31 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Magutshwa",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 275,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 649,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1219157697569918981,
+        "id_str": "1219157697569918981",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Nkululeko",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219157697569918981/1584307389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239300864256458759/iPHo-1WQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239300864256458759/iPHo-1WQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nkulule98351683",
+        "statuses_count": 58,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

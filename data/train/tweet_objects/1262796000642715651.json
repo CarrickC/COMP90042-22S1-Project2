@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 19 17:23:22 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1262796000642715651",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/mLZY1k6JvN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1317680676,
+                "id_str": "1317680676",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Syano",
+                "screen_name": "Sya1o"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1262796000642715651,
+    "id_str": "1262796000642715651",
+    "in_reply_to_screen_name": "Sya1o",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1317680676,
+    "in_reply_to_user_id_str": "1317680676",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Sya1o hi bud,got a questio.\nI must admit I do not understand what are these results ( I understand the Laffey one\u2026 https://t.co/mLZY1k6JvN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 09 21:08:07 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/lbfwToYWpO",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "discord.com/invite/NYKjQ4M\u2026",
+                        "expanded_url": "https://discord.com/invite/NYKjQ4MJzs",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lbfwToYWpO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16485,
+        "follow_request_sent": false,
+        "followers_count": 486,
+        "following": false,
+        "friends_count": 451,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1849442852,
+        "id_str": "1849442852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "V\u00e9lizy-Villacoublay, France",
+        "name": "Dos Santos Costa Diogo",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1465017751987232776/Tf_hOMrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465017751987232776/Tf_hOMrJ_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SadeMKH4",
+        "statuses_count": 28268,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

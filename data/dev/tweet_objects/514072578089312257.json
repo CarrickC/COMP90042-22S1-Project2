@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 15:23:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9763482,
+                "id_str": "9763482",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "New York Daily News",
+                "screen_name": "NYDailyNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514072578089312257,
+    "id_str": "514072578089312257",
+    "in_reply_to_screen_name": "NYDailyNews",
+    "in_reply_to_status_id": 514072132301910016,
+    "in_reply_to_status_id_str": "514072132301910016",
+    "in_reply_to_user_id": 9763482,
+    "in_reply_to_user_id_str": "9763482",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NYDailyNews Ohhhh Florida.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 29 18:40:48 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Speak substance and keep the room honest for pe\u20b3K vibr\u20b3tion (unless you\u2019re on that website twitter) - relax, its all a joke \ud83c\udccf",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33844,
+        "follow_request_sent": false,
+        "followers_count": 679,
+        "following": false,
+        "friends_count": 4944,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 344878464,
+        "id_str": "344878464",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "New York",
+        "name": "D.B. \ud83d\uddfd $\u20b3MP",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344878464/1586968567",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829794572071006213/E25bD8J9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829794572071006213/E25bD8J9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DB_8721",
+        "statuses_count": 31531,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 29 02:22:46 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39868135,
+                "id_str": "39868135",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "City of Hoboken",
+                "screen_name": "CityofHoboken"
+            },
+            {
+                "id": 40788497,
+                "id_str": "40788497",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "Ravinder S. Bhalla",
+                "screen_name": "RaviBhalla"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1255321598770413569,
+    "id_str": "1255321598770413569",
+    "in_reply_to_screen_name": "CityofHoboken",
+    "in_reply_to_status_id": 1255315188334682113,
+    "in_reply_to_status_id_str": "1255315188334682113",
+    "in_reply_to_user_id": 39868135,
+    "in_reply_to_user_id_str": "39868135",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CityofHoboken @RaviBhalla Very nice to expand access to testing in this way.  Building on success with flattening curve in city.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 26 00:09:09 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 279,
+        "follow_request_sent": false,
+        "followers_count": 6,
+        "following": false,
+        "friends_count": 20,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 857023707532976129,
+        "id_str": "857023707532976129",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Footballfan",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489400130407211012/NK5P5_QA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489400130407211012/NK5P5_QA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "futbolfan05",
+        "statuses_count": 363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

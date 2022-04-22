@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 23 20:16:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            },
+            {
+                "id": 203533542,
+                "id_str": "203533542",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Claire A. Poinsignon",
+                "screen_name": "lysdeschamps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536614390758637569,
+    "id_str": "536614390758637569",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 536547921542791170,
+    "in_reply_to_status_id_str": "536547921542791170",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Independent @lysdeschamps le genre de message \u00e0 faire passer \u00e0 la manif pour tous ... Sans illusions",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 11 18:13:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Professeur-documentaliste, radioteuse et c\u00e9ramiste, membre du mouvement Freinet",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9501,
+        "follow_request_sent": false,
+        "followers_count": 783,
+        "following": false,
+        "friends_count": 906,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 521537501,
+        "id_str": "521537501",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 98,
+        "location": "Sur cette plan\u00e8te, vers Tours",
+        "name": "H\u00e9l\u00e8ne Duvialard",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1891424886/rat_de_biblio_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1891424886/rat_de_biblio_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hduvialard",
+        "statuses_count": 49218,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 14:38:09 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XBu48LPpdG",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    81,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/XBu48LPpdG"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XBu48LPpdG",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    81,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/XBu48LPpdG"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525295114647003136,
+    "id_str": "525295114647003136",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525134787778850818,
+    "in_reply_to_status_id_str": "525134787778850818",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy http://t.co/XBu48LPpdG\u201d\n\nUM no thanks..I'm good  \ud83d\ude33",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 13 01:06:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "At the hotel, gettin motel\u2026",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "FredTjpg.com",
+                        "expanded_url": "http://FredTjpg.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/x2jiZrygwT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1697,
+        "follow_request_sent": false,
+        "followers_count": 5049,
+        "following": false,
+        "friends_count": 4217,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1007706277,
+        "id_str": "1007706277",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "No Longer In, Ga",
+        "name": "Hotel Jones",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007706277/1648816224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1509870751045898273/YSbuo4VK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509870751045898273/YSbuo4VK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_freddymack",
+        "statuses_count": 123828,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/x2jiZrygwT",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

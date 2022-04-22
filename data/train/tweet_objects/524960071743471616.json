@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 16:26:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14216661,
+                "id_str": "14216661",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "National Post",
+                "screen_name": "nationalpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524960071743471616,
+    "id_str": "524960071743471616",
+    "in_reply_to_screen_name": "nationalpost",
+    "in_reply_to_status_id": 524958992330522624,
+    "in_reply_to_status_id_str": "524958992330522624",
+    "in_reply_to_user_id": 14216661,
+    "in_reply_to_user_id_str": "14216661",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nationalpost This breaks my heart. So close to home as my husband is a CF member.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 03 03:24:18 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "~~Passionate about communication and the written word~~\nAdult educator, self-employed writer/editor/coach~~\nFeminist, mother, military wife, traveller, friend~~",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "balancedprose.com",
+                        "expanded_url": "http://www.balancedprose.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/b8YzAQDFRh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 239,
+        "follow_request_sent": false,
+        "followers_count": 63,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 292105738,
+        "id_str": "292105738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Sooke, BC, Canada",
+        "name": "Candice Neveu",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292105738/1464885241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872860710711181312/SzvWjljP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872860710711181312/SzvWjljP_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CandiceNeveu",
+        "statuses_count": 459,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/b8YzAQDFRh",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

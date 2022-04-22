@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 17 09:48:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 534281900467429376,
+    "id_str": "534281900467429376",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 534278078105944064,
+    "in_reply_to_status_id_str": "534278078105944064",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Independent suppliers are not producing to their gest",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 27 12:47:01 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 68429,
+        "follow_request_sent": false,
+        "followers_count": 1659,
+        "following": false,
+        "friends_count": 2901,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 160187124,
+        "id_str": "160187124",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 89,
+        "location": "UK",
+        "name": "Bovver Gurls",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160187124/1608064764",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1487499067282370563/KJEa9GfM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487499067282370563/KJEa9GfM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ladyrare1",
+        "statuses_count": 182499,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

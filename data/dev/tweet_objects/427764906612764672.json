@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 11:27:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nbcnews.to/M3IDLR",
+                "expanded_url": "http://nbcnews.to/M3IDLR",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/PxjoVVGeZp"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427764906612764672,
+    "id_str": "427764906612764672",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 427762638274437120,
+    "in_reply_to_status_id_str": "427762638274437120",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NBCNews: Actor who played Marlboro Man in ads dies from smoking-related disease http://t.co/PxjoVVGeZp\u201d Hey kids! R U paying attention?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 23 15:59:37 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Story-teller, speaker, coach & consultant. Long-suffering Minnesota sports fan.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15335,
+        "follow_request_sent": false,
+        "followers_count": 6679,
+        "following": false,
+        "friends_count": 1914,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 303894415,
+        "id_str": "303894415",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 80,
+        "location": "Minneapolis, MN",
+        "name": "Tim McNiff",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/303894415/1551916682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103445583451303937/NLQ3G_DJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103445583451303937/NLQ3G_DJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimMcNiff1",
+        "statuses_count": 14251,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

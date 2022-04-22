@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 28 03:29:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783001052434067457,
+                "id_str": "783001052434067457",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CNN Wire",
+                "screen_name": "cnnwire"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    9,
+                    13
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614999025595625473,
+    "id_str": "614999025595625473",
+    "in_reply_to_screen_name": "CNNNSdigital",
+    "in_reply_to_status_id": 614604054552018944,
+    "in_reply_to_status_id_str": "614604054552018944",
+    "in_reply_to_user_id": 844364659,
+    "in_reply_to_user_id_str": "844364659",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNNWire @CNN @WhiteHouse I guess the prophecy is coming true after all i.e The west will fall and the east will rise.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 04 00:43:15 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "One Step at a time~\ud83e\udd32\ud83c\udffd",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/public-profile\u2026",
+                        "expanded_url": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&li",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yqr30qLKoP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 59,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 120,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1059162944,
+        "id_str": "1059162944",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Mississauga, Ontario",
+        "name": "Mujtaba Ali",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059162944/1538338007",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1046491563671531521/f5vIZHKy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046491563671531521/f5vIZHKy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YaAlimuj",
+        "statuses_count": 555,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yqr30qLKoP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

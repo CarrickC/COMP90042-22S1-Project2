@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 04:46:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 164589655,
+                "id_str": "164589655",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Mohamad Asri \ud83c\uddf2\ud83c\uddfe",
+                "screen_name": "mohamadarsi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1273114744568905729,
+    "id_str": "1273114744568905729",
+    "in_reply_to_screen_name": "mohamadarsi",
+    "in_reply_to_status_id": 1273114506248544256,
+    "in_reply_to_status_id_str": "1273114506248544256",
+    "in_reply_to_user_id": 164589655,
+    "in_reply_to_user_id_str": "164589655",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@mohamadarsi Haha tak sesak nafas ka time lari weh? Ka sebab sana sejuk tak berpeluh?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 16 08:56:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#adidasRunnersKL #adidasMY @KyserunKrew @GarminMalaysia @HammerNutrition | https://t.co/YUfE5jVwqo",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tinyurl.com/awanrunFB",
+                        "expanded_url": "http://tinyurl.com/awanrunFB",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "url": "https://t.co/YUfE5jVwqo"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/awanrun",
+                        "expanded_url": "http://Instagram.com/awanrun",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AItCBneSxj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7366,
+        "follow_request_sent": false,
+        "followers_count": 3135,
+        "following": false,
+        "friends_count": 1319,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 826773852,
+        "id_str": "826773852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Track",
+        "name": "Awan",
+        "notifications": false,
+        "profile_background_color": "D8C1EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826773852/1632223837",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115192609993940992/P9l9RAeH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115192609993940992/P9l9RAeH_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "awanrun",
+        "statuses_count": 24205,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AItCBneSxj",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

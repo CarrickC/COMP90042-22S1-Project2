@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 21:34:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519964051787763712,
+    "id_str": "519964051787763712",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@realDonaldTrump why not annex Mexico",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 09 16:48:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "BLUNT Lobbyist !  Do not follow me. If u do I will follow u back !",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 525,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 459409327,
+        "id_str": "459409327",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "knewsnviews",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650083209770889216/ipwyApDR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650083209770889216/ipwyApDR_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "knewsnviews",
+        "statuses_count": 6209,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

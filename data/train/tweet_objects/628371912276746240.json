@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 04 01:08:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 628371912276746240,
+    "id_str": "628371912276746240",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 628319096606732290,
+    "in_reply_to_status_id_str": "628319096606732290",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BuzzFeed YUK!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 27 13:01:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1267,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 720115614,
+        "id_str": "720115614",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Ginger",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2879463445/0dbb5c48ceea652db2083fd68f5395d6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2879463445/0dbb5c48ceea652db2083fd68f5395d6_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GingerAinsworth",
+        "statuses_count": 603,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

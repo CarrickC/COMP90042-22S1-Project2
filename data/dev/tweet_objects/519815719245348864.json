@@ -1,0 +1,128 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 11:44:59 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    98,
+                    112
+                ],
+                "text": "hotforteacher"
+            },
+            {
+                "indices": [
+                    113,
+                    130
+                ],
+                "text": "theusualsuspects"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyti.ms/10J0r6B",
+                "expanded_url": "http://nyti.ms/10J0r6B",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/j7C338yRzy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519815719245348864,
+    "id_str": "519815719245348864",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 519447199164665856,
+    "in_reply_to_status_id_str": "519447199164665856",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@nytimes: 43 Missing Students, a Mass Grave and a Suspect: Mexico\u2019s Police http://t.co/j7C338yRzy #hotforteacher #theusualsuspects",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 25 16:51:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201cOh my God, what a horrible photograph. My first 'Wanted' poster and I look just awful.\u201d - Divine in 'Pink Flamingos'",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "americanlabrescue.com",
+                        "expanded_url": "https://americanlabrescue.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/STDhK0Hksf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33830,
+        "follow_request_sent": false,
+        "followers_count": 386,
+        "following": false,
+        "friends_count": 99,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 50698121,
+        "id_str": "50698121",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 137,
+        "location": "Brooklyn, NY",
+        "name": "\u26a1\ufe0fCarmen\u26a1\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50698121/1548009308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272009207290576897/t9121PEL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272009207290576897/t9121PEL_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SloePokeGu",
+        "statuses_count": 82723,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/STDhK0Hksf",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

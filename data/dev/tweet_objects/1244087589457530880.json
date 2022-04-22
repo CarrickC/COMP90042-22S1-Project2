@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 29 02:22:50 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14614742,
+                "id_str": "14614742",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Leo Parente",
+                "screen_name": "LeoParente"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1244087589457530880,
+    "id_str": "1244087589457530880",
+    "in_reply_to_screen_name": "LeoParente",
+    "in_reply_to_status_id": 1244055033823576064,
+    "in_reply_to_status_id_str": "1244055033823576064",
+    "in_reply_to_user_id": 14614742,
+    "in_reply_to_user_id_str": "14614742",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LeoParente CDC has denied this in a tweet.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 27 01:01:43 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "used to play hockey take pictures turn wrenches work in corp america and used to be married \nmiss my sister mom and dad \ncash app. $crzysht10\n#cancersucks",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gofund.me/b255ce13",
+                        "expanded_url": "https://gofund.me/b255ce13",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cGmcpLaw4t"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 325593,
+        "follow_request_sent": false,
+        "followers_count": 478,
+        "following": false,
+        "friends_count": 787,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 505218318,
+        "id_str": "505218318",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 69,
+        "location": "Florida, USA",
+        "name": "dbl boosted\ud83d\udc89\ud83d\udc89 still wear a \ud83d\ude37#JB17",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/505218318/1550598298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/784895560201412609/WjzoU-TP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/784895560201412609/WjzoU-TP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jdd100Jec",
+        "statuses_count": 126804,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cGmcpLaw4t",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

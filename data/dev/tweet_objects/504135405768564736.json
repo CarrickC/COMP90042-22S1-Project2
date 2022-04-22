@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 05:17:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BC4P44aRl9",
+                "expanded_url": "https://twitter.com/Cuatro505/status/504135405768564736/photo/1",
+                "id": 504135401703870465,
+                "id_str": "504135401703870465",
+                "indices": [
+                    28,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Bv8MehFCEAEpKtG.png",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Bv8MehFCEAEpKtG.png",
+                "sizes": {
+                    "large": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/BC4P44aRl9"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BC4P44aRl9",
+                "expanded_url": "https://twitter.com/Cuatro505/status/504135405768564736/photo/1",
+                "id": 504135401703870465,
+                "id_str": "504135401703870465",
+                "indices": [
+                    28,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Bv8MehFCEAEpKtG.png",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Bv8MehFCEAEpKtG.png",
+                "sizes": {
+                    "large": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "medium": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "small": {
+                        "h": 284,
+                        "resize": "fit",
+                        "w": 400
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "http://t.co/BC4P44aRl9",
+                "video_info": {
+                    "aspect_ratio": [
+                        100,
+                        71
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/Bv8MehFCEAEpKtG.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 504135405768564736,
+    "id_str": "504135405768564736",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 504131654810877952,
+    "in_reply_to_status_id_str": "504131654810877952",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@cnnbrk image of the source http://t.co/BC4P44aRl9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 27 14:44:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1328,
+        "follow_request_sent": false,
+        "followers_count": 312,
+        "following": false,
+        "friends_count": 597,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 343407493,
+        "id_str": "343407493",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "ABQ NM",
+        "name": "Dodgers 161-1",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000949055218892801/xVh5u-UG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000949055218892801/xVh5u-UG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cuatro505",
+        "statuses_count": 900,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 02:25:19 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    25
+                ],
+                "text": "NHL"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mCZgGHin8F",
+                "expanded_url": "https://twitter.com/Sportsnet/status/504453071041482753/photo/1",
+                "id": 504453070865301504,
+                "id_str": "504453070865301504",
+                "indices": [
+                    86,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAtZS7IAAAsRvM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAtZS7IAAAsRvM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504453071041482753,
+                "source_status_id_str": "504453071041482753",
+                "source_user_id": 21660529,
+                "source_user_id_str": "21660529",
+                "type": "photo",
+                "url": "http://t.co/mCZgGHin8F"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/AL7VR",
+                "expanded_url": "http://ow.ly/AL7VR",
+                "indices": [
+                    63,
+                    85
+                ],
+                "url": "http://t.co/YO0S2g4RTN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21660529,
+                "id_str": "21660529",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Sportsnet",
+                "screen_name": "Sportsnet"
+            },
+            {
+                "id": 982300062762938368,
+                "id_str": "982300062762938368",
+                "indices": [
+                    110,
+                    126
+                ],
+                "name": "Fire-Down Graphics",
+                "screen_name": "FireDownGraphic"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mCZgGHin8F",
+                "expanded_url": "https://twitter.com/Sportsnet/status/504453071041482753/photo/1",
+                "id": 504453070865301504,
+                "id_str": "504453070865301504",
+                "indices": [
+                    86,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAtZS7IAAAsRvM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAtZS7IAAAsRvM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504453071041482753,
+                "source_status_id_str": "504453071041482753",
+                "source_user_id": 21660529,
+                "source_user_id_str": "21660529",
+                "type": "photo",
+                "url": "http://t.co/mCZgGHin8F"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 504454582433763328,
+    "id_str": "504454582433763328",
+    "in_reply_to_screen_name": "Sportsnet",
+    "in_reply_to_status_id": 504453071041482753,
+    "in_reply_to_status_id_str": "504453071041482753",
+    "in_reply_to_user_id": 21660529,
+    "in_reply_to_user_id_str": "21660529",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@Sportsnet: Report: #NHL expansion to Las Vegas \u2018a done deal\u2019 http://t.co/YO0S2g4RTN http://t.co/mCZgGHin8F\u201d @FireDownGraphic Seattle?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 12 01:48:41 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Shell Shock Paint Company we paint Goalie Masks and Helmets for some of the best Athletes in the World",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22715,
+        "follow_request_sent": false,
+        "followers_count": 11850,
+        "following": false,
+        "friends_count": 484,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1260830610,
+        "id_str": "1260830610",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "",
+        "name": "Shell Shock Designs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260830610/1582751618",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272237244217253890/P40vl_Sx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272237244217253890/P40vl_Sx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShellShockCo",
+        "statuses_count": 16649,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

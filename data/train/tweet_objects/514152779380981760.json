@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 20:42:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 274090663,
+                "id_str": "274090663",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "yung husband",
+                "screen_name": "_BrownBear65"
+            },
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514152779380981760,
+    "id_str": "514152779380981760",
+    "in_reply_to_screen_name": "_BrownBear65",
+    "in_reply_to_status_id": 514098964803887104,
+    "in_reply_to_status_id_str": "514098964803887104",
+    "in_reply_to_user_id": 274090663,
+    "in_reply_to_user_id_str": "274090663",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@_BrownBear65 @ComplexMag \ud83d\ude0d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 29 15:15:15 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1107,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 364307886,
+        "id_str": "364307886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Pittsburgh",
+        "name": "Red Fox",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1538035518/165535_1659362839749_1107487070_31661210_2294171_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1538035518/165535_1659362839749_1107487070_31661210_2294171_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Prof_McRedfuck",
+        "statuses_count": 1483,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

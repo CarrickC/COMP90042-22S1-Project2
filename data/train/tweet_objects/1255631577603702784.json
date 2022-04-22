@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 29 22:54:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1255631577603702784",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/66aBJlWcPS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 194532095,
+                "id_str": "194532095",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Sheilagh McGrory",
+                "screen_name": "sheilaghmcgrory"
+            },
+            {
+                "id": 48555706,
+                "id_str": "48555706",
+                "indices": [
+                    17,
+                    31
+                ],
+                "name": "JT",
+                "screen_name": "EmiConsultant"
+            },
+            {
+                "id": 721378569600045056,
+                "id_str": "721378569600045056",
+                "indices": [
+                    32,
+                    46
+                ],
+                "name": "Anthony Pryor",
+                "screen_name": "anthonyrpryor"
+            },
+            {
+                "id": 22027975,
+                "id_str": "22027975",
+                "indices": [
+                    47,
+                    55
+                ],
+                "name": "Michael de Adder",
+                "screen_name": "deAdder"
+            },
+            {
+                "id": 159255994,
+                "id_str": "159255994",
+                "indices": [
+                    56,
+                    69
+                ],
+                "name": "The Hill Times",
+                "screen_name": "TheHillTimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1255631577603702784,
+    "id_str": "1255631577603702784",
+    "in_reply_to_screen_name": "sheilaghmcgrory",
+    "in_reply_to_status_id": 1255615977506721798,
+    "in_reply_to_status_id_str": "1255615977506721798",
+    "in_reply_to_user_id": 194532095,
+    "in_reply_to_user_id_str": "194532095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.35667,
+                        50.672549
+                    ],
+                    [
+                        -120.054145,
+                        50.672549
+                    ],
+                    [
+                        -120.054145,
+                        50.782077
+                    ],
+                    [
+                        -120.35667,
+                        50.782077
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Kamloops 1, British Columbia",
+        "id": "389c8097b8f93de7",
+        "name": "Kamloops 1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/389c8097b8f93de7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@sheilaghmcgrory @EmiConsultant @anthonyrpryor @deAdder @TheHillTimes Sure. Just take the stats from Mexico. Compar\u2026 https://t.co/66aBJlWcPS",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 25 19:23:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Songwriter, solo artist, producer-engineer for HoneyPot Studios. Guitar & vocals for The Tyme Travellers on Street Music. musician, poet, actor, activist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thetymetravellers.net",
+                        "expanded_url": "http://www.thetymetravellers.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pJSutcUOeo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28430,
+        "follow_request_sent": false,
+        "followers_count": 5862,
+        "following": false,
+        "friends_count": 6515,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 421296410,
+        "id_str": "421296410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 66,
+        "location": "Kamloops, BC, Canada",
+        "name": "Wayne Anthony Street",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/421296410/1529981778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011442997680959488/HDMWYtpv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011442997680959488/HDMWYtpv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "streetway161",
+        "statuses_count": 22862,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pJSutcUOeo",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

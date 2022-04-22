@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 12 01:01:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17469289,
+                "id_str": "17469289",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "New York Post",
+                "screen_name": "nypost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532337419459506176,
+    "id_str": "532337419459506176",
+    "in_reply_to_screen_name": "nypost",
+    "in_reply_to_status_id": 532284831783460864,
+    "in_reply_to_status_id_str": "532284831783460864",
+    "in_reply_to_user_id": 17469289,
+    "in_reply_to_user_id_str": "17469289",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@nypost: Irritated Chick-fil-A manager makes a list of teen slang his employees are forbidden to use ... \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude02\ud83d\ude02\ud83d\ude02lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 26 02:15:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be a classy woman w/ a little bit of hood & a lot of God in you! There's no code of ethics out here, anyone will take shots at you ~ Drake",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "anchor.fm/veronica-kindr\u2026",
+                        "expanded_url": "https://anchor.fm/veronica-kindred/episodes/The-Background-Part-1-eh5b4i",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gHkkicae7X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 97403,
+        "follow_request_sent": false,
+        "followers_count": 1412,
+        "following": false,
+        "friends_count": 1170,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 272215586,
+        "id_str": "272215586",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Nashville-Memphis \ud83c\udfce",
+        "name": "Ronnie",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/272215586/1591077441",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362228027292340224/8fKYVmmT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362228027292340224/8fKYVmmT_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ronniesovicious",
+        "statuses_count": 82663,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gHkkicae7X",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 14:59:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            },
+            {
+                "id": 612473,
+                "id_str": "612473",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "BBC News (UK)",
+                "screen_name": "BBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523126049790754817,
+    "id_str": "523126049790754817",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BBCBreaking @BBCNews Thank God.The girls and their parents will be so in relieved.Only if the deal comes through in actual practice.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 14:06:17 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired Civil Servant.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com",
+                        "expanded_url": "https://www.twitter.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/990q7OH5T0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 41543,
+        "follow_request_sent": false,
+        "followers_count": 1043,
+        "following": false,
+        "friends_count": 315,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 75019609,
+        "id_str": "75019609",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 47,
+        "location": "Pune, India",
+        "name": "Krishna   Kacker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75019609/1437660721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313775591120752641/jqs7aNQZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313775591120752641/jqs7aNQZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "krishnakacker",
+        "statuses_count": 125301,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/990q7OH5T0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

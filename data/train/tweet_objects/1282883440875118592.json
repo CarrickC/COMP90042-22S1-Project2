@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 14 03:43:41 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1089085616,
+                "id_str": "1089085616",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Cristina J. Orgaz",
+                "screen_name": "cjorgaz"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    9,
+                    13
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1282883440875118592,
+    "id_str": "1282883440875118592",
+    "in_reply_to_screen_name": "cjorgaz",
+    "in_reply_to_status_id": 1259873297371725825,
+    "in_reply_to_status_id_str": "1259873297371725825",
+    "in_reply_to_user_id": 1089085616,
+    "in_reply_to_user_id_str": "1089085616",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@cjorgaz @WHO Es necesario informarse para dar una opini\u00f3n p\u00fablica o hay otra intenci\u00f3n sobre el uso del CDS como medicina alternativa",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 14 01:32:04 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1194789179915411456,
+        "id_str": "1194789179915411456",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Manuel Tone",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194790684403863563/o1kyMHSK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194790684403863563/o1kyMHSK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "manuel_tone",
+        "statuses_count": 40,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

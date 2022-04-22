@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 19 23:48:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14294848,
+                "id_str": "14294848",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "snopes.com",
+                "screen_name": "snopes"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 667489681991446528,
+    "id_str": "667489681991446528",
+    "in_reply_to_screen_name": "snopes",
+    "in_reply_to_status_id": 667487418388488192,
+    "in_reply_to_status_id_str": "667487418388488192",
+    "in_reply_to_user_id": 14294848,
+    "in_reply_to_user_id_str": "14294848",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.758209,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.8971155
+                    ],
+                    [
+                        -82.758209,
+                        27.8971155
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Petersburg, FL",
+        "id": "5d231ed8656fcf5a",
+        "name": "St Petersburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@snopes gosh how I wish it wasn't.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 17 14:35:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Traveler & avid reader. Like my cats, I'm curious about everything. I \u2764\ufe0f books, baseball, pie, birds, & chocolate. Insta \ud83d\udcf7:abaesel2 Go #Rays! Amor omnia vincit",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thetravelingbaesels.blogspot.com",
+                        "expanded_url": "http://www.thetravelingbaesels.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QUc42vkOuo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 93532,
+        "follow_request_sent": false,
+        "followers_count": 3837,
+        "following": false,
+        "friends_count": 2672,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 83144511,
+        "id_str": "83144511",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 315,
+        "location": "St Petersburg FL and Montreal",
+        "name": "Annette Sanchez Baesel \ud83c\udf3b\ud83c\udf3b\ud83c\udf3b\ud83c\udf3b\ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83144511/1398631123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498027314579390464/sUaDipuU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498027314579390464/sUaDipuU_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "abaesel2",
+        "statuses_count": 131116,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QUc42vkOuo",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

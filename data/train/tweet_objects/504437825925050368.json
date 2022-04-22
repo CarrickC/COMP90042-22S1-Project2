@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 01:18:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504437825925050368,
+    "id_str": "504437825925050368",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@theScore Seattle is next, Bettman is a fruit loop dingus.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 09 19:24:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wats Crackin #Canucks #UFC #Movement",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2413,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 631429365,
+        "id_str": "631429365",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Rush",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/631429365/1397794570",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3303998423/1ec94fbda8bc575904617848c053b522_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3303998423/1ec94fbda8bc575904617848c053b522_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UFCanuck",
+        "statuses_count": 8570,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

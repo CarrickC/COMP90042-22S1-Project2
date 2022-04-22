@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 00:26:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 298619241,
+                "id_str": "298619241",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Dr. Claudia William MD, MScHAL \ud83e\ude7a\ud83d\udc8a",
+                "screen_name": "DrCSWilliam"
+            },
+            {
+                "id": 3254829845,
+                "id_str": "3254829845",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Matthew Harris",
+                "screen_name": "MedicMatt17512"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1237897606300196864,
+    "id_str": "1237897606300196864",
+    "in_reply_to_screen_name": "DrCSWilliam",
+    "in_reply_to_status_id": 1237804934759882754,
+    "in_reply_to_status_id_str": "1237804934759882754",
+    "in_reply_to_user_id": 298619241,
+    "in_reply_to_user_id_str": "298619241",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrCSWilliam @MedicMatt17512 Educate and explain why it's different, help the public that don't know.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 12 18:13:57 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My thoughts and views do not reflect that of my employer...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2673,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 184,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1858170517,
+        "id_str": "1858170517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Moonstone, Ontario, Canada",
+        "name": "Laura",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000448141379/bb3fe16b63a882c93af95efd676bfe59_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000448141379/bb3fe16b63a882c93af95efd676bfe59_normal.jpeg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "laura_dawn0515",
+        "statuses_count": 803,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

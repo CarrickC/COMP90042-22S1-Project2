@@ -1,0 +1,203 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 20:57:14 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    7
+                ],
+                "text": "Salute"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5lKGqM9feU",
+                "expanded_url": "https://twitter.com/HuffingtonPost/status/532275347413544961/photo/1",
+                "id": 532275347161899008,
+                "id_str": "532275347161899008",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2MFm65IYAAc-KI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2MFm65IYAAc-KI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 2000
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 532275347413544961,
+                "source_status_id_str": "532275347413544961",
+                "source_user_id": 14511951,
+                "source_user_id_str": "14511951",
+                "type": "photo",
+                "url": "http://t.co/5lKGqM9feU"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/1WHelVsu9x8",
+                "expanded_url": "http://youtu.be/1WHelVsu9x8",
+                "indices": [
+                    8,
+                    30
+                ],
+                "url": "http://t.co/IWgfNehfhB"
+            },
+            {
+                "display_url": "huff.to/1u7KodY",
+                "expanded_url": "http://huff.to/1u7KodY",
+                "indices": [
+                    91,
+                    113
+                ],
+                "url": "http://t.co/0Z3gPdNDgw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    32,
+                    47
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5lKGqM9feU",
+                "expanded_url": "https://twitter.com/HuffingtonPost/status/532275347413544961/photo/1",
+                "id": 532275347161899008,
+                "id_str": "532275347161899008",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2MFm65IYAAc-KI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2MFm65IYAAc-KI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 2000
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 532275347413544961,
+                "source_status_id_str": "532275347413544961",
+                "source_user_id": 14511951,
+                "source_user_id_str": "14511951",
+                "type": "photo",
+                "url": "http://t.co/5lKGqM9feU"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532275882585751553,
+    "id_str": "532275882585751553",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 532275347413544961,
+    "in_reply_to_status_id_str": "532275347413544961",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#Salute http://t.co/IWgfNehfhB \u201c@HuffingtonPost: Sugarhill Gang's Big Bank Hank dies at 57 http://t.co/0Z3gPdNDgw http://t.co/5lKGqM9feU\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 05 00:05:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I LOVE love RESPECT respect and I'm LOYAL to loyalty!! Making memories & moves at the #SAMEDAMNTIME",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1511,
+        "follow_request_sent": false,
+        "followers_count": 775,
+        "following": false,
+        "friends_count": 449,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 37801199,
+        "id_str": "37801199",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "On my knees...praying ",
+        "name": "OG Babyyyyy",
+        "notifications": false,
+        "profile_background_color": "FFB5BA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37801199/1457323641",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/706692687584333824/zuT2LFXY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/706692687584333824/zuT2LFXY_normal.jpg",
+        "profile_link_color": "FF6984",
+        "profile_sidebar_border_color": "E70070",
+        "profile_sidebar_fill_color": "FF387A",
+        "profile_text_color": "FF828D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DIAMONDSTATEDVA",
+        "statuses_count": 148481,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

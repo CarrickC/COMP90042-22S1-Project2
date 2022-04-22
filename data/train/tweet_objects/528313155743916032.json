@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 31 22:30:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 446636030,
+                "id_str": "446636030",
+                "indices": [
+                    16,
+                    32
+                ],
+                "name": "W\u2b55RLDWIDE - NIEUWS",
+                "screen_name": "worldwidenieuws"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528313155743916032,
+    "id_str": "528313155743916032",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528312406498635777,
+    "in_reply_to_status_id_str": "528312406498635777",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@washingtonpost @worldwidenieuws wow THATs news!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 02 14:47:32 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "FESTINA LENTE en Set a goal that makes you want to jump out of bed in the morning. Dierenmishandeling, porno, schelden = block",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 64534,
+        "follow_request_sent": false,
+        "followers_count": 1280,
+        "following": false,
+        "friends_count": 1906,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 732964806,
+        "id_str": "732964806",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Breda ",
+        "name": "Mique \ud83c\udf3b\ud83c\uddfa\ud83c\udde6\ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/732964806/1420803460",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407012096571813899/DDcBEUhK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407012096571813899/DDcBEUhK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mique_1",
+        "statuses_count": 94420,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

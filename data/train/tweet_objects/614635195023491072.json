@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 03:23:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3090101015,
+                "id_str": "3090101015",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Marvin the Martian",
+                "screen_name": "the_kaboom"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    12,
+                    16
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            },
+            {
+                "id": 597301533,
+                "id_str": "597301533",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "\uf8ffVjSHADOWz// MaSTeRz 0f The UNiVeRSe \u2728 \ud83c\udfa7 \ud83d\udcaf",
+                "screen_name": "VjShadowz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614635195023491072,
+    "id_str": "614635195023491072",
+    "in_reply_to_screen_name": "the_kaboom",
+    "in_reply_to_status_id": 614620860142346240,
+    "in_reply_to_status_id_str": "614620860142346240",
+    "in_reply_to_user_id": 3090101015,
+    "in_reply_to_user_id_str": "3090101015",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@the_kaboom @ABC @VJShadowz Agreed. All the bigotry, intolerance, ignorance, hatred, and anger on display... In 2015 A.D., it's insane.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 01 13:09:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Never Binary.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 247641,
+        "follow_request_sent": false,
+        "followers_count": 998,
+        "following": false,
+        "friends_count": 1035,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 346550756,
+        "id_str": "346550756",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 48,
+        "location": "We Don\u2019t Go There Anymore",
+        "name": "Raven \\ ThatJoser",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346550756/1621734140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396746399505600520/aQgtFplr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396746399505600520/aQgtFplr_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ravenholm337",
+        "statuses_count": 132423,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

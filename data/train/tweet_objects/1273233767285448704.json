@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 12:39:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1273233767285448704",
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/ueVQ4qJWy7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1244892413262311425,
+                "id_str": "1244892413262311425",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "#IndiaFightsCorona",
+                "screen_name": "COVIDNewsByMIB"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    16,
+                    20
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 2596143056,
+                "id_str": "2596143056",
+                "indices": [
+                    21,
+                    33
+                ],
+                "name": "Ministry of Health",
+                "screen_name": "MoHFW_INDIA"
+            },
+            {
+                "id": 77732185,
+                "id_str": "77732185",
+                "indices": [
+                    34,
+                    49
+                ],
+                "name": "Dr Harsh Vardhan",
+                "screen_name": "drharshvardhan"
+            },
+            {
+                "id": 3241214268,
+                "id_str": "3241214268",
+                "indices": [
+                    50,
+                    62
+                ],
+                "name": "Kiren Rijiju",
+                "screen_name": "KirenRijiju"
+            },
+            {
+                "id": 1139489215471685634,
+                "id_str": "1139489215471685634",
+                "indices": [
+                    63,
+                    76
+                ],
+                "name": "Office of Kiren Rijiju",
+                "screen_name": "RijijuOffice"
+            },
+            {
+                "id": 742306410092990464,
+                "id_str": "742306410092990464",
+                "indices": [
+                    77,
+                    89
+                ],
+                "name": "Dept of Sports MYAS",
+                "screen_name": "IndiaSports"
+            },
+            {
+                "id": 1056850669,
+                "id_str": "1056850669",
+                "indices": [
+                    90,
+                    104
+                ],
+                "name": "All India Radio News",
+                "screen_name": "airnewsalerts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1273233767285448704,
+    "id_str": "1273233767285448704",
+    "in_reply_to_screen_name": "COVIDNewsByMIB",
+    "in_reply_to_status_id": 1273224094117326849,
+    "in_reply_to_status_id_str": "1273224094117326849",
+    "in_reply_to_user_id": 1244892413262311425,
+    "in_reply_to_user_id_str": "1244892413262311425",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@COVIDNewsByMIB @WHO @MoHFW_INDIA @drharshvardhan @KirenRijiju @RijijuOffice @IndiaSports @airnewsalerts\u2026 https://t.co/ueVQ4qJWy7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 28 07:23:19 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1265906410770096129,
+        "id_str": "1265906410770096129",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "rakesh",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315673103108726785/fZEyP8T2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315673103108726785/fZEyP8T2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rakesh79194",
+        "statuses_count": 395,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 14:43:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1495147038085988363,
+                "id_str": "1495147038085988363",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jay",
+                "screen_name": "JibrilKala"
+            },
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    12,
+                    27
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            }
+        ]
+    },
+    "favorite_count": 16,
+    "favorited": false,
+    "geo": null,
+    "id": 1250072069666193409,
+    "id_str": "1250072069666193409",
+    "in_reply_to_screen_name": "AllureWoman",
+    "in_reply_to_status_id": 1250069213936529410,
+    "in_reply_to_status_id_str": "1250069213936529410",
+    "in_reply_to_user_id": 847589342264668165,
+    "in_reply_to_user_id_str": "847589342264668165",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Jibrilkala @citizentvkenya Alcohol reduces body immunity so he is not helping",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 14 11:04:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Upper Echelon | Sports pundit | Got one eye on top of my third |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12198,
+        "follow_request_sent": false,
+        "followers_count": 458,
+        "following": false,
+        "friends_count": 615,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 238102615,
+        "id_str": "238102615",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Kenya",
+        "name": "retweeter himuselef",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238102615/1542652793",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1066055187897466883/rpNuHMLD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066055187897466883/rpNuHMLD_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "opmakene",
+        "statuses_count": 4463,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

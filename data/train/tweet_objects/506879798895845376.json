@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 02 19:02:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 874653758,
+                "id_str": "874653758",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "DWinSTL",
+                "screen_name": "DWinSTL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 506879798895845376,
+    "id_str": "506879798895845376",
+    "in_reply_to_screen_name": "DWinSTL",
+    "in_reply_to_status_id": 506878125255315456,
+    "in_reply_to_status_id_str": "506878125255315456",
+    "in_reply_to_user_id": 874653758,
+    "in_reply_to_user_id_str": "874653758",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DWinSTL shameful at best...what you are doing. There is no honor in that. None.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 12 13:22:41 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Quis custodiet ipsos custodes?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 318,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 19,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 633733085,
+        "id_str": "633733085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "born free die free",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527986102767202304/AavPd5_N_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527986102767202304/AavPd5_N_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Theasthmatic",
+        "statuses_count": 866,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

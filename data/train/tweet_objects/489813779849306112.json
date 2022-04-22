@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 16:48:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489813779849306112,
+    "id_str": "489813779849306112",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 489800427152879616,
+    "in_reply_to_status_id_str": "489800427152879616",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@washingtonpost what is happening to mh airlines Now a days",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 08 09:17:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "True Indian , believer in secularism ,Gizmo freak person",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thegreatpsk.com",
+                        "expanded_url": "http://thegreatpsk.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8GgkwNW29j"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 22,
+        "following": false,
+        "friends_count": 72,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 54846497,
+        "id_str": "54846497",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "New Delhi",
+        "name": "PSK",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54846497/1477254233",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543774598878081024/VA0EyfoL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543774598878081024/VA0EyfoL_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pskpsingh",
+        "statuses_count": 90,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/8GgkwNW29j",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

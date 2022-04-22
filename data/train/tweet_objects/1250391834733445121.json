@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 11:53:39 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1250391834733445121,
+    "id_str": "1250391834733445121",
+    "in_reply_to_screen_name": "WHOAFRO",
+    "in_reply_to_status_id": 1250391207215345664,
+    "in_reply_to_status_id_str": "1250391207215345664",
+    "in_reply_to_user_id": 544389588,
+    "in_reply_to_user_id_str": "544389588",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHOAFRO I thought drinking the concentrated whisky was pure medication, a kind of sanitization of blood. Help me God.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 11 07:18:35 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sportsman",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 220,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1105005076471578624,
+        "id_str": "1105005076471578624",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Nairobi, Kenya",
+        "name": "Dzeko kibet",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1483829961572204548/ovLRW6YX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483829961572204548/ovLRW6YX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DzekooK",
+        "statuses_count": 254,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

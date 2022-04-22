@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 01:48:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    20,
+                    35
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    36,
+                    50
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 642152608048791553,
+    "id_str": "642152608048791553",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 642145732435292160,
+    "in_reply_to_status_id_str": "642145732435292160",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @eddiecarl4468 @HillaryClinton @BernieSanders Time for Hillary to quit if she has even an ounce of respect for America and her people.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 07 04:18:57 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, home-schooler, Veteran, Biblical Worldview, and pro-life, pro-traditional marriage  and pro-\ngun",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "peterwaldronusa.com",
+                        "expanded_url": "http://peterwaldronusa.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DgWA2sISno"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3489,
+        "follow_request_sent": false,
+        "followers_count": 19690,
+        "following": false,
+        "friends_count": 11822,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2280007795,
+        "id_str": "2280007795",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 61,
+        "location": "WY and FL",
+        "name": "Peter Waldron",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2280007795/1486485529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829007483117170688/_dnJJNdB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829007483117170688/_dnJJNdB_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "peterwaldronusa",
+        "statuses_count": 12478,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/DgWA2sISno",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

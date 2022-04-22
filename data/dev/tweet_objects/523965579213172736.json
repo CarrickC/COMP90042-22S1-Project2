@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 22:35:03 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39141877,
+                "id_str": "39141877",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "James Tyler",
+                "screen_name": "JamesTylerESPN"
+            },
+            {
+                "id": 58524428,
+                "id_str": "58524428",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Margarita Noriega",
+                "screen_name": "margarita"
+            },
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    27,
+                    35
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523965579213172736,
+    "id_str": "523965579213172736",
+    "in_reply_to_screen_name": "JamesTylerESPN",
+    "in_reply_to_status_id": 523961694813700096,
+    "in_reply_to_status_id_str": "523961694813700096",
+    "in_reply_to_user_id": 39141877,
+    "in_reply_to_user_id_str": "39141877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JamesTylerESPN @margarita @CBSNews Check that spider's ID!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 03 18:51:50 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I mostly tweet about PNW sports and other things that interest me",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1046,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 606,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 111077189,
+        "id_str": "111077189",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Ian O",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193913097792000000/NqrzMNQR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193913097792000000/NqrzMNQR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iando206",
+        "statuses_count": 1940,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

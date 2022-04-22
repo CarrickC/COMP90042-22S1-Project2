@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 16:25:01 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "peoplem.ag/rkNWR",
+                "expanded_url": "http://peoplem.ag/rkNWR",
+                "indices": [
+                    59,
+                    81
+                ],
+                "url": "http://t.co/uovMCBCqvD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3064617094,
+                "id_str": "3064617094",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "People Magazine",
+                "screen_name": "peoplemag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407183564984553472,
+    "id_str": "407183564984553472",
+    "in_reply_to_screen_name": "people",
+    "in_reply_to_status_id": 407179055763836928,
+    "in_reply_to_status_id_str": "407179055763836928",
+    "in_reply_to_user_id": 25589776,
+    "in_reply_to_user_id_str": "25589776",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@peoplemag: Did speed play a part in Paul Walker's death? http://t.co/uovMCBCqvD\u201d probably.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 31 02:16:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "endlessly curious, documentary enthusiast, mental health therapist, doctoral student, child of an immigrant, dog mom x3.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2471,
+        "follow_request_sent": false,
+        "followers_count": 166,
+        "following": false,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 541288865,
+        "id_str": "541288865",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Hilliard, OH",
+        "name": "Sarah \ud83e\udd20",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/541288865/1509474840",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1485418627222458369/Zl_4Opd6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485418627222458369/Zl_4Opd6_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SarahEliza2384",
+        "statuses_count": 9818,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

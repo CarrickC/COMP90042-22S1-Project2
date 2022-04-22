@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 10 18:39:30 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    13
+                ],
+                "text": "BarrackObama"
+            },
+            {
+                "indices": [
+                    66,
+                    89
+                ],
+                "text": "unintendedconsequences"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 426802833,
+                "id_str": "426802833",
+                "indices": [
+                    53,
+                    65
+                ],
+                "name": "AP Politics",
+                "screen_name": "AP_Politics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 675022040777158656,
+    "id_str": "675022040777158656",
+    "in_reply_to_screen_name": "AP_Politics",
+    "in_reply_to_status_id": 675005503160901632,
+    "in_reply_to_status_id_str": "675005503160901632",
+    "in_reply_to_user_id": 426802833,
+    "in_reply_to_user_id_str": "426802833",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#BarrackObama a.k.a The Best Gun Salesman In History @AP_Politics #unintendedconsequences",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 24 01:04:01 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "One of Twitter's resident politically incorrect lunatics.  RT \u2260 E",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15646,
+        "follow_request_sent": false,
+        "followers_count": 2954,
+        "following": false,
+        "friends_count": 3277,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 588793422,
+        "id_str": "588793422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 54,
+        "location": "Midwest",
+        "name": "Maddy Ferguson",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/588793422/1469815948",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996214537001943040/mfQFg-5e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996214537001943040/mfQFg-5e_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maddystl",
+        "statuses_count": 21911,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

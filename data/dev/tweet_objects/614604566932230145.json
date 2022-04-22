@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:22:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 455151827,
+                "id_str": "455151827",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Conservativ American",
+                "screen_name": "JustConservativ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614604566932230145,
+    "id_str": "614604566932230145",
+    "in_reply_to_screen_name": "JustConservativ",
+    "in_reply_to_status_id": 614598159906545664,
+    "in_reply_to_status_id_str": "614598159906545664",
+    "in_reply_to_user_id": 455151827,
+    "in_reply_to_user_id_str": "455151827",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JustConservativ I hope so",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 05 13:16:04 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My opinions are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6746,
+        "follow_request_sent": false,
+        "followers_count": 296,
+        "following": false,
+        "friends_count": 1173,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 53907422,
+        "id_str": "53907422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "pete",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/399264839/20080708pg_rooney2_500_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/399264839/20080708pg_rooney2_500_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pjperdaems",
+        "statuses_count": 16173,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

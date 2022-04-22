@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 14 06:15:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2619163263,
+                "id_str": "2619163263",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Valentine Imperfect",
+                "screen_name": "az_valentine"
+            },
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 643307076824006657,
+    "id_str": "643307076824006657",
+    "in_reply_to_screen_name": "az_valentine",
+    "in_reply_to_status_id": 643235887833157632,
+    "in_reply_to_status_id_str": "643235887833157632",
+    "in_reply_to_user_id": 2619163263,
+    "in_reply_to_user_id_str": "2619163263",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@az_valentine @AllenWest It is probably bec it's not made accordg to Muslim belief &amp; may contain pork or other taboo ingredients.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 02 22:32:49 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Travelled the world. English teacher & watercolor painter.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 97520,
+        "follow_request_sent": false,
+        "followers_count": 1528,
+        "following": false,
+        "friends_count": 1837,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2273636460,
+        "id_str": "2273636460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 136,
+        "location": "Wisconsin",
+        "name": "Suzanne Thomas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2273636460/1415049380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/578981025008603136/KOj2iOE8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/578981025008603136/KOj2iOE8_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Szrti716",
+        "statuses_count": 125398,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

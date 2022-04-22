@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 02 01:41:28 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517489509005815808,
+    "id_str": "517489509005815808",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517487705978966016,
+    "in_reply_to_status_id_str": "517487705978966016",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@megynkelly probably a good idea!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 16:09:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, Father of 3, founder of @perksocialmedia, co-host of @KrakenPod, Hockey fan, Detroit native, passionately learning about NFTs.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "perksocialmedia.com",
+                        "expanded_url": "http://perksocialmedia.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eSuEmitvD7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9186,
+        "follow_request_sent": false,
+        "followers_count": 5391,
+        "following": false,
+        "friends_count": 4196,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 36104367,
+        "id_str": "36104367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 199,
+        "location": "New Orleans, LA",
+        "name": "Jeff Januszek",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36104367/1648578380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508873202726019074/WpM5BVtU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508873202726019074/WpM5BVtU_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JeffJanuszek",
+        "statuses_count": 25457,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/eSuEmitvD7",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

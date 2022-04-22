@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 03:00:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525119435192160257,
+    "id_str": "525119435192160257",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525116411887513602,
+    "in_reply_to_status_id_str": "525116411887513602",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC wow. God bless",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 14 23:57:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nature Will Never Fail You. You Are Apart Of Her, Just As She Is Apart Of You \u2022 Green Bruja",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vsco.co/snapsbyz",
+                        "expanded_url": "http://vsco.co/snapsbyz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pZUbnbggkI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 163171,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 207,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 824213414,
+        "id_str": "824213414",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "\ud835\udc6c\ud835\udc97\ud835\udc86\ud835\udc93\ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc94\ud835\udc86\ud835\udc8f\ud835\udc95 ",
+        "name": "Zaria",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824213414/1650342721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516674672019972100/K65HlL2U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516674672019972100/K65HlL2U_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "essentia_z",
+        "statuses_count": 55543,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pZUbnbggkI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

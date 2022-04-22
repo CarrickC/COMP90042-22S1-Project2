@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 02 10:45:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "iucnredlist.org/details/136750\u2026",
+                "expanded_url": "http://www.iucnredlist.org/details/136750/0",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/2iSk4DexBZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 270064609,
+                "id_str": "270064609",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "\ud83c\uddfa\ud83c\udde6\ud83c\udf0eAnimal Watch\ud83c\udf0d\ud83c\uddfa\ud83c\udde6",
+                "screen_name": "Animal_Watch"
+            },
+            {
+                "id": 566688127,
+                "id_str": "566688127",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "dominic dyer",
+                "screen_name": "domdyer70"
+            },
+            {
+                "id": 317187060,
+                "id_str": "317187060",
+                "indices": [
+                    25,
+                    32
+                ],
+                "name": "WCS",
+                "screen_name": "TheWCS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528860349186179073,
+    "id_str": "528860349186179073",
+    "in_reply_to_screen_name": "Animal_Watch",
+    "in_reply_to_status_id": 528822281972498432,
+    "in_reply_to_status_id_str": "528822281972498432",
+    "in_reply_to_user_id": 270064609,
+    "in_reply_to_user_id_str": "270064609",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Animal_Watch @domdyer70 @TheWCS \"observed scientifically\" is a dodgy term.2007 Survey data had proved their presence http://t.co/2iSk4DexBZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 28 14:43:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author. Assistant Director of @ZoologyMuseum at @Cambridge_Uni. Chaser of furry things. Australian mammal nerd. @Nat_SCA Trustee. Hon. Fellow @STSUCL. Own views",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "waterstones.com/book/platypus-\u2026",
+                        "expanded_url": "https://www.waterstones.com/book/platypus-matters/jack-ashby/9780008431433",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KDwXp0SUO1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28257,
+        "follow_request_sent": false,
+        "followers_count": 12564,
+        "following": false,
+        "friends_count": 1384,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2161027910,
+        "id_str": "2161027910",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 238,
+        "location": "Cambridge, England",
+        "name": "Jack Ashby",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2161027910/1400335148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000660498665/bf9064fc54277d1781a8c6c40a8b6043_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000660498665/bf9064fc54277d1781a8c6c40a8b6043_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JackDAshby",
+        "statuses_count": 15154,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/KDwXp0SUO1",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 18:01:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 613406488460140545,
+    "id_str": "613406488460140545",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 613404935003217920,
+    "in_reply_to_status_id_str": "613404935003217920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HuffingtonPost folks get hungry",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 27 15:21:16 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 967,
+        "follow_request_sent": false,
+        "followers_count": 148,
+        "following": false,
+        "friends_count": 329,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 422685447,
+        "id_str": "422685447",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Here n there",
+        "name": "unionjack1967 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422685447/1559858005",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880885257897213952/LFNR8wc8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880885257897213952/LFNR8wc8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "unionjack1967",
+        "statuses_count": 8545,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 16:40:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    5,
+                    21
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652886495121031169,
+    "id_str": "652886495121031169",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 652882609219833856,
+    "in_reply_to_status_id_str": "652882609219833856",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @realDonaldTrump I want Trump's mirror and his hearing aid so that I will feel as beautiful and intelligent as he does.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 29 14:24:18 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13094,
+        "follow_request_sent": false,
+        "followers_count": 321,
+        "following": false,
+        "friends_count": 1679,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2594853072,
+        "id_str": "2594853072",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kentucky, USA",
+        "name": "Terry Kershaw",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880514811376918529/yoHKiHEF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880514811376918529/yoHKiHEF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TerryKershaw1",
+        "statuses_count": 20252,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

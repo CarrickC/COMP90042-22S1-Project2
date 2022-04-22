@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 28 19:32:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 279390084,
+                "id_str": "279390084",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Anonymous",
+                "screen_name": "YourAnonNews"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 538415166065766401,
+    "id_str": "538415166065766401",
+    "in_reply_to_screen_name": "YourAnonNews",
+    "in_reply_to_status_id": 538412662858588160,
+    "in_reply_to_status_id_str": "538412662858588160",
+    "in_reply_to_user_id": 279390084,
+    "in_reply_to_user_id_str": "279390084",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@YourAnonNews The article doesn't mention he was a witness, got a source? Let the speculation begin.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 18 15:20:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Normal is just an average. Think Different. I don't condense my thoughts very well. CG Artist. Indigenous. Tantra Hermit.  #ActuallyAutistic  #PTSD #CloseTheJRC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "normalisjustanaverage.wordpress.com",
+                        "expanded_url": "http://normalisjustanaverage.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J7iwG1EfCC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6981,
+        "follow_request_sent": false,
+        "followers_count": 312,
+        "following": false,
+        "friends_count": 804,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 831270470,
+        "id_str": "831270470",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "USA",
+        "name": "Chris Stargazer",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831270470/1443003296",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642462976834949121/yHcPcs6k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642462976834949121/yHcPcs6k_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisStargazer",
+        "statuses_count": 10166,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/J7iwG1EfCC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

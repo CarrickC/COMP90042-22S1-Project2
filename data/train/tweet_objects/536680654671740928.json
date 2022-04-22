@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 24 00:40:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            },
+            {
+                "id": 975893461,
+                "id_str": "975893461",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Let Toys Be Toys",
+                "screen_name": "LetToysBeToys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536680654671740928,
+    "id_str": "536680654671740928",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 536558567206420480,
+    "in_reply_to_status_id_str": "536558567206420480",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Independent @LetToysBeToys have u seen this??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 15 22:29:45 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dangerously dark. Seductively sweet. Fiercely filthy.\nBurlesque performer\ud83d\udc83\nPlus size model\ud83d\udcf7\nMama\ud83d\udc76\ud83c\udffb\ud83d\udc66\ud83c\udffb\nWife\ud83d\udc8d\nShe/Her/That Bitch \ud83c\udff7\ufe0f\nrep by @roguemodelsuk",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bambilebam.com",
+                        "expanded_url": "http://www.bambilebam.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0vRcZzqU7m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15894,
+        "follow_request_sent": false,
+        "followers_count": 5708,
+        "following": false,
+        "friends_count": 406,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2497283827,
+        "id_str": "2497283827",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Liverpool",
+        "name": "Bambi LeBam",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497283827/1528933019",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332461979827654657/YC-KwV1H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332461979827654657/YC-KwV1H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BambiLeBam",
+        "statuses_count": 19179,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/0vRcZzqU7m",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

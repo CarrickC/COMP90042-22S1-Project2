@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 19 00:04:33 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    14,
+                    22
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            },
+            {
+                "id": 426125482,
+                "id_str": "426125482",
+                "indices": [
+                    23,
+                    33
+                ],
+                "name": "Calli Schneider",
+                "screen_name": "calpal720"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 380482506534830080,
+    "id_str": "380482506534830080",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AllieCiaccio @eonline @calpal720 i heard about this today at school.. so weird",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 02 01:53:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "voted Coolest Girl in Seventh Grade",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 37191,
+        "follow_request_sent": false,
+        "followers_count": 394,
+        "following": false,
+        "friends_count": 622,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 93995622,
+        "id_str": "93995622",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "maria",
+        "notifications": false,
+        "profile_background_color": "E0A3C1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93995622/1438628040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/892933287819202561/sOaygECn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/892933287819202561/sOaygECn_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "F02BC9",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mariaciaa3",
+        "statuses_count": 6439,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

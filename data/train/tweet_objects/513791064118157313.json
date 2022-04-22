@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 21 20:45:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15807157,
+                "id_str": "15807157",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Yvonne McLaren",
+                "screen_name": "bucketree"
+            },
+            {
+                "id": 823759,
+                "id_str": "823759",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "Epic Beer",
+                "screen_name": "EpicBeer"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    21,
+                    30
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 513791064118157313,
+    "id_str": "513791064118157313",
+    "in_reply_to_screen_name": "bucketree",
+    "in_reply_to_status_id": 513779910372900865,
+    "in_reply_to_status_id_str": "513779910372900865",
+    "in_reply_to_user_id": 15807157,
+    "in_reply_to_user_id_str": "15807157",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@bucketree @EpicBeer @BuzzFeed A watery ass stout? Pass",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 02 13:14:45 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Connection above everything. Storyteller. Doing my work to make my feminism intersectional. Black Lives Matter.\nShe/Her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10517,
+        "follow_request_sent": false,
+        "followers_count": 272,
+        "following": false,
+        "friends_count": 1043,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 309660022,
+        "id_str": "309660022",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Akron, OH",
+        "name": "Fat Bitch Fall",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/309660022/1530715778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177222425127333888/3_w-7J5J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177222425127333888/3_w-7J5J_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Spunkyred5",
+        "statuses_count": 13011,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

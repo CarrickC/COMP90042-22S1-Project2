@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 02:40:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 342737639,
+                "id_str": "342737639",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jen from Texas",
+                "screen_name": "jensan1332"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 509169431097135104,
+    "id_str": "509169431097135104",
+    "in_reply_to_screen_name": "jensan1332",
+    "in_reply_to_status_id": 509084603617792001,
+    "in_reply_to_status_id_str": "509084603617792001",
+    "in_reply_to_user_id": 342737639,
+    "in_reply_to_user_id_str": "342737639",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "text": "@jensan1332 just 90 miles away, guess we'll be fighting them on our streets because of no enforcement of immigration laws.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 22 01:17:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#2a\nI am/was powerlifter 600lb squat. American Nationalist. America was founded on an idea,  that our rights are given to us by God,not man",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 899,
+        "follow_request_sent": false,
+        "followers_count": 3486,
+        "following": false,
+        "friends_count": 4080,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34124867,
+        "id_str": "34124867",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 62,
+        "location": "College Station, TX",
+        "name": "pocket change",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34124867/1458406590",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1477680406837215240/10RaN3Yr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1477680406837215240/10RaN3Yr_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rwmccrory",
+        "statuses_count": 103865,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

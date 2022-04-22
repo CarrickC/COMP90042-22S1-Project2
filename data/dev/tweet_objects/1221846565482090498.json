@@ -1,0 +1,205 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 17:24:56 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1221846565482090498",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/zhCqfjq5NY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    45,
+                    53
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1221846565482090498,
+    "id_str": "1221846565482090498",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1221840413700562944,
+    "in_reply_to_status_id_str": "1221840413700562944",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.495283,
+                        5.4812804
+                    ],
+                    [
+                        0.6719668,
+                        5.4812804
+                    ],
+                    [
+                        0.6719668,
+                        6.1058921
+                    ],
+                    [
+                        -0.495283,
+                        6.1058921
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ghana",
+        "country_code": "GH",
+        "full_name": "Greater Accra, Ghana",
+        "id": "018d4410153dc23b",
+        "name": "Greater Accra",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/018d4410153dc23b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Ok. Sounds funny! c4 ursef, d Q &amp; A is connected. an\u2026 https://t.co/zhCqfjq5NY",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 16 02:03:05 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ecumenical Christian, B&P, HR Activist, Blogger, Private Invstgtr, A Proud Pan Africanist & L.F.C Fan. YNWA. #WeFreeCitizenx #FreeMNK #Free2Talk4Africans",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/jamemlambert",
+                        "expanded_url": "https://twitter.com/jamemlambert",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Wz5DTfPQOg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2306,
+        "follow_request_sent": false,
+        "followers_count": 61,
+        "following": false,
+        "friends_count": 124,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 721156932304781313,
+        "id_str": "721156932304781313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "AF, AS, E.U. & U.S",
+        "name": "J M L \ud83d\udcaa\ud83d\udcbc\ud83d\ude0e\ud83d\udc51\ud83c\udf1f\ud83c\udf1f\u26a1\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/721156932304781313/1589645936",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261692612542705664/ow1mUIrB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261692612542705664/ow1mUIrB_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jamemlambert",
+        "statuses_count": 3674,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Wz5DTfPQOg",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

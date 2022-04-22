@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 19:39:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489856945856466944,
+    "id_str": "489856945856466944",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 489854703321509888,
+    "in_reply_to_status_id_str": "489854703321509888",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Independent\"shot down\"- that's not confirmed yet-just speculation-two crashes of a malaysian airline 777 within 4 months thats a fact",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 08 15:35:53 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hello and welcome to my profile. I'm a semi pro wildlife photographer, animal hugger and friend of the forests...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1600,
+        "follow_request_sent": false,
+        "followers_count": 399,
+        "following": false,
+        "friends_count": 957,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 745418844,
+        "id_str": "745418844",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 23,
+        "location": "Saxony-Germany",
+        "name": "Andreas Koerner",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745418844/1348083415",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731781920393179137/7Xc0rGpV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731781920393179137/7Xc0rGpV_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Andreas_Koerner",
+        "statuses_count": 10107,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

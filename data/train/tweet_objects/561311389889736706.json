@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 30 23:53:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893041820824997888,
+                "id_str": "893041820824997888",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "JoanneJohnston",
+                "screen_name": "peddoc63"
+            },
+            {
+                "id": 208083510,
+                "id_str": "208083510",
+                "indices": [
+                    10,
+                    23
+                ],
+                "name": "DR. TWEET, Ph.D.",
+                "screen_name": "Callisto1947"
+            },
+            {
+                "id": 820136761162657792,
+                "id_str": "820136761162657792",
+                "indices": [
+                    24,
+                    38
+                ],
+                "name": "Sam Paterson",
+                "screen_name": "LodiSilverado"
+            },
+            {
+                "id": 954124423,
+                "id_str": "954124423",
+                "indices": [
+                    39,
+                    46
+                ],
+                "name": "Amy Mek",
+                "screen_name": "AmyMek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 561311389889736706,
+    "id_str": "561311389889736706",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@peddoc63 @Callisto1947 @LodiSilverado @AmyMek Where the hell are the cowboys? Texas is the last place I expected this.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 11 21:50:46 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "School of hard knocks. Believes in common sense not political correctness. Retired after 50 years of hard work .  All Tweets in English.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 54612,
+        "follow_request_sent": false,
+        "followers_count": 510,
+        "following": false,
+        "friends_count": 306,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1855545500,
+        "id_str": "1855545500",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Hamilton",
+        "name": "ronmar37",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562019649655558144/10mqLoRR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562019649655558144/10mqLoRR_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DoyleblackRon",
+        "statuses_count": 19913,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 16:12:18 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    83,
+                    97
+                ],
+                "text": "RIPPaulWalker"
+            },
+            {
+                "indices": [
+                    98,
+                    112
+                ],
+                "text": "RIPRogerRodas"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "peoplem.ag/rkNWR",
+                "expanded_url": "http://peoplem.ag/rkNWR",
+                "indices": [
+                    59,
+                    81
+                ],
+                "url": "http://t.co/kF0ZC281CF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3064617094,
+                "id_str": "3064617094",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "People Magazine",
+                "screen_name": "peoplemag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407180363480301568,
+    "id_str": "407180363480301568",
+    "in_reply_to_screen_name": "people",
+    "in_reply_to_status_id": 407179055763836928,
+    "in_reply_to_status_id_str": "407179055763836928",
+    "in_reply_to_user_id": 25589776,
+    "in_reply_to_user_id_str": "25589776",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@peoplemag: Did speed play a part in Paul Walker's death? http://t.co/kF0ZC281CF\u201d #RIPPaulWalker #RIPRogerRodas",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 30 05:33:51 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "happiness is a choice.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 80,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 134,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 172634727,
+        "id_str": "172634727",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Handbag in tow, CA",
+        "name": "Janice",
+        "notifications": false,
+        "profile_background_color": "F5D7E6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172634727/1502132148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/894627866071126017/TsrTHn1B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/894627866071126017/TsrTHn1B_normal.jpg",
+        "profile_link_color": "F03589",
+        "profile_sidebar_border_color": "E08FAA",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "2E2A2A",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "PinkSatchelGirl",
+        "statuses_count": 13378,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

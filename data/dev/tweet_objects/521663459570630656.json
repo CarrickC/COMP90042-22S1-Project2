@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 14:07:15 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521663459570630656,
+    "id_str": "521663459570630656",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@lilduval: So Ebola was found in hair extensions? All my bitches wear weave \ud83d\ude33\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 03 00:28:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LLHOT\ud83d\udc94",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "beatstars.com/pyrexdibiase",
+                        "expanded_url": "https://www.beatstars.com/pyrexdibiase",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WsYttb71sD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8368,
+        "follow_request_sent": false,
+        "followers_count": 1574,
+        "following": false,
+        "friends_count": 994,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 328234743,
+        "id_str": "328234743",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "864",
+        "name": "Cash Ketchum \ud83d\udcb8",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328234743/1632919908",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1442179593792802820/nDWaTCyr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442179593792802820/nDWaTCyr_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "00EAF2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PyrxDibiase",
+        "statuses_count": 34046,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/WsYttb71sD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

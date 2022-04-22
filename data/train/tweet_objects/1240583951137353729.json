@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 19 10:20:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240583951137353729",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/7yOez9VmjQ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240583951137353729,
+    "id_str": "1240583951137353729",
+    "in_reply_to_screen_name": "NamibiaTech",
+    "in_reply_to_status_id": 1240583949157642240,
+    "in_reply_to_status_id_str": "1240583949157642240",
+    "in_reply_to_user_id": 1240193760706863104,
+    "in_reply_to_user_id_str": "1240193760706863104",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "ranging from the common cold to more severe diseases such as Middle East RespiratorySyndrome (MERS) and Severe Acut\u2026 https://t.co/7yOez9VmjQ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 08:30:30 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Namibian Tech team supporting the COVID19 Response. COVID19 Awareness and Enlightenment",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 299,
+        "follow_request_sent": false,
+        "followers_count": 80,
+        "following": false,
+        "friends_count": 37,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1240193760706863104,
+        "id_str": "1240193760706863104",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Covid19NamibiaTech",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240193760706863104/1585035025",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242354882339844096/NQw_eOXK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242354882339844096/NQw_eOXK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NamibiaTech",
+        "statuses_count": 379,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

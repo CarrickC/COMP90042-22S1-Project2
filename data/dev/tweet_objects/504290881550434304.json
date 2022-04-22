@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 15:34:50 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 790783038,
+                "id_str": "790783038",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Patrick",
+                "screen_name": "sportbikeguy00"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    16,
+                    20
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504290881550434304,
+    "id_str": "504290881550434304",
+    "in_reply_to_screen_name": "sportbikeguy00",
+    "in_reply_to_status_id": 504268715316498435,
+    "in_reply_to_status_id_str": "504268715316498435",
+    "in_reply_to_user_id": 790783038,
+    "in_reply_to_user_id_str": "790783038",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@sportbikeguy00 @CNN yes a brotherhood that kills an average of 400 people yearly and is responsible for almost 6,000 deaths since 9/11",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 30 03:22:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cause I'm Black & I'm Proud\nI'm Ready & Hyped Plus I'm Amped\nMost Of My Heroes Don't Appear On No Stamps! #BLACKL\u2764VE #BLACKEXCELLENCE\ud83d\udc51#UNAPOLOGETICALLYBLACK\u270a\ud83c\udfff",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17835,
+        "follow_request_sent": false,
+        "followers_count": 6506,
+        "following": false,
+        "friends_count": 705,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1631897234,
+        "id_str": "1631897234",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 102,
+        "location": "",
+        "name": "TheBlackWatch",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1631897234/1649582427",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234825062441783297/C8SP3gZz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234825062441783297/C8SP3gZz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NuBlackVision",
+        "statuses_count": 31690,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

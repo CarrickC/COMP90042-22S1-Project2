@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 22:19:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1269837428,
+                "id_str": "1269837428",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Florida Woman",
+                "screen_name": "_Flor1daWoman"
+            },
+            {
+                "id": 1694222593,
+                "id_str": "1694222593",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "\u2728\ufe0f\ud83d\udc3a Fyzz \ud83d\udc3a\u2728\ufe0f \ud83d\udd1e (#Vtuber)",
+                "screen_name": "fyzzgiggidy"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 514177098337222658,
+    "id_str": "514177098337222658",
+    "in_reply_to_screen_name": "_Flor1daWoman",
+    "in_reply_to_status_id": 514150992552931328,
+    "in_reply_to_status_id_str": "514150992552931328",
+    "in_reply_to_user_id": 1269837428,
+    "in_reply_to_user_id_str": "1269837428",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@_Flor1daWoman @fyzzgiggidy as much as I like boobs, just no... she had like two perfect ones already.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 06 18:06:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I play PC games and a computer geek. I sometimes cut paper up just for the hell of it and craft something awesome. I also Love Wolves.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blackst33l.tumblr.com",
+                        "expanded_url": "http://blackst33l.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pxHzvqvoKY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 102,
+        "follow_request_sent": false,
+        "followers_count": 144,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 349789834,
+        "id_str": "349789834",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "",
+        "name": "Brian Wolf",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349789834/1435525944",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684939723085877248/QQULZmKn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684939723085877248/QQULZmKn_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Blacksteel25",
+        "statuses_count": 25006,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/pxHzvqvoKY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

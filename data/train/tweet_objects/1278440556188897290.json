@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 21:29:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278440556188897290",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/AQzwctBvQn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16374678,
+                "id_str": "16374678",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ABC7 Eyewitness News",
+                "screen_name": "ABC7"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1278440556188897290,
+    "id_str": "1278440556188897290",
+    "in_reply_to_screen_name": "ABC7",
+    "in_reply_to_status_id": 1278434148437372931,
+    "in_reply_to_status_id_str": "1278434148437372931",
+    "in_reply_to_user_id": 16374678,
+    "in_reply_to_user_id_str": "16374678",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC7 This guy is crazy.. Almost 40 million in cal. Not quite 6K deaths.. and have been dropping by the week? Cases\u2026 https://t.co/AQzwctBvQn",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 10 18:06:00 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "dad-father-husband-",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11620,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 237,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2895831738,
+        "id_str": "2895831738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "AT jr",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2895831738/1596054696",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1014591360572112896/BBLN5juO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014591360572112896/BBLN5juO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aldog55",
+        "statuses_count": 11230,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

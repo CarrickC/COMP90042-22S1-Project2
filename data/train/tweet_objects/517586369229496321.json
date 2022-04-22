@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 02 08:06:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893966122109853696,
+                "id_str": "893966122109853696",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Placeholder",
+                "screen_name": "DavidJo52951945"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517586369229496321,
+    "id_str": "517586369229496321",
+    "in_reply_to_screen_name": "DavidJoBrexit",
+    "in_reply_to_status_id": 516636338679197697,
+    "in_reply_to_status_id_str": "516636338679197697",
+    "in_reply_to_user_id": 1125937411,
+    "in_reply_to_user_id_str": "1125937411",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@DavidJo52951945 this isn't true, FYI. In case anyone is still interested in what's factual.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 23 19:55:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Citizen of the corporate state, militant agnostic, and supporter of the Oxford comma.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1368,
+        "follow_request_sent": false,
+        "followers_count": 744,
+        "following": false,
+        "friends_count": 2005,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50082066,
+        "id_str": "50082066",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Tripping",
+        "name": "Abaddon Expounder",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50082066/1367764349",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565289713/Photo_41_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565289713/Photo_41_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Louderstill",
+        "statuses_count": 27316,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

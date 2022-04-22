@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 00:19:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thesco.re/XQDehK",
+                "expanded_url": "http://thesco.re/XQDehK",
+                "indices": [
+                    113,
+                    135
+                ],
+                "url": "http://t.co/cO60T9mBdD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    47,
+                    56
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 504422842281496576,
+    "id_str": "504422842281496576",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Pick an easily cartoonable team name please.RT @theScore NHL expansion to Las Vegas is reportedly 'a done deal.' http://t.co/cO60T9mBdD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 01 15:19:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Blogger Emeritus at Battle of California.\r\n\r\nGo Ducks.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "battleofcali.com",
+                        "expanded_url": "http://www.battleofcali.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FnVMNVX8rv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 1811,
+        "following": false,
+        "friends_count": 1605,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 52752864,
+        "id_str": "52752864",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 125,
+        "location": "Anaheim, CA",
+        "name": "Earl Sleek",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52752864/1356582910",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421214923/Earl_Sleek2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421214923/Earl_Sleek2_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "earlsleek",
+        "statuses_count": 8810,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/FnVMNVX8rv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

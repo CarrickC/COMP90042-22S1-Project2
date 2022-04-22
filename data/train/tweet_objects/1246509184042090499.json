@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 04 18:45:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1246509184042090499",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Yzhgbe2gXn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 141649656,
+                "id_str": "141649656",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Robin Bull#Onwards and upwards\ud83c\uddec\ud83c\udde7#Rule Britannia#",
+                "screen_name": "robinbull1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1246509184042090499,
+    "id_str": "1246509184042090499",
+    "in_reply_to_screen_name": "robinbull1",
+    "in_reply_to_status_id": 1246507620661420034,
+    "in_reply_to_status_id_str": "1246507620661420034",
+    "in_reply_to_user_id": 141649656,
+    "in_reply_to_user_id_str": "141649656",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@robinbull1 Not in the slightest am I splitting hairs.\n\nThe difference between vaccine and cure is as stark as chal\u2026 https://t.co/Yzhgbe2gXn",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 07 17:41:24 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "WE, are the Golden Geese\nBrexit\nI identify as normal\nIf you don't like it, don't read it",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 50942,
+        "follow_request_sent": false,
+        "followers_count": 1895,
+        "following": false,
+        "friends_count": 2335,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 130569367,
+        "id_str": "130569367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Reality",
+        "name": "Dr Tommy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130569367/1597575219",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1442144522172047361/pSvU6boY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442144522172047361/pSvU6boY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimmyWheeler68",
+        "statuses_count": 20174,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

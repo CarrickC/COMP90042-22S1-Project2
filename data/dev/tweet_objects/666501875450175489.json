@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 06:23:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 247063474,
+                "id_str": "247063474",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Alex \ud83d\uddfd",
+                "screen_name": "Alex__Carp"
+            },
+            {
+                "id": 15754281,
+                "id_str": "15754281",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "USA TODAY",
+                "screen_name": "USATODAY"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666501875450175489,
+    "id_str": "666501875450175489",
+    "in_reply_to_screen_name": "Alex__Carp",
+    "in_reply_to_status_id": 666498349709791232,
+    "in_reply_to_status_id_str": "666498349709791232",
+    "in_reply_to_user_id": 247063474,
+    "in_reply_to_user_id_str": "247063474",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Alex__Carp @USATODAY is it supposed to be funny? Cause it's not.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 26 03:17:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 181568,
+        "follow_request_sent": false,
+        "followers_count": 381,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 905198509,
+        "id_str": "905198509",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "New York, NY",
+        "name": "Hazera",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/905198509/1355446758",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857056742487805956/ZByxunrc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/857056742487805956/ZByxunrc_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "purdyhaze",
+        "statuses_count": 16281,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

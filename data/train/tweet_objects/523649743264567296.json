@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 01:40:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523649743264567296,
+    "id_str": "523649743264567296",
+    "in_reply_to_screen_name": "PatrickWeekes",
+    "in_reply_to_status_id": 523590001880481792,
+    "in_reply_to_status_id_str": "523590001880481792",
+    "in_reply_to_user_id": 369586333,
+    "in_reply_to_user_id_str": "369586333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@PatrickWeekes @pourmecoffee I don't really like that he killed her and took her to his lab and then a museum. :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 06 14:17:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u0ca0_\u0ca0 She/Her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11601,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 80312665,
+        "id_str": "80312665",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Adelaide, South Australia.",
+        "name": "Tiff",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1417116117097615360/i2CNAgbV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417116117097615360/i2CNAgbV_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tiffogrin",
+        "statuses_count": 1035,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

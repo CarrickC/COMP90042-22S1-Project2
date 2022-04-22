@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 10:18:16 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415083127,
+                "id_str": "415083127",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Shalimar Shamseen",
+                "screen_name": "shalimarsh"
+            },
+            {
+                "id": 2425231,
+                "id_str": "2425231",
+                "indices": [
+                    12,
+                    17
+                ],
+                "name": "Fact",
+                "screen_name": "Fact"
+            },
+            {
+                "id": 460479022,
+                "id_str": "460479022",
+                "indices": [
+                    18,
+                    27
+                ],
+                "name": "Tamara Shamseen",
+                "screen_name": "emtaline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 377013074995052544,
+    "id_str": "377013074995052544",
+    "in_reply_to_screen_name": "shalimarsh",
+    "in_reply_to_status_id": 377012731200962560,
+    "in_reply_to_status_id_str": "377012731200962560",
+    "in_reply_to_user_id": 415083127,
+    "in_reply_to_user_id_str": "415083127",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@shalimarsh @Fact @emtaline @ShamseenTM lol hayda el na2esss , collect them all!!! :P",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 17 05:18:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IG: @shamsine",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/shamsine",
+                        "expanded_url": "https://www.facebook.com/shamsine",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zPBsZ9TJQH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 233,
+        "follow_request_sent": false,
+        "followers_count": 318,
+        "following": false,
+        "friends_count": 345,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 123772406,
+        "id_str": "123772406",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Al-Dawha, Qatar",
+        "name": "Shadi Shamsine",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123772406/1502353717",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/895562510845325313/o3tvPl4E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/895562510845325313/o3tvPl4E_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shamsine",
+        "statuses_count": 975,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zPBsZ9TJQH",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

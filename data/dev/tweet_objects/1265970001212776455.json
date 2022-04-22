@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 28 11:35:43 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1265970001212776455",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/TcReM4N8e7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1256498796676161536,
+                "id_str": "1256498796676161536",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Liz Reads The Bible",
+                "screen_name": "BibleLiz"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1265970001212776455,
+    "id_str": "1265970001212776455",
+    "in_reply_to_screen_name": "BibleLiz",
+    "in_reply_to_status_id": 1264468665153531904,
+    "in_reply_to_status_id_str": "1264468665153531904",
+    "in_reply_to_user_id": 1256498796676161536,
+    "in_reply_to_user_id_str": "1256498796676161536",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BibleLiz Check out Peter Enns\u2019 work. He\u2019s got a great book The Bible Tells Me So: why defending scripture has made\u2026 https://t.co/TcReM4N8e7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 01 00:26:24 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pastor, Person, Following Jesus, Making Room, Recording a Podcast",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "podcasts.apple.com/ca/podcast/the\u2026",
+                        "expanded_url": "https://podcasts.apple.com/ca/podcast/the-great-indoors/id1507754135",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4NAOCrW3Vk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 43,
+        "following": false,
+        "friends_count": 321,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1156722812075356161,
+        "id_str": "1156722812075356161",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Leamington, Ontario",
+        "name": "plasterZab",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156722812075356161/1588433733",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156722907617341440/2i7GNu8W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156722907617341440/2i7GNu8W_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PastorZach1",
+        "statuses_count": 355,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4NAOCrW3Vk",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 13:33:22 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469194846,
+                "id_str": "469194846",
+                "indices": [
+                    14,
+                    26
+                ],
+                "name": "Twitchy Team",
+                "screen_name": "TwitchyTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387209033964216320,
+    "id_str": "387209033964216320",
+    "in_reply_to_screen_name": "ReallyJustG",
+    "in_reply_to_status_id": 387029133777444864,
+    "in_reply_to_status_id_str": "387029133777444864",
+    "in_reply_to_user_id": 314281034,
+    "in_reply_to_user_id_str": "314281034",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Gena_Rinckey @TwitchyTeam no, closing Amber Alert is sick, sick, and evil",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 16:11:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mom,Wife,Grandma, Conservative, 100% Fed UP, #tgdn #pjnet #tcot #teaparty #maga",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mymichtaxparty.blogspot.com",
+                        "expanded_url": "http://mymichtaxparty.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ejeAngdKqL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1055,
+        "follow_request_sent": false,
+        "followers_count": 2387,
+        "following": false,
+        "friends_count": 2942,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26527251,
+        "id_str": "26527251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 70,
+        "location": "NW corner of heaven",
+        "name": "just me",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26527251/1532294322",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1021142511622946816/e2gNvy6W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021142511622946816/e2gNvy6W_normal.jpg",
+        "profile_link_color": "00BFFF",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "efricke",
+        "statuses_count": 23629,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ejeAngdKqL",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

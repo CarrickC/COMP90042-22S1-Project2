@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 20:31:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17525171,
+                "id_str": "17525171",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Variety",
+                "screen_name": "Variety"
+            },
+            {
+                "id": 21287084,
+                "id_str": "21287084",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Joe McGann",
+                "screen_name": "JosephMcGann"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551113526304333826,
+    "id_str": "551113526304333826",
+    "in_reply_to_screen_name": "Variety",
+    "in_reply_to_status_id": 551097831851687938,
+    "in_reply_to_status_id_str": "551097831851687938",
+    "in_reply_to_user_id": 17525171,
+    "in_reply_to_user_id_str": "17525171",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Variety @JosephMcGann Sad news, the Beverly Hillbillies is about the first US one I remember. Sitcom, that is",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 19 11:21:57 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Journo, reviewer, blogs on comics at Too Dangerous For a Girl https://t.co/T6Rz6VsZOu, does a bit for https://t.co/NbGgG0hMXz \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dangermart.blog",
+                        "expanded_url": "http://dangermart.blog",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "url": "https://t.co/T6Rz6VsZOu"
+                    },
+                    {
+                        "display_url": "alledinburghtheatre.com",
+                        "expanded_url": "http://alledinburghtheatre.com",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "url": "https://t.co/NbGgG0hMXz"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dangermart.blog",
+                        "expanded_url": "https://dangermart.blog",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/X4KsAKky75"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43301,
+        "follow_request_sent": false,
+        "followers_count": 3061,
+        "following": false,
+        "friends_count": 3233,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18239888,
+        "id_str": "18239888",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 85,
+        "location": "Musselburgh, Scotland",
+        "name": "Martin Gray",
+        "notifications": false,
+        "profile_background_color": "D5FA00",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18239888/1624458811",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343662995092746242/O-TYnY0b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343662995092746242/O-TYnY0b_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FF0000",
+        "profile_sidebar_fill_color": "0C0CF5",
+        "profile_text_color": "0EEB28",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MartGray",
+        "statuses_count": 68101,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/X4KsAKky75",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

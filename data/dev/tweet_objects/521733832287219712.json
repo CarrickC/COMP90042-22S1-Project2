@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 18:46:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 221452291,
+                "id_str": "221452291",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Did You Know?",
+                "screen_name": "Know"
+            },
+            {
+                "id": 1152606086,
+                "id_str": "1152606086",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "Aark",
+                "screen_name": "TheAarkAngel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521733832287219712,
+    "id_str": "521733832287219712",
+    "in_reply_to_screen_name": "Know",
+    "in_reply_to_status_id": 521727831307722753,
+    "in_reply_to_status_id_str": "521727831307722753",
+    "in_reply_to_user_id": 221452291,
+    "in_reply_to_user_id_str": "221452291",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Know @TheAarkAngel this story is acually not true, sorry to burst ya bubble",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 26 14:01:39 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Kex named Wolf, Furry, Physicist, Pleasently disturbed. Team Legalize Awoowoo!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7182,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 254,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1459724954,
+        "id_str": "1459724954",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Sk\u00e5neland!",
+        "name": "Kex",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459724954/1452112518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817816011667808257/SwaoVR94_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817816011667808257/SwaoVR94_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kexie_",
+        "statuses_count": 21318,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

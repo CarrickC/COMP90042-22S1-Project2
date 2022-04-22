@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 03:27:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2217072500,
+                "id_str": "2217072500",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Jim Dilly",
+                "screen_name": "THEMRCAMPER"
+            },
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    13,
+                    18
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614636241405939716,
+    "id_str": "614636241405939716",
+    "in_reply_to_screen_name": "THEMRCAMPER",
+    "in_reply_to_status_id": 614630414481756160,
+    "in_reply_to_status_id_str": "614630414481756160",
+    "in_reply_to_user_id": 2217072500,
+    "in_reply_to_user_id_str": "2217072500",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@THEMRCAMPER @cnni how",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 29 01:08:07 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just some random guy that loves anime, manga, and potatoes . MyAnimeList: https://t.co/8IVNMLCQNk\u2026 add me so we can weeb out together :P",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "myanimelist.net/profile/a_MLG_\u2026",
+                        "expanded_url": "https://myanimelist.net/profile/a_MLG_POTATO",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "url": "https://t.co/8IVNMLCQNk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 67770,
+        "follow_request_sent": false,
+        "followers_count": 442,
+        "following": false,
+        "friends_count": 310,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2849130065,
+        "id_str": "2849130065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "My chair",
+        "name": "Potato Senpai",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2849130065/1618381115",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290822233372233729/2iY67uqz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290822233372233729/2iY67uqz_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "a_MLG_POTATO",
+        "statuses_count": 20967,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

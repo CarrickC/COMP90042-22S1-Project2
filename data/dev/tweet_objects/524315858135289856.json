@@ -1,0 +1,213 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -97.86865339,
+            28.83565395
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 20 21:46:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/o90M9lD37u",
+                "expanded_url": "https://twitter.com/princessss_ally/status/524315858135289856/photo/1",
+                "id": 524315842071126016,
+                "id_str": "524315842071126016",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0a-evzCYAAsQVR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0a-evzCYAAsQVR.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/o90M9lD37u"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28638191,
+                "id_str": "28638191",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "Nicole Polizzi",
+                "screen_name": "snooki"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/o90M9lD37u",
+                "expanded_url": "https://twitter.com/princessss_ally/status/524315858135289856/photo/1",
+                "id": 524315842071126016,
+                "id_str": "524315842071126016",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0a-evzCYAAsQVR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0a-evzCYAAsQVR.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/o90M9lD37u"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            28.83565395,
+            -97.86865339
+        ],
+        "type": "Point"
+    },
+    "id": 524315858135289856,
+    "id_str": "524315858135289856",
+    "in_reply_to_screen_name": "snooki",
+    "in_reply_to_status_id": 524312881823637504,
+    "in_reply_to_status_id_str": "524312881823637504",
+    "in_reply_to_user_id": 28638191,
+    "in_reply_to_user_id_str": "28638191",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@snooki: Google South American Goliath Birdeater. HELLLLL NOOOOOO\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u201d\ud83d\ude29\ud83d\ude29 http://t.co/o90M9lD37u",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 21:00:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udf19 baby a",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 199872,
+        "follow_request_sent": false,
+        "followers_count": 1634,
+        "following": false,
+        "friends_count": 533,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26849523,
+        "id_str": "26849523",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "United States",
+        "name": "Alyssa \u2728",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26849523/1646434385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481222920059985920/uwr1cdDn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481222920059985920/uwr1cdDn_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "princessss_alla",
+        "statuses_count": 76561,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

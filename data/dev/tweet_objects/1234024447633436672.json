@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 01 07:55:30 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xbMYB0t4mA",
+                "expanded_url": "https://twitter.com/Ausbones/status/1234024447633436672/photo/1",
+                "id": 1234024437860700160,
+                "id_str": "1234024437860700160",
+                "indices": [
+                    72,
+                    95
+                ],
+                "media_url": "http://pbs.twimg.com/media/ESAisCbWkAAGcga.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ESAisCbWkAAGcga.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 980,
+                        "resize": "fit",
+                        "w": 490
+                    },
+                    "medium": {
+                        "h": 980,
+                        "resize": "fit",
+                        "w": 490
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/xbMYB0t4mA"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4822536123,
+                "id_str": "4822536123",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "NuNu2",
+                "screen_name": "ItsNotPersonal0"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xbMYB0t4mA",
+                "expanded_url": "https://twitter.com/Ausbones/status/1234024447633436672/photo/1",
+                "id": 1234024437860700160,
+                "id_str": "1234024437860700160",
+                "indices": [
+                    72,
+                    95
+                ],
+                "media_url": "http://pbs.twimg.com/media/ESAisCbWkAAGcga.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ESAisCbWkAAGcga.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 980,
+                        "resize": "fit",
+                        "w": 490
+                    },
+                    "medium": {
+                        "h": 980,
+                        "resize": "fit",
+                        "w": 490
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/xbMYB0t4mA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1234024447633436672,
+    "id_str": "1234024447633436672",
+    "in_reply_to_screen_name": "ItsNotPersonal0",
+    "in_reply_to_status_id": 1234021022921302018,
+    "in_reply_to_status_id_str": "1234021022921302018",
+    "in_reply_to_user_id": 4822536123,
+    "in_reply_to_user_id_str": "4822536123",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ItsNotPersonal0 Now looked at the marked area and read my tweet again. https://t.co/xbMYB0t4mA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 04 10:47:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Immunologist | Microbiologist | Bioinformatician | Immunoinformatist | Immunomicist | Data Analyst | Academic | Researcher | Project Mgr. | Mgt Consultant",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34567,
+        "follow_request_sent": false,
+        "followers_count": 7535,
+        "following": false,
+        "friends_count": 7294,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 94534234,
+        "id_str": "94534234",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Lekki, Nigeria",
+        "name": "Dr. August Bones",
+        "notifications": false,
+        "profile_background_color": "341DE3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94534234/1646591305",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1319674619499024384/ay6-9-o0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319674619499024384/ay6-9-o0_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ausbones",
+        "statuses_count": 24100,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

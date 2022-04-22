@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 15 18:21:19 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 334735260208218112,
+    "id_str": "334735260208218112",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "de",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@stephenfry Neighbour Bertil St\u00e5hfr\u00e4\u00e4s( boner, hard-on) In the swedish paper the psychologist was named Siv Underlivh (pelvic) :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 22 18:31:30 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Verksamhetsledare f\u00f6r Elektrkerna V\u00e4rmland-Dalsland",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 23,
+        "following": false,
+        "friends_count": 202,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 443948879,
+        "id_str": "443948879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Takene beach",
+        "name": "Andreas Hellgren",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/443948879/1400352906",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164398658328190976/ut4daFGR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164398658328190976/ut4daFGR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "berndtandreas",
+        "statuses_count": 336,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

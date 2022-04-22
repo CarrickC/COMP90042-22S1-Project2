@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 13:06:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "esquire.com/news-politics/\u2026",
+                "expanded_url": "http://www.esquire.com/news-politics/politics/news/a38440/pope-francis-swindled-kim-davis-meeting/",
+                "indices": [
+                    73,
+                    95
+                ],
+                "url": "http://t.co/EttGv3DhAU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21882251,
+                "id_str": "21882251",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Stephanie Nolen",
+                "screen_name": "snolen"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 649933436363362304,
+    "id_str": "649933436363362304",
+    "in_reply_to_screen_name": "snolen",
+    "in_reply_to_status_id": 649896716368539648,
+    "in_reply_to_status_id_str": "649896716368539648",
+    "in_reply_to_user_id": 21882251,
+    "in_reply_to_user_id_str": "21882251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@snolen it's entirely likely that he met her without knowing who she is: http://t.co/EttGv3DhAU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 16 19:41:08 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I live alone.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "elegant-hedgehog.tumblr.com",
+                        "expanded_url": "http://elegant-hedgehog.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pnIRQAzHAR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2037,
+        "follow_request_sent": false,
+        "followers_count": 241,
+        "following": false,
+        "friends_count": 198,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 336713933,
+        "id_str": "336713933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Toronto, Canada",
+        "name": "Larissa",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/336713933/1488485503",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1445821722/hedgehog_in_fog_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445821722/hedgehog_in_fog_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elegnt_hedgehg",
+        "statuses_count": 10093,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pnIRQAzHAR",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:45:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672517001441480704,
+    "id_str": "672517001441480704",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672513234419638273,
+    "in_reply_to_status_id_str": "672513234419638273",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@ABC Yes Jacob, bc right wing hate exploded.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 12 22:56:25 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder of Democracy in Action, political action group. Die hard progressive. #TheResistance Bernie Arguments Earn You a Block",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 135002,
+        "follow_request_sent": false,
+        "followers_count": 3993,
+        "following": false,
+        "friends_count": 1059,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 20729032,
+        "id_str": "20729032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 93,
+        "location": "Ferguson at Heart     ",
+        "name": "Black Girl Justice",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20729032/1613554359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1383991103926329347/cdIIhnC1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383991103926329347/cdIIhnC1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dodi70",
+        "statuses_count": 198002,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

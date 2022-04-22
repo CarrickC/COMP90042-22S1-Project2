@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 03:48:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 635745335,
+                "id_str": "635745335",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Viva La Revoluci\u00f3n\ud83c\udff4",
+                "screen_name": "70torinoman"
+            },
+            {
+                "id": 276396066,
+                "id_str": "276396066",
+                "indices": [
+                    13,
+                    24
+                ],
+                "name": "Timothy Thelen",
+                "screen_name": "timmthelen"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523682091154673664,
+    "id_str": "523682091154673664",
+    "in_reply_to_screen_name": "70torinoman",
+    "in_reply_to_status_id": 523555724807262208,
+    "in_reply_to_status_id_str": "523555724807262208",
+    "in_reply_to_user_id": 635745335,
+    "in_reply_to_user_id_str": "635745335",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@70torinoman @timmthelen just curious...where is the source for this?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 25 21:37:10 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Game programmer, reporter at @RawStory, author, elections nerd, devoted husband to @jesstherealmess. Proudly on the spectrum. All opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chapmangames.weebly.com",
+                        "expanded_url": "https://chapmangames.weebly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/caQ2pYtiNf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 153124,
+        "follow_request_sent": false,
+        "followers_count": 97384,
+        "following": false,
+        "friends_count": 12093,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 716813053,
+        "id_str": "716813053",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1104,
+        "location": "San Marcos, TX",
+        "name": "Matthew Chapman",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716813053/1627692505",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412591355621040129/kzVNmD-N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412591355621040129/kzVNmD-N_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fawfulfan",
+        "statuses_count": 271026,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/caQ2pYtiNf",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

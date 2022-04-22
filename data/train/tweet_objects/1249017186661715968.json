@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 11 16:51:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1249017186661715968",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/FgnDTFadj5"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 22,
+    "favorited": false,
+    "geo": null,
+    "id": 1249017186661715968,
+    "id_str": "1249017186661715968",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "I can't control myself from commenting when I see posts that say COVID-19 is just like the flu. I know no good will\u2026 https://t.co/FgnDTFadj5",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 22:29:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I push limits of my body to learn about life. Big Dreamer. Runner. Triathlete. Coach. Lil Diesel. https://t.co/i7K8R0BJYU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "nolimitsendurance.com",
+                        "expanded_url": "http://www.nolimitsendurance.com",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/i7K8R0BJYU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "runningalife.com",
+                        "expanded_url": "http://www.runningalife.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WOINNhsl9e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5678,
+        "follow_request_sent": false,
+        "followers_count": 1989,
+        "following": false,
+        "friends_count": 1007,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30084514,
+        "id_str": "30084514",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 126,
+        "location": "Colorado, USA",
+        "name": "Maria Simone \ud83c\udfc3\u200d\u2640\ufe0f\ud83c\udfd4\ud83d\udc95",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30084514/1572069433",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187971417922404352/uvAnrfMi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187971417922404352/uvAnrfMi_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MASlife",
+        "statuses_count": 27291,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/WOINNhsl9e",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

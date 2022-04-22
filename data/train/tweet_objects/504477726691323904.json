@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 03:57:17 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21660529,
+                "id_str": "21660529",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Sportsnet",
+                "screen_name": "Sportsnet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504477726691323904,
+    "id_str": "504477726691323904",
+    "in_reply_to_screen_name": "cuthbertlive",
+    "in_reply_to_status_id": 504476921124888577,
+    "in_reply_to_status_id_str": "504476921124888577",
+    "in_reply_to_user_id": 351760710,
+    "in_reply_to_user_id_str": "351760710",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "text": "@cuthbertonline @Sportsnet   if they come in with Quebec I'm okay with it. Been rumoured since that outdoor game in 91.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 05 15:22:02 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Liam is the world's #1 NHL historian/trivia expert.  His 4th book is now available-The Real Ogie!  https://t.co/TUPdCkAL5E",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "burnstownpublishing.com/product/the-re\u2026",
+                        "expanded_url": "http://burnstownpublishing.com/product/the-real-ogie/",
+                        "indices": [
+                            99,
+                            122
+                        ],
+                        "url": "https://t.co/TUPdCkAL5E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22616,
+        "follow_request_sent": false,
+        "followers_count": 7642,
+        "following": false,
+        "friends_count": 1220,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 455828151,
+        "id_str": "455828151",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 110,
+        "location": "Ottawa",
+        "name": "Liam Maguire",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455828151/1569524016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/846095375047938048/A_KeRH1C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/846095375047938048/A_KeRH1C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Liams_Hockey",
+        "statuses_count": 50183,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

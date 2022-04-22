@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:15:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    59
+                ],
+                "text": "LoveWins"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783001052434067457,
+                "id_str": "783001052434067457",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CNN Wire",
+                "screen_name": "cnnwire"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    9,
+                    13
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 614617943423365120,
+    "id_str": "614617943423365120",
+    "in_reply_to_screen_name": "CNNNSdigital",
+    "in_reply_to_status_id": 614604054552018944,
+    "in_reply_to_status_id_str": "614604054552018944",
+    "in_reply_to_user_id": 844364659,
+    "in_reply_to_user_id_str": "844364659",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNNWire @CNN @WhiteHouse I love this. So pretty! #LoveWins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 01 04:19:45 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Child of the 70's. Retired science teacher. Lover of cats, tennis, my baby and classic TV",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7281,
+        "follow_request_sent": false,
+        "followers_count": 7,
+        "following": false,
+        "friends_count": 77,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2366501196,
+        "id_str": "2366501196",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "MAV",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2366501196/1529889645",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359636707507916803/0OP5jpER_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359636707507916803/0OP5jpER_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MomOfBuzz",
+        "statuses_count": 3523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

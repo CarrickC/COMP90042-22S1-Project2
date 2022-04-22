@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 16:43:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250102349248499712,
+    "id_str": "1250102349248499712",
+    "in_reply_to_screen_name": "citizentvkenya",
+    "in_reply_to_status_id": 1250066794066444290,
+    "in_reply_to_status_id_str": "1250066794066444290",
+    "in_reply_to_user_id": 70394965,
+    "in_reply_to_user_id_str": "70394965",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@citizentvkenya Sonko did not say it will help prevent corona,it is part of the food package for alcohol dry spells",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 07 16:45:33 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MEDIA ENTHUSIAST\nCONTENT CREATOR\nEVENT ORGANIZER\nMUSIC AMBASSADOR \ud83c\udfa4",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Spartah.com",
+                        "expanded_url": "http://www.Spartah.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vsv7u5RVO0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29689,
+        "follow_request_sent": false,
+        "followers_count": 4409,
+        "following": false,
+        "friends_count": 3832,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 817774184621281280,
+        "id_str": "817774184621281280",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Nairobi, Kenya",
+        "name": "SPARTAH",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817774184621281280/1624966211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249691809023954944/Cx5wGbQc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249691809023954944/Cx5wGbQc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrianSpartah",
+        "statuses_count": 21601,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vsv7u5RVO0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

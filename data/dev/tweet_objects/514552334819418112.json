@@ -1,0 +1,209 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 23:10:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/M6xdhGzddd",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "id": 514517469911072768,
+                "id_str": "514517469911072768",
+                "indices": [
+                    96,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "media_url_https": "https://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "sizes": {
+                    "large": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514517470238240768,
+                "source_status_id_str": "514517470238240768",
+                "source_user_id": 2890961,
+                "source_user_id_str": "2890961",
+                "type": "photo",
+                "url": "http://t.co/M6xdhGzddd"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gizmo.do/74dBvKC",
+                "expanded_url": "http://gizmo.do/74dBvKC",
+                "indices": [
+                    73,
+                    95
+                ],
+                "url": "http://t.co/xixtL3yqe7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2890961,
+                "id_str": "2890961",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Gizmodo",
+                "screen_name": "Gizmodo"
+            },
+            {
+                "id": 60032981,
+                "id_str": "60032981",
+                "indices": [
+                    120,
+                    128
+                ],
+                "name": "\ud83c\udde8\ud83c\udde6 Izzy Nobre",
+                "screen_name": "MrNobre"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/M6xdhGzddd",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "id": 514517469911072768,
+                "id_str": "514517469911072768",
+                "indices": [
+                    96,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "media_url_https": "https://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "sizes": {
+                    "large": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514517470238240768,
+                "source_status_id_str": "514517470238240768",
+                "source_user_id": 2890961,
+                "source_user_id_str": "2890961",
+                "type": "photo",
+                "url": "http://t.co/M6xdhGzddd"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514552334819418112,
+    "id_str": "514552334819418112",
+    "in_reply_to_screen_name": "Gizmodo",
+    "in_reply_to_status_id": 514517470238240768,
+    "in_reply_to_status_id_str": "514517470238240768",
+    "in_reply_to_user_id": 2890961,
+    "in_reply_to_user_id_str": "2890961",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@Gizmodo: And here's a guy bending an iPhone 6 Plus with his bare hands http://t.co/xixtL3yqe7 http://t.co/M6xdhGzddd\u201d @MrNobre",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 19 05:14:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "political science, history, and law student (@ouranu), occasional labor hack, i blog sometimes, opinions mine'; electoral matter (if any) auth'd by J Mann, CBR",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iosef.org",
+                        "expanded_url": "http://iosef.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/o4yj9OlbPz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 59620,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 1159,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 301264434,
+        "id_str": "301264434",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Canberra, Australia",
+        "name": "Joey Mann \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/301264434/1644277990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1487375422954553346/oQLqWW5D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487375422954553346/oQLqWW5D_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iosefmann",
+        "statuses_count": 17560,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/o4yj9OlbPz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 07:09:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78195667,
+                "id_str": "78195667",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "michael epps",
+                "screen_name": "michael_epps"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    14,
+                    21
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504163820072222720,
+    "id_str": "504163820072222720",
+    "in_reply_to_screen_name": "michael_epps",
+    "in_reply_to_status_id": 504150939058843649,
+    "in_reply_to_status_id_str": "504150939058843649",
+    "in_reply_to_user_id": 78195667,
+    "in_reply_to_user_id_str": "78195667",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@michael_epps @cnnbrk What if it was a jam? Need more data around this entire situation",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 05 01:30:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a producer, award winning filmmaker, & Security Architect bundled into an enigma engine. #PhoenixPrinciple | #BlackLivesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/DoubleExposure\u2026",
+                        "expanded_url": "http://bit.ly/DoubleExposureIG",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/y0swZuGpDb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17560,
+        "follow_request_sent": false,
+        "followers_count": 824,
+        "following": false,
+        "friends_count": 2270,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 94693288,
+        "id_str": "94693288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 78,
+        "location": "Seattle, WA",
+        "name": "Samuel Trim",
+        "notifications": false,
+        "profile_background_color": "E1EDEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94693288/1370446571",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497709864142864386/HrT4v8Qh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497709864142864386/HrT4v8Qh_normal.jpg",
+        "profile_link_color": "094225",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BosleyBeats",
+        "statuses_count": 17060,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/y0swZuGpDb",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

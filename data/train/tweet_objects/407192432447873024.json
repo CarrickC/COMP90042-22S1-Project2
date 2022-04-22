@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 17:00:15 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "apne.ws/Ixefrj",
+                "expanded_url": "http://apne.ws/Ixefrj",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/qY5Mkotgsd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    1,
+                    4
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407192432447873024,
+    "id_str": "407192432447873024",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 407192126032986112,
+    "in_reply_to_status_id_str": "407192126032986112",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@AP: Police say speed was a factor in an L.A. crash that killed 2, including \"Fast &amp; Furious\" actor Paul Walker: http://t.co/qY5Mkotgsd\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 25 00:56:58 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": ".No al Retroceso por la derecha es mejor.. Uribista Si... pero no es mi religi\u00f3n,ni mi pasi\u00f3n, solo estoy Agradecido por lo que hizo para mi pa\u00eds..\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "letrina.com",
+                        "expanded_url": "http://www.letrina.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yr6I143jTV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 214447,
+        "follow_request_sent": false,
+        "followers_count": 15866,
+        "following": false,
+        "friends_count": 541,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 473472787,
+        "id_str": "473472787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 107,
+        "location": "Orlando, FL",
+        "name": "LeTrina_",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/473472787/1620157471",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497755758976507907/LFuy_wgp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497755758976507907/LFuy_wgp_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LeTrina_",
+        "statuses_count": 441563,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yr6I143jTV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

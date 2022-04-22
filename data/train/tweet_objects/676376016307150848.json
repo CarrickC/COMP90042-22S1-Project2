@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 14 12:19:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14940354,
+                "id_str": "14940354",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Jim Roberts",
+                "screen_name": "nycjim"
+            },
+            {
+                "id": 323687803,
+                "id_str": "323687803",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Kat Long",
+                "screen_name": "Katrin_Long"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 676376016307150848,
+    "id_str": "676376016307150848",
+    "in_reply_to_screen_name": "nycjim",
+    "in_reply_to_status_id": 676367888543031296,
+    "in_reply_to_status_id_str": "676367888543031296",
+    "in_reply_to_user_id": 14940354,
+    "in_reply_to_user_id_str": "14940354",
+    "is_quote_status": false,
+    "lang": "sv",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "text": "@nycjim @Katrin_Long  idiots",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 21 20:55:16 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 959,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 135623743,
+        "id_str": "135623743",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Sydney",
+        "name": "walter obermayr",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135623743/1437795027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624783751881474048/XhMWNFU9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624783751881474048/XhMWNFU9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "washTec_au",
+        "statuses_count": 6561,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 22:27:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 375721095,
+                "id_str": "375721095",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Breaking911",
+                "screen_name": "Breaking911"
+            },
+            {
+                "id": 962796836808355840,
+                "id_str": "962796836808355840",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Richard Roeper",
+                "screen_name": "PatriotsSB49"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525413189929168896,
+    "id_str": "525413189929168896",
+    "in_reply_to_screen_name": "Breaking911",
+    "in_reply_to_status_id": 525411618231169025,
+    "in_reply_to_status_id_str": "525411618231169025",
+    "in_reply_to_user_id": 375721095,
+    "in_reply_to_user_id_str": "375721095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Breaking911 @PatriotsSB49 man's best friend a cat would have been gone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 06 11:03:26 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#patsnation",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35281,
+        "follow_request_sent": false,
+        "followers_count": 308,
+        "following": false,
+        "friends_count": 549,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 330264512,
+        "id_str": "330264512",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Brockton Massachusetts ",
+        "name": "Nacho",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/330264512/1627431983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512225645190950933/8Z-Z1PpP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512225645190950933/8Z-Z1PpP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nacho0322",
+        "statuses_count": 11351,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

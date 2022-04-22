@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 18:09:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241064362917482496",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/ZOh9RPNGJZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 957411,
+                "id_str": "957411",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Doug Winter",
+                "screen_name": "winjer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1241064362917482496,
+    "id_str": "1241064362917482496",
+    "in_reply_to_screen_name": "winjer",
+    "in_reply_to_status_id": 1241063506872582145,
+    "in_reply_to_status_id_str": "1241063506872582145",
+    "in_reply_to_user_id": 957411,
+    "in_reply_to_user_id_str": "957411",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@winjer I was initially \u201cyes, at fucking last some assistance\u201d, but now I\u2019m not so sure. It now seems like it could\u2026 https://t.co/ZOh9RPNGJZ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 12 15:50:27 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product @WordPressVIP at @Automattic, jumping WordPress through hoops for you. European. In love with the amazing @carolynwillitts \u2764\ufe0f (He/him)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "simonwheatley.co.uk",
+                        "expanded_url": "http://www.simonwheatley.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LZpsNSP2Xp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 40523,
+        "follow_request_sent": false,
+        "followers_count": 3959,
+        "following": false,
+        "friends_count": 1794,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4371541,
+        "id_str": "4371541",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 279,
+        "location": "Manchester, UK",
+        "name": "Simon Wheatley \u270a",
+        "notifications": false,
+        "profile_background_color": "FAF7EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4371541/1355425082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081820545090498560/Zw54-o2s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081820545090498560/Zw54-o2s_normal.jpg",
+        "profile_link_color": "750101",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5E1D1",
+        "profile_text_color": "363114",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "simonwheatley",
+        "statuses_count": 50272,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/LZpsNSP2Xp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

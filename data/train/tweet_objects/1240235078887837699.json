@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 11:14:19 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240235078887837699",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/SHiD6k7OAq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 5810,
+    "favorited": false,
+    "geo": null,
+    "id": 1240235078887837699,
+    "id_str": "1240235078887837699",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1240234698053431305,
+    "in_reply_to_status_id_str": "1240234698053431305",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1427,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@realDonaldTrump Dear China,\n\nKindly stop making viruses in labs and then being so ignorant that you allow them to\u2026 https://t.co/SHiD6k7OAq",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 12 19:43:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Christian conservative, Writer, Editor, Pundit, Yankees fan, NRA member, Israel supporter. I do interviews and stuff. Isaiah 5:20.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34137,
+        "follow_request_sent": false,
+        "followers_count": 70252,
+        "following": false,
+        "friends_count": 1077,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 143169070,
+        "id_str": "143169070",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 697,
+        "location": "NJ",
+        "name": "Carmine Sabia",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143169070/1605017633",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497433486998839296/hIa0xnjY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497433486998839296/hIa0xnjY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1C1939",
+        "profile_text_color": "777777",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CarmineSabia",
+        "statuses_count": 84058,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

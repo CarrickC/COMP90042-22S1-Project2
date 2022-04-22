@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 03:02:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524757639881048065,
+    "id_str": "524757639881048065",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 524757333608394752,
+    "in_reply_to_status_id_str": "524757333608394752",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "is",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC OFAN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 26 09:54:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#blackwomenlivesmatter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 75134,
+        "follow_request_sent": false,
+        "followers_count": 1378,
+        "following": false,
+        "friends_count": 458,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 563595467,
+        "id_str": "563595467",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Bri Arnovitz",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/563595467/1624228632",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1501898890592899074/bVMIE-wT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1501898890592899074/bVMIE-wT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "briarnovitz",
+        "statuses_count": 33842,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

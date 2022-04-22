@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 18 14:58:04 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    20
+                ],
+                "text": "FoodSafety"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1218548114950443008",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/e9sbQUDNbi"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 273,
+    "favorited": false,
+    "geo": null,
+    "id": 1218548114950443008,
+    "id_str": "1218548114950443008",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1218544031409545216,
+    "in_reply_to_status_id_str": "1218544031409545216",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 207,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Practise #FoodSafety:\nEven in areas experiencing outbreaks, \ud83e\udd69\ud83c\udf57 meat products can be safely consumed if these items\u2026 https://t.co/e9sbQUDNbi",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are the #UnitedNations\u2019 health agency - #HealthForAll.\n\u25b6\ufe0f Always check our latest tweets on #COVID19 for updated advice/information.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "who.int",
+                        "expanded_url": "http://www.who.int",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wVulKuROWG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12077,
+        "follow_request_sent": false,
+        "followers_count": 11051971,
+        "following": false,
+        "friends_count": 1751,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14499829,
+        "id_str": "14499829",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35067,
+        "location": "Geneva, Switzerland",
+        "name": "World Health Organization (WHO)",
+        "notifications": false,
+        "profile_background_color": "D0ECF8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1639153014",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+        "profile_link_color": "0396DB",
+        "profile_sidebar_border_color": "8C8C8C",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHO",
+        "statuses_count": 68955,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/wVulKuROWG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

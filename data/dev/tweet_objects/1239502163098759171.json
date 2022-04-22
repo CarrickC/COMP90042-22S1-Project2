@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 10:41:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    45,
+                    53
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1239502163098759171,
+    "id_str": "1239502163098759171",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1223532656778010624,
+    "in_reply_to_status_id_str": "1223532656778010624",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Hi guys, does this still hold for online shopping etc as of today ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 17:57:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "That guy..makes those videos..I joke...Mostly...Game Collector \ud83c\udfae Inside a Valve Index. .. it's ok..there is no need to talk to me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/hoezayc",
+                        "expanded_url": "http://www.youtube.com/hoezayc",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RRHBpK3IE7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2834,
+        "follow_request_sent": false,
+        "followers_count": 1178810,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38479920,
+        "id_str": "38479920",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1019,
+        "location": "Wherever my Phone is.",
+        "name": "pAgaL_P\u20b9oj3ct",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38479920/1496177369",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1439867802186240001/f9gvfwJ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439867802186240001/f9gvfwJ5_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HoeZaay",
+        "statuses_count": 97569,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RRHBpK3IE7",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

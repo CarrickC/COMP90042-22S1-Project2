@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:08:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bhXACObtnQ",
+                "expanded_url": "https://twitter.com/ScottGottliebMD/status/1276698852448522240/photo/1",
+                "id": 1276698774400835585,
+                "id_str": "1276698774400835585",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ebe-xWVWoAEDzB-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ebe-xWVWoAEDzB-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1446,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 847,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bhXACObtnQ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bhXACObtnQ",
+                "expanded_url": "https://twitter.com/ScottGottliebMD/status/1276698852448522240/photo/1",
+                "id": 1276698774400835585,
+                "id_str": "1276698774400835585",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/Ebe-xWVWoAEDzB-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Ebe-xWVWoAEDzB-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1446,
+                        "resize": "fit",
+                        "w": 2048
+                    },
+                    "medium": {
+                        "h": 847,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bhXACObtnQ"
+            }
+        ]
+    },
+    "favorite_count": 11654,
+    "favorited": false,
+    "geo": null,
+    "id": 1276698852448522240,
+    "id_str": "1276698852448522240",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3404,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "See how quickly you can find Sweden on this map.... https://t.co/bhXACObtnQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 02:39:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner of @US_FDA. Boards: @Pfizer @Illumina @AetionInc @TempusLabs @MountSinaiNYC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "uncontrolledspread.com",
+                        "expanded_url": "https://www.uncontrolledspread.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MJTavOPqzG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8809,
+        "follow_request_sent": false,
+        "followers_count": 548733,
+        "following": false,
+        "friends_count": 1108,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 40156330,
+        "id_str": "40156330",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7959,
+        "location": "Washington, DC",
+        "name": "Scott Gottlieb, MD",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40156330/1632159900",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ScottGottliebMD",
+        "statuses_count": 22956,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MJTavOPqzG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:04:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524320296266772480,
+    "id_str": "524320296266772480",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AlfredoFlores Hey",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 03 23:37:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud835\ude72\ud835\ude98\ud835\ude9b\ud835\ude92\ud835\ude97\ud835\ude9d\ud835\ude92\ud835\ude98\ud835\ude9c \ud835\udff7\ud835\udff9:\ud835\udffa:\ud835\udffd\u2626\ufe0e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 75332,
+        "follow_request_sent": false,
+        "followers_count": 2869,
+        "following": false,
+        "friends_count": 240,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 348151631,
+        "id_str": "348151631",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Reynosa, Tamaulipas",
+        "name": "\ud835\udc6a\ud835\udc56\ud835\udc52\ud835\udc59\ud835\udc5c",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348151631/1647727225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513718882082689026/K1_RyQKZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513718882082689026/K1_RyQKZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cdarianacruz",
+        "statuses_count": 17081,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

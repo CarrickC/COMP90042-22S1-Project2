@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            26.20053689,
+            44.3963964
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Sep 24 05:39:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 239672340,
+                "id_str": "239672340",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Unbox Therapy",
+                "screen_name": "UnboxTherapy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            44.3963964,
+            26.20053689
+        ],
+        "type": "Point"
+    },
+    "id": 514650385110548480,
+    "id_str": "514650385110548480",
+    "in_reply_to_screen_name": "UnboxTherapy",
+    "in_reply_to_status_id": 514513238613303296,
+    "in_reply_to_status_id_str": "514513238613303296",
+    "in_reply_to_user_id": 239672340,
+    "in_reply_to_user_id_str": "239672340",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        20.2615126,
+                        43.6204445
+                    ],
+                    [
+                        29.7152961,
+                        43.6204445
+                    ],
+                    [
+                        29.7152961,
+                        48.2656275
+                    ],
+                    [
+                        20.2615126,
+                        48.2656275
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Rom\u00e2nia",
+        "country_code": "RO",
+        "full_name": "Rom\u00e2nia",
+        "id": "f7531639e8db5e12",
+        "name": "Rom\u00e2nia",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/f7531639e8db5e12.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00a0for\u00a0Android</a>",
+    "text": "@UnboxTherapy You got it all wrong, that was the new wearable by Apple, it's called iBend!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 03 13:16:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 114,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 347845692,
+        "id_str": "347845692",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Romania, Bucharest",
+        "name": "Marius Oprisan",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465669117765500928/ahMKLdoa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465669117765500928/ahMKLdoa_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sp1tfirestarter",
+        "statuses_count": 1698,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

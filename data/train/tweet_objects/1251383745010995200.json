@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 05:35:09 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251383745010995200",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/cIwz7wVbC1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1251383745010995200,
+    "id_str": "1251383745010995200",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1251382992435544064,
+    "in_reply_to_status_id_str": "1251382992435544064",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TIME I had these symptoms in January and had a breathing treatment. Hmm.... I feel like something is just not righ\u2026 https://t.co/cIwz7wVbC1",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 22 06:34:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Glass_tec fiberglass repair co-owner So. Cal",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15452,
+        "follow_request_sent": false,
+        "followers_count": 293,
+        "following": false,
+        "friends_count": 2554,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 41767387,
+        "id_str": "41767387",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "California, USA",
+        "name": "heather cano-brown",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41767387/1634340145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497984483152203778/675VKWgl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497984483152203778/675VKWgl_normal.jpg",
+        "profile_link_color": "B40B44",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507F",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "motomom76",
+        "statuses_count": 6248,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

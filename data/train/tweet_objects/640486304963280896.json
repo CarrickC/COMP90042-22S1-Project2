@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 06 11:26:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 166002047,
+                "id_str": "166002047",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Griff Witte",
+                "screen_name": "griffwitte"
+            },
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    12,
+                    27
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 640486304963280896,
+    "id_str": "640486304963280896",
+    "in_reply_to_screen_name": "griffwitte",
+    "in_reply_to_status_id": 640107106943766528,
+    "in_reply_to_status_id_str": "640107106943766528",
+    "in_reply_to_user_id": 166002047,
+    "in_reply_to_user_id_str": "166002047",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@griffwitte @washingtonpost Matthew 25:35.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 05 18:09:42 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Duris crustis discas infigere dentes. Retired fire protection analyst/editor, fence fixer and cow chaser.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7983,
+        "follow_request_sent": false,
+        "followers_count": 296,
+        "following": false,
+        "friends_count": 368,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 546254853,
+        "id_str": "546254853",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "Chris Lummus",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/546254853/1443842930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2666883307/974d4ac26fe588a1c72dec41651ecdce_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2666883307/974d4ac26fe588a1c72dec41651ecdce_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PineWalrus",
+        "statuses_count": 9851,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

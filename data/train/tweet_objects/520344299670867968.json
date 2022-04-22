@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 09 22:45:23 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [
+            {
+                "indices": [
+                    5,
+                    9
+                ],
+                "text": "APT"
+            }
+        ],
+        "urls": [
+            {
+                "display_url": "beforeitsnews.com/alternative/20\u2026",
+                "expanded_url": "http://beforeitsnews.com/alternative/2014/10/sources-ebola-in-9-states-news-blackout-john-moore-3042194.html",
+                "indices": [
+                    107,
+                    129
+                ],
+                "url": "http://t.co/ZQJjcI2Y1U"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3108351,
+                "id_str": "3108351",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "The Wall Street Journal",
+                "screen_name": "WSJ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 520344299670867968,
+    "id_str": "520344299670867968",
+    "in_reply_to_screen_name": "WSJ",
+    "in_reply_to_status_id": 520338188213444608,
+    "in_reply_to_status_id_str": "520338188213444608",
+    "in_reply_to_user_id": 3108351,
+    "in_reply_to_user_id_str": "3108351",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WSJ $APT Provides Protection Against Ebola Strong Buy Stock According to Sources Ebola is now in 9 States http://t.co/ZQJjcI2Y1U",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 26 18:33:43 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 100,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 537535197,
+        "id_str": "537535197",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Stockexpertpro",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521884014211129344/z9BPKXSA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521884014211129344/z9BPKXSA_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Stockexpertpro",
+        "statuses_count": 6076,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

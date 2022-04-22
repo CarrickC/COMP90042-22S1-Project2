@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 20:22:54 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15185020,
+                "id_str": "15185020",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Seth Jolly",
+                "screen_name": "sethkjolly"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1240373131107348482,
+    "id_str": "1240373131107348482",
+    "in_reply_to_screen_name": "sethkjolly",
+    "in_reply_to_status_id": 1240358381866680320,
+    "in_reply_to_status_id_str": "1240358381866680320",
+    "in_reply_to_user_id": 15185020,
+    "in_reply_to_user_id_str": "15185020",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@sethkjolly One is holed up in her room, the other is listening to videos on 11 as my wife and I try to participate in conference calls.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 02 20:19:45 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dad w/4 kids. Bits of humor related to parenting. Older than profile pic. Younger than I feel.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/search?q=from%\u2026",
+                        "expanded_url": "https://twitter.com/search?q=from%3Adadbits%20exclude%3Areplies&src=typd",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yCVIDr7MnA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11251,
+        "follow_request_sent": false,
+        "followers_count": 7799,
+        "following": false,
+        "friends_count": 4498,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 959521742371938305,
+        "id_str": "959521742371938305",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": "Looking for a charging cord",
+        "name": "Dad Bits",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959521742371938305/1648905524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266453082466123778/JShY7tle_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266453082466123778/JShY7tle_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DadBits",
+        "statuses_count": 4371,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yCVIDr7MnA",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

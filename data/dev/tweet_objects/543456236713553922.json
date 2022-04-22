@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 12 17:23:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyti.ms/1qErSu7",
+                "expanded_url": "http://nyti.ms/1qErSu7",
+                "indices": [
+                    111,
+                    133
+                ],
+                "url": "http://t.co/vYo4iNVF5n"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    20,
+                    28
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 543456236713553922,
+    "id_str": "543456236713553922",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 543443188934250496,
+    "in_reply_to_status_id_str": "543443188934250496",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Jesus loves...dogs \u201c@nytimes: \"One day, we will see our animals again in the eternity of Christ,\" Pope Francis http://t.co/vYo4iNVF5n\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 18 12:09:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Storytelling fanatic.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "francetv.fr",
+                        "expanded_url": "http://francetv.fr",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3xOdYLTBnn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3792,
+        "follow_request_sent": false,
+        "followers_count": 15540,
+        "following": false,
+        "friends_count": 667,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 495885833,
+        "id_str": "495885833",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 139,
+        "location": "Paris, France",
+        "name": "Diego L. Bu\u00f1uel",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/495885833/1649859288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1457791970462474241/Me_5czGl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457791970462474241/Me_5czGl_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TheDiegoBunuel",
+        "statuses_count": 9834,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3xOdYLTBnn",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

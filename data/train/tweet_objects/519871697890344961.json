@@ -1,0 +1,252 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -81.03799367,
+            35.22283957
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 08 15:27:26 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    124,
+                    135
+                ],
+                "text": "TEAMSAVAGE"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lj6qilePaq",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/lj6qilePaq"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/LCfbZqy",
+                "expanded_url": "http://trib.al/LCfbZqy",
+                "indices": [
+                    78,
+                    100
+                ],
+                "url": "http://t.co/mvMzILGmk7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lj6qilePaq",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/lj6qilePaq"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            35.22283957,
+            -81.03799367
+        ],
+        "type": "Point"
+    },
+    "id": 519871697890344961,
+    "id_str": "519871697890344961",
+    "in_reply_to_screen_name": "Complex",
+    "in_reply_to_status_id": 519867098945044480,
+    "in_reply_to_status_id_str": "519867098945044480",
+    "in_reply_to_user_id": 13049362,
+    "in_reply_to_user_id_str": "13049362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.066211,
+                        35.167439
+                    ],
+                    [
+                        -81.009442,
+                        35.167439
+                    ],
+                    [
+                        -81.009442,
+                        35.285384
+                    ],
+                    [
+                        -81.066211,
+                        35.285384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Belmont, NC",
+        "id": "1153d1a598a817b1",
+        "name": "Belmont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1153d1a598a817b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ComplexMag: Someone spray painted a penis on a $2.4 million Bugatti Veyron: http://t.co/mvMzILGmk7 http://t.co/lj6qilePaq\u201d#TEAMSAVAGE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 17 00:44:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "clt | ecu",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vsco.co/nir3nj",
+                        "expanded_url": "https://vsco.co/nir3nj",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QiRAx0eSGP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2206,
+        "follow_request_sent": false,
+        "followers_count": 610,
+        "following": false,
+        "friends_count": 372,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 267472012,
+        "id_str": "267472012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Greenville, NC",
+        "name": "Niren Johal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267472012/1630894916",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382839628936441857/-SfZiDAN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382839628936441857/-SfZiDAN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NirenJohal",
+        "statuses_count": 6918,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QiRAx0eSGP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 15:52:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531836848705142784,
+    "id_str": "531836848705142784",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 531833153145823233,
+    "in_reply_to_status_id_str": "531833153145823233",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@mashable Wow.  Dewitos!  Do you get the health benefit of both :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 19 18:42:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, father, tech enthusiest, sports fan, music lover",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1075,
+        "follow_request_sent": false,
+        "followers_count": 180,
+        "following": false,
+        "friends_count": 1323,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 394205644,
+        "id_str": "394205644",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Chicago",
+        "name": "Tom Lapidus",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1652299067/tomhat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1652299067/tomhat_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TommyLap77",
+        "statuses_count": 5249,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

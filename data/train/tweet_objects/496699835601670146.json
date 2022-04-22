@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 05 16:50:43 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1439055242,
+                "id_str": "1439055242",
+                "indices": [
+                    1,
+                    14
+                ],
+                "name": "Justin Bieber Crew",
+                "screen_name": "JBCrewdotcom"
+            },
+            {
+                "id": 27260086,
+                "id_str": "27260086",
+                "indices": [
+                    102,
+                    115
+                ],
+                "name": "Justin Bieber",
+                "screen_name": "justinbieber"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 496699835601670146,
+    "id_str": "496699835601670146",
+    "in_reply_to_screen_name": "JBCrewposts",
+    "in_reply_to_status_id": 496698590153416704,
+    "in_reply_to_status_id_str": "496698590153416704",
+    "in_reply_to_user_id": 1239313056,
+    "in_reply_to_user_id_str": "1239313056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@JBCrewdotcom: \"Justin Bieber ringtone saves Russian fisherman from potentially fatal bear attack.\"\u201d @justinbieber",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 14:01:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i like justin bieber and manga/anime very much",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "happymikasa.tumblr.com",
+                        "expanded_url": "http://happymikasa.tumblr.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FYwBWdPSrK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6104,
+        "follow_request_sent": false,
+        "followers_count": 2230,
+        "following": false,
+        "friends_count": 2072,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 375644981,
+        "id_str": "375644981",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 39,
+        "location": "",
+        "name": "mikasa's ass",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375644981/1495977666",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868819646954295296/ZFrscpiy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868819646954295296/ZFrscpiy_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6BDBD",
+        "profile_text_color": "CF19CF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "happymikasa",
+        "statuses_count": 120585,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/FYwBWdPSrK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

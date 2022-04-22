@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 17:21:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19129405,
+                "id_str": "19129405",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "Bob",
+                "screen_name": "faobobindc"
+            },
+            {
+                "id": 487600344,
+                "id_str": "487600344",
+                "indices": [
+                    27,
+                    41
+                ],
+                "name": "Bipartisan Report",
+                "screen_name": "Bipartisanism"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613396522684805121,
+    "id_str": "613396522684805121",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@celestepewter @faobobindc @Bipartisanism @stpeteguy1964 the only reason they support bibi is because he is a war monger",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 16 19:12:44 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 97925,
+        "follow_request_sent": false,
+        "followers_count": 8851,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17426310,
+        "id_str": "17426310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 275,
+        "location": "",
+        "name": "Carmen Vellon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17426310/1529883027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011028806025515020/jtDjLval_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011028806025515020/jtDjLval_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carmenvellon",
+        "statuses_count": 433117,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

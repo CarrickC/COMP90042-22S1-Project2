@@ -1,0 +1,198 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 19:00:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TY9LNaJofP",
+                "expanded_url": "https://twitter.com/EW/status/532231906364911616/photo/1",
+                "id": 532231905580552193,
+                "id_str": "532231905580552193",
+                "indices": [
+                    80,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2LeGSZCEAEABh5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2LeGSZCEAEABh5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "medium": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "small": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 532231906364911616,
+                "source_status_id_str": "532231906364911616",
+                "source_user_id": 16312576,
+                "source_user_id_str": "16312576",
+                "type": "photo",
+                "url": "http://t.co/TY9LNaJofP"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/E85hX",
+                "expanded_url": "http://ow.ly/E85hX",
+                "indices": [
+                    57,
+                    79
+                ],
+                "url": "http://t.co/F1C9K65MmD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16312576,
+                "id_str": "16312576",
+                "indices": [
+                    1,
+                    4
+                ],
+                "name": "Entertainment Weekly",
+                "screen_name": "EW"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TY9LNaJofP",
+                "expanded_url": "https://twitter.com/EW/status/532231906364911616/photo/1",
+                "id": 532231905580552193,
+                "id_str": "532231905580552193",
+                "indices": [
+                    80,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2LeGSZCEAEABh5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2LeGSZCEAEABh5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "medium": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "small": {
+                        "h": 380,
+                        "resize": "fit",
+                        "w": 612
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 532231906364911616,
+                "source_status_id_str": "532231906364911616",
+                "source_user_id": 16312576,
+                "source_user_id_str": "16312576",
+                "type": "photo",
+                "url": "http://t.co/TY9LNaJofP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532246517688856576,
+    "id_str": "532246517688856576",
+    "in_reply_to_screen_name": "EW",
+    "in_reply_to_status_id": 532231906364911616,
+    "in_reply_to_status_id_str": "532231906364911616",
+    "in_reply_to_user_id": 16312576,
+    "in_reply_to_user_id_str": "16312576",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@EW: The Sugarhill Gang's Big Bank Hank has died at 57: http://t.co/F1C9K65MmD http://t.co/TY9LNaJofP\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 01 04:47:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Talk and music programming from an African-American perspective.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hurvoices.com",
+                        "expanded_url": "http://www.hurvoices.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/H1zEOM9GoO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3824,
+        "follow_request_sent": false,
+        "followers_count": 1745,
+        "following": false,
+        "friends_count": 497,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 425566057,
+        "id_str": "425566057",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "Washington, D.C.",
+        "name": "HUR_VOICES",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/844211897582964737/HYg6XGfy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/844211897582964737/HYg6XGfy_normal.jpg",
+        "profile_link_color": "562175",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HUR_VOICES",
+        "statuses_count": 36086,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/H1zEOM9GoO",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 05 17:58:08 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1246859682309902339",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/lgZs74xBkr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 768701569,
+                "id_str": "768701569",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "There are some who call me...TIM",
+                "screen_name": "TimNoEgo"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1246859682309902339,
+    "id_str": "1246859682309902339",
+    "in_reply_to_screen_name": "TimNoEgo",
+    "in_reply_to_status_id": 1246538976309022721,
+    "in_reply_to_status_id_str": "1246538976309022721",
+    "in_reply_to_user_id": 768701569,
+    "in_reply_to_user_id_str": "768701569",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TimNoEgo What is a coronavirus stimulus check?\n\nThe payment - that the IRS is calling an \"economic impact payment,\u2026 https://t.co/lgZs74xBkr",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 13 19:52:09 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Engineer. Father of two amazing & beautiful daughters. \u201cIt requires infinitely a greater genius to make love, than to make war.\u201d Ninon de L'Enclos",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16632,
+        "follow_request_sent": false,
+        "followers_count": 2633,
+        "following": false,
+        "friends_count": 4893,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1051198929033994240,
+        "id_str": "1051198929033994240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ohio, USA",
+        "name": "Big Nick \ud83c\uddfa\ud83c\uddf8\ud83c\udff4\u200d\u2620\ufe0f\u2764\ufe0f \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051198929033994240/1587580709",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1495055718294208512/-o60al0U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495055718294208512/-o60al0U_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NickRuggiero10",
+        "statuses_count": 48735,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

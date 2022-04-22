@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 06:06:06 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    69
+                ],
+                "text": "COVID19"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1243781391499669504",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/THmsKExYLN"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 1243781391499669504,
+    "id_str": "1243781391499669504",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Our BOING is live on Google Home &amp; Alexa with details on #COVID19. Now, by just saying \"Hey Google, launch Bajaj Al\u2026 https://t.co/THmsKExYLN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 14 12:26:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Focused on taking away our customers' worries, we're here to protect what they love, because we care.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bajajallianz.com/general-insura\u2026",
+                        "expanded_url": "https://www.bajajallianz.com/general-insurance",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hQf2CDFgWr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7007,
+        "follow_request_sent": false,
+        "followers_count": 99304,
+        "following": false,
+        "friends_count": 18,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 74143401,
+        "id_str": "74143401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 107,
+        "location": "Pune",
+        "name": "Bajaj Allianz GIC",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74143401/1639039469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1418106164491870208/aXxE4urT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418106164491870208/aXxE4urT_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BajajAllianz",
+        "statuses_count": 66510,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/hQf2CDFgWr",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

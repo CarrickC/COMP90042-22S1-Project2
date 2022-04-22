@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 19:14:51 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    16,
+                    24
+                ],
+                "text": "dewitos"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15464697,
+                "id_str": "15464697",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Judd Legum",
+                "screen_name": "JuddLegum"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531162955816402944,
+    "id_str": "531162955816402944",
+    "in_reply_to_screen_name": "JuddLegum",
+    "in_reply_to_status_id": 531161914689482752,
+    "in_reply_to_status_id_str": "531161914689482752",
+    "in_reply_to_user_id": 15464697,
+    "in_reply_to_user_id_str": "15464697",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@JuddLegum  GAG #dewitos",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 22 04:59:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "BS in History considering a masters in archaeology. I love history, Drag Queens, the paranormal, sci-fi, mystery and comedy shows....not in that order.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "angelcordy.com",
+                        "expanded_url": "http://angelcordy.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mOFOC4HgGm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85516,
+        "follow_request_sent": false,
+        "followers_count": 617,
+        "following": false,
+        "friends_count": 1355,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 116357694,
+        "id_str": "116357694",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "Here",
+        "name": "\u263eartlin",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116357694/1498272967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649758226607697920/2VM8MjU1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649758226607697920/2VM8MjU1_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CartlinKelly",
+        "statuses_count": 81798,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/mOFOC4HgGm",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

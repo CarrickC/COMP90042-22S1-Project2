@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 21:51:25 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    41,
+                    60
+                ],
+                "text": "IceBucketChallenge"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/AMsIg",
+                "expanded_url": "http://ow.ly/AMsIg",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/OjmcFBJVo0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21416670,
+                "id_str": "21416670",
+                "indices": [
+                    24,
+                    39
+                ],
+                "name": "The ALS Association",
+                "screen_name": "alsassociation"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504748040171683841,
+    "id_str": "504748040171683841",
+    "in_reply_to_screen_name": "alsassociation",
+    "in_reply_to_status_id": 504652021601800193,
+    "in_reply_to_status_id_str": "504652021601800193",
+    "in_reply_to_user_id": 21416670,
+    "in_reply_to_user_id_str": "21416670",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Pretty. Dang. Amazing. \u201c@alsassociation: #IceBucketChallenge donations exceed $94 million. Thk you for your support! http://t.co/OjmcFBJVo0\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 11 18:19:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FOX/NFL Reporter turned Award Winning WinePreneur \ud83c\udf1f TV Host/Best Selling Author \ud83c\udf1f Mama of 2 \ud83c\udf1f IG @KavitaChanne @TheChanneRose \ud83d\udc8c media@KavitaChanne.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/mO-qm_RYWQM",
+                        "expanded_url": "https://youtu.be/mO-qm_RYWQM",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/l0i8N2nwTI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3950,
+        "follow_request_sent": false,
+        "followers_count": 37646,
+        "following": false,
+        "friends_count": 1492,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23802439,
+        "id_str": "23802439",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 165,
+        "location": "Fort Lauderdale, FL",
+        "name": "Kavita Channe",
+        "notifications": false,
+        "profile_background_color": "F4F7F7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23802439/1610304029",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348328206613553156/JKQSsmRj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348328206613553156/JKQSsmRj_normal.jpg",
+        "profile_link_color": "D60D0D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KavitaChanne",
+        "statuses_count": 46379,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/l0i8N2nwTI",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

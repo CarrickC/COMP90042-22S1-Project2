@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:31:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672256798452146177,
+    "id_str": "672256798452146177",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672219174463275008,
+    "in_reply_to_status_id_str": "672219174463275008",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC we need a pattern of people defending themselves how about reintroducing fire arms classes in schools",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 29 13:51:46 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mtcagenco.com",
+                        "expanded_url": "http://mtcagenco.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AJgu2iUghZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 20,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 69871260,
+        "id_str": "69871260",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Twentynine Palms, CA",
+        "name": "markclemons",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637937924852441092/-2PYkogH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637937924852441092/-2PYkogH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "markwclemons",
+        "statuses_count": 51,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/AJgu2iUghZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

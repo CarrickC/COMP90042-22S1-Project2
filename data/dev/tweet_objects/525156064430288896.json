@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 05:25:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1024431088909869056,
+                "id_str": "1024431088909869056",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Spenser Beaupre",
+                "screen_name": "spenserdb"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525156064430288896,
+    "id_str": "525156064430288896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.711213,
+                        30.3209426
+                    ],
+                    [
+                        -97.6862014,
+                        30.3209426
+                    ],
+                    [
+                        -97.6862014,
+                        30.342729
+                    ],
+                    [
+                        -97.711213,
+                        30.342729
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St. Johns, Austin",
+        "id": "23fd23c517d9a84f",
+        "name": "St. Johns",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/23fd23c517d9a84f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@spenserdb hahah they called ur original bluff",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 20 04:42:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Apple Employee - Former MK Disney Castmember - Tech NFL UFC DG Disney - To Live is to Suffer, To Survive is to Find Meaning in the Suffering-Opinions r my own",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6068,
+        "follow_request_sent": false,
+        "followers_count": 238,
+        "following": false,
+        "friends_count": 681,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 41297855,
+        "id_str": "41297855",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Austin, TX",
+        "name": "Hobbs",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41297855/1375244815",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042177661353775104/jlNgdqWY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042177661353775104/jlNgdqWY_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Brownman3325",
+        "statuses_count": 21379,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

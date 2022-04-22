@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 19:34:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2828767904,
+                "id_str": "2828767904",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Cornelius Harrison lll",
+                "screen_name": "harrison3rd_c"
+            },
+            {
+                "id": 752219182373015552,
+                "id_str": "752219182373015552",
+                "indices": [
+                    15,
+                    31
+                ],
+                "name": "\ud83c\udf89LaVerne\ud83c\udf89",
+                "screen_name": "LaVerne90748971"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1237099480878592000,
+    "id_str": "1237099480878592000",
+    "in_reply_to_screen_name": "harrison3rd_c",
+    "in_reply_to_status_id": 1237028749977227266,
+    "in_reply_to_status_id_str": "1237028749977227266",
+    "in_reply_to_user_id": 2828767904,
+    "in_reply_to_user_id_str": "2828767904",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@harrison3rd_c @LaVerne90748971 Certainly, your words are true! Well done, may God bless you.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 02 17:57:03 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11818,
+        "follow_request_sent": false,
+        "followers_count": 708,
+        "following": false,
+        "friends_count": 4816,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 793874578091237377,
+        "id_str": "793874578091237377",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Alg\u00e9rie",
+        "name": "Khelifa Belhadef",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/793874578091237377/1480277384",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353444894870671361/uNvO1ThG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353444894870671361/uNvO1ThG_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "free2chest",
+        "statuses_count": 26815,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 16:35:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    12,
+                    24
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            },
+            {
+                "id": 258017836,
+                "id_str": "258017836",
+                "indices": [
+                    25,
+                    38
+                ],
+                "name": "Abby Wilmes",
+                "screen_name": "notto_shABBY"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524237576006541312,
+    "id_str": "524237576006541312",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fxnscitech @LiveScience @notto_shABBY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 03:43:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MCFC",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6471,
+        "follow_request_sent": false,
+        "followers_count": 194,
+        "following": false,
+        "friends_count": 311,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 348253733,
+        "id_str": "348253733",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Alex Curran",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348253733/1443886256",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976489632891154432/l2Sbs09J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976489632891154432/l2Sbs09J_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheAlexCurran",
+        "statuses_count": 2247,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

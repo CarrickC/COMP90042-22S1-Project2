@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 25 00:29:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "lego.com/en-gb/friends/\u2026",
+                "expanded_url": "http://www.lego.com/en-gb/friends/?domainredir=friends.lego.com",
+                "indices": [
+                    110,
+                    132
+                ],
+                "url": "http://t.co/nFZssqs6ZL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            },
+            {
+                "id": 18960611,
+                "id_str": "18960611",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "Gordon Chree",
+                "screen_name": "gordonchree"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537040385915518976,
+    "id_str": "537040385915518976",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 536804445678755840,
+    "in_reply_to_status_id_str": "536804445678755840",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Independent @gordonchree I guess that message was lost at some point, look at what is marketed to girls now. http://t.co/nFZssqs6ZL :",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 23 13:10:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ken sent me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5433,
+        "follow_request_sent": false,
+        "followers_count": 261,
+        "following": false,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21650982,
+        "id_str": "21650982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "",
+        "name": "Paul",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/539523441854910464/6B5HzIIU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/539523441854910464/6B5HzIIU_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wicksta",
+        "statuses_count": 16190,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

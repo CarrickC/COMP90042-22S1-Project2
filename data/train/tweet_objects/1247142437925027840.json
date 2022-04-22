@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 06 12:41:42 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "lmgtfy.com/?q=what+is+5G%\u2026",
+                "expanded_url": "https://lmgtfy.com/?q=what+is+5G%3F",
+                "indices": [
+                    61,
+                    84
+                ],
+                "url": "https://t.co/pTif2EYGdt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 83820512,
+                "id_str": "83820512",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Richard",
+                "screen_name": "monteblan"
+            },
+            {
+                "id": 1294741,
+                "id_str": "1294741",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "Rory Cellan-Jones",
+                "screen_name": "ruskin147"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1247142437925027840,
+    "id_str": "1247142437925027840",
+    "in_reply_to_screen_name": "monteblan",
+    "in_reply_to_status_id": 1247064392597995521,
+    "in_reply_to_status_id_str": "1247064392597995521",
+    "in_reply_to_user_id": 83820512,
+    "in_reply_to_user_id_str": "83820512",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@monteblan @ruskin147 Bro. Fucking google it your damn self.\nhttps://t.co/pTif2EYGdt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 13 18:13:18 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "not gay as in happy but queer as in fuck you",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 405,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 60,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1040302417227771904,
+        "id_str": "1040302417227771904",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "misandrist",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040302417227771904/1552001387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040306399908122625/Y0LuXuBX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040306399908122625/Y0LuXuBX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sportmisandrist",
+        "statuses_count": 794,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

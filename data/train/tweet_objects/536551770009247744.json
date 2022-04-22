@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 23 16:08:05 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536551770009247744,
+    "id_str": "536551770009247744",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 536547921542791170,
+    "in_reply_to_status_id_str": "536547921542791170",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Independent but it's been proven that little girls gravitate towards family things and little boys towards action stuff.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 27 14:49:24 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud Baby Boomer. US-born An actress a few years; moved to Israel '84 Work as an ESL teacher & now do acting in the classroom. RTs don't always mean I agree.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "page.is/haya-eytan",
+                        "expanded_url": "http://page.is/haya-eytan",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Z20NJbeKlv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 133334,
+        "follow_request_sent": false,
+        "followers_count": 5247,
+        "following": false,
+        "friends_count": 3946,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17679507,
+        "id_str": "17679507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 236,
+        "location": "Israel",
+        "name": "(((iAmAJudean))) \ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf1",
+        "notifications": false,
+        "profile_background_color": "46788A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17679507/1646277297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499222123746930694/moKjwckz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499222123746930694/moKjwckz_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TeachESL",
+        "statuses_count": 413813,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Z20NJbeKlv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

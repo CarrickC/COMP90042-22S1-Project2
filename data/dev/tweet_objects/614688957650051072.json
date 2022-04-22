@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 06:57:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 928447400,
+                "id_str": "928447400",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Filip Lachert \ud83c\udf08",
+                "screen_name": "FilipLachert"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614688957650051072,
+    "id_str": "614688957650051072",
+    "in_reply_to_screen_name": "FilipLachert",
+    "in_reply_to_status_id": 614672309991919616,
+    "in_reply_to_status_id_str": "614672309991919616",
+    "in_reply_to_user_id": 928447400,
+    "in_reply_to_user_id_str": "928447400",
+    "is_quote_status": false,
+    "lang": "pl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@FilipLachert nie do pomy\u015blenia w naszym \u015bwieckim pa\u0144stwie ;)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 18:46:08 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9293,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 460412362,
+        "id_str": "460412362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Pozna\u0144, Polska",
+        "name": "Saga",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/460412362/1540674490",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1063172071868510210/js-RTsz6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063172071868510210/js-RTsz6_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MartaMK1",
+        "statuses_count": 8673,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 03 22:09:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 518160859173249024,
+    "id_str": "518160859173249024",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517850508380618752,
+    "in_reply_to_status_id_str": "517850508380618752",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@megynkelly DEATH PENALTY IS THE ONLY WAY TO GO &amp; QUICK AS POSSIBLE. THESE PEOPLE DON'T HAVE ANY RESPECT FOR OUR HUMAN DECENCY.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 01 22:41:00 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": true,
+        "description": "Lover of Liberty, Human Decency & Fairness. Always keep God in your Heart & do the Right thing at any cost. Stay happy & contend all the time.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 1720,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2225690773,
+        "id_str": "2225690773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 109,
+        "location": "129, N.CORTEZ ST.",
+        "name": "NICK MIRANI",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Miraninick",
+        "statuses_count": 22919,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

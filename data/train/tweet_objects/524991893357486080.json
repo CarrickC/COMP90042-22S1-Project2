@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 18:33:15 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    15
+                ],
+                "text": "Yet"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524991893357486080,
+    "id_str": "524991893357486080",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 524991240270807042,
+    "in_reply_to_status_id_str": "524991240270807042",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CBCAlerts #Yet",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 11 16:26:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Montreal born Vancouver baptised Philippines wed.\u2764 my \ud83c\uddf5\ud83c\udded fam!\nPersonally signed Pierre Poilievre's nom. papers.\n #TrudeauMustGo\n\nNever arrested or divorced \ud83d\ude09",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/dorvaltony",
+                        "expanded_url": "https://twitter.com/dorvaltony",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FjirA4QCuK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 198796,
+        "follow_request_sent": false,
+        "followers_count": 4687,
+        "following": false,
+        "friends_count": 4737,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 264265349,
+        "id_str": "264265349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 191,
+        "location": "Ottawa, Ontario",
+        "name": "Tony\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddf9\ud83c\uddfcMcLean",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264265349/1650303446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516108658559668229/L1fm5HR5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516108658559668229/L1fm5HR5_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DorvalTony",
+        "statuses_count": 384622,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/FjirA4QCuK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

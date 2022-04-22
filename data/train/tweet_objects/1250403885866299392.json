@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 12:41:32 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    33,
+                    39
+                ],
+                "text": "COVID"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "who.int/emergencies/di\u2026",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/jGkmcnWThS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 157438443,
+                "id_str": "157438443",
+                "indices": [
+                    67,
+                    79
+                ],
+                "name": "ScImItar \u2694\ufe0f",
+                "screen_name": "Scimitar_SS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250403885866299392,
+    "id_str": "1250403885866299392",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "5G mobile networks DO NOT spread #COVID-19 https://t.co/jGkmcnWThS @Scimitar_SS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 14:45:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "MSc/Technical Writer and Editor/ Ex-Journo #Writing/#Editing/Rock music/Literature/Libraries. Not a Millennial.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13612,
+        "follow_request_sent": false,
+        "followers_count": 540,
+        "following": false,
+        "friends_count": 586,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 36082303,
+        "id_str": "36082303",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Bengaluru/Bangalore",
+        "name": "Raj",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1466657932225892352/LJ-kYJdE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466657932225892352/LJ-kYJdE_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "trilobite_1970",
+        "statuses_count": 88022,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

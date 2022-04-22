@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 23:14:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 525955899,
+                "id_str": "525955899",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "megan",
+                "screen_name": "meganadeleee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 509117695548465153,
+    "id_str": "509117695548465153",
+    "in_reply_to_screen_name": "meganadeleee",
+    "in_reply_to_status_id": 509114337420902400,
+    "in_reply_to_status_id_str": "509114337420902400",
+    "in_reply_to_user_id": 525955899,
+    "in_reply_to_user_id_str": "525955899",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@meganadeleee \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02I'm so upset",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 15 18:04:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "|in three words i can sum up everything i've learned about life... it goes on| Occupation Therapist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1344,
+        "follow_request_sent": false,
+        "followers_count": 281,
+        "following": false,
+        "friends_count": 413,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 413282526,
+        "id_str": "413282526",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Brittanie (Wolfe) Deibler",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/413282526/1494199323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097226489622347776/lvLPyJE1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097226489622347776/lvLPyJE1_normal.jpg",
+        "profile_link_color": "F51899",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FAB9DA",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "B_Wolfe11",
+        "statuses_count": 5728,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

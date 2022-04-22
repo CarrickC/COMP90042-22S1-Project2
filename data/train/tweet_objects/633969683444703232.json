@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 11:52:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    21,
+                    36
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    37,
+                    53
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 751534327,
+                "id_str": "751534327",
+                "indices": [
+                    55,
+                    69
+                ],
+                "name": "HiIary Clinton",
+                "screen_name": "hiIaryClinton"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    90,
+                    106
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633969683444703232,
+    "id_str": "633969683444703232",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 633961125126668288,
+    "in_reply_to_status_id_str": "633961125126668288",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@CNNPolitics @cnnbrk @HillaryClinton @realDonaldTrump. @HiiaryClinton not a favourite but @realDonaldTrump what an embarrassment! He sucks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 25 09:25:41 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83c\uddff\ud83c\udde6",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9767,
+        "follow_request_sent": false,
+        "followers_count": 472,
+        "following": false,
+        "friends_count": 833,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2640240916,
+        "id_str": "2640240916",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Johannesburg",
+        "name": "Robert Burger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239492748295757824/6uRRERfY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239492748295757824/6uRRERfY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robertburger9",
+        "statuses_count": 17982,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

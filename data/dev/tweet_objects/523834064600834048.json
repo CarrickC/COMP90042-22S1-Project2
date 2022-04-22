@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 13:52:28 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39585367,
+                "id_str": "39585367",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Harvard University",
+                "screen_name": "Harvard"
+            },
+            {
+                "id": 1049644164,
+                "id_str": "1049644164",
+                "indices": [
+                    26,
+                    36
+                ],
+                "name": "Piotr Naskrecki",
+                "screen_name": "naskrecki"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 523834064600834048,
+    "id_str": "523834064600834048",
+    "in_reply_to_screen_name": "Harvard",
+    "in_reply_to_status_id": 523820806917603328,
+    "in_reply_to_status_id_str": "523820806917603328",
+    "in_reply_to_user_id": 39585367,
+    "in_reply_to_user_id_str": "39585367",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Harvard @sathlondonshona @naskrecki Just the thing, when you're eating your lunch.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 01 13:25:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "May ride up with wear. \nshe/her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1136,
+        "follow_request_sent": false,
+        "followers_count": 1121,
+        "following": false,
+        "friends_count": 272,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 327376740,
+        "id_str": "327376740",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 46,
+        "location": "That Devon",
+        "name": "Mme Decadent Sneezy-Bottom \ud83d\ude37\ud83d\udc99",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/327376740/1647197411",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1455163163691859984/t3aRCiXP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455163163691859984/t3aRCiXP_normal.jpg",
+        "profile_link_color": "5995FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "darklyadapted",
+        "statuses_count": 243388,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

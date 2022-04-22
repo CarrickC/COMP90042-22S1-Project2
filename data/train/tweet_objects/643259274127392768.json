@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 14 03:05:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 643259274127392768,
+    "id_str": "643259274127392768",
+    "in_reply_to_screen_name": "AllenWest",
+    "in_reply_to_status_id": 643103859729166337,
+    "in_reply_to_status_id_str": "643103859729166337",
+    "in_reply_to_user_id": 237403203,
+    "in_reply_to_user_id_str": "237403203",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AllenWest Let them go hungry.. I'm sick of this garbage.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 29 21:34:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud American, Italian heritage, supporter of Israel, former US Intel Analyst, NSA Russian Language Analyst.#BackTheBlue #Trump2020 GAB: politicalqrm",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "politicalqrm.com",
+                        "expanded_url": "http://politicalqrm.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ri7z4t4aEb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 116688,
+        "follow_request_sent": false,
+        "followers_count": 3649,
+        "following": false,
+        "friends_count": 2842,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 244674034,
+        "id_str": "244674034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "New Hampshire",
+        "name": "Ann Marie",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244674034/1469977604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2873637136/d1a94fce67db44fbdcb94a700676a560_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2873637136/d1a94fce67db44fbdcb94a700676a560_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Political_QRM",
+        "statuses_count": 35599,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ri7z4t4aEb",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

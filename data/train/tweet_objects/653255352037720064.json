@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 17:06:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 393333199,
+                "id_str": "393333199",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Jayant Pathak",
+                "screen_name": "Jayant_pathak"
+            },
+            {
+                "id": 25905161,
+                "id_str": "25905161",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "Mary Helfrich",
+                "screen_name": "MrsHelfrich"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    28,
+                    32
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    33,
+                    48
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    49,
+                    63
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 653255352037720064,
+    "id_str": "653255352037720064",
+    "in_reply_to_screen_name": "Jayant_pathak",
+    "in_reply_to_status_id": 653255043940904960,
+    "in_reply_to_status_id_str": "653255043940904960",
+    "in_reply_to_user_id": 393333199,
+    "in_reply_to_user_id_str": "393333199",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Jayant_pathak @MrsHelfrich @CNN @HillaryClinton @BernieSanders so was obama. At least Bernie has been in congress for 23 years.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 30 18:28:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love Freedom of Speech.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Politics21Vote",
+                        "expanded_url": "https://twitter.com/Politics21Vote",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pdJXjqznyN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 424,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 326928906,
+        "id_str": "326928906",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Politics2021",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/326928906/1456137298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/701715937544654848/5_dhKRpd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/701715937544654848/5_dhKRpd_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Politics21Vote",
+        "statuses_count": 11694,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pdJXjqznyN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

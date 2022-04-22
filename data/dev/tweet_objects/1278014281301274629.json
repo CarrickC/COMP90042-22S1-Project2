@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 17:15:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278014281301274629",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Tmh47HFe9d"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 62863313,
+                "id_str": "62863313",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "RejectsToTheMoon \u274c\u274c",
+                "screen_name": "quig87"
+            },
+            {
+                "id": 948776947202523136,
+                "id_str": "948776947202523136",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Jim",
+                "screen_name": "Jim96901501"
+            },
+            {
+                "id": 334715818,
+                "id_str": "334715818",
+                "indices": [
+                    21,
+                    32
+                ],
+                "name": "Buck Sexton",
+                "screen_name": "BuckSexton"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1278014281301274629,
+    "id_str": "1278014281301274629",
+    "in_reply_to_screen_name": "quig87",
+    "in_reply_to_status_id": 1277948453763649536,
+    "in_reply_to_status_id_str": "1277948453763649536",
+    "in_reply_to_user_id": 62863313,
+    "in_reply_to_user_id_str": "62863313",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@quig87 @Jim96901501 @BuckSexton Stop it / the mortality rate is less than 1% and less then 0.5% for those not at r\u2026 https://t.co/Tmh47HFe9d",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 29 17:47:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Lucky husband and father of two. Chelms in F3 and beat form in Area51",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11270,
+        "follow_request_sent": false,
+        "followers_count": 453,
+        "following": false,
+        "friends_count": 477,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 274076953,
+        "id_str": "274076953",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Charlotte",
+        "name": "Pete",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667645319824302080/XKPZ75od_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667645319824302080/XKPZ75od_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pchepul",
+        "statuses_count": 12705,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:48:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 57775464,
+                "id_str": "57775464",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Nicholas J.C. Pistor",
+                "screen_name": "nickpistor"
+            },
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            },
+            {
+                "id": 92613268,
+                "id_str": "92613268",
+                "indices": [
+                    26,
+                    42
+                ],
+                "name": "Christine Byers",
+                "screen_name": "ChristineDByers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538857084029120513,
+    "id_str": "538857084029120513",
+    "in_reply_to_screen_name": "nickpistor",
+    "in_reply_to_status_id": 538847758032310272,
+    "in_reply_to_status_id_str": "538847758032310272",
+    "in_reply_to_user_id": 57775464,
+    "in_reply_to_user_id_str": "57775464",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nickpistor @WesleyLowery @ChristineDByers This former tv newser knows: they have their ways",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 19 00:01:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "'Most people are other people. Their thoughts are someone else\u2019s opinions, their lives a mimicry, their passions\u00a0a quotation.' \u2014Oscar Wilde, 'De Profundis'",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 168104,
+        "follow_request_sent": false,
+        "followers_count": 1258,
+        "following": false,
+        "friends_count": 3656,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 75422874,
+        "id_str": "75422874",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "",
+        "name": "Leslie Molson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75422874/1633717741",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404511198696161280/Utt5cLB7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404511198696161280/Utt5cLB7_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lesliemolson",
+        "statuses_count": 99270,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

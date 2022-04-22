@@ -1,0 +1,209 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 12:26:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cuY6pMdzBC",
+                "expanded_url": "https://twitter.com/thei100/status/552802654641225728/photo/1",
+                "id": 552802493206253568,
+                "id_str": "552802493206253568",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6vy8E6CUAAQQ-4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6vy8E6CUAAQQ-4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 787,
+                        "resize": "fit",
+                        "w": 1520
+                    },
+                    "medium": {
+                        "h": 621,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552802654641225728,
+                "source_status_id_str": "552802654641225728",
+                "source_user_id": 2461887810,
+                "source_user_id_str": "2461887810",
+                "type": "photo",
+                "url": "http://t.co/cuY6pMdzBC"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "i100.io/W5R7DKe",
+                "expanded_url": "http://i100.io/W5R7DKe",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/cFgVbBURhI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4924780031,
+                "id_str": "4924780031",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "indy100",
+                "screen_name": "thei100"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cuY6pMdzBC",
+                "expanded_url": "https://twitter.com/thei100/status/552802654641225728/photo/1",
+                "id": 552802493206253568,
+                "id_str": "552802493206253568",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6vy8E6CUAAQQ-4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6vy8E6CUAAQQ-4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 787,
+                        "resize": "fit",
+                        "w": 1520
+                    },
+                    "medium": {
+                        "h": 621,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552802654641225728,
+                "source_status_id_str": "552802654641225728",
+                "source_user_id": 2461887810,
+                "source_user_id_str": "2461887810",
+                "type": "photo",
+                "url": "http://t.co/cuY6pMdzBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552803445711708160,
+    "id_str": "552803445711708160",
+    "in_reply_to_screen_name": "indy100",
+    "in_reply_to_status_id": 552802654641225728,
+    "in_reply_to_status_id_str": "552802654641225728",
+    "in_reply_to_user_id": 2461887810,
+    "in_reply_to_user_id_str": "2461887810",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Dua belas.\n\nRT @thei100: Charlie Hebdo shooting latest: 12 dead and gunmen still at large http://t.co/cFgVbBURhI http://t.co/cuY6pMdzBC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 07 12:31:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wellbeing Facilitator @RumahRemedi & https://t.co/KgMxsi48fc \u2022 Brainspotting Practitioner \u2022 Hatha Yoga Teacher - RYT 200 \u2022 #BincangMembumi #TarotWithBumi",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "sweatbar.id",
+                        "expanded_url": "http://sweatbar.id",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "url": "https://t.co/KgMxsi48fc"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/bentarabumi",
+                        "expanded_url": "https://linktr.ee/bentarabumi",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JLwekpbKkX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13572,
+        "follow_request_sent": false,
+        "followers_count": 20237,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 95191831,
+        "id_str": "95191831",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 77,
+        "location": "bumi.bentara at gmail",
+        "name": "A Poetic Wanderer \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "notifications": false,
+        "profile_background_color": "EB6912",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95191831/1495212527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515503000084643844/Scomn8Ml_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515503000084643844/Scomn8Ml_normal.jpg",
+        "profile_link_color": "DB2C18",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "403B40",
+        "profile_text_color": "030303",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bentarabumi",
+        "statuses_count": 246402,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JLwekpbKkX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

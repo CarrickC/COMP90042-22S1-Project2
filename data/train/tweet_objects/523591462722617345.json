@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 21:48:27 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523591462722617345,
+    "id_str": "523591462722617345",
+    "in_reply_to_screen_name": "PatrickWeekes",
+    "in_reply_to_status_id": 523590001880481792,
+    "in_reply_to_status_id_str": "523590001880481792",
+    "in_reply_to_user_id": 369586333,
+    "in_reply_to_user_id_str": "369586333",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@PatrickWeekes DDDDDDDDDDDDDDDDDDDDDDDDDDDDD:",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 17 00:56:44 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "feed your anger like fire \u269c\ufe0f she/her \u269c\ufe0f born in the 80s \u269c\ufe0f fleurdeliser everywhere",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "archiveofourown.org/users/fleurdel\u2026",
+                        "expanded_url": "https://archiveofourown.org/users/fleurdeliser/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PllSa1QMQs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 89810,
+        "follow_request_sent": false,
+        "followers_count": 1261,
+        "following": false,
+        "friends_count": 464,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 14414933,
+        "id_str": "14414933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 40,
+        "location": "PDX ",
+        "name": "la fleur du mal",
+        "notifications": false,
+        "profile_background_color": "2598D5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14414933/1630367047",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148022240136425472/30c6GSeB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148022240136425472/30c6GSeB_normal.jpg",
+        "profile_link_color": "2598D5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "B0B0B0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "fleurdeliser",
+        "statuses_count": 188166,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PllSa1QMQs",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

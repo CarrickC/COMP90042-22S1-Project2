@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 19:00:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1275141604639203330",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/vQ5oyBU7sw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 293232741,
+                "id_str": "293232741",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Dave Gleason",
+                "screen_name": "DaveGlea"
+            },
+            {
+                "id": 19030154,
+                "id_str": "19030154",
+                "indices": [
+                    97,
+                    113
+                ],
+                "name": "Cleveland Metroparks",
+                "screen_name": "clevemetroparks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1275141604639203330,
+    "id_str": "1275141604639203330",
+    "in_reply_to_screen_name": "DaveGlea",
+    "in_reply_to_status_id": 1275139202817167360,
+    "in_reply_to_status_id_str": "1275139202817167360",
+    "in_reply_to_user_id": 293232741,
+    "in_reply_to_user_id_str": "293232741",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@DaveGlea When public health permits, we hope to some public presentations of project results to @clevemetroparks w\u2026 https://t.co/vQ5oyBU7sw",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 23 15:51:07 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Watershed hydrology and geomorphology professor at Kent State University. Water. Climate. Cities. Environment. Plastics. Social Justice. She/Her.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "all-geo.org/highlyallochth\u2026",
+                        "expanded_url": "http://all-geo.org/highlyallochthonous",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jXC2brUniZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15971,
+        "follow_request_sent": false,
+        "followers_count": 11727,
+        "following": false,
+        "friends_count": 3242,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 98906407,
+        "id_str": "98906407",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 544,
+        "location": "Kent, OH",
+        "name": "Dr. Anne Jefferson \ud83c\udf27\ud83c\udfe1",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98906407/1510434805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790015349391405056/KI7Vk7Hi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790015349391405056/KI7Vk7Hi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "highlyanne",
+        "statuses_count": 39641,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jXC2brUniZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

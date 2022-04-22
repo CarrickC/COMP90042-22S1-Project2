@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 08:23:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    83,
+                    100
+                ],
+                "text": "dogsarefamilytoo"
+            },
+            {
+                "indices": [
+                    101,
+                    106
+                ],
+                "text": "dogs"
+            },
+            {
+                "indices": [
+                    107,
+                    118
+                ],
+                "text": "FurryTails"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552742353975652352,
+    "id_str": "552742353975652352",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 552706985087361025,
+    "in_reply_to_status_id_str": "552706985087361025",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BuzzFeed This is so sad. I hope the SPCA does indeed find the person responsible. #dogsarefamilytoo #dogs #FurryTails",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 14 09:19:53 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You get what you give.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 255,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 484,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 15115601,
+        "id_str": "15115601",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "NY",
+        "name": "Joan",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15115601/1418691139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826256480814891010/VlLG7H_g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826256480814891010/VlLG7H_g_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ccbbyblue",
+        "statuses_count": 1171,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

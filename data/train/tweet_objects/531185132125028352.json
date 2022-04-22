@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 20:42:59 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8kxjpbNhHB",
+                "expanded_url": "https://twitter.com/JuddLegum/status/531161914689482752/photo/1",
+                "id": 531161913854398466,
+                "id_str": "531161913854398466",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/B18Q8kmCEAI9nF1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B18Q8kmCEAI9nF1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531161914689482752,
+                "source_status_id_str": "531161914689482752",
+                "source_user_id": 15464697,
+                "source_user_id_str": "15464697",
+                "type": "photo",
+                "url": "http://t.co/8kxjpbNhHB"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/3kZBFr",
+                "expanded_url": "http://goo.gl/3kZBFr",
+                "indices": [
+                    94,
+                    116
+                ],
+                "url": "http://t.co/vuJOW9jwU7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15464697,
+                "id_str": "15464697",
+                "indices": [
+                    37,
+                    47
+                ],
+                "name": "Judd Legum",
+                "screen_name": "JuddLegum"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8kxjpbNhHB",
+                "expanded_url": "https://twitter.com/JuddLegum/status/531161914689482752/photo/1",
+                "id": 531161913854398466,
+                "id_str": "531161913854398466",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/B18Q8kmCEAI9nF1.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B18Q8kmCEAI9nF1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531161914689482752,
+                "source_status_id_str": "531161914689482752",
+                "source_user_id": 15464697,
+                "source_user_id_str": "15464697",
+                "type": "photo",
+                "url": "http://t.co/8kxjpbNhHB"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531185132125028352,
+    "id_str": "531185132125028352",
+    "in_reply_to_screen_name": "JuddLegum",
+    "in_reply_to_status_id": 531161914689482752,
+    "in_reply_to_status_id_str": "531161914689482752",
+    "in_reply_to_user_id": 15464697,
+    "in_reply_to_user_id_str": "15464697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Found something worse than PSU-IU MT @JuddLegum: Pepsi making a Doritos-flavored Mountain Dew http://t.co/vuJOW9jwU7 http://t.co/8kxjpbNhHB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 19 01:58:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nobody actually reads this.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9643,
+        "follow_request_sent": false,
+        "followers_count": 303,
+        "following": false,
+        "friends_count": 515,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 106279513,
+        "id_str": "106279513",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "#Twitter",
+        "name": "Wordle Reference",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106279513/1604771058",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317590509175656460/A-3aZupQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317590509175656460/A-3aZupQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BPV103",
+        "statuses_count": 32476,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

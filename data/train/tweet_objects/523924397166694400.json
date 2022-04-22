@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 19:51:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15791186,
+                "id_str": "15791186",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "KHOU 11 News Houston",
+                "screen_name": "KHOU"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523924397166694400,
+    "id_str": "523924397166694400",
+    "in_reply_to_screen_name": "KHOU",
+    "in_reply_to_status_id": 523888836456108032,
+    "in_reply_to_status_id_str": "523888836456108032",
+    "in_reply_to_user_id": 15791186,
+    "in_reply_to_user_id_str": "15791186",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@KHOU No!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 19:52:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Texas but a California  girl at \u2764",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13813,
+        "follow_request_sent": false,
+        "followers_count": 93,
+        "following": false,
+        "friends_count": 269,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20180016,
+        "id_str": "20180016",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Richmond Texas",
+        "name": "Texas917",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20180016/1432432214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667915813458808834/fY6pBQlE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667915813458808834/fY6pBQlE_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Texas917",
+        "statuses_count": 3415,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

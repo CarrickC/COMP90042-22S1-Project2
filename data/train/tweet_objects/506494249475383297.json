@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 01 17:30:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2757239331,
+                "id_str": "2757239331",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Tupac ",
+                "screen_name": "ReaI_Tupac"
+            },
+            {
+                "id": 760308167704252416,
+                "id_str": "760308167704252416",
+                "indices": [
+                    12,
+                    26
+                ],
+                "name": "Shawn",
+                "screen_name": "westkingshawn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 506494249475383297,
+    "id_str": "506494249475383297",
+    "in_reply_to_screen_name": "ReaI_Tupac",
+    "in_reply_to_status_id": 506118402466152449,
+    "in_reply_to_status_id_str": "506118402466152449",
+    "in_reply_to_user_id": 2757239331,
+    "in_reply_to_user_id_str": "2757239331",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ReaI_Tupac @WestKingShawn Lmao from Cuba",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 18 15:55:18 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "riding shotgun in a picasso painting | texas a&m alum \ud83c\uddf5\ud83c\uddf7",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42450,
+        "follow_request_sent": false,
+        "followers_count": 1193,
+        "following": false,
+        "friends_count": 995,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1603727292,
+        "id_str": "1603727292",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "817",
+        "name": "joseph",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603727292/1598898211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327783115671150592/mjYPJuRe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327783115671150592/mjYPJuRe_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SantanaWorld___",
+        "statuses_count": 28099,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

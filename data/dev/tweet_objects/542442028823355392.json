@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 09 22:13:52 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    29,
+                    39
+                ],
+                "text": "holysmoke"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2546562188,
+                "id_str": "2546562188",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Walter Cronkite",
+                "screen_name": "CronkiteSays"
+            },
+            {
+                "id": 1265082677646016523,
+                "id_str": "1265082677646016523",
+                "indices": [
+                    14,
+                    28
+                ],
+                "name": "Firstmate1060 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 \ud83c\uddfa\ud83c\udde6 \u2693\ufe0f\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+                "screen_name": "Firstmate1060"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 542442028823355392,
+    "id_str": "542442028823355392",
+    "in_reply_to_screen_name": "CronkiteSays",
+    "in_reply_to_status_id": 542320823915536384,
+    "in_reply_to_status_id_str": "542320823915536384",
+    "in_reply_to_user_id": 2546562188,
+    "in_reply_to_user_id_str": "2546562188",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CronkiteSays @FirstMate1060 #holysmoke",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 28 17:41:14 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "IBEW LU3 , Actor, Impractical Jokers , The Daily Show , Dr Oz  , Food Network Click here\ud83d\udc49 https://t.co/AwMl1siBd0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/SloppyJoe",
+                        "expanded_url": "https://linktr.ee/SloppyJoe",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "url": "https://t.co/AwMl1siBd0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13534,
+        "follow_request_sent": false,
+        "followers_count": 3399,
+        "following": false,
+        "friends_count": 1417,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51788302,
+        "id_str": "51788302",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 40,
+        "location": "New York, USA",
+        "name": "The Real Sloppy Joe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51788302/1645042065",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484690403148374022/uA32LJp5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484690403148374022/uA32LJp5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JOHNNYLAUNONEN",
+        "statuses_count": 16720,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

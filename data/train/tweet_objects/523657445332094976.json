@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 02:10:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 123148608,
+                "id_str": "123148608",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Amanda Dylina Morse",
+                "screen_name": "AmandaDylina"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    36,
+                    49
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 523657445332094976,
+    "id_str": "523657445332094976",
+    "in_reply_to_screen_name": "AmandaDylina",
+    "in_reply_to_status_id": 523601288010170368,
+    "in_reply_to_status_id_str": "523601288010170368",
+    "in_reply_to_user_id": 123148608,
+    "in_reply_to_user_id_str": "123148608",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmandaDylina In fact, burn it all. @pourmecoffee",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 02 16:35:04 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife | Mom | Homeschooler | Lady Veteran | Pro 2A | Quilter Health and Wellness Partner | Freedom over Everything Covered by grace.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4356,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 133,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1927473805,
+        "id_str": "1927473805",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Northern CA",
+        "name": "Margaret",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927473805/1398305378",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000538970469/87da5a365ff519030a417c8fb71813f8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000538970469/87da5a365ff519030a417c8fb71813f8_normal.jpeg",
+        "profile_link_color": "1E6108",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mylifepartdos2",
+        "statuses_count": 14653,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

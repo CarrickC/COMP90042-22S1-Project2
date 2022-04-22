@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 22:07:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523596270456164353,
+    "id_str": "523596270456164353",
+    "in_reply_to_screen_name": "PatrickWeekes",
+    "in_reply_to_status_id": 523590001880481792,
+    "in_reply_to_status_id_str": "523590001880481792",
+    "in_reply_to_user_id": 369586333,
+    "in_reply_to_user_id_str": "369586333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@PatrickWeekes @pourmecoffee nope. Nope. NOPE.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 10 18:02:16 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Almost 40, she/her, married, queer, Disabled, autistic, ADHD, epileptic, artist, quilter, TransWomenAreWomen, LGBT+ @kofi_button https://t.co/UHaCH4BtKZ",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ko-fi.com/chaosfay/tiers",
+                        "expanded_url": "http://ko-fi.com/chaosfay/tiers",
+                        "indices": [
+                            129,
+                            152
+                        ],
+                        "url": "https://t.co/UHaCH4BtKZ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ko-fi.com/chaosfay/shop",
+                        "expanded_url": "https://ko-fi.com/chaosfay/shop",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gYpqTwkmUF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15629,
+        "follow_request_sent": false,
+        "followers_count": 651,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1342521517,
+        "id_str": "1342521517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "The Place of Weird",
+        "name": "Chaosfay - Commissions Closed",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342521517/1632087214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415030996769021952/hUCla7y-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415030996769021952/hUCla7y-_normal.jpg",
+        "profile_link_color": "00A7B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Chaosfay",
+        "statuses_count": 27919,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gYpqTwkmUF",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

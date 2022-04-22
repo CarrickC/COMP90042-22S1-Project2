@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 24 22:28:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1598644159,
+                "id_str": "1598644159",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Historical Pics",
+                "screen_name": "HistoricalPics"
+            },
+            {
+                "id": 18713086,
+                "id_str": "18713086",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "Kevin Boyd",
+                "screen_name": "Beryllium9"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 669281544951996417,
+    "id_str": "669281544951996417",
+    "in_reply_to_screen_name": "HistoricalPics",
+    "in_reply_to_status_id": 669259395902152704,
+    "in_reply_to_status_id_str": "669259395902152704",
+    "in_reply_to_user_id": 1598644159,
+    "in_reply_to_user_id_str": "1598644159",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HistoricalPics @Beryllium9 Uhm, that is just a special edition.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 19 04:43:50 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9500,
+        "follow_request_sent": false,
+        "followers_count": 114,
+        "following": false,
+        "friends_count": 480,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2252979588,
+        "id_str": "2252979588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Indy",
+        "name": "MDalton",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2252979588/1498351255",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874120797207625728/MQ9mXAL3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874120797207625728/MQ9mXAL3_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mdalton08",
+        "statuses_count": 7194,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

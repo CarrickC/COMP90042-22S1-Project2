@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 02 17:38:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1245767536546906113",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/YsKuqb5Qyd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 311426447,
+                "id_str": "311426447",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Richard Garven",
+                "screen_name": "RichardGarven"
+            },
+            {
+                "id": 1503862627184783361,
+                "id_str": "1503862627184783361",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "Planet ni Pedro",
+                "screen_name": "planet_pedro"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1245767536546906113,
+    "id_str": "1245767536546906113",
+    "in_reply_to_screen_name": "RichardGarven",
+    "in_reply_to_status_id": 1245766648877002754,
+    "in_reply_to_status_id_str": "1245766648877002754",
+    "in_reply_to_user_id": 311426447,
+    "in_reply_to_user_id_str": "311426447",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RichardGarven @Planet_Pedro Because that lot and the scientific modelling and strategising is directly influential\u2026 https://t.co/YsKuqb5Qyd",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 29 10:35:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband and dad, financial marketeer now work in tax, friend, history buff and political junky.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ghmltn.blogspot.com",
+                        "expanded_url": "http://ghmltn.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1wlFOEAZRN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 30654,
+        "follow_request_sent": false,
+        "followers_count": 3529,
+        "following": false,
+        "friends_count": 5000,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19705286,
+        "id_str": "19705286",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 92,
+        "location": "Edinburgh, UK",
+        "name": "Gavin Hamilton",
+        "notifications": false,
+        "profile_background_color": "AD1F1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19705286/1397095748",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828096671951253504/9TGvMQqv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828096671951253504/9TGvMQqv_normal.jpg",
+        "profile_link_color": "C7231F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0E76F",
+        "profile_text_color": "212FE8",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GHmltn",
+        "statuses_count": 165685,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1wlFOEAZRN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

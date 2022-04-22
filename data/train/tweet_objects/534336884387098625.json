@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 17 13:26:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 534336884387098625,
+    "id_str": "534336884387098625",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 534205316620382208,
+    "in_reply_to_status_id_str": "534205316620382208",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@PzFeed We're having a cold winter in the Mid-Atlantic, hopefully that will slow down Chagas and Dengue.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 23 12:26:48 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Old lady who likes science, cats, dolls, J-Rock.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 253913,
+        "follow_request_sent": false,
+        "followers_count": 8261,
+        "following": false,
+        "friends_count": 7275,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1451355872,
+        "id_str": "1451355872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 202,
+        "location": "Virginia",
+        "name": "Judith Sanders",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451355872/1411918825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747095047959515136/O4OUMlc6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747095047959515136/O4OUMlc6_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nazani14",
+        "statuses_count": 142509,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 22:20:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519975681498038274,
+    "id_str": "519975681498038274",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@realDonaldTrump , who, those kids from Central America ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 14 19:58:14 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 704,
+        "follow_request_sent": false,
+        "followers_count": 282,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1594151528,
+        "id_str": "1594151528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Utica, NY",
+        "name": "molly simons",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918224066175156224/vBeZX-zl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918224066175156224/vBeZX-zl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "blacks1620",
+        "statuses_count": 3894,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 03 01:38:06 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    54
+                ],
+                "text": "Appropriate"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517851050758656000,
+    "id_str": "517851050758656000",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517850508380618752,
+    "in_reply_to_status_id_str": "517850508380618752",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@megynkelly  Death penalty by beheading?  #Appropriate",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 24 22:03:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ultra-Conservative .Term Limits. Bigger The Govt-- smaller the people. Rinos must go.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2075,
+        "follow_request_sent": false,
+        "followers_count": 737,
+        "following": false,
+        "friends_count": 1341,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 502177131,
+        "id_str": "502177131",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Virginia mountains",
+        "name": "Dr. FlyFisher_AKY",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551783089802735616/vwimDMx0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551783089802735616/vwimDMx0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FlyFisher_AKY",
+        "statuses_count": 41872,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 27 04:08:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2302467404,
+                "id_str": "2302467404",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Huzlers",
+                "screen_name": "TheHuzlers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 548691742577668096,
+    "id_str": "548691742577668096",
+    "in_reply_to_screen_name": "TheHuzlers",
+    "in_reply_to_status_id": 548672230134382592,
+    "in_reply_to_status_id_str": "548672230134382592",
+    "in_reply_to_user_id": 2302467404,
+    "in_reply_to_user_id_str": "2302467404",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TheHuzlers BOBBY SHMURDA AINT DEAD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 10 20:20:42 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@tombrady & @pokimanelol superfan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30971,
+        "follow_request_sent": false,
+        "followers_count": 297,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 576623169,
+        "id_str": "576623169",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Miami, FL ",
+        "name": "Andrew\u00ae\ufe0f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/576623169/1617772474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1419870957695643649/4FsZZ6fm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419870957695643649/4FsZZ6fm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndrewMcgrady",
+        "statuses_count": 15406,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

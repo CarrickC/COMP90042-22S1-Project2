@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 04 01:02:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17076385,
+                "id_str": "17076385",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Jarrid Wilson",
+                "screen_name": "JarridWilson"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 518204455532384256,
+    "id_str": "518204455532384256",
+    "in_reply_to_screen_name": "JarridWilson",
+    "in_reply_to_status_id": 518192429153783808,
+    "in_reply_to_status_id_str": "518192429153783808",
+    "in_reply_to_user_id": 17076385,
+    "in_reply_to_user_id_str": "17076385",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@JarridWilson the fact that \"Christian\" blogs are using this amazing song to start a false narrative is what's appalling to me.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 02 20:16:25 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mostly liberal with a few conservative ideas. Music lover. Try to be open minded and fair to others opinions.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55366,
+        "follow_request_sent": false,
+        "followers_count": 104,
+        "following": false,
+        "friends_count": 392,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 211274693,
+        "id_str": "211274693",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "cr smith",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000353565840/b0c2ed214d8d0a3c90e66fbfe4898840_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000353565840/b0c2ed214d8d0a3c90e66fbfe4898840_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stopthecrazy",
+        "statuses_count": 25837,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

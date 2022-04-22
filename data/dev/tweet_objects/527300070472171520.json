@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 03:25:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    114,
+                    136
+                ],
+                "url": "http://t.co/2wU0Uk77nF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    12,
+                    19
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527300070472171520,
+    "id_str": "527300070472171520",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "So Jose. RT @cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/2wU0Uk77nF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 30 00:14:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I want you to sportshate who I sportshate. Puns are the worst #thumbsup GRIMM CAUGHT THE BAL~L~ Real life/Baylor sports account: @StoneRanger",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 360,
+        "follow_request_sent": false,
+        "followers_count": 1263,
+        "following": false,
+        "friends_count": 1457,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36531679,
+        "id_str": "36531679",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 77,
+        "location": "Texas",
+        "name": "Matt Hansen",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36531679/1394631047",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717529071228469248/4XgSBqtt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717529071228469248/4XgSBqtt_normal.jpg",
+        "profile_link_color": "BD1021",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B8B5B5",
+        "profile_text_color": "003279",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RangersFanMatt",
+        "statuses_count": 47054,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

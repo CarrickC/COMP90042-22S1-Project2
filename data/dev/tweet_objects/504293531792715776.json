@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 15:45:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504293531792715776,
+    "id_str": "504293531792715776",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 504267796424163328,
+    "in_reply_to_status_id_str": "504267796424163328",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNN why is audio a game changer? Shots in car, pause as he exited, more shots! Nothing new!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 23 22:10:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a Dad, Federal Mediator, firmer Investigator with the EEOC. I am a hunter, gatherer reside in the mid-west, but was born and raised in upstate New York.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 20,
+        "following": false,
+        "friends_count": 47,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 84702301,
+        "id_str": "84702301",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Indianapolis, Indiana",
+        "name": "joseph tedesco",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107334458/IMG_0548_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107334458/IMG_0548_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josephtedesco",
+        "statuses_count": 40,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

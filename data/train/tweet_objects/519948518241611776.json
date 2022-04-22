@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 20:32:41 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 187179778,
+                "id_str": "187179778",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "DailyEdge",
+                "screen_name": "dailyedge"
+            },
+            {
+                "id": 83644399,
+                "id_str": "83644399",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "Jose Carlos Jimenez",
+                "screen_name": "jimenezjc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519948518241611776,
+    "id_str": "519948518241611776",
+    "in_reply_to_screen_name": "dailyedge",
+    "in_reply_to_status_id": 519935535083565056,
+    "in_reply_to_status_id_str": "519935535083565056",
+    "in_reply_to_user_id": 187179778,
+    "in_reply_to_user_id_str": "187179778",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.4155163,
+                        41.5191147
+                    ],
+                    [
+                        2.4871021,
+                        41.5191147
+                    ],
+                    [
+                        2.4871021,
+                        41.5805841
+                    ],
+                    [
+                        2.4155163,
+                        41.5805841
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Matar\u00f3, Espa\u00f1a",
+        "id": "5ff8a5c4d230101a",
+        "name": "Matar\u00f3",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5ff8a5c4d230101a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@dailyedge @jimenezjc someone that can afford that car, can clean up that.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 12 20:54:29 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Devop wannabe, IT & OPs expert, sysadmin, computers are my life, twitter addict.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "xkcd.com/705/",
+                        "expanded_url": "http://xkcd.com/705/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sCfmTnpTy3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32973,
+        "follow_request_sent": false,
+        "followers_count": 1988,
+        "following": false,
+        "friends_count": 1279,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 8841122,
+        "id_str": "8841122",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 151,
+        "location": "Olost de Llu\u00e7an\u00e8s",
+        "name": "\u30b8\u30e7\u30eb\u30c7\u30a3 - jordi",
+        "notifications": false,
+        "profile_background_color": "6E77A0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8841122/1587923432",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236793798442844160/FjALrC0M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236793798442844160/FjALrC0M_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "8DCED3",
+        "profile_sidebar_fill_color": "D4CECE",
+        "profile_text_color": "211523",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jordiv",
+        "statuses_count": 182261,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/sCfmTnpTy3",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

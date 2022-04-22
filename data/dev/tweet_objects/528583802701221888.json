@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 16:26:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 73400415,
+                "id_str": "73400415",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Lizzie Borden",
+                "screen_name": "Skankatron"
+            },
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    12,
+                    27
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 528583802701221888,
+    "id_str": "528583802701221888",
+    "in_reply_to_screen_name": "Skankatron",
+    "in_reply_to_status_id": 528578393387053056,
+    "in_reply_to_status_id_str": "528578393387053056",
+    "in_reply_to_user_id": 73400415,
+    "in_reply_to_user_id_str": "73400415",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Skankatron @washingtonpost OMG that is terrifying.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 30 15:59:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Peace, Love and Happiness. Forever Grateful \u262e\ufe0f Good times + Crazy friends = Amazing memories. Leave a little sparkle wherever you go\u2728\u2728",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 53512,
+        "follow_request_sent": false,
+        "followers_count": 1766,
+        "following": false,
+        "friends_count": 783,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 161338474,
+        "id_str": "161338474",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Wonderland",
+        "name": "BibbidiBobbidi Bunny",
+        "notifications": false,
+        "profile_background_color": "FF14C1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161338474/1614221429",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1461808649869922304/rC022jPa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461808649869922304/rC022jPa_normal.jpg",
+        "profile_link_color": "A518EB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FF56D1",
+        "profile_text_color": "E027FC",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bunnysummer814",
+        "statuses_count": 104031,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

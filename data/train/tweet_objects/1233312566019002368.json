@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 28 08:46:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1233312566019002368",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/zg1vVkpd5W"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 34713362,
+                "id_str": "34713362",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Bloomberg",
+                "screen_name": "business"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1233312566019002368,
+    "id_str": "1233312566019002368",
+    "in_reply_to_screen_name": "business",
+    "in_reply_to_status_id": 1233310887005609985,
+    "in_reply_to_status_id_str": "1233310887005609985",
+    "in_reply_to_user_id": 34713362,
+    "in_reply_to_user_id_str": "34713362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@business Not necessarily effective if any location is missed. It should minimize risk but not eliminate it unless\u2026 https://t.co/zg1vVkpd5W",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 12 18:33:28 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "For social justice, social democracy, fairness, inclusivity, rationality, empiricism, diversity and kindness. Against hate speech, racism and Twitter bullies.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 163508,
+        "follow_request_sent": false,
+        "followers_count": 2726,
+        "following": false,
+        "friends_count": 2470,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 742062276757315588,
+        "id_str": "742062276757315588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Dublin City, Ireland",
+        "name": "Micheal OLainn",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209822818743005189/urBoGRhH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209822818743005189/urBoGRhH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "micheal_olainn",
+        "statuses_count": 217894,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

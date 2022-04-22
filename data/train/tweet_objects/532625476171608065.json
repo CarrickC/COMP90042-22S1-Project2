@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 12 20:06:23 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1269565965009735680,
+                "id_str": "1269565965009735680",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "katie moses",
+                "screen_name": "katiemoses4"
+            },
+            {
+                "id": 18058293,
+                "id_str": "18058293",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "WAFF 48",
+                "screen_name": "waff48"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532625476171608065,
+    "id_str": "532625476171608065",
+    "in_reply_to_screen_name": "k80moses",
+    "in_reply_to_status_id": 532625230368620544,
+    "in_reply_to_status_id_str": "532625230368620544",
+    "in_reply_to_user_id": 517043212,
+    "in_reply_to_user_id_str": "517043212",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KatieMoses4 @waff48 stfu \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 08 00:31:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2728 Girl Boss \u2728 PERMANENT MAKEUP ARTIST \ud83d\udc84\u2728 Wig units \u2728 Shop: https://t.co/izkWTqPJAN",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "preciousbeautycollections.com",
+                        "expanded_url": "http://preciousbeautycollections.com",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "url": "https://t.co/izkWTqPJAN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11483,
+        "follow_request_sent": false,
+        "followers_count": 2418,
+        "following": false,
+        "friends_count": 2306,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 312995614,
+        "id_str": "312995614",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "256\ud83d\udee9205",
+        "name": "P.",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312995614/1586832563",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1283627929897963523/RSWAI9VL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283627929897963523/RSWAI9VL_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "AD23AD",
+        "profile_text_color": "E31C5E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_PreciousMiller",
+        "statuses_count": 42510,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

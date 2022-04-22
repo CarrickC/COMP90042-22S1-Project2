@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 29 16:39:43 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    73
+                ],
+                "text": "farrakhan"
+            },
+            {
+                "indices": [
+                    85,
+                    92
+                ],
+                "text": "tawana"
+            },
+            {
+                "indices": [
+                    93,
+                    106
+                ],
+                "text": "dukelacrosse"
+            },
+            {
+                "indices": [
+                    107,
+                    115
+                ],
+                "text": "trayvon"
+            },
+            {
+                "indices": [
+                    116,
+                    127
+                ],
+                "text": "shakedowns"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42389136,
+                "id_str": "42389136",
+                "indices": [
+                    25,
+                    34
+                ],
+                "name": "Reverend Al Sharpton",
+                "screen_name": "TheRevAl"
+            },
+            {
+                "id": 151967576,
+                "id_str": "151967576",
+                "indices": [
+                    35,
+                    49
+                ],
+                "name": "Ben Crump",
+                "screen_name": "AttorneyCrump"
+            },
+            {
+                "id": 80366372,
+                "id_str": "80366372",
+                "indices": [
+                    50,
+                    62
+                ],
+                "name": "Rev Jesse Jackson Sr",
+                "screen_name": "RevJJackson"
+            },
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    128,
+                    134
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    135,
+                    139
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538734057170169856,
+    "id_str": "538734057170169856",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 538729383662338049,
+    "in_reply_to_status_id_str": "538729383662338049",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+    "text": "It's been profitable for @thereval @attorneycrump @RevJJackson #farrakhan for years. #tawana #dukelacrosse #trayvon #shakedowns @deray @ABC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 15:14:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I follow more than follow me because I like to listen more than talk.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1428,
+        "follow_request_sent": false,
+        "followers_count": 341,
+        "following": false,
+        "friends_count": 1205,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 43700617,
+        "id_str": "43700617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Florida, USA",
+        "name": "DiAx \u274c",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776008916438253568/7yZQQsD1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776008916438253568/7yZQQsD1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DianeAx",
+        "statuses_count": 37503,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

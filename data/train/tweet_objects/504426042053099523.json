@@ -1,0 +1,231 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -87.3510935,
+            36.53344877
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Aug 27 00:31:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BheifOZayk",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    91,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/BheifOZayk"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thesco.re/XQDehK",
+                "expanded_url": "http://thesco.re/XQDehK",
+                "indices": [
+                    68,
+                    90
+                ],
+                "url": "http://t.co/LwQc3gyxBk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BheifOZayk",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    91,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/BheifOZayk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            36.53344877,
+            -87.3510935
+        ],
+        "type": "Point"
+    },
+    "id": 504426042053099523,
+    "id_str": "504426042053099523",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.486546,
+                        36.4602
+                    ],
+                    [
+                        -87.157791,
+                        36.4602
+                    ],
+                    [
+                        -87.157791,
+                        36.641767
+                    ],
+                    [
+                        -87.486546,
+                        36.641767
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Clarksville, TN",
+        "id": "52f4a98d03e4ea4f",
+        "name": "Clarksville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52f4a98d03e4ea4f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@theScore: NHL expansion to Las Vegas is reportedly 'a done deal.' http://t.co/LwQc3gyxBk http://t.co/BheifOZayk\u201d wuuuuuuuuuuuuttttttttttt?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 27 22:58:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "An avid traveler, geography nerd and GIF master #AnchorDown #LetsGoPreds #NoDakNation #CawlidgeHawkey",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16711,
+        "follow_request_sent": false,
+        "followers_count": 601,
+        "following": false,
+        "friends_count": 2048,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 273148246,
+        "id_str": "273148246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Music City, USA",
+        "name": "Andy Baggo Donuts \ud83c\udf69\ud83d\udca8",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273148246/1544764922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361927825360625664/ya28Vsvp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361927825360625664/ya28Vsvp_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AFrankz123",
+        "statuses_count": 5138,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

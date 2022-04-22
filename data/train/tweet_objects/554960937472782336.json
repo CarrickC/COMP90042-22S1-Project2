@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            11.85902129,
+            57.72798375
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 13 11:19:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64643056,
+                "id_str": "64643056",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "RT",
+                "screen_name": "RT_com"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            57.72798375,
+            11.85902129
+        ],
+        "type": "Point"
+    },
+    "id": 554960937472782336,
+    "id_str": "554960937472782336",
+    "in_reply_to_screen_name": "RT_com",
+    "in_reply_to_status_id": 554958414905094144,
+    "in_reply_to_status_id_str": "554958414905094144",
+    "in_reply_to_user_id": 64643056,
+    "in_reply_to_user_id_str": "64643056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.226313,
+                        57.496298
+                    ],
+                    [
+                        12.2417273,
+                        57.496298
+                    ],
+                    [
+                        12.2417273,
+                        57.8659142
+                    ],
+                    [
+                        11.226313,
+                        57.8659142
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sverige",
+        "country_code": "SE",
+        "full_name": "G\u00f6teborg, Sverige",
+        "id": "53e060d6652640f4",
+        "name": "G\u00f6teborg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53e060d6652640f4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RT_com So EU will proclaim sand-castles as anti-protestant as a counterattack on the breach of free speech.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 29 12:32:06 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Something is not right when humans still; invest in wars 2 secure peace, r short on water but wash our cars, are closer together but speak less..",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20732,
+        "follow_request_sent": false,
+        "followers_count": 239,
+        "following": false,
+        "friends_count": 446,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 36345860,
+        "id_str": "36345860",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "@kapingamarangi",
+        "name": "\ud83c\udd83\ud83c\udd77\ud83c\udd74\ud83c\udd7d\ud83c\udd70\ud83c\udd7a\ud83c\udd74\ud83c\udd73\ud83c\udd82\ud83c\udd74\ud83c\udd81\ud83c\udd71",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36345860/1549090928",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2863937677/5b831b28a44024bf87322414ebe4b14c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2863937677/5b831b28a44024bf87322414ebe4b14c_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dennakneserben",
+        "statuses_count": 15874,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

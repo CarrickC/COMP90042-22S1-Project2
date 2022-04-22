@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 03 02:28:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 529097820347699200,
+    "id_str": "529097820347699200",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fluffyguy WTH...That's not funny.  \ud83d\ude26\ud83d\ude1f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 17 18:34:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife to a wonderful man. Love Travel, Cooking, Food & Wine, Music, and Photography.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Facebook.com/dayanara79",
+                        "expanded_url": "http://Facebook.com/dayanara79",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KfRoGH8H2H"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3581,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 97499199,
+        "id_str": "97499199",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Temecula, CA",
+        "name": "Dayanara",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97499199/1402032823",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744657772021592065/_hmw_sE4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744657772021592065/_hmw_sE4_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dayanara79",
+        "statuses_count": 1268,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/KfRoGH8H2H",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

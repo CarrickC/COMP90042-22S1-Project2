@@ -1,0 +1,278 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 26 02:46:32 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276346076035866625",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/CInMkycgq7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1647829928,
+                "id_str": "1647829928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "A Marm Kilpatrick",
+                "screen_name": "DiseaseEcology"
+            },
+            {
+                "id": 75937326,
+                "id_str": "75937326",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Marc Lipsitch",
+                "screen_name": "mlipsitch"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1276346076035866625,
+    "id_str": "1276346076035866625",
+    "in_reply_to_screen_name": "DiseaseEcology",
+    "in_reply_to_status_id": 1275595167936868352,
+    "in_reply_to_status_id_str": "1275595167936868352",
+    "in_reply_to_user_id": 1647829928,
+    "in_reply_to_user_id_str": "1647829928",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 12 00:12:40 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jej7lsQP8L",
+                    "expanded_url": "https://twitter.com/DrSamirBhatt/status/1271233923599785990/photo/1",
+                    "id": 1271212586990817281,
+                    "id_str": "1271212586990817281",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EaRBHNmX0AEdtN9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EaRBHNmX0AEdtN9.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 854,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 283,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jej7lsQP8L"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "thelancet.com/journals/lance\u2026",
+                    "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31357-X/fulltext#coronavirus-linkback-header",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/M14NVHhx2q"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jej7lsQP8L",
+                    "expanded_url": "https://twitter.com/DrSamirBhatt/status/1271233923599785990/photo/1",
+                    "id": 1271212586990817281,
+                    "id_str": "1271212586990817281",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EaRBHNmX0AEdtN9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EaRBHNmX0AEdtN9.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 854,
+                            "resize": "fit",
+                            "w": 2048
+                        },
+                        "medium": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 283,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jej7lsQP8L"
+                }
+            ]
+        },
+        "favorite_count": 591,
+        "favorited": false,
+        "geo": null,
+        "id": 1271233923599785990,
+        "id_str": "1271233923599785990",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 320,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "https://t.co/M14NVHhx2q \n\nHave deaths from COVID-19 in Europe plateaued due to herd immunity? https://t.co/jej7lsQP8L",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 06 12:49:02 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Professor of Machine Learning and Public Health University of Copenhagen + Professor of Statistics and Public Health Imperial College London",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1339,
+            "follow_request_sent": false,
+            "followers_count": 1687,
+            "following": false,
+            "friends_count": 417,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2279045005,
+            "id_str": "2279045005",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 49,
+            "location": "Copenhagen & London",
+            "name": "Samir Bhatt",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/420212182194716672/jqeteAbb_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/420212182194716672/jqeteAbb_normal.jpeg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ProfSamirBhatt",
+            "statuses_count": 1177,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1271233923599785990,
+    "quoted_status_id_str": "1271233923599785990",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@DiseaseEcology @mlipsitch Assumptions about heterogeneity are just that, assumptions. But there is plenty of convi\u2026 https://t.co/CInMkycgq7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 30 03:11:25 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Heliocentrist. Erstwhile astrophysicist now a somewhat agricultural scientist and investor.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4973,
+        "follow_request_sent": false,
+        "followers_count": 1246,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2691675349,
+        "id_str": "2691675349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 31,
+        "location": "Blue Mountains New South Wales",
+        "name": "Dr Rob Whitehurst",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2691675349/1407287287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1464210682925117440/6SBfh6dz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464210682925117440/6SBfh6dz_normal.jpg",
+        "profile_link_color": "4F8A0B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "OYCar",
+        "statuses_count": 12556,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

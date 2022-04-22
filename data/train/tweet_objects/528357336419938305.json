@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 01:26:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 528357336419938305,
+    "id_str": "528357336419938305",
+    "in_reply_to_screen_name": "pourmecoffee",
+    "in_reply_to_status_id": 528357165677817856,
+    "in_reply_to_status_id_str": "528357165677817856",
+    "in_reply_to_user_id": 16906137,
+    "in_reply_to_user_id_str": "16906137",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.172219,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.827378
+                    ],
+                    [
+                        -77.031779,
+                        38.934311
+                    ],
+                    [
+                        -77.172219,
+                        38.934311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@pourmecoffee DEMON DEER! they are found in other parts of Asia as well.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 13 02:26:30 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born in Jamaica, Queens.\nCan sleep on airplanes.\nCliff dweller. Bilingue en francais",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 173008,
+        "follow_request_sent": false,
+        "followers_count": 2191,
+        "following": false,
+        "friends_count": 1683,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1589914476,
+        "id_str": "1589914476",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 54,
+        "location": "Arlington, VA",
+        "name": "LucyVanPelt",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589914476/1590963326",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447385456086327299/11SoQ2cI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447385456086327299/11SoQ2cI_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "LucyAppa",
+        "statuses_count": 196062,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

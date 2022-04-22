@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 05 15:06:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19426551,
+                "id_str": "19426551",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "NFL",
+                "screen_name": "NFL"
+            },
+            {
+                "id": 50096544,
+                "id_str": "50096544",
+                "indices": [
+                    5,
+                    17
+                ],
+                "name": "Madden NFL 22",
+                "screen_name": "EAMaddenNFL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 563352850814603264,
+    "id_str": "563352850814603264",
+    "in_reply_to_screen_name": "NFL",
+    "in_reply_to_status_id": 563117355254161408,
+    "in_reply_to_status_id_str": "563117355254161408",
+    "in_reply_to_user_id": 19426551,
+    "in_reply_to_user_id_str": "19426551",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nfl @EAMaddenNFL that a conspiracy! That super bowl was rigged",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 04 03:55:45 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 215,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 96,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2326445952,
+        "id_str": "2326445952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": ".",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2326445952/1431796553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/599624324165730304/aDQT5c5d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/599624324165730304/aDQT5c5d_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "batmanao311",
+        "statuses_count": 337,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

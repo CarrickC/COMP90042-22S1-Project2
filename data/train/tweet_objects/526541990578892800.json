@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 27 01:12:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16664681,
+                "id_str": "16664681",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Los Angeles Times",
+                "screen_name": "latimes"
+            },
+            {
+                "id": 1945233324,
+                "id_str": "1945233324",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Mad World",
+                "screen_name": "MadWorldBook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 526541990578892800,
+    "id_str": "526541990578892800",
+    "in_reply_to_screen_name": "latimes",
+    "in_reply_to_status_id": 526459255147491328,
+    "in_reply_to_status_id_str": "526459255147491328",
+    "in_reply_to_user_id": 16664681,
+    "in_reply_to_user_id_str": "16664681",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@latimes @MadWorldBook Screws fall out all the time, the world is an imperfect place.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 25 23:58:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Electronic music producers and fairly decent fellows. Also produce as Daybreakers with https://t.co/8r5VE8s4a4\nhttps://t.co/oFvXeD89Gq",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/TheRicScott",
+                        "expanded_url": "https://twitter.com/TheRicScott",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "url": "https://t.co/8r5VE8s4a4"
+                    },
+                    {
+                        "display_url": "twitter.com/Daybreakers__",
+                        "expanded_url": "https://twitter.com/Daybreakers__",
+                        "indices": [
+                            111,
+                            134
+                        ],
+                        "url": "https://t.co/oFvXeD89Gq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "koishiiandhush.com",
+                        "expanded_url": "http://www.koishiiandhush.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UiooBmyn1r"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22713,
+        "follow_request_sent": false,
+        "followers_count": 1248,
+        "following": false,
+        "friends_count": 865,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 68843909,
+        "id_str": "68843909",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "England and Canada",
+        "name": "Koishii & Hush",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68843909/1608918805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223209008/kh-logo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223209008/kh-logo_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "koishiiandhush",
+        "statuses_count": 5642,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UiooBmyn1r",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

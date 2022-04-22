@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 02 05:26:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517546193992572928,
+    "id_str": "517546193992572928",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517487705978966016,
+    "in_reply_to_status_id_str": "517487705978966016",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@megynkelly @FoxNews He wants a Muslim lawyer? Under Muslim law the killer is to be killed the same way he killed his victim. He asked..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 23 00:14:20 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Dr said he could not see, measure. or prescribe for pain because it is invisible. Wrong, Doc, pain looks like me & millions more who die if u are blind. #IPP",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35216,
+        "follow_request_sent": false,
+        "followers_count": 4930,
+        "following": false,
+        "friends_count": 969,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 560697217,
+        "id_str": "560697217",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 45,
+        "location": "Georgia, USA",
+        "name": "Joe Newman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317634801688584193/t8mTpDCv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317634801688584193/t8mTpDCv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoeAllenNewman",
+        "statuses_count": 51317,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

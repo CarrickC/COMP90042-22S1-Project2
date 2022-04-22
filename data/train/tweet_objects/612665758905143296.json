@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 16:57:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xHpaNrASBR",
+                "expanded_url": "https://twitter.com/karderrius/status/612665758905143296/photo/1",
+                "id": 612665693696163840,
+                "id_str": "612665693696163840",
+                "indices": [
+                    32,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/CICgM87UAAAn4mA.png",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CICgM87UAAAn4mA.png",
+                "sizes": {
+                    "large": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/xHpaNrASBR"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xHpaNrASBR",
+                "expanded_url": "https://twitter.com/karderrius/status/612665758905143296/photo/1",
+                "id": 612665693696163840,
+                "id_str": "612665693696163840",
+                "indices": [
+                    32,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/CICgM87UAAAn4mA.png",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CICgM87UAAAn4mA.png",
+                "sizes": {
+                    "large": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 279,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "http://t.co/xHpaNrASBR",
+                "video_info": {
+                    "aspect_ratio": [
+                        500,
+                        279
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/CICgM87UAAAn4mA.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612665758905143296,
+    "id_str": "612665758905143296",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ajplus Delete this bullshit... http://t.co/xHpaNrASBR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 28 01:51:17 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I\u2019m a bad bitch, you can\u2019t kill me!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20096,
+        "follow_request_sent": false,
+        "followers_count": 7141,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 620534302,
+        "id_str": "620534302",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "",
+        "name": "KP",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620534302/1629477007",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1427363755755704320/0eQJI5eC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1427363755755704320/0eQJI5eC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "quinteez",
+        "statuses_count": 51855,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

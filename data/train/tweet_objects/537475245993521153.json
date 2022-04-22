@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 26 05:17:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            },
+            {
+                "id": 16478922,
+                "id_str": "16478922",
+                "indices": [
+                    7,
+                    22
+                ],
+                "name": "Ms .H",
+                "screen_name": "makenARTISGOOD"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537475245993521153,
+    "id_str": "537475245993521153",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 537377960471166976,
+    "in_reply_to_status_id_str": "537377960471166976",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@deray @makenARTISGOOD And he wound up with the same amount in donations. Sickening",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 01 10:12:18 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Country will never be the same-we can be better. I stand with Joe!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 448523,
+        "follow_request_sent": false,
+        "followers_count": 8458,
+        "following": false,
+        "friends_count": 9302,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 100949009,
+        "id_str": "100949009",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 169,
+        "location": "The Real World",
+        "name": "#LaurieNowMyPrez",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100949009/1611320240",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497180883928948752/s5w5-O3g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497180883928948752/s5w5-O3g_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LaurieSpoon",
+        "statuses_count": 533495,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

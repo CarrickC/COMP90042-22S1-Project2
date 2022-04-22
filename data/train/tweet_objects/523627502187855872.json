@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 00:11:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523627502187855872,
+    "id_str": "523627502187855872",
+    "in_reply_to_screen_name": "PatrickWeekes",
+    "in_reply_to_status_id": 523590001880481792,
+    "in_reply_to_status_id_str": "523590001880481792",
+    "in_reply_to_user_id": 369586333,
+    "in_reply_to_user_id_str": "369586333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@PatrickWeekes @pourmecoffee KILL IT WITH FIRE!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 22 07:03:47 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 132,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 20,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1892757144,
+        "id_str": "1892757144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Andr\u00e9 Eriksson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000491155678/33e823acf1e3e7eeba49f59b29879de9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000491155678/33e823acf1e3e7eeba49f59b29879de9_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Aner91",
+        "statuses_count": 50,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 03:10:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tmwQEn2mU0",
+                "expanded_url": "https://twitter.com/ABC/status/552568163431247873/photo/1",
+                "id": 552567560210624512,
+                "id_str": "552567560210624512",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6sdRLTCMAAwzAC.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6sdRLTCMAAwzAC.png",
+                "sizes": {
+                    "large": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 794
+                    },
+                    "medium": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 794
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552568163431247873,
+                "source_status_id_str": "552568163431247873",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486",
+                "type": "photo",
+                "url": "http://t.co/tmwQEn2mU0"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcn.ws/1DuLvXu",
+                "expanded_url": "http://abcn.ws/1DuLvXu",
+                "indices": [
+                    92,
+                    114
+                ],
+                "url": "http://t.co/gkWkY59BuG"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tmwQEn2mU0",
+                "expanded_url": "https://twitter.com/ABC/status/552568163431247873/photo/1",
+                "id": 552567560210624512,
+                "id_str": "552567560210624512",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6sdRLTCMAAwzAC.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6sdRLTCMAAwzAC.png",
+                "sizes": {
+                    "large": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 794
+                    },
+                    "medium": {
+                        "h": 447,
+                        "resize": "fit",
+                        "w": 794
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552568163431247873,
+                "source_status_id_str": "552568163431247873",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486",
+                "type": "photo",
+                "url": "http://t.co/tmwQEn2mU0"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552663642693316608,
+    "id_str": "552663642693316608",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 552661209204260864,
+    "in_reply_to_status_id_str": "552661209204260864",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ABC:Dog found abandoned at Scottish train station w/suitcase filled with it's belongings: http://t.co/gkWkY59BuG http://t.co/tmwQEn2mU0\u201d \ud83d\udc94",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 24 15:29:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Local news anchor/reporter...former NFL cheerleader...certified goofball...HUGE animal lover...pescatarian. Adopt Don't Shop!! Oh, and God Bless country music!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "brandiw.com",
+                        "expanded_url": "http://brandiw.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IA9lnvx0C8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 78,
+        "follow_request_sent": false,
+        "followers_count": 3807,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 242344936,
+        "id_str": "242344936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 72,
+        "location": "America's Finest City",
+        "name": "Brandi Williams",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242344936/1497327044",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/862122596388675584/D3qNOoPN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/862122596388675584/D3qNOoPN_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tvbrandi",
+        "statuses_count": 5987,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/IA9lnvx0C8",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

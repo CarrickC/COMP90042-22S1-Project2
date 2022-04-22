@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 03:06:04 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    75
+                ],
+                "text": "SCOTUS"
+            },
+            {
+                "indices": [
+                    108,
+                    117
+                ],
+                "text": "LoveWins"
+            },
+            {
+                "indices": [
+                    118,
+                    128
+                ],
+                "text": "GodIsLove"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614630750046982146,
+    "id_str": "614630750046982146",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 614599619310407680,
+    "in_reply_to_status_id_str": "614599619310407680",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FoxNews I think your post deserves some love &amp; positive vibes. #SCOTUS is on the right side of history #LoveWins #GodIsLove #",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 07:09:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "living life to LOVE, Made in USA, I'm a Christmas Miracle, one of a kind. Puppies just make the world better.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8363,
+        "follow_request_sent": false,
+        "followers_count": 84,
+        "following": false,
+        "friends_count": 348,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31679615,
+        "id_str": "31679615",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "USA Chandler, Az",
+        "name": "\ud83e\udd84\u0116rika D\u00efaz",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31679615/1498145009",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877909909362311168/6Xbg_QWS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877909909362311168/6Xbg_QWS_normal.jpg",
+        "profile_link_color": "E62BE6",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_ohhlala",
+        "statuses_count": 4618,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

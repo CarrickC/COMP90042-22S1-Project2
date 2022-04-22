@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 07:24:14 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    137
+                ],
+                "text": "sydneysiege"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1wRNTZ0",
+                "expanded_url": "http://cnn.it/1wRNTZ0",
+                "indices": [
+                    102,
+                    124
+                ],
+                "url": "http://t.co/mRghqDBf50"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 544392471007227904,
+    "id_str": "544392471007227904",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 544391176137089024,
+    "in_reply_to_status_id_str": "544391176137089024",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@cnni: Hostage taker in Sydney cafe demands ISIS flag and call with Australian PM, Sky News reports. http://t.co/mRghqDBf50 #sydneysiege\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 15 16:57:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Executive Editor, Uttarbanga Sambad Newspaper\nEx Ei Samay(2012-2020), Ex Anandabazar (1990-2012),  Ex Bartaman (1988-1990)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 678,
+        "follow_request_sent": false,
+        "followers_count": 4657,
+        "following": false,
+        "friends_count": 2216,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82660556,
+        "id_str": "82660556",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 53,
+        "location": "Calcutta, India",
+        "name": "Rupayan Bhattacharya",
+        "notifications": false,
+        "profile_background_color": "425C46",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1572059921/rupayan_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572059921/rupayan_normal.jpg",
+        "profile_link_color": "4D4DD1",
+        "profile_sidebar_border_color": "E75F3B",
+        "profile_sidebar_fill_color": "EFF7DF",
+        "profile_text_color": "5B5BC1",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rupayanb",
+        "statuses_count": 32137,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 28 06:44:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3162043071,
+                "id_str": "3162043071",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "ACT for America",
+                "screen_name": "act4america"
+            },
+            {
+                "id": 177584156,
+                "id_str": "177584156",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "Janie Johnson - America is Exceptional",
+                "screen_name": "jjauthor"
+            },
+            {
+                "id": 457984599,
+                "id_str": "457984599",
+                "indices": [
+                    23,
+                    37
+                ],
+                "name": "Breitbart News",
+                "screen_name": "BreitbartNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560327502594195456,
+    "id_str": "560327502594195456",
+    "in_reply_to_screen_name": "ACTforAmerica",
+    "in_reply_to_status_id": 560187970389819392,
+    "in_reply_to_status_id_str": "560187970389819392",
+    "in_reply_to_user_id": 168541923,
+    "in_reply_to_user_id_str": "168541923",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "text": "@act4america @jjauthor @BreitbartNews let them spread their tentacles at your own risk.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 16 08:22:58 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Writer-director-producer/theatre and films/satirist, humourist, centrist/ Mumbai",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42960,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 460,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 356054195,
+        "id_str": "356054195",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Mumbai",
+        "name": "pramod singh",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/356054195/1413574336",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1501263137751719944/MEbUXbzk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1501263137751719944/MEbUXbzk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PRanasar",
+        "statuses_count": 15071,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

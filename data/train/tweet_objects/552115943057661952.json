@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 05 14:54:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14629315,
+                "id_str": "14629315",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "XXL Magazine",
+                "screen_name": "XXL"
+            },
+            {
+                "id": 190074321,
+                "id_str": "190074321",
+                "indices": [
+                    5,
+                    16
+                ],
+                "name": "BADMON",
+                "screen_name": "joeyBADASS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552115943057661952,
+    "id_str": "552115943057661952",
+    "in_reply_to_screen_name": "XXL",
+    "in_reply_to_status_id": 552112474913136641,
+    "in_reply_to_status_id_str": "552112474913136641",
+    "in_reply_to_user_id": 14629315,
+    "in_reply_to_user_id_str": "14629315",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@XXL @joeyBADASS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 04:46:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/zlIWowwRRr",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/chef_raydo",
+                        "expanded_url": "https://linktr.ee/chef_raydo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zlIWowwRRr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "BANGINTABLES.COM",
+                        "expanded_url": "HTTPS://BANGINTABLES.COM",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/n9wi9vm3DH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 1627,
+        "following": false,
+        "friends_count": 1668,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26432680,
+        "id_str": "26432680",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 55,
+        "location": "BOOGIE DOWN BRONX , NY",
+        "name": "Chef Raydo",
+        "notifications": false,
+        "profile_background_color": "2DE012",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26432680/1643400977",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1471849307041144841/znbkOLiq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471849307041144841/znbkOLiq_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Chef_Raydo",
+        "statuses_count": 92672,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/n9wi9vm3DH",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

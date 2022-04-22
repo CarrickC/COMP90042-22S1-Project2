@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -85.07038708,
+            37.05742355
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 13 14:12:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/14QnOxx",
+                "expanded_url": "http://fxn.ws/14QnOxx",
+                "indices": [
+                    91,
+                    113
+                ],
+                "url": "http://t.co/cgpbc2lrNa"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.05742355,
+            -85.07038708
+        ],
+        "type": "Point"
+    },
+    "id": 555004394094477313,
+    "id_str": "555004394094477313",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 555003887753494528,
+    "in_reply_to_status_id_str": "555003887753494528",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kentucky, USA",
+        "id": "6ffcf3b0b904bbcb",
+        "name": "Kentucky",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@FoxNews: A Saudi cleric has declared that the building of snowmen as being anti-Islamic. http://t.co/cgpbc2lrNa\u201d Well, no snow in Arabia",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 03 23:30:29 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follower of the one true King, husband, father, grandfather, teacher, musician, amateur weatherman/storm reporter, Menifee Schools instructor.Opinions are mine",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6874,
+        "follow_request_sent": false,
+        "followers_count": 872,
+        "following": false,
+        "friends_count": 1485,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 454402258,
+        "id_str": "454402258",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Jeffersonville, KY from Cincinnati",
+        "name": "Jim Bean",
+        "notifications": false,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454402258/1393902008",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117505654443401217/W4RleFCa_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117505654443401217/W4RleFCa_normal.png",
+        "profile_link_color": "2280A9",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "17406C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Beaner5953",
+        "statuses_count": 24363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

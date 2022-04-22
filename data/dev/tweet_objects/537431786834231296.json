@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 26 02:24:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36570365,
+                "id_str": "36570365",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Brian",
+                "screen_name": "thebrinos"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    101,
+                    105
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 537431786834231296,
+    "id_str": "537431786834231296",
+    "in_reply_to_screen_name": "thebrinos",
+    "in_reply_to_status_id": 537378640653475841,
+    "in_reply_to_status_id_str": "537378640653475841",
+    "in_reply_to_user_id": 36570365,
+    "in_reply_to_user_id_str": "36570365",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@thebrinos: Darren Wilson was paid $500,000 for his ABC interview.\u201d Disgusting. Appalling. Fuck you @ABC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 11 10:18:56 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Woman in tech 30+ years, having opinions online even longer. Married to @brendangregg. #IamIntel She/her.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "beginningwithi.com",
+                        "expanded_url": "http://beginningwithi.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/96G8M8da5k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8156,
+        "follow_request_sent": false,
+        "followers_count": 5647,
+        "following": false,
+        "friends_count": 4757,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 625093,
+        "id_str": "625093",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 265,
+        "location": "Sydney, Australia",
+        "name": "Deirdr\u00e9 Straughan \ud83d\udc89\ud83d\udc89\ud83d\udc89",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/625093/1643844501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504370881338163201/d0qudrEz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504370881338163201/d0qudrEz_normal.jpg",
+        "profile_link_color": "FF0044",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DeirdreS",
+        "statuses_count": 63164,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/96G8M8da5k",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

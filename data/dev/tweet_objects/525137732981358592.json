@@ -1,0 +1,244 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.76067238,
+            34.14719428
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 23 04:12:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xLe320H5bb",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/xLe320H5bb"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcn.ws/1wsBVlR",
+                "expanded_url": "http://abcn.ws/1wsBVlR",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/Lc6JsPQXfR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xLe320H5bb",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/xLe320H5bb"
+            }
+        ]
+    },
+    "favorite_count": 13,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            34.14719428,
+            -118.76067238
+        ],
+        "type": "Point"
+    },
+    "id": 525137732981358592,
+    "id_str": "525137732981358592",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525134787778850818,
+    "in_reply_to_status_id_str": "525134787778850818",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.794237,
+                        34.125821
+                    ],
+                    [
+                        -118.715023,
+                        34.125821
+                    ],
+                    [
+                        -118.715023,
+                        34.168336
+                    ],
+                    [
+                        -118.794237,
+                        34.168336
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Agoura Hills, CA",
+        "id": "0d9a7f9b8f0baf12",
+        "name": "Agoura Hills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0d9a7f9b8f0baf12.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: http://t.co/Lc6JsPQXfR http://t.co/xLe320H5bb\u201d\nOH HELL NO.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 21 23:44:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LA made \u27a1\ufe0f NYC based. dancer. @tremainedance faculty. @cesddance. meghansanett@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/plainwhite",
+                        "expanded_url": "http://www.youtube.com/plainwhite",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aNgI5Opeyr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56438,
+        "follow_request_sent": false,
+        "followers_count": 11858,
+        "following": false,
+        "friends_count": 288,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25748301,
+        "id_str": "25748301",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "Manhattan, NY",
+        "name": "Meghan Sanett",
+        "notifications": false,
+        "profile_background_color": "0A090A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25748301/1599581918",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1303367145066303490/ozelFD2g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303367145066303490/ozelFD2g_normal.jpg",
+        "profile_link_color": "0AF577",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "80807B",
+        "profile_text_color": "0012DB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mmsanett",
+        "statuses_count": 28215,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aNgI5Opeyr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

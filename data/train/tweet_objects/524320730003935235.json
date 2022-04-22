@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:06:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524320730003935235,
+    "id_str": "524320730003935235",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AlfredoFlores HEY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 18 22:07:52 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u202212/08/14\u2022",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4452,
+        "follow_request_sent": false,
+        "followers_count": 3152,
+        "following": false,
+        "friends_count": 3938,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1278869204,
+        "id_str": "1278869204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "manchester",
+        "name": ".",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278869204/1440864147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637656567563816960/FRo0urUR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637656567563816960/FRo0urUR_normal.jpg",
+        "profile_link_color": "FF0073",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wburauhl",
+        "statuses_count": 25020,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

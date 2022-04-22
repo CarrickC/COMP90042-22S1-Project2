@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 23:16:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1162829718917435394,
+                "id_str": "1162829718917435394",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "emski",
+                "screen_name": "emmasvuitton"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1238242455864123397,
+    "id_str": "1238242455864123397",
+    "in_reply_to_screen_name": "emmasvuitton",
+    "in_reply_to_status_id": 1238231702260064259,
+    "in_reply_to_status_id_str": "1238231702260064259",
+    "in_reply_to_user_id": 1162829718917435394,
+    "in_reply_to_user_id_str": "1162829718917435394",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@emmasvuitton i think it\u2019s a music festival ??? idk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 23 21:37:28 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "simple but effective | \u264d\ufe0e | she/her",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dotherightthing.carrd.co",
+                        "expanded_url": "http://dotherightthing.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jaieaoC4Hc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51745,
+        "follow_request_sent": false,
+        "followers_count": 352,
+        "following": false,
+        "friends_count": 292,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1898482970,
+        "id_str": "1898482970",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "wilm ",
+        "name": "\u064b\ud83e\udeb7",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898482970/1620191719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1449802185366286347/vQfB3PDS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449802185366286347/vQfB3PDS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "scqrletts",
+        "statuses_count": 11886,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jaieaoC4Hc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

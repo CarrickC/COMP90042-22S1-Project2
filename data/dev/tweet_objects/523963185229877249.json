@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 22:25:32 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 58524428,
+                "id_str": "58524428",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Margarita Noriega",
+                "screen_name": "margarita"
+            },
+            {
+                "id": 68640609,
+                "id_str": "68640609",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "Sabra Lane",
+                "screen_name": "SabraLane"
+            },
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    22,
+                    30
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523963185229877249,
+    "id_str": "523963185229877249",
+    "in_reply_to_screen_name": "margarita",
+    "in_reply_to_status_id": 523939598691741696,
+    "in_reply_to_status_id_str": "523939598691741696",
+    "in_reply_to_user_id": 58524428,
+    "in_reply_to_user_id_str": "58524428",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        138.44212992,
+                        -35.348970061
+                    ],
+                    [
+                        138.780189824,
+                        -35.348970061
+                    ],
+                    [
+                        138.780189824,
+                        -34.652564053
+                    ],
+                    [
+                        138.44212992,
+                        -34.652564053
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Adelaide, South Australia",
+        "id": "01e8a1a140ccdc5c",
+        "name": "Adelaide",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01e8a1a140ccdc5c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@margarita @SabraLane @CBSNews An incredible, wonderful sight. Let's hope peoples need to eat everything, doesn't put these in danger.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 21 04:47:54 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dip. T. B. Ed., Grad. Dip. Psych., M. Litt., Lobbyist/Feminist; LGBTQI; Recognise advocate; Climate Change, Animal Rights Activist; Labor; Pro Oz Republic",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16197,
+        "follow_request_sent": false,
+        "followers_count": 530,
+        "following": false,
+        "friends_count": 328,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1687443698,
+        "id_str": "1687443698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 94,
+        "location": "Southern Adelaide",
+        "name": "annetteharidan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687443698/1600495208",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1307456802305392640/CJp7fmXA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307456802305392640/CJp7fmXA_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "annetteharidan",
+        "statuses_count": 51122,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

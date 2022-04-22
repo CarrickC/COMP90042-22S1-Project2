@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 19:22:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1165253690,
+                "id_str": "1165253690",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Boruc Jan",
+                "screen_name": "BorucJan"
+            },
+            {
+                "id": 2731157960,
+                "id_str": "2731157960",
+                "indices": [
+                    10,
+                    19
+                ],
+                "name": "Robert Bartk\u00f3w \ud83c\uddf5\ud83c\uddf1\ud83d\udcaf",
+                "screen_name": "RBartkow"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 643142708798861312,
+    "id_str": "643142708798861312",
+    "in_reply_to_screen_name": "BorucJan",
+    "in_reply_to_status_id": 643139873264812032,
+    "in_reply_to_status_id_str": "643139873264812032",
+    "in_reply_to_user_id": 1165253690,
+    "in_reply_to_user_id_str": "1165253690",
+    "is_quote_status": false,
+    "lang": "pl",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.259465,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.486036
+                    ],
+                    [
+                        -0.259465,
+                        51.486036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wandsworth, London",
+        "id": "460c5314e8a33c64",
+        "name": "Wandsworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BorucJan @RBartkow i sie zacz\u0119\u0142o Kopacz ani kurwa my\u015bl tych ludzi \u015bci\u0105ga\u0107 do mojego domu Polski.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 25 22:54:31 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jestem Polakiem B\u00f3g Honor I Ojczyzna Cze\u015b\u0107 Wielkiej Polsce",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3651,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 419,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3063612731,
+        "id_str": "3063612731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Filipiny Univers",
+        "name": "Andrew",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3063612731/1530422666",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1444568329709146112/44gC7jAo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444568329709146112/44gC7jAo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "agas2709",
+        "statuses_count": 18493,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

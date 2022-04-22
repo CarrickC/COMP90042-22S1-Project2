@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 03:56:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "some.ly/x0k7Nd",
+                "expanded_url": "http://some.ly/x0k7Nd",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/EBmDH5Kox1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14094741,
+                "id_str": "14094741",
+                "indices": [
+                    42,
+                    53
+                ],
+                "name": "someecards",
+                "screen_name": "someecards"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532018988058824704,
+    "id_str": "532018988058824704",
+    "in_reply_to_screen_name": "someecards",
+    "in_reply_to_status_id": 531973383198887936,
+    "in_reply_to_status_id_str": "531973383198887936",
+    "in_reply_to_user_id": 14094741,
+    "in_reply_to_user_id_str": "14094741",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -109.060257,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        41.003445
+                    ],
+                    [
+                        -109.060257,
+                        41.003445
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Colorado, USA",
+        "id": "e21c8e4914eef2b3",
+        "name": "Colorado",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "But, hey...sing words \"My pleasure!\" LOL\n\n@someecards Chick-fil-A manager made list of words his employees can't say http://t.co/EBmDH5Kox1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 30 07:12:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I wanna flyyyyy awayyyy. YeahYeahYeah.  \n#ATCwifeATClife\n#AvGeek  #ILoveAirplaneNoise \n\nMe/Myself/\u2708\n\nOccasional landings @longmontairport",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28784,
+        "follow_request_sent": false,
+        "followers_count": 443,
+        "following": false,
+        "friends_count": 648,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 424836951,
+        "id_str": "424836951",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Colorahhhdo",
+        "name": "BRodFlightCrew \ud83d\udc93\ud83d\udee9\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/424836951/1623370736",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403129231748571141/phrX31qv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403129231748571141/phrX31qv_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brodflightcrew",
+        "statuses_count": 19133,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 21 18:23:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 52146755,
+                "id_str": "52146755",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "MythBusters",
+                "screen_name": "MythBusters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524627121868922880,
+    "id_str": "524627121868922880",
+    "in_reply_to_screen_name": "MythBusters",
+    "in_reply_to_status_id": 524291188422356993,
+    "in_reply_to_status_id_str": "524291188422356993",
+    "in_reply_to_user_id": 52146755,
+    "in_reply_to_user_id_str": "52146755",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@MythBusters @drakin92  here you go.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 29 02:07:06 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83d\udd1e\ud83c\udff3\ufe0f\u200d\ud83c\udf08, Wizarding World, TMNT, LEGO, Leggings wearing, Omega Doggo/Drone 378, Married. YouTube \u201cWands and Reviews\u201d I only have 1 acct. like it or leave. #CHC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.youtube.com/channel/UC1YEO\u2026",
+                        "expanded_url": "https://m.youtube.com/channel/UC1YEOo1T8W_RYejh_DtaDiw/videos",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/M26EEFKho9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 105555,
+        "follow_request_sent": false,
+        "followers_count": 2605,
+        "following": false,
+        "friends_count": 984,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 477308045,
+        "id_str": "477308045",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "19th State, USA",
+        "name": "BINKS/IKE/Wubber Wolf Doggo",
+        "notifications": false,
+        "profile_background_color": "929FBF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/477308045/1637283144",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1340727455519297536/7gF0a1tD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340727455519297536/7gF0a1tD_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BINKS_Wolf",
+        "statuses_count": 46840,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/M26EEFKho9",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

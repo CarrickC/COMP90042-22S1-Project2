@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 04:22:32 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.com/video/data/2.0\u2026",
+                "expanded_url": "http://www.cnn.com/video/data/2.0/video/us/2014/08/26/ctn-intv-brown-shoot-new-audio.cnn.html",
+                "indices": [
+                    37,
+                    59
+                ],
+                "url": "http://t.co/Niq7VIRbNO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 25470710,
+                "id_str": "25470710",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Lisa Bonner, Esq.",
+                "screen_name": "lisabonner"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504121692952621056,
+    "id_str": "504121692952621056",
+    "in_reply_to_screen_name": "lisabonner",
+    "in_reply_to_status_id": 504106473467944960,
+    "in_reply_to_status_id_str": "504106473467944960",
+    "in_reply_to_user_id": 25470710,
+    "in_reply_to_user_id_str": "25470710",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@lisabonner here is the CNN segment: http://t.co/Niq7VIRbNO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 09 18:02:56 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "digital renaissance woman: graphics, web, writing, oral history, digital audio, curiosity. Creator of @postemilycards serving #PostcardsToVoters. she/her",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "postemily.com",
+                        "expanded_url": "http://postemily.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AmO3KAovub"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 108369,
+        "follow_request_sent": false,
+        "followers_count": 3988,
+        "following": false,
+        "friends_count": 4760,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 15790927,
+        "id_str": "15790927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 187,
+        "location": "Tovangaar / San Gabriel Valley",
+        "name": "Susan A. Kitchens",
+        "notifications": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15790927/1510100589",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1377746160652152832/HZ_UWiE8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377746160652152832/HZ_UWiE8_normal.jpg",
+        "profile_link_color": "663399",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3F7E6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "susankitchens",
+        "statuses_count": 88330,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AmO3KAovub",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

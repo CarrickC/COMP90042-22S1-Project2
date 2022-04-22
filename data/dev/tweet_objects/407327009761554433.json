@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 02 01:55:01 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14681605,
+                "id_str": "14681605",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "KevinSmith",
+                "screen_name": "ThatKevinSmith"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407327009761554433,
+    "id_str": "407327009761554433",
+    "in_reply_to_screen_name": "ThatKevinSmith",
+    "in_reply_to_status_id": 407184730988097536,
+    "in_reply_to_status_id_str": "407184730988097536",
+    "in_reply_to_user_id": 14681605,
+    "in_reply_to_user_id_str": "14681605",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ThatKevinSmith It's a sad one for sure. Big bucket of Win !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 11 16:33:23 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Memory, prophecy, and fantasy.The past the future and the dreaming moment between, are all one country, living one immortal day",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/shane.shank.92",
+                        "expanded_url": "http://www.facebook.com/shane.shank.92",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/HSi0efDUws"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 77,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1169368710,
+        "id_str": "1169368710",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Lancaster , Pa    ",
+        "name": "Shane A. Shank",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/417553595001614336/2opT_348_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/417553595001614336/2opT_348_normal.png",
+        "profile_link_color": "00D443",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RudeBoyZippo",
+        "statuses_count": 481,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/HSi0efDUws",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

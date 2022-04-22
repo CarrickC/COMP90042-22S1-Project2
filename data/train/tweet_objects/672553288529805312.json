@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:09:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 537904539,
+                "id_str": "537904539",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Jim Eastridge",
+                "screen_name": "jimEastridge1"
+            },
+            {
+                "id": 177564016,
+                "id_str": "177564016",
+                "indices": [
+                    15,
+                    30
+                ],
+                "name": "Steve Deace",
+                "screen_name": "SteveDeaceShow"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672553288529805312,
+    "id_str": "672553288529805312",
+    "in_reply_to_screen_name": "jimEastridge1",
+    "in_reply_to_status_id": 672488384695279616,
+    "in_reply_to_status_id_str": "672488384695279616",
+    "in_reply_to_user_id": 537904539,
+    "in_reply_to_user_id_str": "537904539",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@jimEastridge1 @SteveDeaceShow Maybe we need to eliminate Democratic presidents instead of guns.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 01:28:35 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28376,
+        "follow_request_sent": false,
+        "followers_count": 274,
+        "following": false,
+        "friends_count": 214,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 24814221,
+        "id_str": "24814221",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "MICHIGAN",
+        "name": "Bob",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24814221/1422503129",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3639471223/cd983e505240bd6b5f4a394eb457f61c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3639471223/cd983e505240bd6b5f4a394eb457f61c_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1mgoblue",
+        "statuses_count": 10971,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

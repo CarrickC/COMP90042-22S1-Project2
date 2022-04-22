@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 06:09:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1255741035327762432",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/zWPWskxcE3"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1161090178850512897,
+                "id_str": "1161090178850512897",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "rami",
+                "screen_name": "boredrami"
+            },
+            {
+                "id": 388752047,
+                "id_str": "388752047",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "AtomSea \u24cb\u23f3",
+                "screen_name": "TheAtomSea"
+            },
+            {
+                "id": 1231922760286265345,
+                "id_str": "1231922760286265345",
+                "indices": [
+                    23,
+                    39
+                ],
+                "name": "SamGriggs",
+                "screen_name": "SamGrig69320547"
+            },
+            {
+                "id": 16516027,
+                "id_str": "16516027",
+                "indices": [
+                    40,
+                    54
+                ],
+                "name": "Joe Farrell",
+                "screen_name": "comanchepilot"
+            },
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    55,
+                    63
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1255741035327762432,
+    "id_str": "1255741035327762432",
+    "in_reply_to_screen_name": "boredrami",
+    "in_reply_to_status_id": 1255740484598693889,
+    "in_reply_to_status_id_str": "1255740484598693889",
+    "in_reply_to_user_id": 1161090178850512897,
+    "in_reply_to_user_id_str": "1161090178850512897",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@boredrami @TheAtomSea @SamGrig69320547 @comanchepilot @CBSNews I\u2019m confused on how it\u2019s not airborne? There\u2019s doct\u2026 https://t.co/zWPWskxcE3",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 22 16:09:14 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "In God I Trust \ud83d\ude4f\ud83c\udffd Born and Raised Diesel mechanic \ud83e\uddf0",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yo.com",
+                        "expanded_url": "http://yo.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wED98RoNwu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 44486,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 369,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 701800924759494656,
+        "id_str": "701800924759494656",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Houston, TX",
+        "name": "TrapGod.J",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701800924759494656/1568102667",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171333598907162630/txrQpS8v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171333598907162630/txrQpS8v_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jacqueswalker12",
+        "statuses_count": 25252,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wED98RoNwu",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

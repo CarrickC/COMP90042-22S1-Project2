@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 10 02:20:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13461662,
+                "id_str": "13461662",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Klepek",
+                "screen_name": "patrickklepek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509526811664187393,
+    "id_str": "509526811664187393",
+    "in_reply_to_screen_name": "patrickklepek",
+    "in_reply_to_status_id": 509463933564891137,
+    "in_reply_to_status_id_str": "509463933564891137",
+    "in_reply_to_user_id": 13461662,
+    "in_reply_to_user_id_str": "13461662",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@patrickklepek After Amazon bought Twitch, this is no surprise",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 10 23:03:56 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bitcoinmillionaire - #1 Bitcoin Education App.\r\nLearn  all about Bitcoins in an easy and fun way. Bitcoin ease of use and Bitcoin onboarding,......",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bitcoinmillionaire-app.com",
+                        "expanded_url": "http://bitcoinmillionaire-app.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/BZEVfbSuA8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 268,
+        "following": false,
+        "friends_count": 106,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2616302870,
+        "id_str": "2616302870",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Berlin & NYC  ",
+        "name": "Bitcoinmillionaire",
+        "notifications": false,
+        "profile_background_color": "EFC20F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2616302870/1409589732",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488425899738415105/YCiGRMMH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488425899738415105/YCiGRMMH_normal.jpeg",
+        "profile_link_color": "EFDA1F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bitmillionapp",
+        "statuses_count": 556,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/BZEVfbSuA8",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

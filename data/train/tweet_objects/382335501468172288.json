@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -65.91989571,
+            45.35617505
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Sep 24 02:47:41 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 377385959,
+                "id_str": "377385959",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Unrevealed Facts",
+                "screen_name": "unrevealedfacts"
+            },
+            {
+                "id": 808787971717656576,
+                "id_str": "808787971717656576",
+                "indices": [
+                    73,
+                    89
+                ],
+                "name": "Montgomery Boone",
+                "screen_name": "MontgomeryBoone"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.35617505,
+            -65.91989571
+        ],
+        "type": "Point"
+    },
+    "id": 382335501468172288,
+    "id_str": "382335501468172288",
+    "in_reply_to_screen_name": "HistoryToLearn",
+    "in_reply_to_status_id": 376982539132366848,
+    "in_reply_to_status_id_str": "376982539132366848",
+    "in_reply_to_user_id": 149760844,
+    "in_reply_to_user_id_str": "149760844",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -66.459459,
+                        44.863279
+                    ],
+                    [
+                        -64.993962,
+                        44.863279
+                    ],
+                    [
+                        -64.993962,
+                        45.615129
+                    ],
+                    [
+                        -66.459459,
+                        45.615129
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Saint John, New Brunswick",
+        "id": "5594f8fd93bfa016",
+        "name": "Saint John",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5594f8fd93bfa016.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@UnrevealedFacts: J.K. Rowling is working on an 8th Harry Potter book.\u201d @montgomeryboone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 29 13:37:21 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1669,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 746,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 382090382,
+        "id_str": "382090382",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Saint John, NB ",
+        "name": "Luke Parkhill",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382090382/1423154277",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727283391922470912/qMbdQHq__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727283391922470912/qMbdQHq__normal.jpg",
+        "profile_link_color": "55FF00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LP395",
+        "statuses_count": 3526,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

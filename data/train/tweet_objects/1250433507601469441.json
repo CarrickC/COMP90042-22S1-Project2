@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 14:39:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250433507601469441",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/HRmNSg0YGw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16303106,
+                "id_str": "16303106",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Stephen Colbert",
+                "screen_name": "StephenAtHome"
+            },
+            {
+                "id": 21373560,
+                "id_str": "21373560",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Jonathan LaPook, M.D",
+                "screen_name": "DrLaPook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250433507601469441,
+    "id_str": "1250433507601469441",
+    "in_reply_to_screen_name": "StephenAtHome",
+    "in_reply_to_status_id": 1250246021629849602,
+    "in_reply_to_status_id_str": "1250246021629849602",
+    "in_reply_to_user_id": 16303106,
+    "in_reply_to_user_id_str": "16303106",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@StephenAtHome @DrLaPook Why was Dr. LaPook evasive in so many of his answers? Example: \"When can we hug again?\". A\u2026 https://t.co/HRmNSg0YGw",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 12:38:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Have hope for the future since 11/7/2020!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21717,
+        "follow_request_sent": false,
+        "followers_count": 85,
+        "following": false,
+        "friends_count": 168,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 32869479,
+        "id_str": "32869479",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Arkansas",
+        "name": "Kay Rohde",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32869479/1470950448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820775090019106816/Y8R7dBbJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820775090019106816/Y8R7dBbJ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kayrohde",
+        "statuses_count": 6597,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

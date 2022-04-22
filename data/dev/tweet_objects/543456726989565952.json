@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 12 17:25:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyti.ms/1qErSu7",
+                "expanded_url": "http://nyti.ms/1qErSu7",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/RyjU614dAq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    106,
+                    114
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 543456726989565952,
+    "id_str": "543456726989565952",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 543443188934250496,
+    "in_reply_to_status_id_str": "543443188934250496",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "So dogs go to heaven, where do cats go? Pope Francis tells boy he'll be reunited w/his dead dog in heaven @nytimes- http://t.co/RyjU614dAq\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 02 21:34:17 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Used to do stuff in California Legislature, proud Virginia Alum, wannabe Romanista and lifelong fan of World Champion Dodgers.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1847,
+        "follow_request_sent": false,
+        "followers_count": 1246,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 569442137,
+        "id_str": "569442137",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Davis, CA",
+        "name": "Dan Reeves",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/569442137/1590271878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407529086583394307/VHJw0o1e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407529086583394307/VHJw0o1e_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanReevo",
+        "statuses_count": 2328,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 19:22:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V5HlAj4fVx",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/509031495101874176/photo/1",
+                "id": 509031494602752000,
+                "id_str": "509031494602752000",
+                "indices": [
+                    102,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/BxBxcodIgAAB-RS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BxBxcodIgAAB-RS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "medium": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "small": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 509031495101874176,
+                "source_status_id_str": "509031495101874176",
+                "source_user_id": 5695632,
+                "source_user_id_str": "5695632",
+                "type": "photo",
+                "url": "http://t.co/V5HlAj4fVx"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bzfd.it/1tmSvA3",
+                "expanded_url": "http://bzfd.it/1tmSvA3",
+                "indices": [
+                    79,
+                    101
+                ],
+                "url": "http://t.co/VM2cTKtSb1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V5HlAj4fVx",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/509031495101874176/photo/1",
+                "id": 509031494602752000,
+                "id_str": "509031494602752000",
+                "indices": [
+                    102,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/BxBxcodIgAAB-RS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BxBxcodIgAAB-RS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "medium": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "small": {
+                        "h": 439,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 509031495101874176,
+                "source_status_id_str": "509031495101874176",
+                "source_user_id": 5695632,
+                "source_user_id_str": "5695632",
+                "type": "photo",
+                "url": "http://t.co/V5HlAj4fVx"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509059322001625088,
+    "id_str": "509059322001625088",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 509031495101874176,
+    "in_reply_to_status_id_str": "509031495101874176",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BuzzFeed: BREAKING NEWS:\n\nDurex has NOT come out with a pumpkin spice condom\nhttp://t.co/VM2cTKtSb1 http://t.co/V5HlAj4fVx\u201d lmao",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 27 23:49:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Account for A Fashionista's Diary Fashion, Beauty, Street Style & Celebrity Fashion",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/afashionistasd\u2026",
+                        "expanded_url": "http://www.instagram.com/afashionistasdiaries",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gjENhfJFz1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2812,
+        "follow_request_sent": false,
+        "followers_count": 19961,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 592238435,
+        "id_str": "592238435",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 162,
+        "location": "Los Angeles, CA",
+        "name": "A Fashionistas Diary",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/592238435/1483652138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817121840652922880/BvapgTuz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817121840652922880/BvapgTuz_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "afdiaries",
+        "statuses_count": 52743,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/gjENhfJFz1",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

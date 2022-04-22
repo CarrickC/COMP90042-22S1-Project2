@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 19:46:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18999969,
+                "id_str": "18999969",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC Ottawa",
+                "screen_name": "CBCOttawa"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 525010198357102592,
+    "id_str": "525010198357102592",
+    "in_reply_to_screen_name": "CBCOttawa",
+    "in_reply_to_status_id": 525005886272843776,
+    "in_reply_to_status_id_str": "525005886272843776",
+    "in_reply_to_user_id": 18999969,
+    "in_reply_to_user_id_str": "18999969",
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@CBCOttawa @RobynBresnahan M.Vickers pour votre acte de courage. Excuse la faute de frappe pour votre nom",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 13:36:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Candidat \u00e0 la mairie de Saint-Jean-sur-Richelieu",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 586,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38431049,
+        "id_str": "38431049",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 64,
+        "location": "Saint-Jean-sur-Richelieu",
+        "name": "Claude Bachand",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000511174763/03d7ea6e776faae178180804233c6447_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000511174763/03d7ea6e776faae178180804233c6447_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "claudebachand",
+        "statuses_count": 588,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

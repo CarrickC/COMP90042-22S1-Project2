@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 13 16:44:41 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28886934,
+                "id_str": "28886934",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Stephanie Soteriou",
+                "screen_name": "StephanieRiou"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532937102829174785,
+    "id_str": "532937102829174785",
+    "in_reply_to_screen_name": "StephanieRiou",
+    "in_reply_to_status_id": 532851585408593920,
+    "in_reply_to_status_id_str": "532851585408593920",
+    "in_reply_to_user_id": 28886934,
+    "in_reply_to_user_id_str": "28886934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StephanieRiou REALLY? OMG FINALLY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 04 01:45:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "if you\u2019re thinking 3 inches, then you\u2019re thinking correct",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paypal.me/kaykayriv",
+                        "expanded_url": "https://www.paypal.me/kaykayriv",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1UCQkqxXGv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 66351,
+        "follow_request_sent": false,
+        "followers_count": 944,
+        "following": false,
+        "friends_count": 2792,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 37562238,
+        "id_str": "37562238",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "jaybitties",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37562238/1619564863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1443991726813859844/oy_QE4KI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443991726813859844/oy_QE4KI_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "moxcutter",
+        "statuses_count": 67351,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1UCQkqxXGv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

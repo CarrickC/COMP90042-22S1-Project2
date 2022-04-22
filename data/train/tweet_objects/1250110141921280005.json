@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 17:14:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250110141921280005",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/uWKpEflObL"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 58,
+    "favorited": false,
+    "geo": null,
+    "id": 1250110141921280005,
+    "id_str": "1250110141921280005",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The virus is known to deteriorate in warmer temperatures.\n\nWe have some early experiments and the far flatter/almos\u2026 https://t.co/uWKpEflObL",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 29 00:21:54 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CEO and co-founder of end-to-end AI platform, Abacus-AI, creator of AI verticals at AWS, and ex-Googler. Passionate about AI and human behavior, angel investor",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "abacus.ai",
+                        "expanded_url": "http://abacus.ai",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QA1YZ0IbOx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5501,
+        "follow_request_sent": false,
+        "followers_count": 56322,
+        "following": false,
+        "friends_count": 1722,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6398252,
+        "id_str": "6398252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 717,
+        "location": "San Francisco, CA",
+        "name": "Bindu Reddy \ud83d\udd25\u2764\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6398252/1604087495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1443737943684763651/32WHA-kg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443737943684763651/32WHA-kg_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bindureddy",
+        "statuses_count": 9360,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QA1YZ0IbOx",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

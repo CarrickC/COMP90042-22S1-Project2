@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 20:53:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 635745335,
+                "id_str": "635745335",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Viva La Revoluci\u00f3n\ud83c\udff4",
+                "screen_name": "70torinoman"
+            },
+            {
+                "id": 261558942,
+                "id_str": "261558942",
+                "indices": [
+                    30,
+                    45
+                ],
+                "name": "Memento Mori \u270c\ufe0f\u2764 \ud83c\uddfa\ud83c\udde6 \ud83d\ude9c\ud83c\udf3b",
+                "screen_name": "Chaosforthefly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523577564506255360,
+    "id_str": "523577564506255360",
+    "in_reply_to_screen_name": "70torinoman",
+    "in_reply_to_status_id": 523555724807262208,
+    "in_reply_to_status_id_str": "523555724807262208",
+    "in_reply_to_user_id": 635745335,
+    "in_reply_to_user_id_str": "635745335",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@70torinoman @JrGothDetective @Chaosforthefly any links for this yet?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 27 07:45:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "storytelling @espn. alum @cbsnews. tweets like dame shoots threes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/jstnmchl/",
+                        "expanded_url": "http://instagram.com/jstnmchl/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wZQVXYG1sv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 127618,
+        "follow_request_sent": false,
+        "followers_count": 8739,
+        "following": false,
+        "friends_count": 1280,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 171403133,
+        "id_str": "171403133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 78,
+        "location": "brooklyn, ny",
+        "name": "justin bey",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171403133/1536598498",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478928641077788675/Yz1AcUBh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478928641077788675/Yz1AcUBh_normal.jpg",
+        "profile_link_color": "F8604C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CFCAF7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JstnMchl",
+        "statuses_count": 11764,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/wZQVXYG1sv",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

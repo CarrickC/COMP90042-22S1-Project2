@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 20 21:38:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1KpBMqZ",
+                "expanded_url": "http://bit.ly/1KpBMqZ",
+                "indices": [
+                    115,
+                    137
+                ],
+                "url": "http://t.co/1cX4LaZFCZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 454249913,
+                "id_str": "454249913",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Crazy Truth",
+                "screen_name": "gb_ball"
+            },
+            {
+                "id": 303503398,
+                "id_str": "303503398",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "doenormaal \ud83c\uddf3\ud83c\uddf1",
+                "screen_name": "doenormaal_1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 645713706404327424,
+    "id_str": "645713706404327424",
+    "in_reply_to_screen_name": "gb_ball",
+    "in_reply_to_status_id": 645711628046995462,
+    "in_reply_to_status_id_str": "645711628046995462",
+    "in_reply_to_user_id": 454249913,
+    "in_reply_to_user_id_str": "454249913",
+    "is_quote_status": false,
+    "lang": "nl",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@gb_ball @doenormaal_1 Wat een klein beetje knippen en plakken doet met een plaatje.  Dat zijn geen vluchtelingen. http://t.co/1cX4LaZFCZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 13 17:26:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Je weet zelluf..",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 307,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 237801791,
+        "id_str": "237801791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "Ergons ",
+        "name": "PVVVenlo",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237801791/1440875165",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637697870284455936/4EG5bE5R_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637697870284455936/4EG5bE5R_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PVVVenlo",
+        "statuses_count": 8417,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

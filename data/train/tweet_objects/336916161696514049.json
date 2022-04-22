@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 21 18:47:27 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    23
+                ],
+                "text": "Obama"
+            },
+            {
+                "indices": [
+                    33,
+                    43
+                ],
+                "text": "terrorist"
+            },
+            {
+                "indices": [
+                    64,
+                    75
+                ],
+                "text": "government"
+            },
+            {
+                "indices": [
+                    110,
+                    119
+                ],
+                "text": "SOLDIERS"
+            },
+            {
+                "indices": [
+                    122,
+                    134
+                ],
+                "text": "ActOfTerror"
+            },
+            {
+                "indices": [
+                    136,
+                    140
+                ],
+                "text": "USA"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 336916161696514049,
+    "id_str": "336916161696514049",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 336913656921083904,
+    "in_reply_to_status_id_str": "336913656921083904",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@FoxNews. Thanks #Obama! Another #terrorist getting paid by the #government! Slap in the face of the deceased #SOLDIERS!! #ActOfTerror! #USA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 20 15:48:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former Marine, actor, model and ready for action.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 402,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 835835204,
+        "id_str": "835835204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Pasadena CA ",
+        "name": "Jason Herter",
+        "notifications": false,
+        "profile_background_color": "FF0000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835835204/1353348674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2643678720/52fedfe15977de8f1df278d9a28a41b3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2643678720/52fedfe15977de8f1df278d9a28a41b3_normal.jpeg",
+        "profile_link_color": "EB4A00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E637DE",
+        "profile_text_color": "FFA83A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JasHerter78",
+        "statuses_count": 1093,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

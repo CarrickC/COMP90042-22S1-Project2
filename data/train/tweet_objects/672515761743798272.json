@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:40:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672515761743798272,
+    "id_str": "672515761743798272",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672513234419638273,
+    "in_reply_to_status_id_str": "672513234419638273",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC @Akilu5121 \nits ok to bomb syria tho and iraq too",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 23 18:35:53 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@ManUtd \u2022 @Bucks \u2022 @AnthonyMartial \u2022 @lilbaby4PF",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 46148,
+        "follow_request_sent": false,
+        "followers_count": 822,
+        "following": false,
+        "friends_count": 353,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1694530346,
+        "id_str": "1694530346",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "MartialFC",
+        "name": "\uff26\uff41\uff41\uff5a\uff58\uff4c \ud83e\udd40\ud83c\uddf0\ud83c\uddea",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694530346/1649719078",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516958725763964931/mA0SKJjA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516958725763964931/mA0SKJjA_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Faazxl",
+        "statuses_count": 39030,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

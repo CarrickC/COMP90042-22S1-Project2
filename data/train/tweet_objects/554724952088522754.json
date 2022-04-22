@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 12 19:41:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 123346276,
+                "id_str": "123346276",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "North Philly Rep",
+                "screen_name": "Hood_Genius"
+            },
+            {
+                "id": 15755669,
+                "id_str": "15755669",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "NBC10 Philadelphia",
+                "screen_name": "NBCPhiladelphia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 554724952088522754,
+    "id_str": "554724952088522754",
+    "in_reply_to_screen_name": "Hood_Genius",
+    "in_reply_to_status_id": 554724597808259072,
+    "in_reply_to_status_id_str": "554724597808259072",
+    "in_reply_to_user_id": 123346276,
+    "in_reply_to_user_id_str": "123346276",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Hood_Genius @NBCPhiladelphia Please say it was not Yuengling...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 26 22:26:37 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43639,
+        "follow_request_sent": false,
+        "followers_count": 1129,
+        "following": false,
+        "friends_count": 780,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1123327922,
+        "id_str": "1123327922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 46,
+        "location": "Indianapolis, IN",
+        "name": "Dr. Duji Mane!!!",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123327922/1646065631",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498333924820492289/wUAX2rzF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498333924820492289/wUAX2rzF_normal.jpg",
+        "profile_link_color": "010005",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimflamez",
+        "statuses_count": 58977,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

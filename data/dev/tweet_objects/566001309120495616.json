@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 12 22:30:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 57917441,
+                "id_str": "57917441",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Lizz \" Feminist Buzzkill \" Winstead",
+                "screen_name": "lizzwinstead"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 566001309120495616,
+    "id_str": "566001309120495616",
+    "in_reply_to_screen_name": "lizzwinstead",
+    "in_reply_to_status_id": 565999191982616577,
+    "in_reply_to_status_id_str": "565999191982616577",
+    "in_reply_to_user_id": 57917441,
+    "in_reply_to_user_id_str": "57917441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@lizzwinstead Let's start a movement to have BBQ ribs shipped to his office.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 10 18:51:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FEH",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 69448,
+        "follow_request_sent": false,
+        "followers_count": 454,
+        "following": false,
+        "friends_count": 700,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 55634617,
+        "id_str": "55634617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 33,
+        "location": "PTUI",
+        "name": "Some Old Fart",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55634617/1598551964",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299047206536740871/SycTSoiK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299047206536740871/SycTSoiK_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jbwhelan",
+        "statuses_count": 69458,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

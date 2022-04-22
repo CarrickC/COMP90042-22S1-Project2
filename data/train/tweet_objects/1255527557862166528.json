@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 29 16:01:11 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1255527557862166528",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/XrKuNRfQrv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 576137796,
+                "id_str": "576137796",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LIONESSBEAUTY\ud83d\udc84",
+                "screen_name": "Thandowie_11"
+            },
+            {
+                "id": 1074300738,
+                "id_str": "1074300738",
+                "indices": [
+                    14,
+                    22
+                ],
+                "name": "Gugu Ndamase",
+                "screen_name": "IAMGUKS"
+            },
+            {
+                "id": 168410432,
+                "id_str": "168410432",
+                "indices": [
+                    23,
+                    30
+                ],
+                "name": "Dep. Basic Education",
+                "screen_name": "DBE_SA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1255527557862166528,
+    "id_str": "1255527557862166528",
+    "in_reply_to_screen_name": "Thandowie_11",
+    "in_reply_to_status_id": 1255500846722428929,
+    "in_reply_to_status_id_str": "1255500846722428929",
+    "in_reply_to_user_id": 576137796,
+    "in_reply_to_user_id_str": "576137796",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Thandowie_11 @IAMGUKS @DBE_SA I would forfeit a year and save my child's life than wail over an academic year when\u2026 https://t.co/XrKuNRfQrv",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 30 09:39:18 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Artist. Music available on YouTube as Bella Meihn. For bookings call 068 155 3662.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9780,
+        "follow_request_sent": false,
+        "followers_count": 465,
+        "following": false,
+        "friends_count": 501,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1222816469349797888,
+        "id_str": "1222816469349797888",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "BellaMeihn",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1293459068019970048/uTVTb4Aa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293459068019970048/uTVTb4Aa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DondaBella",
+        "statuses_count": 2007,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

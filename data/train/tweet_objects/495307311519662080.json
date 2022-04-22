@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 01 20:37:20 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    58
+                ],
+                "text": "develop"
+            },
+            {
+                "indices": [
+                    67,
+                    74
+                ],
+                "text": "Africa"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "savannahcpv.co.uk",
+                "expanded_url": "http://www.savannahcpv.co.uk",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/GVmIePLGkg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 495307311519662080,
+    "id_str": "495307311519662080",
+    "in_reply_to_screen_name": "business",
+    "in_reply_to_status_id": 495305620342714369,
+    "in_reply_to_status_id_str": "495305620342714369",
+    "in_reply_to_user_id": 34713362,
+    "in_reply_to_user_id_str": "34713362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@BloombergNews  I am looking for joint venture to #develop 50MW in #Africa http://t.co/GVmIePLGkg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 13 18:31:11 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#FOLLOW ME!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "acurera.com",
+                        "expanded_url": "http://www.acurera.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rbVjkhDLqW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1108,
+        "follow_request_sent": false,
+        "followers_count": 288,
+        "following": false,
+        "friends_count": 950,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 113990180,
+        "id_str": "113990180",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "",
+        "name": "Napoleon Mao Mao",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113990180/1569645533",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177804846335959040/f9ecu6cR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177804846335959040/f9ecu6cR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "papadee1",
+        "statuses_count": 5709,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/rbVjkhDLqW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

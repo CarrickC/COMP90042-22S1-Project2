@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 07:00:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1e99ikQ",
+                "expanded_url": "http://huff.to/1e99ikQ",
+                "indices": [
+                    100,
+                    122
+                ],
+                "url": "http://t.co/o2xsLviBDV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427697512187559936,
+    "id_str": "427697512187559936",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 427690961280696320,
+    "in_reply_to_status_id_str": "427690961280696320",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@HuffingtonPost: Man who portrayed the Marlboro Man in the 1970s dies from smoking-related disease http://t.co/o2xsLviBDV\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 18:45:23 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nothing outside you can ever give you what you're looking for.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 241,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 308,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31192151,
+        "id_str": "31192151",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "",
+        "name": "Michelle Belle Ahn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31192151/1406859968",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/495032702181978112/EOyJ9agL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/495032702181978112/EOyJ9agL_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Michelle_Ahn2",
+        "statuses_count": 3298,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

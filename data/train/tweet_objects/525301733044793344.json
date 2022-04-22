@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 15:04:27 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525301733044793344,
+    "id_str": "525301733044793344",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 525301290218553344,
+    "in_reply_to_status_id_str": "525301290218553344",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@PzFeed Alfred taking no prisoners aye?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 20 22:31:54 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Gun totin Redneck, The Michael Jordan at being a sum bitch. WooPig",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2983,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 122,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2302110378,
+        "id_str": "2302110378",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Arkansauce",
+        "name": "JJ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2302110378/1533094959",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138260336216174592/jaJTDA-J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138260336216174592/jaJTDA-J_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "remedialJJ",
+        "statuses_count": 11989,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

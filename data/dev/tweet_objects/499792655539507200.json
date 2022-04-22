@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 05:40:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            },
+            {
+                "id": 723482671574212608,
+                "id_str": "723482671574212608",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "May Fon",
+                "screen_name": "SunnyHostin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499792655539507200,
+    "id_str": "499792655539507200",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ksdknews @SunnyHostin Brown reached for the officer's gun...interesting...according to officer or eyewitness",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 18 18:00:22 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Proclaimer/Caregiver/Fashionista/Music Lover",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 37937,
+        "follow_request_sent": false,
+        "followers_count": 561,
+        "following": false,
+        "friends_count": 373,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1681257270,
+        "id_str": "1681257270",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "MS",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681257270/1572793231",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191013324412145666/i9KySuEl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191013324412145666/i9KySuEl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cloudy_RC",
+        "statuses_count": 26646,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 12 15:37:49 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1227617815512797184",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/gWht2u2y7c"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 64,
+    "favorited": false,
+    "geo": null,
+    "id": 1227617815512797184,
+    "id_str": "1227617815512797184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 12 15:30:57 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "text": "Gravitas"
+                },
+                {
+                    "indices": [
+                        29,
+                        46
+                    ],
+                    "text": "WuhanCoronavirus"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1227616085848887296",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/6Y5ck6WXKP"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 49923337,
+                    "id_str": "49923337",
+                    "indices": [
+                        18,
+                        26
+                    ],
+                    "name": "Palki Sharma",
+                    "screen_name": "palkisu"
+                }
+            ]
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "geo": null,
+        "id": 1227616085848887296,
+        "id_str": "1227616085848887296",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 12,
+        "retweeted": false,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "On #Gravitas with @palkisu:\n+#WuhanCoronavirus: latest updates\n+China targets coronavirus whistleblowers\n+Why is Af\u2026 https://t.co/6Y5ck6WXKP",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 21 03:44:54 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "WION: World Is One | Welcome to India\u2019s first global news network. We present global stories with an Indian perspective. \nDownload App - https://t.co/2i3wWbmxcN",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/39tJwub",
+                            "expanded_url": "http://bit.ly/39tJwub",
+                            "indices": [
+                                137,
+                                160
+                            ],
+                            "url": "https://t.co/2i3wWbmxcN"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "zeemedia.page.link/WIONTwMainDesc\u2026",
+                            "expanded_url": "https://zeemedia.page.link/WIONTwMainDescAppInstall",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/cpofghI19S"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 7403,
+            "follow_request_sent": false,
+            "followers_count": 442186,
+            "following": false,
+            "friends_count": 98,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 711760467383877632,
+            "id_str": "711760467383877632",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1687,
+            "location": "India",
+            "name": "WION",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/711760467383877632/1647400682",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_normal.jpg",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "WIONews",
+            "statuses_count": 233770,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/cpofghI19S",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1227616085848887296,
+    "quoted_status_id_str": "1227616085848887296",
+    "retweet_count": 12,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "China, failing against the virus, is cracking down on those who tell its horrors. 2 citizen journos have gone missi\u2026 https://t.co/gWht2u2y7c",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 23 08:25:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "WION | journalist | foreign affairs |https://t.co/BtBKCl8yIE https://t.co/FWcl5x0z0r https://t.co/FVOlBhF3xG",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/palkisharmaupa\u2026",
+                        "expanded_url": "https://www.instagram.com/palkisharmaupadhyay/",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "url": "https://t.co/BtBKCl8yIE"
+                    },
+                    {
+                        "display_url": "wionews.com/gravitas",
+                        "expanded_url": "https://www.wionews.com/gravitas",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "url": "https://t.co/FWcl5x0z0r"
+                    },
+                    {
+                        "display_url": "wionews.com/author/palki-s\u2026",
+                        "expanded_url": "https://www.wionews.com/author/palki-sharma",
+                        "indices": [
+                            85,
+                            108
+                        ],
+                        "url": "https://t.co/FVOlBhF3xG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9067,
+        "follow_request_sent": false,
+        "followers_count": 373449,
+        "following": false,
+        "friends_count": 724,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 49923337,
+        "id_str": "49923337",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 879,
+        "location": "delhi",
+        "name": "Palki Sharma",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49923337/1632413091",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707205706731036672/3dfM60rD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707205706731036672/3dfM60rD_normal.jpg",
+        "profile_link_color": "120A0C",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "palkisu",
+        "statuses_count": 21923,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

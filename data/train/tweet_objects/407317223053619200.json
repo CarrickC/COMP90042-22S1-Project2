@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 02 01:16:08 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1273301071,
+                "id_str": "1273301071",
+                "indices": [
+                    1,
+                    14
+                ],
+                "name": "Tyga",
+                "screen_name": "IamReallTyga"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407317223053619200,
+    "id_str": "407317223053619200",
+    "in_reply_to_screen_name": "IamReallTyga",
+    "in_reply_to_status_id": 407198255793987584,
+    "in_reply_to_status_id_str": "407198255793987584",
+    "in_reply_to_user_id": 1273301071,
+    "in_reply_to_user_id_str": "1273301071",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@IamReallTyga: 2013 was doing alright till I found out Paul Walker died ..\u201d\ud83d\ude12\ud83d\ude23\ud83d\udc4e",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 19 01:53:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jalisco \ud83c\uddf2\ud83c\uddfd\ud83c\udf7b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9309,
+        "follow_request_sent": false,
+        "followers_count": 302,
+        "following": false,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 415962564,
+        "id_str": "415962564",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Bay Area , Ca",
+        "name": "Steph\ud83c\udf35",
+        "notifications": false,
+        "profile_background_color": "9B9E9B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/415962564/1642552315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513598771636195331/KFZpjMvt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513598771636195331/KFZpjMvt_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pstephanieo69",
+        "statuses_count": 21219,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

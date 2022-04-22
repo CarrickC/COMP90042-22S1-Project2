@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 19:00:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 949230522772865025,
+                "id_str": "949230522772865025",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "\u304d \u308a \u3093",
+                "screen_name": "Kex92"
+            },
+            {
+                "id": 221452291,
+                "id_str": "221452291",
+                "indices": [
+                    7,
+                    12
+                ],
+                "name": "Did You Know?",
+                "screen_name": "Know"
+            },
+            {
+                "id": 1152606086,
+                "id_str": "1152606086",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Aark",
+                "screen_name": "TheAarkAngel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521737139751772161,
+    "id_str": "521737139751772161",
+    "in_reply_to_screen_name": "Kexie_",
+    "in_reply_to_status_id": 521733832287219712,
+    "in_reply_to_status_id_str": "521733832287219712",
+    "in_reply_to_user_id": 1459724954,
+    "in_reply_to_user_id_str": "1459724954",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Kex92 @Know @TheAarkAngel Like most of these 'fact' accounts... usually un-checked nonsense!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 14 22:13:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Socialism, software, sailplanes, synths, space, science & sums. Software specialist at @BJSSLtd & site-wrangler at @qikipedia\n\nCitizen of Earth\n\nTweets my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cemerson.co.uk",
+                        "expanded_url": "http://www.cemerson.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mLP9Glr9LP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 77544,
+        "follow_request_sent": false,
+        "followers_count": 1087,
+        "following": false,
+        "friends_count": 1578,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20874917,
+        "id_str": "20874917",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 79,
+        "location": "Nottingham, UK",
+        "name": "Chris Emerson",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20874917/1393934503",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176566131429171201/CPu0vbVR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176566131429171201/CPu0vbVR_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "chris_emerson",
+        "statuses_count": 74518,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/mLP9Glr9LP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

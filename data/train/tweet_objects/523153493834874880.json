@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 16:48:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    19,
+                    28
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523153493834874880,
+    "id_str": "523153493834874880",
+    "in_reply_to_screen_name": "joerogan",
+    "in_reply_to_status_id": 523026678419714048,
+    "in_reply_to_status_id_str": "523026678419714048",
+    "in_reply_to_user_id": 18208354,
+    "in_reply_to_user_id_str": "18208354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "In a related story @joerogan has decided one doesn't need to be in a SouthAmericanRainForest to get the full benefits of Ayahuasca.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 14 05:02:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am me! No more! No less!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14837,
+        "follow_request_sent": false,
+        "followers_count": 205,
+        "following": false,
+        "friends_count": 1127,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 96698087,
+        "id_str": "96698087",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Matt Veon",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/920301918/sByIcij7_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/920301918/sByIcij7_normal",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SilverGorilla77",
+        "statuses_count": 8179,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

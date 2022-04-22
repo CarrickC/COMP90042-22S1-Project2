@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 00:52:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5B1R3IZOJH",
+                "expanded_url": "https://twitter.com/charliedigris/status/527261733950599170/photo/1",
+                "id": 527261727394914306,
+                "id_str": "527261727394914306",
+                "indices": [
+                    62,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/B1E1v10IYAIgfhh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B1E1v10IYAIgfhh.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/5B1R3IZOJH"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 747337032,
+                "id_str": "747337032",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Josh Frank",
+                "screen_name": "JoshFrank10"
+            },
+            {
+                "id": 337913980,
+                "id_str": "337913980",
+                "indices": [
+                    13,
+                    24
+                ],
+                "name": "Livvy Behan",
+                "screen_name": "LivvyBehan"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5B1R3IZOJH",
+                "expanded_url": "https://twitter.com/charliedigris/status/527261733950599170/photo/1",
+                "id": 527261727394914306,
+                "id_str": "527261727394914306",
+                "indices": [
+                    62,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/B1E1v10IYAIgfhh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B1E1v10IYAIgfhh.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 470,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/5B1R3IZOJH"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527261733950599170,
+    "id_str": "527261733950599170",
+    "in_reply_to_screen_name": "JoshFrank10",
+    "in_reply_to_status_id": 527257993390587905,
+    "in_reply_to_status_id_str": "527257993390587905",
+    "in_reply_to_user_id": 747337032,
+    "in_reply_to_user_id_str": "747337032",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JoshFrank10 @LivvyBehan dude tomorrow is going to be so dope http://t.co/5B1R3IZOJH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 09 22:14:47 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#FTB Jamesville Dewitt '16 \u0394 \u03c8\nBrantford Winstonworth",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1274,
+        "follow_request_sent": false,
+        "followers_count": 252,
+        "following": false,
+        "friends_count": 354,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2284183380,
+        "id_str": "2284183380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Charlie Digristina",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2284183380/1435070040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554092002867171328/J-JklsO2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554092002867171328/J-JklsO2_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "charliedigris",
+        "statuses_count": 604,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

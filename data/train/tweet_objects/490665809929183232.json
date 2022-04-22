@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 20 01:13:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 98493152,
+                "id_str": "98493152",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Aaron",
+                "screen_name": "posas13"
+            },
+            {
+                "id": 3108351,
+                "id_str": "3108351",
+                "indices": [
+                    19,
+                    23
+                ],
+                "name": "The Wall Street Journal",
+                "screen_name": "WSJ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 490665809929183232,
+    "id_str": "490665809929183232",
+    "in_reply_to_screen_name": "posas13",
+    "in_reply_to_status_id": 490664935018737665,
+    "in_reply_to_status_id_str": "490664935018737665",
+    "in_reply_to_user_id": 98493152,
+    "in_reply_to_user_id_str": "98493152",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@posas13 @k8sietoo @WSJ I haven't read one answer to this question.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 20 14:53:10 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "INVOKE 25TH AMENDMENT - REMOVE TRUMP FROM OFFICE",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2892,
+        "follow_request_sent": false,
+        "followers_count": 2067,
+        "following": false,
+        "friends_count": 2283,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 585725732,
+        "id_str": "585725732",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "Somewhere Under the Rainbow",
+        "name": "Dee Walch",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585725732/1531669778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1018522756957126656/OHueKHJz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018522756957126656/OHueKHJz_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DEEE999",
+        "statuses_count": 59149,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

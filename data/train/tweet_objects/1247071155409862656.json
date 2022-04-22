@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 06 07:58:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247071155409862656",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/YLnzAz8LPd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 83820512,
+                "id_str": "83820512",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Richard",
+                "screen_name": "monteblan"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1247071155409862656,
+    "id_str": "1247071155409862656",
+    "in_reply_to_screen_name": "monteblan",
+    "in_reply_to_status_id": 1247064392597995521,
+    "in_reply_to_status_id_str": "1247064392597995521",
+    "in_reply_to_user_id": 83820512,
+    "in_reply_to_user_id_str": "83820512",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@monteblan But the true answers are boring: it's the fifth generation of mobile data network, being built by the ca\u2026 https://t.co/YLnzAz8LPd",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 08 11:44:39 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Programmer. He/him. Black lives matter.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 58642,
+        "follow_request_sent": false,
+        "followers_count": 304,
+        "following": false,
+        "friends_count": 530,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 130812952,
+        "id_str": "130812952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Scotland",
+        "name": "Pete but on a pumpkin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447587843245846529/9jY6ysGj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447587843245846529/9jY6ysGj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eyebrowsofpower",
+        "statuses_count": 48516,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

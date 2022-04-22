@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 03:14:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251710734414655488",
+                "indices": [
+                    125,
+                    148
+                ],
+                "url": "https://t.co/yAFf6WukLJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 189868631,
+                "id_str": "189868631",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Tedros Adhanom Ghebreyesus",
+                "screen_name": "DrTedros"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251710734414655488,
+    "id_str": "1251710734414655488",
+    "in_reply_to_screen_name": "DrTedros",
+    "in_reply_to_status_id": 1251673172052709376,
+    "in_reply_to_status_id_str": "1251673172052709376",
+    "in_reply_to_user_id": 189868631,
+    "in_reply_to_user_id_str": "189868631",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DrTedros what is covid_19 &amp; how it is transmitted?\nhow long virus can sustain to a person &amp; it\u2019s remedy factor ? A\u2026 https://t.co/yAFf6WukLJ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 01 10:21:02 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I\u2019M Learning \u0950 \u0928\u092e\u0903 \u0936\u093f\u0935\u093e\u092f \ud83d\ude4f              I\u2019M Realistic fool\ud83d\ude0a",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 546,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1101427114606092288,
+        "id_str": "1101427114606092288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Nepal",
+        "name": "luma_Harsha",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101427114606092288/1585364918",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252441607162322944/fFhD_gUS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252441607162322944/fFhD_gUS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HarshaLuma",
+        "statuses_count": 116,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

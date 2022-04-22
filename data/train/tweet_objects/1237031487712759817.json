@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 15:04:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2828767904,
+                "id_str": "2828767904",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Cornelius Harrison lll",
+                "screen_name": "harrison3rd_c"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1237031487712759817,
+    "id_str": "1237031487712759817",
+    "in_reply_to_screen_name": "harrison3rd_c",
+    "in_reply_to_status_id": 1237028749977227266,
+    "in_reply_to_status_id_str": "1237028749977227266",
+    "in_reply_to_user_id": 2828767904,
+    "in_reply_to_user_id_str": "2828767904",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@harrison3rd_c Amen\ud83d\ude4f\ud83c\udffb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 14 23:54:57 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 204743,
+        "follow_request_sent": false,
+        "followers_count": 5925,
+        "following": false,
+        "friends_count": 3505,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 90050567,
+        "id_str": "90050567",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "Sandy Hanna",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90050567/1509714527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803123945889296385/yzSnLSua_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803123945889296385/yzSnLSua_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrsSJHanna",
+        "statuses_count": 157946,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

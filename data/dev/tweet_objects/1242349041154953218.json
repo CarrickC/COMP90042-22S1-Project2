@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 24 07:14:27 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    23
+                ],
+                "text": "WorldTBDay"
+            },
+            {
+                "indices": [
+                    92,
+                    100
+                ],
+                "text": "COVID19"
+            },
+            {
+                "indices": [
+                    107,
+                    110
+                ],
+                "text": "TB"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1242349041154953218",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/qmF63dfdOt"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 30,
+    "favorited": false,
+    "geo": null,
+    "id": 1242349041154953218,
+    "id_str": "1242349041154953218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "During this #WorldTBDay, we stand in solidarity in the fight against two airborne diseases: #COVID19 &amp; #TB.\n\nThe th\u2026 https://t.co/qmF63dfdOt",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 28 18:56:40 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Platform aimed at a coordinated approach for CSOs & citizens to engage government & development actors towards implementation of SDGs in Kenya #TwendeKaziNaSDGs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sdgkenyaforum.org",
+                        "expanded_url": "http://www.sdgkenyaforum.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/05ED2LtAqx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7786,
+        "follow_request_sent": false,
+        "followers_count": 8395,
+        "following": false,
+        "friends_count": 2838,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 704017388438691840,
+        "id_str": "704017388438691840",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 60,
+        "location": "Kenya",
+        "name": "SDGs Kenya Forum",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/704017388438691840/1646315558",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1302904071775563781/ZruMIEFt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302904071775563781/ZruMIEFt_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SDGsKenyaForum",
+        "statuses_count": 10093,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/05ED2LtAqx",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

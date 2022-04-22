@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 11:53:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    78
+                ],
+                "text": "dems"
+            },
+            {
+                "indices": [
+                    79,
+                    88
+                ],
+                "text": "vote2016"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    19,
+                    31
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    32,
+                    39
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    40,
+                    55
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    56,
+                    72
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633970032851087360,
+    "id_str": "633970032851087360",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 633961125126668288,
+    "in_reply_to_status_id_str": "633961125126668288",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "She NEVER trailed! @cnnpolitics @cnnbrk @HillaryClinton @realdonaldtrump #dems #vote2016",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 30 22:46:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 107,
+        "following": false,
+        "friends_count": 76,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19793479,
+        "id_str": "19793479",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Austin, TX",
+        "name": "nehb",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19793479/1509244525",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/924463054519074816/Z-XvpFf4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/924463054519074816/Z-XvpFf4_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nehb",
+        "statuses_count": 17327,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

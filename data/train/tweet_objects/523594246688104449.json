@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 21:59:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 60173,
+                "id_str": "60173",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Jay \ud83c\udf3b",
+                "screen_name": "jaygooby"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    10,
+                    23
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            },
+            {
+                "id": 28049003,
+                "id_str": "28049003",
+                "indices": [
+                    24,
+                    36
+                ],
+                "name": "William Gibson",
+                "screen_name": "GreatDismal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523594246688104449,
+    "id_str": "523594246688104449",
+    "in_reply_to_screen_name": "jaygooby",
+    "in_reply_to_status_id": 523589324676550659,
+    "in_reply_to_status_id_str": "523589324676550659",
+    "in_reply_to_user_id": 60173,
+    "in_reply_to_user_id_str": "60173",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@jaygooby @pourmecoffee @GreatDismal It's all right. I read to the end. He killed it and gave it to a museum.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 10 10:25:36 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born at 319ppm.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 26402,
+        "follow_request_sent": false,
+        "followers_count": 5539,
+        "following": false,
+        "friends_count": 6073,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 762397,
+        "id_str": "762397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 235,
+        "location": "London",
+        "name": "Steve Bowbrick",
+        "notifications": false,
+        "profile_background_color": "0000FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/762397/1625174480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272994047691575297/_d-RojgO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272994047691575297/_d-RojgO_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bowbrick",
+        "statuses_count": 53481,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 10:22:10 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bQBarv1cQv",
+                "expanded_url": "https://twitter.com/DoctorJohn_MD/status/1277910292933029888/photo/1",
+                "id": 1277910282996715524,
+                "id_str": "1277910282996715524",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EbwMobjWkAQZFbB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbwMobjWkAQZFbB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "medium": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "small": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bQBarv1cQv"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 417434949,
+                "id_str": "417434949",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Karsten Kinstler",
+                "screen_name": "KarstenKinstler"
+            },
+            {
+                "id": 4599236569,
+                "id_str": "4599236569",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Kara Corvus",
+                "screen_name": "KaraCorvus"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bQBarv1cQv",
+                "expanded_url": "https://twitter.com/DoctorJohn_MD/status/1277910292933029888/photo/1",
+                "id": 1277910282996715524,
+                "id_str": "1277910282996715524",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EbwMobjWkAQZFbB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbwMobjWkAQZFbB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "medium": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "small": {
+                        "h": 354,
+                        "resize": "fit",
+                        "w": 498
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/bQBarv1cQv",
+                "video_info": {
+                    "aspect_ratio": [
+                        83,
+                        59
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EbwMobjWkAQZFbB.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1277910292933029888,
+    "id_str": "1277910292933029888",
+    "in_reply_to_screen_name": "KarstenKinstler",
+    "in_reply_to_status_id": 1277863646123745280,
+    "in_reply_to_status_id_str": "1277863646123745280",
+    "in_reply_to_user_id": 417434949,
+    "in_reply_to_user_id_str": "417434949",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@KarstenKinstler @KaraCorvus This is not at all, whatsoever, how herd immunity works https://t.co/bQBarv1cQv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 31 07:08:24 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ER doctor | \u2764\ufe0f@sarah_fong_tho | gamer | photographer l streamer (ish) | Opinions=mine, not employer | BS, MHS, MD | pp @kagugle, header @julesdrawz",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/doctorjohn",
+                        "expanded_url": "http://www.twitch.tv/doctorjohn",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cSIaCGYXSv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 57984,
+        "follow_request_sent": false,
+        "followers_count": 8523,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18501574,
+        "id_str": "18501574",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 53,
+        "location": "USA",
+        "name": "DoctorJohn \ud83d\udc89\ud83d\udc89\ud83d\udc89 PAX EAST",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18501574/1629319937",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241820183888646146/iKRQ-s05_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241820183888646146/iKRQ-s05_normal.jpg",
+        "profile_link_color": "000080",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DoctorJohn_MD",
+        "statuses_count": 21614,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cSIaCGYXSv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 18:53:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            },
+            {
+                "id": 47496394,
+                "id_str": "47496394",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Gretchen",
+                "screen_name": "livegreenordie"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 501804181230219264,
+    "id_str": "501804181230219264",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 501768276523761666,
+    "in_reply_to_status_id_str": "501768276523761666",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NBCNews @livegreenordie A lot of people need to go to jail in Ferguson but it`s not the protestors!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 07 17:24:42 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I`m an old Democrat, sporting a 2019 model pacemaker, been there and done that , I`m a Texan from people who came to Texas while it was still Mexico !",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11497,
+        "follow_request_sent": false,
+        "followers_count": 2494,
+        "following": false,
+        "friends_count": 2525,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2377428211,
+        "id_str": "2377428211",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Texas",
+        "name": "James Wright #Impeach the MF",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378030023924449281/rO7ZG5-x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378030023924449281/rO7ZG5-x_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "impeach_mf",
+        "statuses_count": 32978,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

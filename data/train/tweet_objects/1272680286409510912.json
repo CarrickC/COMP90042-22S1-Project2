@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 16 00:00:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1272680286409510912",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/M5nnpSQ1oz"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 20,
+    "favorited": false,
+    "geo": null,
+    "id": 1272680286409510912,
+    "id_str": "1272680286409510912",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "The class of 2020 was cheated out of an actual graduation and a strong jobs-based economy in our state by the Gover\u2026 https://t.co/M5nnpSQ1oz",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 21:35:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fighting for Freedom, Parents and Families.\nOfficial page for the Republican Party of New Mexico. \nChaired by @Pearce4NM.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "newmexico.gop",
+                        "expanded_url": "http://newmexico.gop",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/klHUyIpHuG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1159,
+        "follow_request_sent": false,
+        "followers_count": 9831,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26598302,
+        "id_str": "26598302",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 242,
+        "location": "Albuquerque, NM",
+        "name": "Republican Party of New Mexico",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26598302/1630868707",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1420872763993063425/g6okjQea_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420872763993063425/g6okjQea_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NewMexicoGOP",
+        "statuses_count": 14673,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/klHUyIpHuG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

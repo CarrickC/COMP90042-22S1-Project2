@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 30 23:07:43 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 226799456,
+                "id_str": "226799456",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Taylor Hoyt",
+                "screen_name": "TaylorsShelf"
+            },
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    14,
+                    18
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527960065144143875,
+    "id_str": "527960065144143875",
+    "in_reply_to_screen_name": "TaylorsShelf",
+    "in_reply_to_status_id": 527948509387821056,
+    "in_reply_to_status_id_str": "527948509387821056",
+    "in_reply_to_user_id": 226799456,
+    "in_reply_to_user_id_str": "226799456",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TaylorsShelf @IGN this. Another example of how utterly devoid of intelligence Hollywood is",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 17 09:46:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I forget to forget, nothing is important",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 92550,
+        "follow_request_sent": false,
+        "followers_count": 380,
+        "following": false,
+        "friends_count": 742,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 356756960,
+        "id_str": "356756960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "I'm right here",
+        "name": "Nobody Important",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/356756960/1497700830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820229511094489088/lgoowzks_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820229511094489088/lgoowzks_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrHoffalicious",
+        "statuses_count": 34615,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

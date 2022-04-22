@@ -1,0 +1,209 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 06:37:05 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Thomas1774Pain\u2026",
+                "expanded_url": "https://twitter.com/Thomas1774Paine/status/1278168972567941121?s=19",
+                "indices": [
+                    14,
+                    37
+                ],
+                "url": "https://t.co/2Vdvvy7LsB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1278216033980030977,
+    "id_str": "1278216033980030977",
+    "in_reply_to_screen_name": "AlexBerenson",
+    "in_reply_to_status_id": 1278168876027650049,
+    "in_reply_to_status_id_str": "1278168876027650049",
+    "in_reply_to_user_id": 87679233,
+    "in_reply_to_user_id_str": "87679233",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Jul 01 03:30:04 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1278168972567941121",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/EnJxsACBcQ"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 23,
+        "favorited": false,
+        "geo": null,
+        "id": 1278168972567941121,
+        "id_str": "1278168972567941121",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 30,
+        "retweeted": false,
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "text": "COVI-PASS will determine whether you can go to a restaurant, if you need a medical test, or are due for a talking-t\u2026 https://t.co/EnJxsACBcQ",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 31 23:54:17 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Nonpartisan Investigative Journalist - Gerald Loeb Award Winner ;) 2X Pulitzer Nom, CFE Citi, Podcast- https://t.co/Fo8259TOXc -- Find Us on OUR Social Media: https://t.co/789N0A9Zhl",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "apple.co/2XM7fRK",
+                            "expanded_url": "http://apple.co/2XM7fRK",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "url": "https://t.co/Fo8259TOXc"
+                        },
+                        {
+                            "display_url": "paine.tv",
+                            "expanded_url": "http://paine.tv",
+                            "indices": [
+                                159,
+                                182
+                            ],
+                            "url": "https://t.co/789N0A9Zhl"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 18311,
+            "follow_request_sent": false,
+            "followers_count": 237378,
+            "following": false,
+            "friends_count": 42853,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 275276082,
+            "id_str": "275276082",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1185,
+            "location": "Muckraker Thomas Paine Podcast",
+            "name": "Thomas Paine",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/275276082/1562307247",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1016483322166251520/DlxvQ1e5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016483322166251520/DlxvQ1e5_normal.jpg",
+            "profile_link_color": "B20000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Thomas1774Paine",
+            "statuses_count": 202857,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1278168972567941121,
+    "quoted_status_id_str": "1278168972567941121",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AlexBerenson https://t.co/2Vdvvy7LsB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 27 01:43:08 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\"Those who surrender  freedom for security will not have, nor do they deserve, either one\"-Benjamin Franklin",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 45864,
+        "follow_request_sent": false,
+        "followers_count": 98,
+        "following": false,
+        "friends_count": 599,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 945832386578616320,
+        "id_str": "945832386578616320",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Earlethepearl",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966618323164184576/miITvYmI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966618323164184576/miITvYmI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Earlethepearl1",
+        "statuses_count": 4770,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 18:33:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 3324941265,
+                "id_str": "3324941265",
+                "indices": [
+                    5,
+                    21
+                ],
+                "name": "Jane",
+                "screen_name": "smoothblinkglit"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 638056852299882496,
+    "id_str": "638056852299882496",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 638050997340893184,
+    "in_reply_to_status_id_str": "638050997340893184",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @smoothblinkglit Great News !!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 01:57:05 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1202,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 430,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3171797057,
+        "id_str": "3171797057",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "New York, USA",
+        "name": "Clinton Varin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171797057/1429617186",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588525181146116096/_MButs1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588525181146116096/_MButs1b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Clingon_Empire",
+        "statuses_count": 3655,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

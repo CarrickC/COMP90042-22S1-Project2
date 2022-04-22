@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 30 18:55:03 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 450345478299725824,
+    "id_str": "450345478299725824",
+    "in_reply_to_screen_name": "joerogan",
+    "in_reply_to_status_id": 450341615979069440,
+    "in_reply_to_status_id_str": "450341615979069440",
+    "in_reply_to_user_id": 18208354,
+    "in_reply_to_user_id_str": "18208354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@joerogan I think I might have been fooled by the internet? Kangaroo? Crazy shit to ponder anyway...has this already happened before......",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 02 04:04:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 282,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 91,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 366415076,
+        "id_str": "366415076",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Riding a planet thru space",
+        "name": "DB",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3549021701/43c8204d9d726451bf0e83b1a784be45_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3549021701/43c8204d9d726451bf0e83b1a784be45_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DangerBurgundy",
+        "statuses_count": 625,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

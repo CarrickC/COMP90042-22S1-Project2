@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 07:17:19 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 963655104569184256,
+                "id_str": "963655104569184256",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Thuweiba Said Salim",
+                "screen_name": "thuu_seydou"
+            },
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1250322293818970113,
+    "id_str": "1250322293818970113",
+    "in_reply_to_screen_name": "thuu_seydou",
+    "in_reply_to_status_id": 1250133964389519360,
+    "in_reply_to_status_id_str": "1250133964389519360",
+    "in_reply_to_user_id": 963655104569184256,
+    "in_reply_to_user_id_str": "963655104569184256",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@thuu_seydou @citizentvkenya Na si amesema kweli ama",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 25 07:05:00 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I Love Arsenal \u2764\nWe Are The Gunners \ud83e\udd1d\ud83d\udcaa\nWe Care, Do You \ud83e\udd37\u200d\u2642\ufe0f\nLeo Messi Is The Real GOAT \ud83d\udc10",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27445,
+        "follow_request_sent": false,
+        "followers_count": 461,
+        "following": false,
+        "friends_count": 475,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 867637606099693568,
+        "id_str": "867637606099693568",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Mombasa, Kenya",
+        "name": "Deep Reverence \ud83d\udda4",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867637606099693568/1588616140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311755770862673922/D6rdnNBo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311755770862673922/D6rdnNBo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DelJuma2",
+        "statuses_count": 8651,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

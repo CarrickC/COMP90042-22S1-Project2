@@ -1,0 +1,91 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 02 23:26:04 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1224111772015173633,
+    "id_str": "1224111772015173633",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@paleovanguard Thank you for the updated information",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 31 06:41:39 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Equity and charity\nSafe Foundation is a grassroot organization with a mission to eliminate poverty and provide Safe haven for orphans and vulnerable children.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "safefoundation.org.ng",
+                        "expanded_url": "http://www.safefoundation.org.ng",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wxq4oMeUtN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 21,
+        "following": false,
+        "friends_count": 2,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1167688818683797504,
+        "id_str": "1167688818683797504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Nigeria",
+        "name": "SAFE Foundation",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167688818683797504/1624388784",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358698709807206401/UdtCgD6b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358698709807206401/UdtCgD6b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SafeFoundation_",
+        "statuses_count": 225,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wxq4oMeUtN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

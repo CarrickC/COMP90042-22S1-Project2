@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 12 12:45:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1249317813707300866",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/SjtcmZrEFw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 487118986,
+                "id_str": "487118986",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "China Xinhua News",
+                "screen_name": "XHNews"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    8,
+                    12
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1249317813707300866,
+    "id_str": "1249317813707300866",
+    "in_reply_to_screen_name": "XHNews",
+    "in_reply_to_status_id": 1249313532341932034,
+    "in_reply_to_status_id_str": "1249313532341932034",
+    "in_reply_to_user_id": 487118986,
+    "in_reply_to_user_id_str": "487118986",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        66.654132,
+                        23.703272
+                    ],
+                    [
+                        71.124185,
+                        23.703272
+                    ],
+                    [
+                        71.124185,
+                        28.529442
+                    ],
+                    [
+                        66.654132,
+                        28.529442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "country_code": "PK",
+        "full_name": "\u0633\u0646\u062f\u06be, \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "id": "0120615153b21abb",
+        "name": "\u0633\u0646\u062f\u06be",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0120615153b21abb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@XHNews @WHO THANKS FOR MYTHS CLARIFIED CORONAVIROUS is not spreading due to mobile phone RADIO ACTIVE WAVES  neith\u2026 https://t.co/SjtcmZrEFw",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 02:24:21 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Arts Graduate Teaching Arts & Crafts Research ON  TRAGEDY of KARBALA ,Speaker on Karbala",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 507,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1239739194945175554,
+        "id_str": "1239739194945175554",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Dha Karachi Pakistan",
+        "name": "Nasreen nasir",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252225323225108481/KnQML0zF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252225323225108481/KnQML0zF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "spammingnonstop",
+        "statuses_count": 1415,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

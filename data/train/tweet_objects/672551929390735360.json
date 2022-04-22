@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:04:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 537904539,
+                "id_str": "537904539",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Jim Eastridge",
+                "screen_name": "jimEastridge1"
+            },
+            {
+                "id": 741915751959891968,
+                "id_str": "741915751959891968",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "\u60a0\u592a",
+                "screen_name": "mhefren"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672551929390735360,
+    "id_str": "672551929390735360",
+    "in_reply_to_screen_name": "jimEastridge1",
+    "in_reply_to_status_id": 672488384695279616,
+    "in_reply_to_status_id_str": "672488384695279616",
+    "in_reply_to_user_id": 537904539,
+    "in_reply_to_user_id_str": "537904539",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2061491,
+                        41.4089546
+                    ],
+                    [
+                        2.2385317,
+                        41.4089546
+                    ],
+                    [
+                        2.2385317,
+                        41.4348444
+                    ],
+                    [
+                        2.2061491,
+                        41.4348444
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Sant Adri\u00e0 de Bes\u00f2s, Espa\u00f1a",
+        "id": "25d03473e1973a7c",
+        "name": "Sant Adri\u00e0 de Bes\u00f2s",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/25d03473e1973a7c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jimEastridge1 @MhEfren them why a Nobel peace ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 25 22:05:31 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Un pueblo que elige a corruptos, impostores, ladrones y traidores no es v\u00edctima: es c\u00f3mplice. George Orwell",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 269886,
+        "follow_request_sent": false,
+        "followers_count": 6406,
+        "following": false,
+        "friends_count": 6519,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 77322868,
+        "id_str": "77322868",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "\n",
+        "name": "JJ de Tabarnia",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77322868/1595716050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1263481493625745411/i8ScBcr8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263481493625745411/i8ScBcr8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GALANIII",
+        "statuses_count": 318948,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

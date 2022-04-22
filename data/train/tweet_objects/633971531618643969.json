@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 11:59:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 60811364,
+                "id_str": "60811364",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "NAM SEABEE 68-70",
+                "screen_name": "sea329"
+            },
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 633971531618643969,
+    "id_str": "633971531618643969",
+    "in_reply_to_screen_name": "sea329",
+    "in_reply_to_status_id": 633961968357904385,
+    "in_reply_to_status_id_str": "633961968357904385",
+    "in_reply_to_user_id": 60811364,
+    "in_reply_to_user_id_str": "60811364",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@sea329 @CNNPolitics The libs will turn a blind eye to server-gate. They have to get back to the latest episode of the Kardashians.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 19:40:44 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Conservative family man with a twisted sense of humor.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21542,
+        "follow_request_sent": false,
+        "followers_count": 594,
+        "following": false,
+        "friends_count": 1642,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3131355885,
+        "id_str": "3131355885",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "USA",
+        "name": "TR",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3131355885/1438613133",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628215220234653696/5m00YLBu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628215220234653696/5m00YLBu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dryheevz",
+        "statuses_count": 43567,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

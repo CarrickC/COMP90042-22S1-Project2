@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 17:43:02 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    79
+                ],
+                "text": "BringBackOurGirls"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bbc.in/1sQiiTJ",
+                "expanded_url": "http://bbc.in/1sQiiTJ",
+                "indices": [
+                    115,
+                    137
+                ],
+                "url": "http://t.co/dlf4sHSNB9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523167315387756544,
+    "id_str": "523167315387756544",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523123779124600833,
+    "in_reply_to_status_id_str": "523123779124600833",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BBCBreaking: Boko Haram ceasefire includes release of 200+ #BringBackOurGirls hostages, Nigerian government says http://t.co/dlf4sHSNB9\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 21 16:25:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Samen Sterk! \u2764\ufe0f\ud83d\udc9a (Mantel)Zorg, Armoede, Schulden, BvE: FCR KBR FBR SBR FSR; CIK VB, Knarrenhof, Vrouwenrechten, Fairtrade, #Stoppesten, ondernemen id zorg \ud83d\udc99\ud83d\udc9b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 61522,
+        "follow_request_sent": false,
+        "followers_count": 3171,
+        "following": false,
+        "friends_count": 3630,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 107122589,
+        "id_str": "107122589",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 167,
+        "location": "Ridderkerk",
+        "name": "Arianne Ripmeester",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107122589/1592427583",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208040810643636227/OYNicQDW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208040810643636227/OYNicQDW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arianneripmees",
+        "statuses_count": 171012,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

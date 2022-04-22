@@ -1,0 +1,202 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 13 07:24:07 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    75
+                ],
+                "text": "coronavirus"
+            },
+            {
+                "indices": [
+                    78,
+                    91
+                ],
+                "text": "KnowtheFacts"
+            },
+            {
+                "indices": [
+                    92,
+                    100
+                ],
+                "text": "COVID19"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Krw3EZnkzj",
+                "expanded_url": "https://twitter.com/WHOLebanon/status/1238365204880273408/photo/1",
+                "id": 1238365158038274048,
+                "id_str": "1238365158038274048",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/ES-OjNMXgAA3gv-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ES-OjNMXgAA3gv-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Krw3EZnkzj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Krw3EZnkzj",
+                "expanded_url": "https://twitter.com/WHOLebanon/status/1238365204880273408/photo/1",
+                "id": 1238365158038274048,
+                "id_str": "1238365158038274048",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/ES-OjNMXgAA3gv-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ES-OjNMXgAA3gv-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Krw3EZnkzj"
+            }
+        ]
+    },
+    "favorite_count": 40,
+    "favorited": false,
+    "geo": null,
+    "id": 1238365204880273408,
+    "id_str": "1238365204880273408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Q: How should I greet another person to avoid catching the new #coronavirus?\n\n#KnowtheFacts #COVID19 https://t.co/Krw3EZnkzj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 17 10:19:30 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Official Twitter account of the World Health Organization Lebanon Office. For info on the coronavirus https://t.co/AjEQifSgjp\u2026",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "who.int/emergencies/di",
+                        "expanded_url": "http://who.int/emergencies/di",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "url": "https://t.co/AjEQifSgjp"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "emro.who.int/countries/lbn",
+                        "expanded_url": "http://emro.who.int/countries/lbn",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0BxxTjp7Xn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1789,
+        "follow_request_sent": false,
+        "followers_count": 20913,
+        "following": false,
+        "friends_count": 209,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2394143648,
+        "id_str": "2394143648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 124,
+        "location": "Beirut, Lebanon ",
+        "name": "WHO Lebanon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2394143648/1649065344",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633205719307649024/EHxMyFQo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633205719307649024/EHxMyFQo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHOLebanon",
+        "statuses_count": 2774,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/0BxxTjp7Xn",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

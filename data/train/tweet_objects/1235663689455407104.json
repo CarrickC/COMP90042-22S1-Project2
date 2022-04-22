@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 05 20:29:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1235663689455407104",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/zzH3LwMhA4"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1235663689455407104,
+    "id_str": "1235663689455407104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Work had a meeting about COVID-19. Major takeaways:\n\n*You really should already be washing your hands and stuff, it\u2026 https://t.co/zzH3LwMhA4",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 08 08:07:17 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nerd, Line Entertainer, Mathemagician, Socialist, Intersectionalist, Hella Gay. she/they. terfs can choke. Persist.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 46503,
+        "follow_request_sent": false,
+        "followers_count": 306,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 8049642,
+        "id_str": "8049642",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Bremerton, WA",
+        "name": "Zii zed zod",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8049642/1546541294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513046660129120256/5i-eDkNk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513046660129120256/5i-eDkNk_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Zaranai",
+        "statuses_count": 28834,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

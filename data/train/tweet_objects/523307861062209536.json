@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 03:01:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523307861062209536,
+    "id_str": "523307861062209536",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BBCBreaking the girls will need a lot of Psychological therapy after being held captive for so long :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 30 05:33:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am just another Human being trying to do my bit in the world.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chaichitchat.blogspot.com",
+                        "expanded_url": "http://chaichitchat.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6iRnnqt7mY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1171,
+        "follow_request_sent": false,
+        "followers_count": 203,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 36605448,
+        "id_str": "36605448",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "North America",
+        "name": "Fauzia Haider",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36605448/1492648222",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188662805639118848/cm5oksVS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188662805639118848/cm5oksVS_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bashubibi",
+        "statuses_count": 1315,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/6iRnnqt7mY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

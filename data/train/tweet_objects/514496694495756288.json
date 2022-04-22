@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:29:05 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/l7LqZ2N4sY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    58,
+                    63
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514496694495756288,
+    "id_str": "514496694495756288",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Cause sitting on your phone is the smart thing to do.. RT @TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/l7LqZ2N4sY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 02:44:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I have an opinion on just about everything.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/akv11494",
+                        "expanded_url": "https://www.twitch.tv/akv11494",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Fm2l9CUV9U"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 26360,
+        "follow_request_sent": false,
+        "followers_count": 857,
+        "following": false,
+        "friends_count": 948,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31613401,
+        "id_str": "31613401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "AyAyRon",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31613401/1631458539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1035564021661884416/nJtCOMW__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035564021661884416/nJtCOMW__normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "aaronvillena",
+        "statuses_count": 46902,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Fm2l9CUV9U",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

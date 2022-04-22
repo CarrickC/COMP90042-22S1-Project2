@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 18:03:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6017542,
+                "id_str": "6017542",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Breaking News",
+                "screen_name": "BreakingNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514112781575274496,
+    "id_str": "514112781575274496",
+    "in_reply_to_screen_name": "BreakingNews",
+    "in_reply_to_status_id": 514100169307348992,
+    "in_reply_to_status_id_str": "514100169307348992",
+    "in_reply_to_user_id": 6017542,
+    "in_reply_to_user_id_str": "6017542",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BreakingNews Makes me wonder if they are part of a plan to build a terrorist group in North America.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 12 04:56:07 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just an old guy trying to be hip.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 10,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1509094171,
+        "id_str": "1509094171",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Weed, CA",
+        "name": "Fred Walker",
+        "notifications": false,
+        "profile_background_color": "DED7AD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509094171/1372041687",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/344513261570250175/048dffb09a28f7468938a25dd4464181_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261570250175/048dffb09a28f7468938a25dd4464181_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FredzWalker",
+        "statuses_count": 80,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

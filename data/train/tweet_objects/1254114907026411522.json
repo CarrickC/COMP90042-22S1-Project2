@@ -1,0 +1,212 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 25 18:27:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1254114907026411522",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rtYgUVs2XL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 65260792,
+                "id_str": "65260792",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Arthur Chu",
+                "screen_name": "arthur_affect"
+            },
+            {
+                "id": 2713062530,
+                "id_str": "2713062530",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Zach Elliott",
+                "screen_name": "zaelefty"
+            },
+            {
+                "id": 938894008847396865,
+                "id_str": "938894008847396865",
+                "indices": [
+                    25,
+                    36
+                ],
+                "name": "Lauren Pleska \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "screen_name": "RadFemme74"
+            },
+            {
+                "id": 540290029,
+                "id_str": "540290029",
+                "indices": [
+                    37,
+                    51
+                ],
+                "name": "Van Der Bomen",
+                "screen_name": "Treecraft_Arb"
+            },
+            {
+                "id": 731893662129459200,
+                "id_str": "731893662129459200",
+                "indices": [
+                    52,
+                    66
+                ],
+                "name": "Intersex Facts",
+                "screen_name": "intersexfacts"
+            },
+            {
+                "id": 1208721528902303746,
+                "id_str": "1208721528902303746",
+                "indices": [
+                    67,
+                    83
+                ],
+                "name": "It's hip to be Claire!",
+                "screen_name": "NathanielHart72"
+            },
+            {
+                "id": 896431103841624065,
+                "id_str": "896431103841624065",
+                "indices": [
+                    84,
+                    92
+                ],
+                "name": "Tragic Meat Machine",
+                "screen_name": "MxSpoon"
+            },
+            {
+                "id": 98879145,
+                "id_str": "98879145",
+                "indices": [
+                    93,
+                    106
+                ],
+                "name": "(((Barak)))",
+                "screen_name": "lawnerdbarak"
+            },
+            {
+                "id": 1155424854,
+                "id_str": "1155424854",
+                "indices": [
+                    107,
+                    115
+                ],
+                "name": "ACABeliever",
+                "screen_name": "WenSchw"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1254114907026411522,
+    "id_str": "1254114907026411522",
+    "in_reply_to_screen_name": "arthur_affect",
+    "in_reply_to_status_id": 1254111686849486848,
+    "in_reply_to_status_id_str": "1254111686849486848",
+    "in_reply_to_user_id": 65260792,
+    "in_reply_to_user_id_str": "65260792",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.069956,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.592327
+                    ],
+                    [
+                        -122.069956,
+                        37.592327
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fremont, CA",
+        "id": "30344aecffe6a491",
+        "name": "Fremont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@arthur_affect @zaelefty @RadFemme74 @Treecraft_Arb @intersexfacts @NathanielHart72 @MxSpoon @lawnerdbarak @WenSchw\u2026 https://t.co/rtYgUVs2XL",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 25 03:59:32 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Optimistic scientific/natural pantheist. Homeschool. Patriot.  Nerd. Rheumatoidy. She/her or they/them. I mostly speech-to-text, plz ignore associated errors.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 211650,
+        "follow_request_sent": false,
+        "followers_count": 4610,
+        "following": false,
+        "friends_count": 5067,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 7703052,
+        "id_str": "7703052",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 298,
+        "location": "unceded Chochenyo Ohlone land",
+        "name": "mactavish \ud83c\udf0e \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\udc99\ud83d\udc9c\u2764\ufe0f \ud83e\udd84\u2744\ufe0f\ud83d\udc89\u267f",
+        "notifications": false,
+        "profile_background_color": "1A622E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7703052/1438651544",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199548338669936641/MeXeyhdT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199548338669936641/MeXeyhdT_normal.png",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mactavish",
+        "statuses_count": 357716,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

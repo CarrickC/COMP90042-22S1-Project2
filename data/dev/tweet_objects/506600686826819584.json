@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 02 00:33:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1266239359,
+                "id_str": "1266239359",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "National Report",
+                "screen_name": "TNROnline"
+            },
+            {
+                "id": 393083814,
+                "id_str": "393083814",
+                "indices": [
+                    11,
+                    26
+                ],
+                "name": "LevelCap",
+                "screen_name": "LevelCapGaming"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 506600686826819584,
+    "id_str": "506600686826819584",
+    "in_reply_to_screen_name": "TNROnline",
+    "in_reply_to_status_id": 505611045897924608,
+    "in_reply_to_status_id_str": "505611045897924608",
+    "in_reply_to_user_id": 1266239359,
+    "in_reply_to_user_id_str": "1266239359",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TNROnline @LevelCapGaming Wow, so many gullible people.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 18 18:17:47 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired game show host.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3262,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 202,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 66754128,
+        "id_str": "66754128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Mike Catan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66754128/1452893112",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1258881773074657281/ym0HQGgO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258881773074657281/ym0HQGgO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mpcatan",
+        "statuses_count": 3464,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

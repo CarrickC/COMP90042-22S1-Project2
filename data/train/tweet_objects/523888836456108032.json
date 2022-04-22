@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 17:30:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eh1i4Qy2ff",
+                "expanded_url": "https://twitter.com/KHOU/status/523888836456108032/photo/1",
+                "id": 523888836271542272,
+                "id_str": "523888836271542272",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0U6HvPCEAAnod3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0U6HvPCEAAnod3.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/eh1i4Qy2ff"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1upq3N8",
+                "expanded_url": "http://bit.ly/1upq3N8",
+                "indices": [
+                    93,
+                    115
+                ],
+                "url": "http://t.co/CsBzESFKGD"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eh1i4Qy2ff",
+                "expanded_url": "https://twitter.com/KHOU/status/523888836456108032/photo/1",
+                "id": 523888836271542272,
+                "id_str": "523888836271542272",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0U6HvPCEAAnod3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0U6HvPCEAAnod3.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/eh1i4Qy2ff"
+            }
+        ]
+    },
+    "favorite_count": 460,
+    "favorited": false,
+    "geo": null,
+    "id": 523888836456108032,
+    "id_str": "523888836456108032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1304,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+    "text": "Scientist discover a puppy-sized spider in the rainforest, better known as the 'nope' spider http://t.co/CsBzESFKGD http://t.co/eh1i4Qy2ff",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 09 18:33:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "KHOU Stands for Houston.  We're relentless in providing breaking news, weather and traffic. Tweet us. Email newstips@khou.com. We\u2019re listening.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "khou.com",
+                        "expanded_url": "http://www.khou.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5LGC8d7mQG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8364,
+        "follow_request_sent": false,
+        "followers_count": 754552,
+        "following": false,
+        "friends_count": 1461,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15791186,
+        "id_str": "15791186",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3172,
+        "location": "Houston, TX",
+        "name": "KHOU 11 News Houston",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15791186/1647987751",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385690821589049347/FiQmiK_f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385690821589049347/FiQmiK_f_normal.jpg",
+        "profile_link_color": "0065B3",
+        "profile_sidebar_border_color": "A5B8DE",
+        "profile_sidebar_fill_color": "DCEDFA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KHOU",
+        "statuses_count": 436121,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/5LGC8d7mQG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 20:39:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35586563,
+                "id_str": "35586563",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jemele Hill",
+                "screen_name": "jemelehill"
+            },
+            {
+                "id": 544564632,
+                "id_str": "544564632",
+                "indices": [
+                    12,
+                    23
+                ],
+                "name": "Dahn Dahlas\u2122",
+                "screen_name": "DahnDahlas"
+            },
+            {
+                "id": 872130599208628224,
+                "id_str": "872130599208628224",
+                "indices": [
+                    24,
+                    36
+                ],
+                "name": "Kanye Breast",
+                "screen_name": "KanyeBreast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532271532970881024,
+    "id_str": "532271532970881024",
+    "in_reply_to_screen_name": "jemelehill",
+    "in_reply_to_status_id": 532255606623989760,
+    "in_reply_to_status_id_str": "532255606623989760",
+    "in_reply_to_user_id": 35586563,
+    "in_reply_to_user_id_str": "35586563",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@jemelehill @DahnDahlas @kanYeBreast I am in all of the tears, right now.\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 06 02:20:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love dad jokes/puns. I know a good amount of random facts. Recently discovered that I can cross one eye independently of the other. Welcome.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15971,
+        "follow_request_sent": false,
+        "followers_count": 48,
+        "following": false,
+        "friends_count": 152,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20211418,
+        "id_str": "20211418",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "North Carolina, USA",
+        "name": "Arya Snark",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20211418/1590779930",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357802181425061888/SD8WmiLD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357802181425061888/SD8WmiLD_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SharronV_",
+        "statuses_count": 52832,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

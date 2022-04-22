@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 13:41:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39585367,
+                "id_str": "39585367",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Harvard University",
+                "screen_name": "Harvard"
+            },
+            {
+                "id": 143746715,
+                "id_str": "143746715",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Shyama Perera",
+                "screen_name": "PortfolioWoman"
+            },
+            {
+                "id": 1049644164,
+                "id_str": "1049644164",
+                "indices": [
+                    25,
+                    35
+                ],
+                "name": "Piotr Naskrecki",
+                "screen_name": "naskrecki"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523831320972394498,
+    "id_str": "523831320972394498",
+    "in_reply_to_screen_name": "Harvard",
+    "in_reply_to_status_id": 523820806917603328,
+    "in_reply_to_status_id_str": "523820806917603328",
+    "in_reply_to_user_id": 39585367,
+    "in_reply_to_user_id_str": "39585367",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@Harvard @PortfolioWoman @naskrecki Never mind the spider-how big is the chap who owns the bath?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 07 21:17:13 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Inventor of the Vimpto teabag. Ex RAF WO. Lover of MCFC. Photographer of Ridderkerk and Burnley. Be kind",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wipers.darkroom.tech",
+                        "expanded_url": "https://wipers.darkroom.tech/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MEjGLxCob7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 46649,
+        "follow_request_sent": false,
+        "followers_count": 709,
+        "following": false,
+        "friends_count": 510,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 932960480,
+        "id_str": "932960480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "Ridderkerk, Nederland",
+        "name": "pete hall",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/932960480/1612699459",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1509424459756752897/8K1uW04A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509424459756752897/8K1uW04A_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peterctid1965",
+        "statuses_count": 59718,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MEjGLxCob7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

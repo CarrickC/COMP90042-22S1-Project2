@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 28 00:40:58 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1277039250903633920",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/qseqcPbOYO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 259096053,
+                "id_str": "259096053",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Leigh-Allyn Baker",
+                "screen_name": "L_A_Baker"
+            }
+        ]
+    },
+    "favorite_count": 993,
+    "favorited": false,
+    "geo": null,
+    "id": 1277039250903633920,
+    "id_str": "1277039250903633920",
+    "in_reply_to_screen_name": "L_A_Baker",
+    "in_reply_to_status_id": 1275904569503936512,
+    "in_reply_to_status_id_str": "1275904569503936512",
+    "in_reply_to_user_id": 259096053,
+    "in_reply_to_user_id_str": "259096053",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 20,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@L_A_Baker I think all the anti vaxxer should buy a huge island and go live there with no science. I don\u2019t need the\u2026 https://t.co/qseqcPbOYO",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 20 23:50:55 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Life long New Yorker, Democrat, American loving patriot disgusted by the current GOP. Proud Mom, Wife, Christian and Yankee fan!!. #FBR #Pleasegetvaccinated",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 73180,
+        "follow_request_sent": false,
+        "followers_count": 11203,
+        "following": false,
+        "friends_count": 10198,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1175195629984919554,
+        "id_str": "1175195629984919554",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "New York, USA",
+        "name": "Xtina Democracy Wins!",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175195629984919554/1633962338",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510679944833257476/gyXl1MNx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510679944833257476/gyXl1MNx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Xtinaresists",
+        "statuses_count": 23878,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

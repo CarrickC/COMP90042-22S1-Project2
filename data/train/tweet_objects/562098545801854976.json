@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 02 04:01:51 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    57,
+                    62
+                ],
+                "text": "pats"
+            },
+            {
+                "indices": [
+                    63,
+                    72
+                ],
+                "text": "Seahawks"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "vine.co/v/OtEFZjOiYut",
+                "expanded_url": "https://vine.co/v/OtEFZjOiYut",
+                "indices": [
+                    73,
+                    96
+                ],
+                "url": "https://t.co/q5GxmWYjwN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 562098545801854976,
+    "id_str": "562098545801854976",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Squarespace @TheJeffBridges Check out this funny vine!! #pats #Seahawks https://t.co/q5GxmWYjwN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 19 03:10:43 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "live\u2764\ufe0flaugh\u2764\ufe0flove\u2764\ufe0fdance\u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/emmalina.a.rod\u2026",
+                        "expanded_url": "https://www.facebook.com/emmalina.a.rodriguez",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YISMlBiHGk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 229,
+        "follow_request_sent": false,
+        "followers_count": 304,
+        "following": false,
+        "friends_count": 671,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1682188896,
+        "id_str": "1682188896",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Boston",
+        "name": "Emmalina Rodriguez",
+        "notifications": false,
+        "profile_background_color": "F2EAF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692470252794462210/NieyADY7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692470252794462210/NieyADY7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EmmalinaAlicia",
+        "statuses_count": 3049,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/YISMlBiHGk",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

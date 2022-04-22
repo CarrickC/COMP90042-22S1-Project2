@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 04 13:34:19 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1219460440507342848,
+                "id_str": "1219460440507342848",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dominic Devon Alvarez",
+                "screen_name": "dominic_devon"
+            },
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 529627705873276928,
+    "id_str": "529627705873276928",
+    "in_reply_to_screen_name": "Dominic_S_Esq",
+    "in_reply_to_status_id": 529434521230663680,
+    "in_reply_to_status_id_str": "529434521230663680",
+    "in_reply_to_user_id": 2268959574,
+    "in_reply_to_user_id_str": "2268959574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Dominic_Devon @NBCNews lol it's actually kind of cute in a nightmare before Christmas kind of way.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 15 18:04:54 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Black. Queer. Aquarius. \u2652\ufe0f \ud83c\udf08\ud83d\udc4b\ud83c\udfff #BlackInTech | Pronouns: He/Him",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7999,
+        "follow_request_sent": false,
+        "followers_count": 1537,
+        "following": false,
+        "friends_count": 1180,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 216063226,
+        "id_str": "216063226",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "Remote but not on an island",
+        "name": "Nick",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216063226/1611182862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1445087210143895559/RX-CuALK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445087210143895559/RX-CuALK_normal.jpg",
+        "profile_link_color": "47484D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BABAB2",
+        "profile_text_color": "2891E2",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MrGilyard",
+        "statuses_count": 14896,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

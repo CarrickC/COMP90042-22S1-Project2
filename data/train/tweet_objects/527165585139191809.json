@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 28 18:30:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/blgy4PGyvB",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "id": 527162170065584128,
+                "id_str": "527162170065584128",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B1DbM13IgAAKp8J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B1DbM13IgAAKp8J.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 527162170531151872,
+                "source_status_id_str": "527162170531151872",
+                "source_user_id": 95023423,
+                "source_user_id_str": "95023423",
+                "type": "photo",
+                "url": "http://t.co/blgy4PGyvB"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 95023423,
+                "id_str": "95023423",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "UberFacts",
+                "screen_name": "UberFacts"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/blgy4PGyvB",
+                "expanded_url": "https://twitter.com/UberFacts/status/527162170531151872/photo/1",
+                "id": 527162170065584128,
+                "id_str": "527162170065584128",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B1DbM13IgAAKp8J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B1DbM13IgAAKp8J.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 900,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 527162170531151872,
+                "source_status_id_str": "527162170531151872",
+                "source_user_id": 95023423,
+                "source_user_id_str": "95023423",
+                "type": "photo",
+                "url": "http://t.co/blgy4PGyvB"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527165585139191809,
+    "id_str": "527165585139191809",
+    "in_reply_to_screen_name": "UberFacts",
+    "in_reply_to_status_id": 527162170531151872,
+    "in_reply_to_status_id_str": "527162170531151872",
+    "in_reply_to_user_id": 95023423,
+    "in_reply_to_user_id_str": "95023423",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@UberFacts: A puppy-sized spider was found in South America aka the 'South American Goliath Birdeater.' http://t.co/blgy4PGyvB\u201dscrew that\ud83d\ude33\ud83d\ude05",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 28 00:34:30 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "UNT '18 | Visual Merchandising | Digital Retail | Buckle | 2014 Terry Scholar",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2333,
+        "follow_request_sent": false,
+        "followers_count": 283,
+        "following": false,
+        "friends_count": 268,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 399763012,
+        "id_str": "399763012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Denton, Texas",
+        "name": "Tristen",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399763012/1453840302",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/692082509597659136/bd9fhRUE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/692082509597659136/bd9fhRUE_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Tristen_Newman4",
+        "statuses_count": 6124,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

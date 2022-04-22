@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 19:49:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 1349170292564905988,
+                "id_str": "1349170292564905988",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "Jen Psaki",
+                "screen_name": "PressSec"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    23,
+                    39
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 159655293,
+                "id_str": "159655293",
+                "indices": [
+                    40,
+                    49
+                ],
+                "name": "Tal Kopan",
+                "screen_name": "TalKopan"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674314873774280704,
+    "id_str": "674314873774280704",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 674314254732931072,
+    "in_reply_to_status_id_str": "674314254732931072",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.083219,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.320979
+                    ],
+                    [
+                        -111.083219,
+                        32.320979
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tucson, AZ",
+        "id": "013379ee5729a5e6",
+        "name": "Tucson",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/013379ee5729a5e6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNNPolitics @PressSec @realDonaldTrump @TalKopan  No harm no foul!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 23 00:12:20 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2282,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 533667289,
+        "id_str": "533667289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "YR2525",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RossVillarreal1",
+        "statuses_count": 2533,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

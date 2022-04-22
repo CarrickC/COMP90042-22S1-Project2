@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:40:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            },
+            {
+                "id": 14515799,
+                "id_str": "14515799",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Brian Stelter",
+                "screen_name": "brianstelter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538854992711409664,
+    "id_str": "538854992711409664",
+    "in_reply_to_screen_name": "WesleyLowery",
+    "in_reply_to_status_id": 538851683141304320,
+    "in_reply_to_status_id_str": "538851683141304320",
+    "in_reply_to_user_id": 14849562,
+    "in_reply_to_user_id_str": "14849562",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WesleyLowery @brianstelter look to JJ Harper. Karma",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 13 23:57:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201cTo be uncertain is to be uncomfortable, but to be certain is to be ridiculous.\u201d\u00a0",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 78056,
+        "follow_request_sent": false,
+        "followers_count": 833,
+        "following": false,
+        "friends_count": 3184,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 18959333,
+        "id_str": "18959333",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 48,
+        "location": "CANADA",
+        "name": "\ud835\uddda\ud835\udde5\ud835\uddd8\ud835\uddda\ud835\udde2\ud835\udde5\ud835\uddec",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18959333/1598268857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1364943780592328708/gRe34QDt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364943780592328708/gRe34QDt_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GBTRU",
+        "statuses_count": 143270,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

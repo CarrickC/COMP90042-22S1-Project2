@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 01:54:58 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    33
+                ],
+                "text": "DylannRoof"
+            },
+            {
+                "indices": [
+                    95,
+                    114
+                ],
+                "text": "CharlestonShooting"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "charlotteobserver.com/news/local/art\u2026",
+                "expanded_url": "http://www.charlotteobserver.com/news/local/article24952345.html",
+                "indices": [
+                    115,
+                    137
+                ],
+                "url": "http://t.co/Fasb0kfSd5"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 132,
+    "favorited": false,
+    "geo": null,
+    "id": 612438528803213312,
+    "id_str": "612438528803213312",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 514,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "After police arrested #DylannRoof, they went and bought him Burger King because he was hungry. #CharlestonShooting http://t.co/Fasb0kfSd5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 26 19:12:05 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "None but the weak crave to be better than. Strong men are satisfied with their own strength. Lillian Smith",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13335,
+        "follow_request_sent": false,
+        "followers_count": 4657,
+        "following": false,
+        "friends_count": 1394,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9112032,
+        "id_str": "9112032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 168,
+        "location": "",
+        "name": "TC",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9112032/1439779307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616609311050080256/L0t3dno6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616609311050080256/L0t3dno6_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tchopstl_",
+        "statuses_count": 90547,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

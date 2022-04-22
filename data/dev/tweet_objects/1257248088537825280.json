@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 04 09:57:57 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    29,
+                    37
+                ],
+                "text": "Tourism"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1257248088537825280",
+                "indices": [
+                    120,
+                    143
+                ],
+                "url": "https://t.co/pThR3Y7A8a"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3264,
+    "favorited": false,
+    "geo": null,
+    "id": 1257248088537825280,
+    "id_str": "1257248088537825280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1075,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "For many European countries, #Tourism is a vital ecosystem \ud83c\udf05\n\nUrgent &amp; coordinated \ud83c\uddea\ud83c\uddfa response:\n\n\u2714\ufe0fClear rules for\u2026 https://t.co/pThR3Y7A8a",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 10 09:28:37 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Together, taking Europe forward \ud83c\uddea\ud83c\uddfa Commissaire europ\u00e9en | Europ\u00e4ischer Kommissar | #industry #services #digital #tourism #audiovisual #space #defence",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ec.europa.eu/commission/com\u2026",
+                        "expanded_url": "https://ec.europa.eu/commission/commissioners/2019-2024/breton_fr",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EzyezH4FBw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1726,
+        "follow_request_sent": false,
+        "followers_count": 77358,
+        "following": false,
+        "friends_count": 92,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 785411705916559360,
+        "id_str": "785411705916559360",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 787,
+        "location": "Brussels, Belgium",
+        "name": "Thierry Breton",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/785411705916559360/1588674743",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1262299101951135744/A_LWM0lP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262299101951135744/A_LWM0lP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ThierryBreton",
+        "statuses_count": 1946,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EzyezH4FBw",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

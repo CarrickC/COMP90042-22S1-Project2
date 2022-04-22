@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:35:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gotnews.com/exclusive-abc-\u2026",
+                "expanded_url": "http://gotnews.com/exclusive-abc-paid-mid-high-six-figures-darrenwilson-interview/",
+                "indices": [
+                    39,
+                    61
+                ],
+                "url": "http://t.co/XufVdqnUIc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            },
+            {
+                "id": 97474887,
+                "id_str": "97474887",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "Jonathan Capehart",
+                "screen_name": "CapehartJ"
+            },
+            {
+                "id": 14515799,
+                "id_str": "14515799",
+                "indices": [
+                    25,
+                    38
+                ],
+                "name": "Brian Stelter",
+                "screen_name": "brianstelter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538853908227977219,
+    "id_str": "538853908227977219",
+    "in_reply_to_screen_name": "WesleyLowery",
+    "in_reply_to_status_id": 538851683141304320,
+    "in_reply_to_status_id_str": "538851683141304320",
+    "in_reply_to_user_id": 14849562,
+    "in_reply_to_user_id_str": "14849562",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WesleyLowery @CapehartJ @brianstelter http://t.co/XufVdqnUIc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 17 13:13:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "President & CEO of IWPR | Named Fortune Mags World\u2019s 50 Greatest Leaders | I think for a living | Feminist mom to twins Charli & Parker.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iwpr.org",
+                        "expanded_url": "http://iwpr.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/UHeCAePZtH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11580,
+        "follow_request_sent": false,
+        "followers_count": 3636,
+        "following": false,
+        "friends_count": 1576,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 216690872,
+        "id_str": "216690872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 72,
+        "location": "Washington, DC",
+        "name": "C. Nicole Mason, PhD",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216690872/1552067719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194606648507195392/Jj_IO5GH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194606648507195392/Jj_IO5GH_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cnicolemason",
+        "statuses_count": 4372,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UHeCAePZtH",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

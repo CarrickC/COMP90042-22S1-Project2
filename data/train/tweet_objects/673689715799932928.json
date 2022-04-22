@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 02:25:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 7702542,
+                "id_str": "7702542",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Dana Loesch",
+                "screen_name": "DLoesch"
+            },
+            {
+                "id": 1955344290,
+                "id_str": "1955344290",
+                "indices": [
+                    9,
+                    23
+                ],
+                "name": "Realist & Curmudgeon",
+                "screen_name": "PenguinsFan62"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673689715799932928,
+    "id_str": "673689715799932928",
+    "in_reply_to_screen_name": "DLoesch",
+    "in_reply_to_status_id": 673686233936072704,
+    "in_reply_to_status_id_str": "673686233936072704",
+    "in_reply_to_user_id": 7702542,
+    "in_reply_to_user_id_str": "7702542",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DLoesch @PenguinsFan62 what did they do self report",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 25 04:35:43 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5767,
+        "follow_request_sent": false,
+        "followers_count": 89,
+        "following": false,
+        "friends_count": 675,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 589687826,
+        "id_str": "589687826",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Berwick pa. ",
+        "name": "curly bill",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/589687826/1437427684",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2324056424/6z7z36j06jl26lp85hvs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2324056424/6z7z36j06jl26lp85hvs_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1curlybill",
+        "statuses_count": 8279,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

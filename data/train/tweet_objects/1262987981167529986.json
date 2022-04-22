@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 20 06:06:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37601816,
+                "id_str": "37601816",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Rob Manning",
+                "screen_name": "RManning47"
+            },
+            {
+                "id": 21512383,
+                "id_str": "21512383",
+                "indices": [
+                    12,
+                    16
+                ],
+                "name": "OPB",
+                "screen_name": "OPB"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1262987981167529986,
+    "id_str": "1262987981167529986",
+    "in_reply_to_screen_name": "RManning47",
+    "in_reply_to_status_id": 1262986599945498630,
+    "in_reply_to_status_id_str": "1262986599945498630",
+    "in_reply_to_user_id": 37601816,
+    "in_reply_to_user_id_str": "37601816",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@RManning47 @OPB When can we expect the next round of results? Mult Co used to tell us when! Am I missing it?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 04 01:37:49 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Portland journalist, professor @ClarkCollege, adviser @clarkindynews + past prez of Pacific Northwest Assoc. of Journo Educators beth.slovic at https://t.co/RF2MiVIYA0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "gmail.com",
+                        "expanded_url": "http://gmail.com",
+                        "indices": [
+                            144,
+                            167
+                        ],
+                        "url": "https://t.co/RF2MiVIYA0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bethslovic.com",
+                        "expanded_url": "http://bethslovic.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/THl59PnfNN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1634,
+        "follow_request_sent": false,
+        "followers_count": 4203,
+        "following": false,
+        "friends_count": 934,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17145979,
+        "id_str": "17145979",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 190,
+        "location": "Portland, Oregon",
+        "name": "BethSlovic",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17145979/1578527297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349477083043360768/T6VPF0wQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349477083043360768/T6VPF0wQ_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BethSlovic",
+        "statuses_count": 1880,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/THl59PnfNN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

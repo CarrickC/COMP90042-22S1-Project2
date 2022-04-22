@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 17:57:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613405474549989377,
+    "id_str": "613405474549989377",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 613404935003217920,
+    "in_reply_to_status_id_str": "613404935003217920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HuffingtonPost Southern hospitality I imagine. At least they caught him.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 03 18:15:02 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "African Diaspora storytelling/narrative scholar,  Full Comm. Prof. at PWI, 3rd Gen.  military, retired USAF officer, Hip Hop Ol Skool OG . All views are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/whizzkid43",
+                        "expanded_url": "http://about.me/whizzkid43",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/N4J6A7wRyq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 309471,
+        "follow_request_sent": false,
+        "followers_count": 5012,
+        "following": false,
+        "friends_count": 2159,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2370768564,
+        "id_str": "2370768564",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 222,
+        "location": "Georgia Southern U, Armstrong ",
+        "name": "Dr. Elizabeth Desnoyers-Colas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2370768564/1510439926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1480023960096055297/_097Az85_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480023960096055297/_097Az85_normal.jpg",
+        "profile_link_color": "8F00B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MOVEprofPHD",
+        "statuses_count": 378657,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/N4J6A7wRyq",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

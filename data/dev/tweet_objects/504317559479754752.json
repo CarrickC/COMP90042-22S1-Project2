@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 17:20:50 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    8,
+                    12
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504317559479754752,
+    "id_str": "504317559479754752",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 504131654810877952,
+    "in_reply_to_status_id_str": "504131654810877952",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@cnnbrk @CNN now we have a channel dedicated to Michael brown ... It's called CNN \ud83d\ude1d\ud83d\ude1b",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 12 17:01:25 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You have enemies?Good.That means you have stood for something,sometime in your life.Winston S Churchill. Branded safforn Terrorist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 124,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 63,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1857982483,
+        "id_str": "1857982483",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "New York, US",
+        "name": "RAM BAAN",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857982483/1435857683",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593864233990762496/D5c2xN5Q_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593864233990762496/D5c2xN5Q_normal.png",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "nicpradhan",
+        "statuses_count": 6733,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

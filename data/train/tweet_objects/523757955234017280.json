@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 08:50:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 944425148,
+                "id_str": "944425148",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Collective",
+                "screen_name": "SaveJobsGlobal"
+            },
+            {
+                "id": 113945981,
+                "id_str": "113945981",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Jason Freddy Meyers",
+                "screen_name": "RicoChavo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523757955234017280,
+    "id_str": "523757955234017280",
+    "in_reply_to_screen_name": "SaveJobsGlobal",
+    "in_reply_to_status_id": 523562674487975937,
+    "in_reply_to_status_id_str": "523562674487975937",
+    "in_reply_to_user_id": 944425148,
+    "in_reply_to_user_id_str": "944425148",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SaveJobsGlobal @RicoChavo Where's your proof?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 30 13:24:36 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Made In USA. Right-Winger. Licensed Weapons Carrier. Student Pilot. Cancer Survivor. Bilingual (English & Smart Ass)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10185,
+        "follow_request_sent": false,
+        "followers_count": 803,
+        "following": false,
+        "friends_count": 655,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36660422,
+        "id_str": "36660422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "The South",
+        "name": "Sean DuVall",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36660422/1456368371",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/721604998979796993/ZoclKyLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/721604998979796993/ZoclKyLx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "duvall172",
+        "statuses_count": 27397,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

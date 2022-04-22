@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 29 09:41:41 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    50
+                ],
+                "text": "COVID19"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 470914193,
+                "id_str": "470914193",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "#NotTooYoungToRun",
+                "screen_name": "YIAGA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1244198030074576896,
+    "id_str": "1244198030074576896",
+    "in_reply_to_screen_name": "YIAGA",
+    "in_reply_to_status_id": 1244197202295246848,
+    "in_reply_to_status_id_str": "1244197202295246848",
+    "in_reply_to_user_id": 470914193,
+    "in_reply_to_user_id_str": "470914193",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@YIAGA As a food microbiologist, it isn't #COVID19 is a virus nt bacterial or fungal disease...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 12 21:19:40 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "CEO PappieGold Global Resources Ltd\nFood Microbiologist\nResearch scientist\nFunny Great Guy",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5155,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 2256,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 578406913,
+        "id_str": "578406913",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "\ud83c\uddf3\ud83c\uddec",
+        "name": "Opejuwon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/578406913/1458089541",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1501641908006764546/Bi0xLEXP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1501641908006764546/Bi0xLEXP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "diddypappie2",
+        "statuses_count": 8554,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

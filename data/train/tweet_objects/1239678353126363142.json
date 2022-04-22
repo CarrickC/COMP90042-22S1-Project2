@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 22:22:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239678353126363142",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/XPG5QLs3FN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1301957908515688448,
+                "id_str": "1301957908515688448",
+                "indices": [
+                    17,
+                    32
+                ],
+                "name": "Tracy Weeks",
+                "screen_name": "BigOrangeVol98"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1239678353126363142,
+    "id_str": "1239678353126363142",
+    "in_reply_to_screen_name": "BigOrangeHeupel",
+    "in_reply_to_status_id": 1239677893833342979,
+    "in_reply_to_status_id_str": "1239677893833342979",
+    "in_reply_to_user_id": 913200781,
+    "in_reply_to_user_id_str": "913200781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BigOrangePruitt @BigOrangeVol98 You literally just quoted something that is pending scientific review dummy. Sunli\u2026 https://t.co/XPG5QLs3FN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 13 17:22:12 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Navy Seabee Vet #Vols #Titans #Preds",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35737,
+        "follow_request_sent": false,
+        "followers_count": 92,
+        "following": false,
+        "friends_count": 520,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1194666727361171457,
+        "id_str": "1194666727361171457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Tennessee, USA",
+        "name": "Mitchell",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194666727361171457/1600960641",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309149929873514498/gTQtnU7p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309149929873514498/gTQtnU7p_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mitchel15533692",
+        "statuses_count": 3414,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

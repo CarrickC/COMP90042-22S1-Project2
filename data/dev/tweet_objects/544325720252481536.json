@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 02:58:59 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544325720252481536,
+    "id_str": "544325720252481536",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 544324444773433348,
+    "in_reply_to_status_id_str": "544324444773433348",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@mashable awat perangai teruk ngat",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 25 02:06:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A PhD student in App. Linguistics and I teach English. Enjoys writing fictional dramas, reading, teaching, cooking and traveling.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=N8WHQG\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=N8WHQGE0Ics",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wqRn5iFvUm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3365,
+        "follow_request_sent": false,
+        "followers_count": 5146,
+        "following": false,
+        "friends_count": 824,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 21824313,
+        "id_str": "21824313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "alor setar,kedah",
+        "name": "sharifah syakila",
+        "notifications": false,
+        "profile_background_color": "A651EC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21824313/1453375567",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373322100698574848/GvPgmg2w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373322100698574848/GvPgmg2w_normal.jpg",
+        "profile_link_color": "0B96B4",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "2B4A40",
+        "profile_text_color": "C02684",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sharifahsyakila",
+        "statuses_count": 80262,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wqRn5iFvUm",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

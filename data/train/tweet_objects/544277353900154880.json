@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 14 23:46:48 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    23,
+                    37
+                ],
+                "text": "mediablackout"
+            },
+            {
+                "indices": [
+                    132,
+                    144
+                ],
+                "text": "martinplace"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16834659,
+                "id_str": "16834659",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Sky News Australia",
+                "screen_name": "SkyNewsAust"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 544277353900154880,
+    "id_str": "544277353900154880",
+    "in_reply_to_screen_name": "SkyNewsAust",
+    "in_reply_to_status_id": 544277117039837184,
+    "in_reply_to_status_id_str": "544277117039837184",
+    "in_reply_to_user_id": 16834659,
+    "in_reply_to_user_id_str": "16834659",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SkyNewsAust Support a #mediablackout to avoid giving the hostage takers a platform for their message &amp; risking future copycats #martinplace",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 03 07:01:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "User Centred Designer. Disaster nerd. Outdoor enthusiast. People watcher and connector.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 401,
+        "following": false,
+        "friends_count": 1394,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 71194194,
+        "id_str": "71194194",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Sydney, New South Wales",
+        "name": "Rachel Flit",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71194194/1511321224",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/933172887724343296/AxEQ8qgM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/933172887724343296/AxEQ8qgM_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rachflit",
+        "statuses_count": 170,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 14 23:58:24 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "SIEGE"
+            },
+            {
+                "indices": [
+                    10,
+                    13
+                ],
+                "text": "OZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 309558781,
+                "id_str": "309558781",
+                "indices": [
+                    16,
+                    25
+                ],
+                "name": "Kelly Rek",
+                "screen_name": "KellyRek"
+            },
+            {
+                "id": 23262069,
+                "id_str": "23262069",
+                "indices": [
+                    26,
+                    39
+                ],
+                "name": "Tabby-\"If UR not at the table,UR on the menu! VOTE",
+                "screen_name": "Americassoul"
+            },
+            {
+                "id": 15250661,
+                "id_str": "15250661",
+                "indices": [
+                    41,
+                    53
+                ],
+                "name": "news.com.au",
+                "screen_name": "newscomauHQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544280276914827264,
+    "id_str": "544280276914827264",
+    "in_reply_to_screen_name": "newscomauHQ",
+    "in_reply_to_status_id": 544269749405097984,
+    "in_reply_to_status_id_str": "544269749405097984",
+    "in_reply_to_user_id": 15250661,
+    "in_reply_to_user_id_str": "15250661",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#SIEGE in #OZ = @KellyRek @Americassoul  @newscomauHQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 03 09:47:53 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Where Integrity Begins \n= Public Benefit Gladiator #CONFRONTtheCONSENSUS by #QUESTION ISSUES \n#CHALLENGE DISTORTIONS #DELIVER REAL TRUTH \n#YouDecide",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17987,
+        "follow_request_sent": false,
+        "followers_count": 2700,
+        "following": false,
+        "friends_count": 4538,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 310178659,
+        "id_str": "310178659",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 382,
+        "location": "Australia ",
+        "name": "RouleResponse",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/946271386355372032/rO9E5rR7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/946271386355372032/rO9E5rR7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RouleReport",
+        "statuses_count": 210465,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

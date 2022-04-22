@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 19 02:43:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1139535600166612995,
+                "id_str": "1139535600166612995",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "Lipnshitz",
+                "screen_name": "lipnshitz"
+            },
+            {
+                "id": 15714216,
+                "id_str": "15714216",
+                "indices": [
+                    21,
+                    29
+                ],
+                "name": "iamsock",
+                "screen_name": "Iamsock"
+            },
+            {
+                "id": 21514744,
+                "id_str": "21514744",
+                "indices": [
+                    30,
+                    38
+                ],
+                "name": "David Pakman",
+                "screen_name": "dpakman"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240468876535697409,
+    "id_str": "1240468876535697409",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@dbsss777 @lipnshitz @Iamsock @dpakman $1,000-3,000 is very likely.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 16 19:58:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "photographer - nonbinary (they/them) // doing some work for @metrotimes // find my work here - https://t.co/81ARQFDf5r",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/klocko",
+                        "expanded_url": "http://linktr.ee/klocko",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "url": "https://t.co/81ARQFDf5r"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "klocko.co",
+                        "expanded_url": "https://klocko.co/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JgQu1DhDCX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 115521,
+        "follow_request_sent": false,
+        "followers_count": 3773,
+        "following": false,
+        "friends_count": 831,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 494338520,
+        "id_str": "494338520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Detroit, MI",
+        "name": "marc \ud83d\udcf7",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/494338520/1612766475",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393246736605405189/UQEEGNXh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393246736605405189/UQEEGNXh_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marcKlock",
+        "statuses_count": 16410,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JgQu1DhDCX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

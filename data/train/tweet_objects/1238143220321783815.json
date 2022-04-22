@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 16:42:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238143220321783815",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/BIPB1xqUYW"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 25,
+    "favorited": false,
+    "geo": null,
+    "id": 1238143220321783815,
+    "id_str": "1238143220321783815",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "It's reached a point where every time someone says shit like \"Covid-19 is just like the flu, it's all just media ge\u2026 https://t.co/BIPB1xqUYW",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 21 19:30:17 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "She/Her - 33 - ENTP\nFigure Skating \u26f8, Final Fantasy \ud83c\udfae, Comic Book stuff \ud83d\udcda, Avatar (AtlA&LoK) \ud83c\udf2c, Duskwood \ud83d\udc7b, Music \ud83c\udfb6\ud83e\udd1f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 68084,
+        "follow_request_sent": false,
+        "followers_count": 1368,
+        "following": false,
+        "friends_count": 584,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 4560102796,
+        "id_str": "4560102796",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "",
+        "name": "Joey | Thank you, Yuzu \ud83d\udc99\ud83d\udc96",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4560102796/1636798607",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513316071402524672/UyvWQTRw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513316071402524672/UyvWQTRw_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JoeyLovesTifa",
+        "statuses_count": 20843,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

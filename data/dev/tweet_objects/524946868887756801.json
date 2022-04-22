@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:34:21 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    7
+                ],
+                "text": "Ottawa"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524946868887756801,
+    "id_str": "524946868887756801",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 524944399890124801,
+    "in_reply_to_status_id_str": "524944399890124801",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#Ottawa MT @CBCAlerts: Gunman shot dead inside Parliament; police believe there may be others on loose. Soldier shot earlier at War Memorial",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 19 01:33:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just here to harsh your mellow. I work @KPCC. Hablo espa\u00f1ol. RTs are not endorsements. Tips? DM me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kpcc.org",
+                        "expanded_url": "https://www.kpcc.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cI14c8cZSh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29532,
+        "follow_request_sent": false,
+        "followers_count": 14863,
+        "following": false,
+        "friends_count": 1756,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 301189264,
+        "id_str": "301189264",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 424,
+        "location": "Los Angeles",
+        "name": "Claudia Peschiutta",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/301189264/1407910303",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1106781873223553025/BOU1Q9Ij_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106781873223553025/BOU1Q9Ij_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ReporterClaudia",
+        "statuses_count": 46419,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cI14c8cZSh",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 21:28:36 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 481698828,
+                "id_str": "481698828",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "BURNISDE_BIZ",
+                "screen_name": "Burnside_Biz"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 519962589808164864,
+    "id_str": "519962589808164864",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@realDonaldTrump @Burnside_Biz LOL. They're gonna get Ebola.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 15 18:05:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Listen to the dummy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "teespring.com/stores/sportsg\u2026",
+                        "expanded_url": "https://teespring.com/stores/sportsgeyser",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/T4EPDOg1WB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14649,
+        "follow_request_sent": false,
+        "followers_count": 1591,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 437671978,
+        "id_str": "437671978",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 55,
+        "location": "That's a HIPPA violation.",
+        "name": "Not a scientist.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437671978/1627405087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1420065974628331528/dCoToHU-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420065974628331528/dCoToHU-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SportsGeyser",
+        "statuses_count": 105881,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/T4EPDOg1WB",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

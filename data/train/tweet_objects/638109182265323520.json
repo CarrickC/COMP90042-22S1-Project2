@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 22:00:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HGAi731Faz",
+                "expanded_url": "https://twitter.com/TheValleyReport/status/637868242560638980/photo/1",
+                "id": 637868241453387776,
+                "id_str": "637868241453387776",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CNopyTlVEAAXJND.png",
+                "media_url_https": "https://pbs.twimg.com/media/CNopyTlVEAAXJND.png",
+                "sizes": {
+                    "large": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 810
+                    },
+                    "medium": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 810
+                    },
+                    "small": {
+                        "h": 508,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 637868242560638980,
+                "source_status_id_str": "637868242560638980",
+                "source_user_id": 3369234799,
+                "source_user_id_str": "3369234799",
+                "type": "photo",
+                "url": "http://t.co/HGAi731Faz"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "daveweasel.wordpress.com/2015/08/30/wom\u2026",
+                "expanded_url": "https://daveweasel.wordpress.com/2015/08/30/woman-stabs-boyfriend-for-not-liking-instagram-selfie-fast-enough",
+                "indices": [
+                    93,
+                    116
+                ],
+                "url": "https://t.co/vzYV0n8avH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    9,
+                    25
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HGAi731Faz",
+                "expanded_url": "https://twitter.com/TheValleyReport/status/637868242560638980/photo/1",
+                "id": 637868241453387776,
+                "id_str": "637868241453387776",
+                "indices": [
+                    117,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CNopyTlVEAAXJND.png",
+                "media_url_https": "https://pbs.twimg.com/media/CNopyTlVEAAXJND.png",
+                "sizes": {
+                    "large": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 810
+                    },
+                    "medium": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 810
+                    },
+                    "small": {
+                        "h": 508,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 637868242560638980,
+                "source_status_id_str": "637868242560638980",
+                "source_user_id": 3369234799,
+                "source_user_id_str": "3369234799",
+                "type": "photo",
+                "url": "http://t.co/HGAi731Faz"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 638109182265323520,
+    "id_str": "638109182265323520",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "2015. RT @TheValleyReport: Woman stabs boyfriend for not liking Instagram selfie fast\u00a0enough https://t.co/vzYV0n8avH http://t.co/HGAi731Faz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 07 00:17:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Gucci on the outside, Jodeci on the inside. pianist \u2022 producer \u2022 singer \u2022 songwriter \u2022 DJ #WelcomeToThePENTHAUSuite #TopFloorActivity ig:penthausuite",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/penthaussuite",
+                        "expanded_url": "https://soundcloud.com/penthaussuite",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cVha67ncEN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7620,
+        "follow_request_sent": false,
+        "followers_count": 1823,
+        "following": false,
+        "friends_count": 532,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 63582982,
+        "id_str": "63582982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 23,
+        "location": "South FL",
+        "name": "\ud835\udde3\ud835\uddd8\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4\ud835\udde8\ud835\udde6",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63582982/1592520693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1273822776097415168/TccmmyWS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273822776097415168/TccmmyWS_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "3D3D3D",
+        "profile_text_color": "F71B1B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "penthausuite",
+        "statuses_count": 171491,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cVha67ncEN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

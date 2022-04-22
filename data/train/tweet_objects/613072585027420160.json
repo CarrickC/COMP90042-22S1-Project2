@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 19:54:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 883335212427612160,
+                "id_str": "883335212427612160",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Best Lemming",
+                "screen_name": "BestLemming"
+            },
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    26,
+                    33
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 613072585027420160,
+    "id_str": "613072585027420160",
+    "in_reply_to_screen_name": "myohmagpie",
+    "in_reply_to_status_id": 613024653758570496,
+    "in_reply_to_status_id_str": "613024653758570496",
+    "in_reply_to_user_id": 104520301,
+    "in_reply_to_user_id_str": "104520301",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@bestlemming @CNNPolitics @cnnbrk @RepMiaLove Clearly they felt her ideals represented their interests... which SHOULD serve as wake-up call",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 02 17:45:29 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Opinions, insights and witticisms are all free!\r\n(Richmond, VA born; Flint, MI raised) \n@_HamptonU alum/Software Eng./",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 101669,
+        "follow_request_sent": false,
+        "followers_count": 3000,
+        "following": false,
+        "friends_count": 2773,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 16100069,
+        "id_str": "16100069",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 44,
+        "location": "Virginia (USA)",
+        "name": "Darryn M. Briggs",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16100069/1527529920",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/677868031020679168/XD4uDIEB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/677868031020679168/XD4uDIEB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "darryn_briggs",
+        "statuses_count": 150383,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

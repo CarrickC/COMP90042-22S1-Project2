@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 04 16:35:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 115245884,
+                "id_str": "115245884",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Carly Ledbetter",
+                "screen_name": "ledbettercarly"
+            },
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    16,
+                    31
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            },
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    41,
+                    52
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 628605154254721026,
+    "id_str": "628605154254721026",
+    "in_reply_to_screen_name": "ledbettercarly",
+    "in_reply_to_status_id": 628604055644934144,
+    "in_reply_to_status_id_str": "628604055644934144",
+    "in_reply_to_user_id": 115245884,
+    "in_reply_to_user_id_str": "115245884",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ledbettercarly @HuffingtonPost $6 LOLOL @WholeFoods",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 22:36:52 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dun let the dome full u, I'm packing heet #ChargedUp",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 139,
+        "follow_request_sent": false,
+        "followers_count": 101,
+        "following": false,
+        "friends_count": 633,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3010552506,
+        "id_str": "3010552506",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Inside U",
+        "name": "Dak Niggsky",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3010552506/1423176022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563466438447362049/HA9gR565_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563466438447362049/HA9gR565_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheDakNiggsky",
+        "statuses_count": 1328,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

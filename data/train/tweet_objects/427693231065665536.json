@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 06:43:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427693231065665536,
+    "id_str": "427693231065665536",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 427689948398231552,
+    "in_reply_to_status_id_str": "427689948398231552",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AP chalk this up to \"Things I'm surprised about, but only because it hasn't happened already\".",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 15 06:21:35 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Professional recreator.  Semi-pro photographer.  Full-time father and husband.  Views are my own and not affiliated with any particular organization. #rctid",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5591,
+        "follow_request_sent": false,
+        "followers_count": 223,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 266428251,
+        "id_str": "266428251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "North Plains, Oregon",
+        "name": "Kevin Zuercher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266428251/1565765660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/881182373391482880/DPGf74TG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/881182373391482880/DPGf74TG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kzerker_or",
+        "statuses_count": 8179,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

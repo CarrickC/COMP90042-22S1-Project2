@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 18:10:58 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    112,
+                    123
+                ],
+                "text": "AmberAlert"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1059240924,
+                "id_str": "1059240924",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Steve Stockman",
+                "screen_name": "SteveWorks4You"
+            },
+            {
+                "id": 570911869,
+                "id_str": "570911869",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "Rising Dawn",
+                "screen_name": "DawnRiseth"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387278894367113216,
+    "id_str": "387278894367113216",
+    "in_reply_to_screen_name": "SteveWorks4You",
+    "in_reply_to_status_id": 387237225286479872,
+    "in_reply_to_status_id_str": "387237225286479872",
+    "in_reply_to_user_id": 1059240924,
+    "in_reply_to_user_id_str": "1059240924",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SteveWorks4You @DawnRiseth Who cares if little children are abducted or injured or even killed!? Shutting down #AmberAlert will show them!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 30 02:23:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just livin\u2019 in PA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10023,
+        "follow_request_sent": false,
+        "followers_count": 4873,
+        "following": false,
+        "friends_count": 5490,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27563757,
+        "id_str": "27563757",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Harleysville, PA",
+        "name": "JustAmerican",
+        "notifications": false,
+        "profile_background_color": "020B2E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27563757/1466381403",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744683693197791232/0yo8alKa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744683693197791232/0yo8alKa_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "planktonite",
+        "statuses_count": 23061,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

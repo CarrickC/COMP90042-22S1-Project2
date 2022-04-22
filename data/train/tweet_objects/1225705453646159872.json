@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 08:58:47 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "change.org",
+                "expanded_url": "http://change.org",
+                "indices": [
+                    61,
+                    84
+                ],
+                "url": "https://t.co/ZYP4yUk4Tx"
+            },
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1225705453646159872",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Hx1LjBTo4c"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2611134289,
+                "id_str": "2611134289",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "NDMA India | \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092a\u094d\u0930\u093e\u0927\u093f\u0915\u0930\u0923 \ud83c\uddee\ud83c\uddf3",
+                "screen_name": "ndmaindia"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    11,
+                    15
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1225705453646159872,
+    "id_str": "1225705453646159872",
+    "in_reply_to_screen_name": "ndmaindia",
+    "in_reply_to_status_id": 1225703746174242816,
+    "in_reply_to_status_id_str": "1225703746174242816",
+    "in_reply_to_user_id": 2611134289,
+    "in_reply_to_user_id_str": "2611134289",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        73.8031065,
+                        18.4571648
+                    ],
+                    [
+                        73.9656571,
+                        18.4571648
+                    ],
+                    [
+                        73.9656571,
+                        18.5843633
+                    ],
+                    [
+                        73.8031065,
+                        18.5843633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u092d\u093e\u0930\u0924",
+        "country_code": "IN",
+        "full_name": "Pune, India",
+        "id": "5c0761bdffa0cb64",
+        "name": "Pune",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c0761bdffa0cb64.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ndmaindia @WHO Now a days one of petition has been filed by https://t.co/ZYP4yUk4Tx\nasking the\u00a0External Affairs Mi\u2026 https://t.co/Hx1LjBTo4c",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 05 14:20:17 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1156,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1081555990288494592,
+        "id_str": "1081555990288494592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "India",
+        "name": "Manisha \ud83c\uddee\ud83c\uddf3",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081555990288494592/1558618242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081556578241794048/F6Pd5RVw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081556578241794048/F6Pd5RVw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nameisMANISHA",
+        "statuses_count": 786,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

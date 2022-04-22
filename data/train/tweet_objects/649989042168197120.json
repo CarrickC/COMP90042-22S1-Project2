@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 16:47:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 649989042168197120,
+    "id_str": "649989042168197120",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 649985459389661184,
+    "in_reply_to_status_id_str": "649985459389661184",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@nytimes It should not have happened. I know people who needed and wanted the Pope's blessing desperately. Baby with AT/RT cancer.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 30 20:56:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NASCAR, F1, Indycar fan; Dakar, love to read, cook, walk, watch films, human rights, Graduate St. Joe's PHL & University Pennsylvania MS Organizational Dynamics",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/janis.rothermel",
+                        "expanded_url": "http://www.facebook.com/janis.rothermel",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Uyb89NGPrP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12492,
+        "follow_request_sent": false,
+        "followers_count": 460,
+        "following": false,
+        "friends_count": 2436,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27726860,
+        "id_str": "27726860",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "NJ",
+        "name": "Janis Rothermel",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1598942794/891d4584-e02c-465a-a024-f1cad1d2dd7c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598942794/891d4584-e02c-465a-a024-f1cad1d2dd7c_normal.png",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JanisRothermel",
+        "statuses_count": 17803,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Uyb89NGPrP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

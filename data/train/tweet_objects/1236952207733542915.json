@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 09:49:22 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    38
+                ],
+                "text": "coronavirus"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1236952207733542915",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0h66E1JlLo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    46,
+                    54
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1236952207733542915,
+    "id_str": "1236952207733542915",
+    "in_reply_to_screen_name": "danmumbere",
+    "in_reply_to_status_id": 1236931190369792000,
+    "in_reply_to_status_id_str": "1236931190369792000",
+    "in_reply_to_user_id": 299035254,
+    "in_reply_to_user_id_str": "299035254",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Mar 09 09:29:28 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        78,
+                        86
+                    ],
+                    "text": "COVID19"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1236947198971125761",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/miZujNMNSQ"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 346680340,
+                    "id_str": "346680340",
+                    "indices": [
+                        24,
+                        36
+                    ],
+                    "name": "Federal Ministry of Health, NIGERIA",
+                    "screen_name": "Fmohnigeria"
+                }
+            ]
+        },
+        "favorite_count": 1006,
+        "favorited": false,
+        "geo": null,
+        "id": 1236947198971125761,
+        "id_str": "1236947198971125761",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1482,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The Honourable Minister @Fmohnigeria has announced a second confirmed case of #COVID19 in Nigeria.\n\nThis second cas\u2026 https://t.co/miZujNMNSQ",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 04 10:02:09 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account of the Nigeria Centre for Disease Control (NCDC) || Social Media Policy: https://t.co/atAH0s6OEF || https://t.co/rW5RtQvANI",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "ncdc.gov.ng/terms",
+                            "expanded_url": "http://ncdc.gov.ng/terms",
+                            "indices": [
+                                102,
+                                125
+                            ],
+                            "url": "https://t.co/atAH0s6OEF"
+                        },
+                        {
+                            "display_url": "covid19blog.ncdc.gov.ng",
+                            "expanded_url": "http://covid19blog.ncdc.gov.ng",
+                            "indices": [
+                                129,
+                                152
+                            ],
+                            "url": "https://t.co/rW5RtQvANI"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ncdc.gov.ng",
+                            "expanded_url": "http://www.ncdc.gov.ng",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/oMo7WnWdyM"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3333,
+            "follow_request_sent": false,
+            "followers_count": 1212310,
+            "following": false,
+            "friends_count": 384,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 705694814612938752,
+            "id_str": "705694814612938752",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 740,
+            "location": "Abuja, Nigeria",
+            "name": "NCDC",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/705694814612938752/1642103230",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314866929035862016/rO0-caQf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314866929035862016/rO0-caQf_normal.jpg",
+            "profile_link_color": "008443",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "NCDCgov",
+            "statuses_count": 13987,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/oMo7WnWdyM",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1236947198971125761,
+    "quoted_status_id_str": "1236947198971125761",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "- Nigeria confirms second #coronavirus case\n- @NCDCgov says victim is a close contact of the first case recorded on\u2026 https://t.co/0h66E1JlLo",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 15 11:45:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am starting with the man in the mirror.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ugandafact.org",
+                        "expanded_url": "https://ugandafact.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QCoeOr1HVo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8057,
+        "follow_request_sent": false,
+        "followers_count": 6354,
+        "following": false,
+        "friends_count": 1436,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 299035254,
+        "id_str": "299035254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 41,
+        "location": "",
+        "name": "#FactsUg \ud83c\uddfa\ud83c\uddec\ud83c\udde8\ud83c\uddec",
+        "notifications": false,
+        "profile_background_color": "F024E2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299035254/1649704870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499790201358585856/WpbxaPPd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499790201358585856/WpbxaPPd_normal.jpg",
+        "profile_link_color": "2BD9D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danmumbere",
+        "statuses_count": 33361,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QCoeOr1HVo",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

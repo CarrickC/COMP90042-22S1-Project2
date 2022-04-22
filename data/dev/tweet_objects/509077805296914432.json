@@ -1,0 +1,179 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 20:36:21 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    7
+                ],
+                "text": "Muslim"
+            },
+            {
+                "indices": [
+                    20,
+                    26
+                ],
+                "text": "Texas"
+            },
+            {
+                "indices": [
+                    39,
+                    44
+                ],
+                "text": "ISIS"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oHIB3oNXBZ",
+                "expanded_url": "https://twitter.com/jensan1332/status/509077805296914432/photo/1",
+                "id": 509077795440304129,
+                "id_str": "509077795440304129",
+                "indices": [
+                    64,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/BxCbjshCIAEw0nv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BxCbjshCIAEw0nv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/oHIB3oNXBZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oHIB3oNXBZ",
+                "expanded_url": "https://twitter.com/jensan1332/status/509077805296914432/photo/1",
+                "id": 509077795440304129,
+                "id_str": "509077795440304129",
+                "indices": [
+                    64,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/BxCbjshCIAEw0nv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BxCbjshCIAEw0nv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 453
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/oHIB3oNXBZ"
+            }
+        ]
+    },
+    "favorite_count": 19,
+    "favorited": false,
+    "geo": null,
+    "id": 509077805296914432,
+    "id_str": "509077805296914432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 89,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Muslim Arrested in #Texas Today With  #ISIS Flag on Body Armor http://t.co/oHIB3oNXBZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 26 14:14:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A #Conservative fighting to take back the country. Support the military, the Constitution, and the #TeaParty #CruzCrew #CruzToVictory",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 61521,
+        "follow_request_sent": false,
+        "followers_count": 6730,
+        "following": false,
+        "friends_count": 5711,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 342737639,
+        "id_str": "342737639",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 205,
+        "location": "Texas Female",
+        "name": "Jen from Texas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342737639/1395085025",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017231046646140929/J9QvU3z7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017231046646140929/J9QvU3z7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jensan1332",
+        "statuses_count": 224479,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 20:56:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            },
+            {
+                "id": 17138582,
+                "id_str": "17138582",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "CBC British Columbia",
+                "screen_name": "cbcnewsbc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525027834436149248,
+    "id_str": "525027834436149248",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 525024066152169473,
+    "in_reply_to_status_id_str": "525024066152169473",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBCAlerts @cbcnewsbc Saddened by this loss. A horrible day but our nation remains strong thanks to such brave souls.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 21 23:19:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "An 18-year veteran in communications/PR helping companies create, build and sustain value through communication . . . plus a news junkie and fitness fanatic!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "debbieparhar.com/blog/",
+                        "expanded_url": "http://debbieparhar.com/blog/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/makXOYDJKz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3114,
+        "follow_request_sent": false,
+        "followers_count": 381,
+        "following": false,
+        "friends_count": 471,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41700235,
+        "id_str": "41700235",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Vancouver",
+        "name": "Debbie B. Parhar",
+        "notifications": false,
+        "profile_background_color": "444444",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588418903392399360/g7xDpQQa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588418903392399360/g7xDpQQa_normal.jpg",
+        "profile_link_color": "417A00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "8BC648",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "debbieparhar",
+        "statuses_count": 3780,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/makXOYDJKz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

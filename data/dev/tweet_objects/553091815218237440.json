@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 08 07:32:19 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    16,
+                    29
+                ],
+                "text": "CharlieHebdo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553091815218237440,
+    "id_str": "553091815218237440",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 552984502063337472,
+    "in_reply_to_status_id_str": "552984502063337472",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AFP Go to hell #CharlieHebdo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 05 08:43:13 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Formanite #Cricket #Gym #Hollywood #AntiEstablishment #CivilianSupremecy",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30365,
+        "follow_request_sent": false,
+        "followers_count": 832,
+        "following": false,
+        "friends_count": 1281,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1150376528,
+        "id_str": "1150376528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Lahore, Pakistan",
+        "name": "Mian",
+        "notifications": false,
+        "profile_background_color": "435C99",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150376528/1497817571",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1448194144673873929/CORpvFvY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448194144673873929/CORpvFvY_normal.jpg",
+        "profile_link_color": "423BA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CivilSupremecy",
+        "statuses_count": 52901,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

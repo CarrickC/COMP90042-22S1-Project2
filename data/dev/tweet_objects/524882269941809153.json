@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 11:17:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20622594,
+                "id_str": "20622594",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Artnet",
+                "screen_name": "artnet"
+            },
+            {
+                "id": 3438603681,
+                "id_str": "3438603681",
+                "indices": [
+                    8,
+                    19
+                ],
+                "name": "xklamation",
+                "screen_name": "xklamation"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524882269941809153,
+    "id_str": "524882269941809153",
+    "in_reply_to_screen_name": "artnet",
+    "in_reply_to_status_id": 524881688825167872,
+    "in_reply_to_status_id_str": "524881688825167872",
+    "in_reply_to_user_id": 20622594,
+    "in_reply_to_user_id_str": "20622594",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@artnet @xklamation there was a story saying someone had vandalised it with black paint...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 18 23:20:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Journalist by trade. Interested in politics and philosophy. Currently reading Andrew Roberts's Churchill biography, Walking With Destiny.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "muckrack.com/matthew-wilson\u2026",
+                        "expanded_url": "https://muckrack.com/matthew-wilson-arts",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/88A64B5eQN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11135,
+        "follow_request_sent": false,
+        "followers_count": 542,
+        "following": false,
+        "friends_count": 3150,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19162120,
+        "id_str": "19162120",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Englandland",
+        "name": "Matthew Wilson",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19162120/1429620701",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330111524141142017/5j_ztJBw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330111524141142017/5j_ztJBw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "strawsonian",
+        "statuses_count": 7250,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/88A64B5eQN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

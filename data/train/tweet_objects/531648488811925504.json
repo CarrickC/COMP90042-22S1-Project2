@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 03:24:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42345999,
+                "id_str": "42345999",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "boogie2988 posting his L\u2019s",
+                "screen_name": "Boogie2988"
+            }
+        ]
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "geo": null,
+    "id": 531648488811925504,
+    "id_str": "531648488811925504",
+    "in_reply_to_screen_name": "Boogie2988",
+    "in_reply_to_status_id": 531648145613398016,
+    "in_reply_to_status_id_str": "531648145613398016",
+    "in_reply_to_user_id": 42345999,
+    "in_reply_to_user_id_str": "42345999",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Boogie2988 Grosssss, I like how it squirted on your hand a tiny bit at the end though XD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 21:21:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ohmwrecker - The Masked Gamer | Business:  ohm|at|ohmwrecker|dot|com Stream: https://t.co/dU2tm3jS6b | \ud83d\udd2ahttps://t.co/TLPIwAtUto \ud83d\udd2a | ohmwrecker.eth",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/ohmwrecker",
+                        "expanded_url": "http://twitch.tv/ohmwrecker",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "url": "https://t.co/dU2tm3jS6b"
+                    },
+                    {
+                        "display_url": "TinyKills.com",
+                        "expanded_url": "http://TinyKills.com",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "url": "https://t.co/TLPIwAtUto"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/maskedgamer",
+                        "expanded_url": "http://www.youtube.com/maskedgamer",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7rV3xuBaYT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14427,
+        "follow_request_sent": false,
+        "followers_count": 731101,
+        "following": false,
+        "friends_count": 539,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 25388164,
+        "id_str": "25388164",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 374,
+        "location": "USA",
+        "name": "Ohmwrecker",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25388164/1462334672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1446589689729847302/QlvNIxoc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446589689729847302/QlvNIxoc_normal.jpg",
+        "profile_link_color": "00B035",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ohmwrecker",
+        "statuses_count": 29992,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7rV3xuBaYT",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

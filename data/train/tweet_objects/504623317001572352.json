@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 13:35:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29849267,
+                "id_str": "29849267",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Howard Bloom",
+                "screen_name": "SportsBizNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504623317001572352,
+    "id_str": "504623317001572352",
+    "in_reply_to_screen_name": "SportsBizNews",
+    "in_reply_to_status_id": 504448356584677377,
+    "in_reply_to_status_id_str": "504448356584677377",
+    "in_reply_to_user_id": 29849267,
+    "in_reply_to_user_id_str": "29849267",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "text": "@SportsBizNews  BY 2017? Are you gonna change your mind or telling that its not what your really said in few days?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 01 11:20:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Site web d\u2019actualit\u00e9s sportives consacr\u00e9 exclusivement aux Nordiques de Qu\u00e9bec. Nouvelles, opinions, analyses et plus encore.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zonenordiques.com",
+                        "expanded_url": "http://www.zonenordiques.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/grIxXmaslC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1205,
+        "follow_request_sent": false,
+        "followers_count": 2321,
+        "following": false,
+        "friends_count": 878,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 161645871,
+        "id_str": "161645871",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 31,
+        "location": "Quebec",
+        "name": "ZoneNordiques.com",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161645871/1482087898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/721017261021073408/RFNH9ZOa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/721017261021073408/RFNH9ZOa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZoneNordiques",
+        "statuses_count": 17413,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/grIxXmaslC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

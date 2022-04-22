@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 21 02:57:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 238617719,
+                "id_str": "238617719",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "johanna",
+                "screen_name": "johannaihli"
+            },
+            {
+                "id": 5988062,
+                "id_str": "5988062",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "The Economist",
+                "screen_name": "TheEconomist"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 656665672013885441,
+    "id_str": "656665672013885441",
+    "in_reply_to_screen_name": "johannaihli",
+    "in_reply_to_status_id": 656664014429278208,
+    "in_reply_to_status_id_str": "656664014429278208",
+    "in_reply_to_user_id": 238617719,
+    "in_reply_to_user_id_str": "238617719",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@johannaihli @TheEconomist why specifically Muslim refugees? the logic about solving homelessness in America makes sense; but why not all?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 19:13:32 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software engineer working on AR/VR at @Meta. Previously on Mixed Reality at @Microsoft. Co-founder of @ACMilanClubPNW. ( \ud83c\uddf5\ud83c\uddf0 \ud83c\uddfa\ud83c\uddf8 ) Opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27742,
+        "follow_request_sent": false,
+        "followers_count": 522,
+        "following": false,
+        "friends_count": 1161,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 460433616,
+        "id_str": "460433616",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "Redmond, WA",
+        "name": "Muneeb Karim",
+        "notifications": false,
+        "profile_background_color": "FCC40F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/460433616/1393451404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1055897834841608192/ciQxZYEQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055897834841608192/ciQxZYEQ_normal.jpg",
+        "profile_link_color": "65E800",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KarimOfTheKrop",
+        "statuses_count": 32900,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

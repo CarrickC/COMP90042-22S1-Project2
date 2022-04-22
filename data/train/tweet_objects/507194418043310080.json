@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 03 15:52:27 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/66DviBGbgF",
+                "expanded_url": "https://twitter.com/UrbanCraziness/status/506656271517622272/photo/1",
+                "indices": [
+                    52,
+                    74
+                ],
+                "url": "http://t.co/66DviBGbgF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 759954668285988865,
+                "id_str": "759954668285988865",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "Urban",
+                "screen_name": "urbancraziness"
+            },
+            {
+                "id": 1239495325,
+                "id_str": "1239495325",
+                "indices": [
+                    76,
+                    87
+                ],
+                "name": "patrick mather",
+                "screen_name": "pattyboi96"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 507194418043310080,
+    "id_str": "507194418043310080",
+    "in_reply_to_screen_name": "ghetto",
+    "in_reply_to_status_id": 506656271517622272,
+    "in_reply_to_status_id_str": "506656271517622272",
+    "in_reply_to_user_id": 2565473791,
+    "in_reply_to_user_id_str": "2565473791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@UrbanCraziness: cant believe tupac is still alive http://t.co/66DviBGbgF\u201d @pattyboi96",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 22 05:02:04 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ecstasy&Euthanasia I wont go down in history but ill go down on your sister #scumbag",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 387,
+        "follow_request_sent": false,
+        "followers_count": 148,
+        "following": false,
+        "friends_count": 198,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 614866139,
+        "id_str": "614866139",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "based out in space ",
+        "name": "Beaker ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/614866139/1414302939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498687999522406400/GKhONEun_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498687999522406400/GKhONEun_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JustSomWhiteKid",
+        "statuses_count": 2859,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

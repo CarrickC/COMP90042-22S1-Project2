@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 20:38:33 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    89
+                ],
+                "text": "SM"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "facebook.com/ChickfilA/post\u2026",
+                "expanded_url": "https://www.facebook.com/ChickfilA/posts/10153092022750101?pnref=story",
+                "indices": [
+                    123,
+                    146
+                ],
+                "url": "https://t.co/J0Qc9rdajE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20562637,
+                "id_str": "20562637",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Business Insider",
+                "screen_name": "BusinessInsider"
+            },
+            {
+                "id": 16043308,
+                "id_str": "16043308",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Chick-fil-A, Inc.",
+                "screen_name": "ChickfilA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532271179953078272,
+    "id_str": "532271179953078272",
+    "in_reply_to_screen_name": "BusinessInsider",
+    "in_reply_to_status_id": 532206910796468224,
+    "in_reply_to_status_id_str": "532206910796468224",
+    "in_reply_to_user_id": 20562637,
+    "in_reply_to_user_id_str": "20562637",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@businessinsider @ChickfilA &gt;&gt;&gt;&gt;but they promote bad grammar on ALL their #SM accounts..Who are you TARGETING?!https://t.co/J0Qc9rdajE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 16 03:11:38 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udf1f #Receiver | #Sharer of #Light #OriginalYANGSTA: Former IA staff for @AndrewYang \ud83e\udde2\ud83e\udd13 #HIGHpriestess @SanctusExpedite\ud83c\udf39\ud83c\udf3f Founder @ #RefulgereResonance \u2b50\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "shor.by/CiNU",
+                        "expanded_url": "https://shor.by/CiNU",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6w5ZCuYY7X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1900,
+        "follow_request_sent": false,
+        "followers_count": 284,
+        "following": false,
+        "friends_count": 103,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16801244,
+        "id_str": "16801244",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Aetheral Flow",
+        "name": "miss_vi (High Priestess Sanctus Expeditus)\u2728\ud83c\udf39\ud83c\udf3f\u2728",
+        "notifications": false,
+        "profile_background_color": "7B787D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16801244/1603859544",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323390867361726466/xm5ROEKI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323390867361726466/xm5ROEKI_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000305",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "miss_vi",
+        "statuses_count": 2649,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6w5ZCuYY7X",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

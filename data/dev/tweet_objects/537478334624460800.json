@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 26 05:29:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36570365,
+                "id_str": "36570365",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "Brian",
+                "screen_name": "thebrinos"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537478334624460800,
+    "id_str": "537478334624460800",
+    "in_reply_to_screen_name": "thebrinos",
+    "in_reply_to_status_id": 537378640653475841,
+    "in_reply_to_status_id_str": "537378640653475841",
+    "in_reply_to_user_id": 36570365,
+    "in_reply_to_user_id_str": "36570365",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+    "text": "@supertascha @thebrinos sorta boxed self in too, not the brightest bulb just thinks he is, 'hoist on his own petard' :-)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 26 18:21:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are all in process of evo fr a band of chimps. We invented relig/Lang/cul-'race'=Nat fear of others chg 2 hate so can't unite/fix econ!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wefollow.com/DanCas2",
+                        "expanded_url": "http://wefollow.com/DanCas2",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CdZKPROwqg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12798,
+        "follow_request_sent": false,
+        "followers_count": 9094,
+        "following": false,
+        "friends_count": 9960,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 324489515,
+        "id_str": "324489515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2305,
+        "location": "California (o/18 :-)",
+        "name": "Dan Castro",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2823106901/692fb5daef8fe8edb3ad0dfa1a471e0a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2823106901/692fb5daef8fe8edb3ad0dfa1a471e0a_normal.jpeg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanCas2",
+        "statuses_count": 970445,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CdZKPROwqg",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

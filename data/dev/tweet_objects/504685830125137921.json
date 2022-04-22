@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 17:44:13 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    41
+                ],
+                "text": "IceBucketChallenge"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/AMsIg",
+                "expanded_url": "http://ow.ly/AMsIg",
+                "indices": [
+                    100,
+                    122
+                ],
+                "url": "http://t.co/b9EVGQeJl2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21416670,
+                "id_str": "21416670",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "The ALS Association",
+                "screen_name": "alsassociation"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504685830125137921,
+    "id_str": "504685830125137921",
+    "in_reply_to_screen_name": "alsassociation",
+    "in_reply_to_status_id": 504652021601800193,
+    "in_reply_to_status_id_str": "504652021601800193",
+    "in_reply_to_user_id": 21416670,
+    "in_reply_to_user_id_str": "21416670",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wow\n\u201c@alsassociation: #IceBucketChallenge donations exceed $94 million. Thank you for your support! http://t.co/b9EVGQeJl2\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 13 14:49:34 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mum to a wee Diva, love sports especially footy & golf.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17285,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 630,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 281567787,
+        "id_str": "281567787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Laura Shankland",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/281567787/1348991059",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2173783070/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2173783070/image_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LABDAS",
+        "statuses_count": 14382,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

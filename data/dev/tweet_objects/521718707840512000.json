@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 17:46:47 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    33,
+                    46
+                ],
+                "text": "EbolaEnChile"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521718707840512000,
+    "id_str": "521718707840512000",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lilduval @Xerial_killa lies,lol #EbolaEnChile",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 25 10:58:29 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Infinite queen \ud83d\udcaa\ud83c\udfff \n#OutOfOrder \ud83d\ude0e\ud83e\udd16",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9319,
+        "follow_request_sent": false,
+        "followers_count": 736,
+        "following": false,
+        "friends_count": 360,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2587299168,
+        "id_str": "2587299168",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Miss Taurus",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2587299168/1611605003",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353794959757946880/oNRYPw6e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353794959757946880/oNRYPw6e_normal.jpg",
+        "profile_link_color": "589ED2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A975A6",
+        "profile_text_color": "EE7B76",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "QueenFromDaEast",
+        "statuses_count": 3615,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 14 13:04:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238813141426933760",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/WGdsqwPhCr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4091551984,
+                "id_str": "4091551984",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Laurence Tribe",
+                "screen_name": "tribelaw"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1238813141426933760,
+    "id_str": "1238813141426933760",
+    "in_reply_to_screen_name": "tribelaw",
+    "in_reply_to_status_id": 1238812381603602439,
+    "in_reply_to_status_id_str": "1238812381603602439",
+    "in_reply_to_user_id": 4091551984,
+    "in_reply_to_user_id_str": "4091551984",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@tribelaw Not very much. Thought to be \u201cspray\u201d if through the air not floating around the same way influenza does.\u2026 https://t.co/WGdsqwPhCr",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 18 22:06:28 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Syneos Health Podcast host. First to publish rNPV. Jeopardy champ a lifetime ago. Seven kids. No, really. Opinions are mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "syneoshealth.com/perspectives/s\u2026",
+                        "expanded_url": "https://www.syneoshealth.com/perspectives/syneos-health-podcast-series",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/K1Ea149Kb0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12126,
+        "follow_request_sent": false,
+        "followers_count": 340,
+        "following": false,
+        "friends_count": 466,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2351416181,
+        "id_str": "2351416181",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Cary, NC",
+        "name": "Jeff Stewart",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2351416181/1530201185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317271036489011200/GRqYQiIB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317271036489011200/GRqYQiIB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rNPVJeff",
+        "statuses_count": 12272,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/K1Ea149Kb0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

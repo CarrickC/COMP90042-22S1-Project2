@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 21:27:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525035719518322688,
+    "id_str": "525035719518322688",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 525024066152169473,
+    "in_reply_to_status_id_str": "525024066152169473",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBCAlerts so sad! He stood unarmed.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 23 02:36:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "served as pastor at The Meeting House, now journeying thru Alz. Love people, outdoors, good books, and the beauty of church! \ud83c\udf08",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11806,
+        "follow_request_sent": false,
+        "followers_count": 216,
+        "following": false,
+        "friends_count": 360,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 711659546,
+        "id_str": "711659546",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Hamilton, Ontario",
+        "name": "Thelma Eisan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711659546/1395595274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/447791741576282112/lHfUqSGn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/447791741576282112/lHfUqSGn_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ThelmaEisan",
+        "statuses_count": 4093,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

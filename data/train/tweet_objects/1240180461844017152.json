@@ -1,0 +1,293 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 07:37:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240180461844017152",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/VJrjV5XgnM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 575231861,
+                "id_str": "575231861",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Kenya Met Department \ud83c\uddf0\ud83c\uddea",
+                "screen_name": "MeteoKenya"
+            },
+            {
+                "id": 2177957640,
+                "id_str": "2177957640",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "Road Alerts",
+                "screen_name": "RoadAlertsKE"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    26,
+                    30
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 113062227,
+                "id_str": "113062227",
+                "indices": [
+                    31,
+                    35
+                ],
+                "name": "World Meteorological Organization",
+                "screen_name": "WMO"
+            },
+            {
+                "id": 3377180045,
+                "id_str": "3377180045",
+                "indices": [
+                    36,
+                    51
+                ],
+                "name": "Ministry of Environment and Forestry Kenya",
+                "screen_name": "Environment_Ke"
+            },
+            {
+                "id": 4871317955,
+                "id_str": "4871317955",
+                "indices": [
+                    52,
+                    62
+                ],
+                "name": "Ministry of Health",
+                "screen_name": "MOH_Kenya"
+            },
+            {
+                "id": 1709806004,
+                "id_str": "1709806004",
+                "indices": [
+                    63,
+                    75
+                ],
+                "name": "Ministry of Transport Ke. (MoTIHUD & PW)",
+                "screen_name": "TransportKE"
+            },
+            {
+                "id": 605398694,
+                "id_str": "605398694",
+                "indices": [
+                    76,
+                    87
+                ],
+                "name": "ICPAC",
+                "screen_name": "icpac_igad"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240180461844017152,
+    "id_str": "1240180461844017152",
+    "in_reply_to_screen_name": "MeteoKenya",
+    "in_reply_to_status_id": 1240125105952428033,
+    "in_reply_to_status_id_str": "1240125105952428033",
+    "in_reply_to_user_id": 575231861,
+    "in_reply_to_user_id_str": "575231861",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Mar 17 00:06:59 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        32,
+                        38
+                    ],
+                    "text": "COVID"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1239704749232005121",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/jcjVuRzrYA"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 185993,
+        "favorited": false,
+        "geo": null,
+        "id": 1239704749232005121,
+        "id_str": "1239704749232005121",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 87793,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "So I\u2019m hearing many myths about #COVID-19 and would like to quickly clear the record. \n\nCoronavirus will go away in\u2026 https://t.co/jcjVuRzrYA",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 12 06:20:00 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Sharing pandemic tips from the COVID frontlines. VP/Chief Quality Officer/Chief of Infectious Diseases. University of Maryland UCH. Noise = Blocked",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linkedin.com/in/faheemyounus",
+                            "expanded_url": "http://www.linkedin.com/in/faheemyounus",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/AyeQYp3jvS"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11070,
+            "follow_request_sent": false,
+            "followers_count": 517924,
+            "following": false,
+            "friends_count": 399,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 389313566,
+            "id_str": "389313566",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1159,
+            "location": "Maryland, USA",
+            "name": "Faheem Younus, MD",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/389313566/1433042121",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1169080964087242752/MZqkv8tx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169080964087242752/MZqkv8tx_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FaheemYounus",
+            "statuses_count": 5214,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/AyeQYp3jvS",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1239704749232005121,
+    "quoted_status_id_str": "1239704749232005121",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MeteoKenya @RoadAlertsKE @WHO @WMO @Environment_Ke @MOH_Kenya @TransportKE @icpac_igad @dailynation\u2026 https://t.co/VJrjV5XgnM",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 22 12:32:33 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "God Is The Greatest. Work In Progress \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83c\udf93 Founder Of 254 Sneaker Heads Real Estate Agent",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/paul-kariuk\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/paul-kariuki-74b9a5110",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/enB3kJytab"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18601,
+        "follow_request_sent": false,
+        "followers_count": 591,
+        "following": false,
+        "friends_count": 639,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3648626174,
+        "id_str": "3648626174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Nairobi, Kenya",
+        "name": "Paul Kuria",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031621401525018624/AgpjLCWI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031621401525018624/AgpjLCWI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kuriapaull",
+        "statuses_count": 4809,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/enB3kJytab",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

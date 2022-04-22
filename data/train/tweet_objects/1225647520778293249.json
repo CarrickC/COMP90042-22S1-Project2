@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 05:08:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1225647520778293249",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/r2ZLrUXk8s"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 2218026914,
+                "id_str": "2218026914",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "World Health Organization Philippines",
+                "screen_name": "WHOPhilippines"
+            },
+            {
+                "id": 918829268372635648,
+                "id_str": "918829268372635648",
+                "indices": [
+                    39,
+                    53
+                ],
+                "name": "Dr Takeshi Kasai",
+                "screen_name": "takeshi_kasai"
+            },
+            {
+                "id": 531041640,
+                "id_str": "531041640",
+                "indices": [
+                    62,
+                    75
+                ],
+                "name": "KKMalaysia\ud83c\uddf2\ud83c\uddfe\ud83d\ude37",
+                "screen_name": "KKMPutrajaya"
+            },
+            {
+                "id": 538804810,
+                "id_str": "538804810",
+                "indices": [
+                    86,
+                    94
+                ],
+                "name": "WHO Centre for Health Development",
+                "screen_name": "WHOKobe"
+            },
+            {
+                "id": 855223341581336576,
+                "id_str": "855223341581336576",
+                "indices": [
+                    95,
+                    108
+                ],
+                "name": "AMR\u81e8\u5e8a\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u30bb\u30f3\u30bf\u30fc",
+                "screen_name": "AMRCRC_JAPAN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1225647520778293249,
+    "id_str": "1225647520778293249",
+    "in_reply_to_screen_name": "WHOWPRO",
+    "in_reply_to_status_id": 1223614129832775682,
+    "in_reply_to_status_id_str": "1223614129832775682",
+    "in_reply_to_user_id": 3794682452,
+    "in_reply_to_user_id_str": "3794682452",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHOWPRO @WHOPhilippines @WHO_Mongolia @takeshi_kasai @DOHgov @KKMPutrajaya @KoreaCDC @WHOKobe @AMRCRC_JAPAN\u2026 https://t.co/r2ZLrUXk8s",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 01 21:04:50 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3163,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2855589975,
+        "id_str": "2855589975",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "BV",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2855589975/1591396795",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323423052093251584/MX6DbLZ4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323423052093251584/MX6DbLZ4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bvargasdesign",
+        "statuses_count": 588,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 03 19:13:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnb.cx/1uAZg1X",
+                "expanded_url": "http://cnb.cx/1uAZg1X",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/SIJjrIm4St"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20402945,
+                "id_str": "20402945",
+                "indices": [
+                    4,
+                    9
+                ],
+                "name": "CNBC",
+                "screen_name": "CNBC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507245096677699584,
+    "id_str": "507245096677699584",
+    "in_reply_to_screen_name": "CNBC",
+    "in_reply_to_status_id": 507242819623587841,
+    "in_reply_to_status_id_str": "507242819623587841",
+    "in_reply_to_user_id": 20402945,
+    "in_reply_to_user_id_str": "20402945",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT: @CNBC: BREAKING: Tesla to choose Nevada for gigafactory, sources tell CNBC. http://t.co/SIJjrIm4St",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 21 05:53:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News Reporter for @NBCBayArea. CA born. WA raised. Gonzaga alum. \ud83c\uddfa\ud83c\uddf8/\ud83c\udde6\ud83c\uddfa",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/nbcian",
+                        "expanded_url": "http://instagram.com/nbcian",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kaonHSJVA6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18986,
+        "follow_request_sent": false,
+        "followers_count": 4720,
+        "following": false,
+        "friends_count": 1217,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 41538528,
+        "id_str": "41538528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 175,
+        "location": "San Francisco Bay Area, CA",
+        "name": "Ian Cull",
+        "notifications": false,
+        "profile_background_color": "1244D3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41538528/1623176032",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357614817175982084/1y7rM1YV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357614817175982084/1y7rM1YV_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0F0F0F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NBCian",
+        "statuses_count": 11946,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/kaonHSJVA6",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

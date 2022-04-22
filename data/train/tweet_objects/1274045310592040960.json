@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 19 18:24:07 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1274045310592040960",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/QbRlzoo7Xz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1124388082705260544,
+                "id_str": "1124388082705260544",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "RWC",
+                "screen_name": "Angrydoc24"
+            },
+            {
+                "id": 3577824986,
+                "id_str": "3577824986",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "El Duderino",
+                "screen_name": "thatdanhanna"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1274045310592040960,
+    "id_str": "1274045310592040960",
+    "in_reply_to_screen_name": "Angrydoc24",
+    "in_reply_to_status_id": 1274038436442202112,
+    "in_reply_to_status_id_str": "1274038436442202112",
+    "in_reply_to_user_id": 1124388082705260544,
+    "in_reply_to_user_id_str": "1124388082705260544",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Angrydoc24 @thatdanhanna That's just plain not true. We're not declining as a whole around the country but are hol\u2026 https://t.co/QbRlzoo7Xz",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 07 22:53:59 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Fan of the Bears, Bulls, Cubs, and Northwestern Wildcats. I write stuff for @DaBearsBlog. College chemistry professor and proud nerd.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 189510,
+        "follow_request_sent": false,
+        "followers_count": 12333,
+        "following": false,
+        "friends_count": 859,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1250219924,
+        "id_str": "1250219924",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 376,
+        "location": "",
+        "name": "Johnathan Wood",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250219924/1523023110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486758984862285825/Xv6mwFpp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486758984862285825/Xv6mwFpp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Johnathan_Wood1",
+        "statuses_count": 114676,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

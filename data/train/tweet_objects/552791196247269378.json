@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 11:37:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1xE3Qkz",
+                "expanded_url": "http://cnn.it/1xE3Qkz",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/mnAeA7j7fY"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 61,
+    "favorited": false,
+    "geo": null,
+    "id": 552791196247269378,
+    "id_str": "552791196247269378",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 220,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "BREAKING: At least 10 killed in shooting at French satirical newspaper Charlie Hebdo, Paris prosecutor's office says. http://t.co/mnAeA7j7fY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 24 10:48:14 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news from around the world, plus business, style, travel, sport and entertainment. We #gothere.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cnn.com/international",
+                        "expanded_url": "http://cnn.com/international",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/kdkv08KSgi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 128,
+        "follow_request_sent": false,
+        "followers_count": 13669645,
+        "following": false,
+        "friends_count": 369,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2097571,
+        "id_str": "2097571",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 48081,
+        "location": "Everywhere",
+        "name": "CNN International",
+        "notifications": false,
+        "profile_background_color": "3D4544",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097571/1497863018",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_normal.jpg",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cnni",
+        "statuses_count": 272872,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/kdkv08KSgi",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

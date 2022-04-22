@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 05 03:29:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1zNhyhD",
+                "expanded_url": "http://bit.ly/1zNhyhD",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/EzMACDIgvn"
+            },
+            {
+                "display_url": "pic.twitter.com/iF5Ra7g8ZB",
+                "expanded_url": "https://twitter.com/KarenCivil/status/551942365901250560/photo/1",
+                "indices": [
+                    113,
+                    135
+                ],
+                "url": "http://t.co/iF5Ra7g8ZB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16490974,
+                "id_str": "16490974",
+                "indices": [
+                    10,
+                    21
+                ],
+                "name": "Karen Civil",
+                "screen_name": "KarenCivil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551943627539509250,
+    "id_str": "551943627539509250",
+    "in_reply_to_screen_name": "KarenCivil",
+    "in_reply_to_status_id": 551942365901250560,
+    "in_reply_to_status_id_str": "551942365901250560",
+    "in_reply_to_user_id": 16490974,
+    "in_reply_to_user_id_str": "16490974",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Powerful \u201c@KarenCivil: President's Daughter Malia Obama Spotted Wearing A Pro Era T-Shirt http://t.co/EzMACDIgvn http://t.co/iF5Ra7g8ZB\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 11 09:20:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/KTzZn4wAXX",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ars-gratia-artis.co",
+                        "expanded_url": "http://www.ars-gratia-artis.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KTzZn4wAXX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2301,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23740644,
+        "id_str": "23740644",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Where the wild things are",
+        "name": "SCO",
+        "notifications": false,
+        "profile_background_color": "CCC0D3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432101332442357771/1pj88crk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432101332442357771/1pj88crk_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "7F7198",
+        "profile_sidebar_fill_color": "A33FD5",
+        "profile_text_color": "211A29",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sco_AGA",
+        "statuses_count": 31186,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

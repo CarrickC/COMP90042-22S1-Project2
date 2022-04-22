@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 22:05:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.forbes.com/60181seow",
+                "expanded_url": "http://on.forbes.com/60181seow",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/Fyq4A9aYLO"
+            },
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240036440832126978",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/xxIxzjBsC5"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "geo": null,
+    "id": 1240036440832126978,
+    "id_str": "1240036440832126978",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "What are the symptoms of COVID-19 coronavirus, and when should you see a doctor?\nhttps://t.co/Fyq4A9aYLO By\u2026 https://t.co/xxIxzjBsC5",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 23 19:32:37 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech news and insights from @Forbes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "forbes.com/innovation",
+                        "expanded_url": "https://www.forbes.com/innovation",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rgVdhzEYhw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 769,
+        "follow_request_sent": false,
+        "followers_count": 2782266,
+        "following": false,
+        "friends_count": 14587,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14885549,
+        "id_str": "14885549",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 32783,
+        "location": "",
+        "name": "Forbes Tech",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14885549/1557266237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1125882177303011330/UiIzccX9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125882177303011330/UiIzccX9_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "CCCCCC",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ForbesTech",
+        "statuses_count": 142045,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/rgVdhzEYhw",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

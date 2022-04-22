@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 16:31:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    45,
+                    53
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1238140557119160325,
+    "id_str": "1238140557119160325",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1237664804573253632,
+    "in_reply_to_status_id_str": "1237664804573253632",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO @WHOEMRO @WHOSEARO @WHO_Europe @WHOWPRO @pahowho @WHOAFRO You can also avoid using term \u201cpandemic\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 14:42:07 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 37,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1234489111735623680,
+        "id_str": "1234489111735623680",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "RW_Hippy",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234491446293602304/xgNqWhiP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234491446293602304/xgNqWhiP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rw_hippy",
+        "statuses_count": 39,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

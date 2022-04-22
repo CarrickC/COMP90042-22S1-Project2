@@ -1,0 +1,211 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 08 01:13:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/615NmoSMJr",
+                "expanded_url": "https://twitter.com/tobymgreen/status/641056800012238849/photo/1",
+                "id": 641056795604054016,
+                "id_str": "641056795604054016",
+                "indices": [
+                    95,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/COV9wlbUcAAn-GS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COV9wlbUcAAn-GS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "medium": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "small": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/615NmoSMJr"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18856867,
+                "id_str": "18856867",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "zerohedge",
+                "screen_name": "zerohedge"
+            },
+            {
+                "id": 2994951136,
+                "id_str": "2994951136",
+                "indices": [
+                    56,
+                    70
+                ],
+                "name": "Fight For 15 Chicago",
+                "screen_name": "chifightfor15"
+            },
+            {
+                "id": 2444711658,
+                "id_str": "2444711658",
+                "indices": [
+                    71,
+                    80
+                ],
+                "name": "15 Now Pdx",
+                "screen_name": "15NowPDX"
+            },
+            {
+                "id": 2919991375,
+                "id_str": "2919991375",
+                "indices": [
+                    82,
+                    94
+                ],
+                "name": "15 Now Oregon",
+                "screen_name": "15noworegon"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/615NmoSMJr",
+                "expanded_url": "https://twitter.com/tobymgreen/status/641056800012238849/photo/1",
+                "id": 641056795604054016,
+                "id_str": "641056795604054016",
+                "indices": [
+                    95,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/COV9wlbUcAAn-GS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COV9wlbUcAAn-GS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "medium": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "small": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 427
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/615NmoSMJr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 641056800012238849,
+    "id_str": "641056800012238849",
+    "in_reply_to_screen_name": "zerohedge",
+    "in_reply_to_status_id": 641050980985999360,
+    "in_reply_to_status_id_str": "641050980985999360",
+    "in_reply_to_user_id": 18856867,
+    "in_reply_to_user_id_str": "18856867",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@zerohedge Here is another pic if they do use computers @chifightfor15 @15NowPDX  @15noworegon http://t.co/615NmoSMJr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 06 22:59:06 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I came to Casablanca for the waters. I was badly misinformed.  So I started a podcast that you can subscribe to to feel better about yourself",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "podcasts.apple.com/us/podcast/we-\u2026",
+                        "expanded_url": "https://podcasts.apple.com/us/podcast/we-witness-your-story-w-toby-green/id1531656290",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Z5H3T7EGaC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20167,
+        "follow_request_sent": false,
+        "followers_count": 1100,
+        "following": false,
+        "friends_count": 2131,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 261896094,
+        "id_str": "261896094",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "",
+        "name": "Karaoke Lightsaber",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261896094/1534224274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872183313686962177/eCQOxnue_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872183313686962177/eCQOxnue_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tobymgreen",
+        "statuses_count": 26696,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Z5H3T7EGaC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

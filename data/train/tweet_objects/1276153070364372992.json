@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 25 13:59:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276153070364372992",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/wZTNTFDBc1"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1276153070364372992,
+    "id_str": "1276153070364372992",
+    "in_reply_to_screen_name": "DrTravisHeath",
+    "in_reply_to_status_id": 1276151846390956033,
+    "in_reply_to_status_id_str": "1276151846390956033",
+    "in_reply_to_user_id": 57790259,
+    "in_reply_to_user_id_str": "57790259",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201cIt\u2019s crazy how expensive insurance premiums have become and how healthcare has become tied to employment.\u201d\n\nWhen w\u2026 https://t.co/wZTNTFDBc1",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 17 23:28:59 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Associate Prof @UofDenver; Co-director IDP Trauma & Global Mental Health; Psychologist; \u201cNot a real Narrative Therapist\u201d; Proud @msudenver alum; Worked in NBA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ted.com/talks/travis_h\u2026",
+                        "expanded_url": "https://www.ted.com/talks/travis_heath_self_care_to_communities_of_care/up-next",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yMiAjilx7S"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11567,
+        "follow_request_sent": false,
+        "followers_count": 3280,
+        "following": false,
+        "friends_count": 1061,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 57790259,
+        "id_str": "57790259",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 88,
+        "location": "Denver, Colorado",
+        "name": "Travis Heath",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57790259/1636840956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508259513924788225/FZL0Fdec_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508259513924788225/FZL0Fdec_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrTravisHeath",
+        "statuses_count": 27682,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yMiAjilx7S",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

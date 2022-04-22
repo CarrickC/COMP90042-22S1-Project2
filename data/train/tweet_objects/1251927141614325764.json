@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 17:34:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251927141614325764",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/xaCxqfVoab"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 457984599,
+                "id_str": "457984599",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Breitbart News",
+                "screen_name": "BreitbartNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251927141614325764,
+    "id_str": "1251927141614325764",
+    "in_reply_to_screen_name": "BreitbartNews",
+    "in_reply_to_status_id": 1251923342078115843,
+    "in_reply_to_status_id_str": "1251923342078115843",
+    "in_reply_to_user_id": 457984599,
+    "in_reply_to_user_id_str": "457984599",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.080628,
+                        40.270674
+                    ],
+                    [
+                        -74.027624,
+                        40.270674
+                    ],
+                    [
+                        -74.027624,
+                        40.31435
+                    ],
+                    [
+                        -74.080628,
+                        40.31435
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Eatontown, NJ",
+        "id": "76b66bffefeceaeb",
+        "name": "Eatontown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/76b66bffefeceaeb.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BreitbartNews Why do we need it? It\u2019s based on what facts? Yes the Founding Fathers were white, males, and many ow\u2026 https://t.co/xaCxqfVoab",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 11 23:45:42 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative GOP. USA BORN of Cuban heritage; retired mutual fund sales executive. St. John\u2019s U Sports Editor The Torch 1973. Married 4 Grandkids",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16262,
+        "follow_request_sent": false,
+        "followers_count": 244,
+        "following": false,
+        "friends_count": 321,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1116487517786836993,
+        "id_str": "1116487517786836993",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "USA",
+        "name": "Richard Jimenez",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1116487517786836993/1631297891",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371504005587800067/6c9zA6Mw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371504005587800067/6c9zA6Mw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RichJimenez73",
+        "statuses_count": 6338,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

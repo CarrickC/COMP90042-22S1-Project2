@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 03 23:32:05 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1234984922269376512",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/XTDjkBbNtH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1056983615668740096,
+                "id_str": "1056983615668740096",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "love\u2764\ufe0f\ud83e\udd0e\ud83d\udc9c\ud83d\udc9b\ud83d\udda4\ud83e\udde1\ud83d\udc9a\ud83d\udc99\ud83e\udd0d",
+                "screen_name": "taylorl20716342"
+            },
+            {
+                "id": 558866314,
+                "id_str": "558866314",
+                "indices": [
+                    31,
+                    40
+                ],
+                "name": "Max Howroute\u25ab\ufe0f",
+                "screen_name": "howroute"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1234984922269376512,
+    "id_str": "1234984922269376512",
+    "in_reply_to_screen_name": "taylorl20716342",
+    "in_reply_to_status_id": 1234983497845989376,
+    "in_reply_to_status_id_str": "1234983497845989376",
+    "in_reply_to_user_id": 1056983615668740096,
+    "in_reply_to_user_id_str": "1056983615668740096",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -9.3668222,
+                        52.2799713
+                    ],
+                    [
+                        -8.1558156,
+                        52.2799713
+                    ],
+                    [
+                        -8.1558156,
+                        52.7568583
+                    ],
+                    [
+                        -9.3668222,
+                        52.7568583
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Limerick, Ireland",
+        "id": "54e862bb3ff2f749",
+        "name": "Limerick",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/54e862bb3ff2f749.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@taylorl20716342 @DuhJcrDriIg1 @howroute The WHO says this How long is the incubation period for COVID-19?\nThe \u201cinc\u2026 https://t.co/XTDjkBbNtH",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 24 18:02:24 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "certified dietary manager - retired - council alderman-retired- yoga teacher500 ryt, TM meditator- American Citizen",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "myibreatheyoga.com",
+                        "expanded_url": "http://myibreatheyoga.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/a2KnFwKSYC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 165066,
+        "follow_request_sent": false,
+        "followers_count": 1409,
+        "following": false,
+        "friends_count": 1314,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42251920,
+        "id_str": "42251920",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Sligo Ireland",
+        "name": "christa spillane \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddea",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42251920/1590789485",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/965777360158158848/KsQckpQq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/965777360158158848/KsQckpQq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "2006ta",
+        "statuses_count": 134726,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/a2KnFwKSYC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

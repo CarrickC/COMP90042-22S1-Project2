@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 03 03:23:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "onforb.es/1BU8P0v",
+                "expanded_url": "http://onforb.es/1BU8P0v",
+                "indices": [
+                    100,
+                    122
+                ],
+                "url": "http://t.co/HyAVG2YRf2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 91478624,
+                "id_str": "91478624",
+                "indices": [
+                    123,
+                    130
+                ],
+                "name": "Forbes",
+                "screen_name": "Forbes"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 562451406784069633,
+    "id_str": "562451406784069633",
+    "in_reply_to_screen_name": "Forbes",
+    "in_reply_to_status_id": 562256876763901953,
+    "in_reply_to_status_id_str": "562256876763901953",
+    "in_reply_to_user_id": 91478624,
+    "in_reply_to_user_id_str": "91478624",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\"Madden NFL 15\" predicted a Patriots victory over Seahawks, and predicted the final score of 28-24: http://t.co/HyAVG2YRf2 @Forbes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 18 23:23:17 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ABC @10News Weeknight Anchor. I'm addicted to major news, dark chocolate, strong coffee, and all things San Diego! On Facebook: https://t.co/gWKukV4wIg",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/KimberlyHunt10\u2026",
+                        "expanded_url": "https://www.facebook.com/KimberlyHunt10News",
+                        "indices": [
+                            128,
+                            151
+                        ],
+                        "url": "https://t.co/gWKukV4wIg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7543,
+        "follow_request_sent": false,
+        "followers_count": 16139,
+        "following": false,
+        "friends_count": 6013,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 467887852,
+        "id_str": "467887852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 490,
+        "location": "San Diego",
+        "name": "Kimberly Hunt",
+        "notifications": false,
+        "profile_background_color": "142B3B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467887852/1378300185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000408213667/548b5d4771fdbb9dab8465fe0c365486_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000408213667/548b5d4771fdbb9dab8465fe0c365486_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "10NewsHunt",
+        "statuses_count": 26086,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

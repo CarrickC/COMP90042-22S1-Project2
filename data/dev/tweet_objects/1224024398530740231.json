@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 02 17:38:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1224024398530740231",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/A2RbNhEeTC"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    45,
+                    53
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1224024398530740231,
+    "id_str": "1224024398530740231",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1223532656778010624,
+    "in_reply_to_status_id_str": "1223532656778010624",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO What about express delivery though? Given that items\u2026 https://t.co/A2RbNhEeTC",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 18:50:10 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udf04\ud83c\udfde\ufe0f\ud83c\udfd5\ufe0f\ud83c\udf07\ud83c\udf09\ud83d\udcf7\ud83d\udcda\ud83d\uddbc\ufe0f\ud83d\udd0c\ud83d\ude98\ud83c\udf0f\nBremen, Bremen, Germany.\n\u2661=bookmark. RT not necessarily endorsement, but the tweet seemed worth getting more attention.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "de.m.wikipedia.org/wiki/Moog-Synt\u2026",
+                        "expanded_url": "https://de.m.wikipedia.org/wiki/Moog-Synthesizer",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BEU8gH2IoY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29699,
+        "follow_request_sent": false,
+        "followers_count": 334,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3130877098,
+        "id_str": "3130877098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 105,
+        "location": "Deutschland",
+        "name": "\ud83c\uddfa\ud83c\udde6 #StandWithUkraine \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130877098/1583706079",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379050439040192515/-2mfxZRP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379050439040192515/-2mfxZRP_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_LeMoog_",
+        "statuses_count": 57522,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/BEU8gH2IoY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 12:55:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    10
+                ],
+                "text": "Vincennes"
+            },
+            {
+                "indices": [
+                    11,
+                    21
+                ],
+                "text": "Montrouge"
+            },
+            {
+                "indices": [
+                    32,
+                    41
+                ],
+                "text": "BREAKING"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    26,
+                    30
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553535440821575682,
+    "id_str": "553535440821575682",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 553534838880608256,
+    "in_reply_to_status_id_str": "553534838880608256",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#Vincennes #Montrouge RT \u201c@AFP: #BREAKING Gunman in policewoman killing suspected in new Paris hostage-taking: source\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 19 13:41:54 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Political reporter for Nine News in Canberra- @9newsaus . Opinions expressed here are mine and do not necessarily reflect those of my employer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 700,
+        "follow_request_sent": false,
+        "followers_count": 5110,
+        "following": false,
+        "friends_count": 3308,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 168491473,
+        "id_str": "168491473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 121,
+        "location": "Canberra, Australian Capital Territory",
+        "name": "Jonathan Kearsley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168491473/1534055419",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028529087164215296/ZznrFC2U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028529087164215296/ZznrFC2U_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jekearsley",
+        "statuses_count": 16703,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

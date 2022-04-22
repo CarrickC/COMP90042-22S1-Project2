@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 20:26:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3218894223,
+                "id_str": "3218894223",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Corazon Giorno",
+                "screen_name": "tchopstl"
+            },
+            {
+                "id": 236506960,
+                "id_str": "236506960",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "StrongerTogether\ud83d\udc99 (vaxed/boosted \ud83d\udc89)",
+                "screen_name": "brokenwing2005"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612718289517572096,
+    "id_str": "612718289517572096",
+    "in_reply_to_screen_name": "tchopstl_",
+    "in_reply_to_status_id": 612438528803213312,
+    "in_reply_to_status_id_str": "612438528803213312",
+    "in_reply_to_user_id": 9112032,
+    "in_reply_to_user_id_str": "9112032",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@tchopStL @brokenwing2005 oh my fuck ng god...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 22 14:46:19 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "... if you think you know my life ...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 170663,
+        "follow_request_sent": false,
+        "followers_count": 3494,
+        "following": false,
+        "friends_count": 4846,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 107429408,
+        "id_str": "107429408",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 160,
+        "location": "#hooligan",
+        "name": "Bet Not",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107429408/1355751889",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1046718530652123136/MvKze55c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046718530652123136/MvKze55c_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BetNot",
+        "statuses_count": 230688,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 28 23:12:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16630362,
+                "id_str": "16630362",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Source Magazine",
+                "screen_name": "TheSource"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538470588604747776,
+    "id_str": "538470588604747776",
+    "in_reply_to_screen_name": "TheSource",
+    "in_reply_to_status_id": 538408710084001793,
+    "in_reply_to_status_id_str": "538408710084001793",
+    "in_reply_to_user_id": 16630362,
+    "in_reply_to_user_id_str": "16630362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@THESOURCE Petty",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 18 10:12:04 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "An Administrative Manager for Kwakaf international, Kumasi -Ghana. We are into recruiting people to school and also work outside.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kwakafinternational.ca",
+                        "expanded_url": "http://www.kwakafinternational.ca",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ccKVA8AUYK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1361543516,
+        "id_str": "1361543516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "KUMASI - GHANA",
+        "name": "MICHAEL AMOANING - A",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361543516/1418203149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542609462058815488/mj3Gc7ME_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/542609462058815488/mj3Gc7ME_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nopard1100",
+        "statuses_count": 17,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ccKVA8AUYK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -113.56993753,
+            53.26814555
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Aug 27 00:35:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            },
+            {
+                "id": 57005320,
+                "id_str": "57005320",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Dustin Nielson",
+                "screen_name": "nielsonTSN1260"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.26814555,
+            -113.56993753
+        ],
+        "type": "Point"
+    },
+    "id": 504426975272787968,
+    "id_str": "504426975272787968",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -113.6007232,
+                        53.233624
+                    ],
+                    [
+                        -113.488449,
+                        53.233624
+                    ],
+                    [
+                        -113.488449,
+                        53.30883
+                    ],
+                    [
+                        -113.6007232,
+                        53.30883
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Leduc, Alberta",
+        "id": "0d7dd6fd5c932108",
+        "name": "Leduc",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0d7dd6fd5c932108.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@theScore @nielsonTSN1260 paging Ryan Malone...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 23:13:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "she loves me, she love me not",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3525,
+        "follow_request_sent": false,
+        "followers_count": 577,
+        "following": false,
+        "friends_count": 1717,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24064338,
+        "id_str": "24064338",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Edmonton, Alberta",
+        "name": "Big Papa Huge Time",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24064338/1588709553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404236417862037512/Tc6Vl3e2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404236417862037512/Tc6Vl3e2_normal.jpg",
+        "profile_link_color": "EB002D",
+        "profile_sidebar_border_color": "95674D",
+        "profile_sidebar_fill_color": "00214A",
+        "profile_text_color": "969696",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Grizz4327",
+        "statuses_count": 13409,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

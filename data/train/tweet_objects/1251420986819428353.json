@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 08:03:08 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251420986819428353",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Cnqhsh9YnK"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1251420986819428353,
+    "id_str": "1251420986819428353",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Is Covid-19 airborne?\n\nThe virus that causes COVID-19 is mainly transmitted through droplets generated when an infe\u2026 https://t.co/Cnqhsh9YnK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 04 08:59:42 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Empowering you to bring dev't to Akuse. Youth Led, dev't oriented community based org. Make Akuse great again. Promoters: @Samuel_amanor,  @Josh_korn1",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 143,
+        "follow_request_sent": false,
+        "followers_count": 106,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 915501669819064321,
+        "id_str": "915501669819064321",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Akuse, Ghana",
+        "name": "Akuse Youth for Impact Association",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915501669819064321/1626360847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415667374615797760/J36KNn85_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415667374615797760/J36KNn85_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AkuseY4Impact",
+        "statuses_count": 406,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 02 10:52:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 562201816201703424,
+    "id_str": "562201816201703424",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Squarespace @TheJeffBridges I would go Mad! Listeniing to that!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 19 14:37:31 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 57,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2299792428,
+        "id_str": "2299792428",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Donna Marmor",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DonnaMarmor",
+        "statuses_count": 1464,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

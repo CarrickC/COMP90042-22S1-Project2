@@ -1,0 +1,130 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 26 14:06:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276517080464896000",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jewNzKG0qH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 837421777190006785,
+                "id_str": "837421777190006785",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Wii Mix is a People\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddfa\ud83c\udde6",
+                "screen_name": "SwitchAtoll"
+            },
+            {
+                "id": 4446656720,
+                "id_str": "4446656720",
+                "indices": [
+                    28,
+                    41
+                ],
+                "name": "Scott Meyers \ud83e\udde2",
+                "screen_name": "ScottVMeyers"
+            },
+            {
+                "id": 704282873231237121,
+                "id_str": "704282873231237121",
+                "indices": [
+                    50,
+                    66
+                ],
+                "name": "Florian Krammer",
+                "screen_name": "florian_krammer"
+            },
+            {
+                "id": 4207961,
+                "id_str": "4207961",
+                "indices": [
+                    67,
+                    79
+                ],
+                "name": "Chris Hayes",
+                "screen_name": "chrislhayes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1276517080464896000,
+    "id_str": "1276517080464896000",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@green_realist @SwitchAtoll @ScottVMeyers @twpolk @florian_krammer @chrislhayes Look at you wearing your mask in ap\u2026 https://t.co/jewNzKG0qH",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 08 03:09:05 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "White Sox \u26be\ufe0f \ud83d\udc68\ud83c\udffb\u200d\ud83c\udfeb \ud83d\udcdd\ud83d\udcda\ud83c\udfa7\ud83c\udf9e\ud83c\udf7a\ud83e\udd69\ud83c\udfdc\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\u2708\ufe0f\ud83d\uddfa\ud83c\udf08\u270a\ud83c\udffd\u2744\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32394,
+        "follow_request_sent": false,
+        "followers_count": 796,
+        "following": false,
+        "friends_count": 1628,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4163727552,
+        "id_str": "4163727552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Albuquerque, NM",
+        "name": "semi-witty brad",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4163727552/1531579293",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505741914909388804/hF8Q-rDL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505741914909388804/hF8Q-rDL_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "semiwittybrad",
+        "statuses_count": 7691,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

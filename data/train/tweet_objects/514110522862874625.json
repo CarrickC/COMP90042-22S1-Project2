@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 17:54:35 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482952,
+                "id_str": "23482952",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Cosmopolitan",
+                "screen_name": "Cosmopolitan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514110522862874625,
+    "id_str": "514110522862874625",
+    "in_reply_to_screen_name": "Cosmopolitan",
+    "in_reply_to_status_id": 514109888138842113,
+    "in_reply_to_status_id_str": "514109888138842113",
+    "in_reply_to_user_id": 23482952,
+    "in_reply_to_user_id_str": "23482952",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@Cosmopolitan The funnies shot I ever seen",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 30 15:03:35 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "HANDIN AT THE CRIB",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 678,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2419120974,
+        "id_str": "2419120974",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "BIGPOE",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/452837177680859136/cpet7FOS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/452837177680859136/cpet7FOS_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ilupshaw",
+        "statuses_count": 135,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

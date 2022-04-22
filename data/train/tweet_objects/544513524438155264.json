@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 15:25:15 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gu.com/p/447xt/tw",
+                "expanded_url": "http://gu.com/p/447xt/tw",
+                "indices": [
+                    111,
+                    133
+                ],
+                "url": "http://t.co/c4xbud6a3m"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 21,
+    "favorited": false,
+    "geo": null,
+    "id": 544513524438155264,
+    "id_str": "544513524438155264",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 87,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Sydney siege: police enter cafe as hostages flee the scene, gunfire heard, reports of an injured person \u2013 live http://t.co/c4xbud6a3m",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 22 12:32:47 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/KXycIPGfHd",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "gu.com/supporter/guar\u2026",
+                        "expanded_url": "http://gu.com/supporter/guardiannews",
+                        "indices": [
+                            89,
+                            112
+                        ],
+                        "url": "https://t.co/KXycIPGfHd"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theguardian.com",
+                        "expanded_url": "http://www.theguardian.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PJxUC0RWyr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 3753824,
+        "following": false,
+        "friends_count": 1228,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 788524,
+        "id_str": "788524",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35078,
+        "location": "",
+        "name": "Guardian news",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/788524/1542015319",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+        "profile_link_color": "005789",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CAE3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "guardiannews",
+        "statuses_count": 306684,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/PJxUC0RWyr",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

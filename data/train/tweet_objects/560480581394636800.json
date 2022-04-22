@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 28 16:52:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560480581394636800,
+    "id_str": "560480581394636800",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Squarespace @TheJeffBridges Oh Jeff Bridges! :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 18 20:57:23 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-Head of Animation at Steamroller Studios \ud83e\uddd0 and master of rolling 1's \ud83e\uddd9\u200d\u2640\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vimeo.com/92781436",
+                        "expanded_url": "https://vimeo.com/92781436",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9tNNJdVKLB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19645,
+        "follow_request_sent": false,
+        "followers_count": 2065,
+        "following": false,
+        "friends_count": 1469,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1969597993,
+        "id_str": "1969597993",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 89,
+        "location": "Orlando, FL",
+        "name": "Amanda Renfroe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969597993/1614455381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1365750971746377729/uY4s6RTV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365750971746377729/uY4s6RTV_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Amanda_Renfroe",
+        "statuses_count": 2909,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9tNNJdVKLB",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

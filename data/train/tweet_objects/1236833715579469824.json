@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 01:58:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 251676964,
+                "id_str": "251676964",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Kay KEELY",
+                "screen_name": "KayKEELY"
+            },
+            {
+                "id": 23258865,
+                "id_str": "23258865",
+                "indices": [
+                    10,
+                    21
+                ],
+                "name": "Benjamin Siemon",
+                "screen_name": "BenjaminJS"
+            },
+            {
+                "id": 1074480192,
+                "id_str": "1074480192",
+                "indices": [
+                    22,
+                    33
+                ],
+                "name": "Senator Ted Cruz",
+                "screen_name": "SenTedCruz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1236833715579469824,
+    "id_str": "1236833715579469824",
+    "in_reply_to_screen_name": "KayKEELY",
+    "in_reply_to_status_id": 1236833310732664839,
+    "in_reply_to_status_id_str": "1236833310732664839",
+    "in_reply_to_user_id": 251676964,
+    "in_reply_to_user_id_str": "251676964",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KayKEELY @BenjaminJS @SenTedCruz Source? And, again he can be asymptomatic.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 28 18:00:16 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Medicine, law, military, politics, traveling, sports, history, animals, reading. Keep learning!! It\u2019s only Twitter, calm down!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20514,
+        "follow_request_sent": false,
+        "followers_count": 108,
+        "following": false,
+        "friends_count": 619,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1178006463186395136,
+        "id_str": "1178006463186395136",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "MotherTime1",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178006463186395136/1571898593",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232328461705936896/7Jz06gwd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232328461705936896/7Jz06gwd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Time1Mother",
+        "statuses_count": 10942,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

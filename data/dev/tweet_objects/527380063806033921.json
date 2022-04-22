@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 08:43:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/lJC5oIBG1w"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 290718724,
+                "id_str": "290718724",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Mojobreak",
+                "screen_name": "mojobreak_com"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    38,
+                    45
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527380063806033921,
+    "id_str": "527380063806033921",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "No more poker w/ Dan @mojobreak_com \n\u201c@cnnbrk: Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/lJC5oIBG1w\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 15 21:35:48 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "(DISCLAIMER: (Don\u2019t give two shits about your feelings ) Hobbyist \u2014 Entrepreneur \u2014 Family Man \u2014 All County Softball \u201804",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/thefairchildiii",
+                        "expanded_url": "https://www.twitch.tv/thefairchildiii",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CL7klO1TpV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6641,
+        "follow_request_sent": false,
+        "followers_count": 1951,
+        "following": false,
+        "friends_count": 510,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 11204662,
+        "id_str": "11204662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 68,
+        "location": "Down In History",
+        "name": "THE FAIRCHILD",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11204662/1642441787",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516923213883846657/XRqEpmok_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516923213883846657/XRqEpmok_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "_THEFAIRCHILD_",
+        "statuses_count": 66484,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CL7klO1TpV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

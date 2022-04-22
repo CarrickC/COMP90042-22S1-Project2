@@ -1,0 +1,150 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 16:26:55 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    50
+                ],
+                "text": "PrayForOttawa"
+            },
+            {
+                "indices": [
+                    52,
+                    59
+                ],
+                "text": "Ottawa"
+            },
+            {
+                "indices": [
+                    61,
+                    76
+                ],
+                "text": "ottawashooting"
+            },
+            {
+                "indices": [
+                    78,
+                    93
+                ],
+                "text": "CanadaShooting"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524960097563590656,
+    "id_str": "524960097563590656",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 524959809402331137,
+    "in_reply_to_status_id_str": "524959809402331137",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.353876,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        45.5356446
+                    ],
+                    [
+                        -76.353876,
+                        45.5356446
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Ottawa, Ontario",
+        "id": "38d5974e82ed1a6c",
+        "name": "Ottawa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@cnnbrk So sad. This is not right.\n\n#PrayForOttawa \n#Ottawa \n#ottawashooting \n#CanadaShooting",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 12 01:30:20 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "@southpark future enemy and PTC leader",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 38,
+        "following": false,
+        "friends_count": 984,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2287441302,
+        "id_str": "2287441302",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ottawa (for now)",
+        "name": "david cerres",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DCerres",
+        "statuses_count": 154,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

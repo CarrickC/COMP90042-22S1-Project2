@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -81.1053334,
+            37.9782619
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Jan 07 07:17:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.9782619,
+            -81.1053334
+        ],
+        "type": "Point"
+    },
+    "id": 552725716920725504,
+    "id_str": "552725716920725504",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 552706985087361025,
+    "in_reply_to_status_id_str": "552706985087361025",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.644739,
+                        37.201483
+                    ],
+                    [
+                        -77.7189303,
+                        37.201483
+                    ],
+                    [
+                        -77.7189303,
+                        40.638802
+                    ],
+                    [
+                        -82.644739,
+                        40.638802
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "West Virginia, USA",
+        "id": "2d83c71ce16cd187",
+        "name": "West Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BuzzFeed People are so cruel!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 29 06:12:17 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MOTHER. A WIFE . A VERY HARD WORKER!!LUV ALL KINDS OF MUSIC!REALLY LUV ME SOME MAROON5!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5679,
+        "follow_request_sent": false,
+        "followers_count": 767,
+        "following": false,
+        "friends_count": 1848,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 977702664,
+        "id_str": "977702664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "WEST VIRGINIA",
+        "name": "Tresa",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/977702664/1406094878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491823700048490499/34jiyPqW_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491823700048490499/34jiyPqW_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tresa45202513",
+        "statuses_count": 11588,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

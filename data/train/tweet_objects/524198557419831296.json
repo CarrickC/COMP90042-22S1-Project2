@@ -1,0 +1,206 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 14:00:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ujn8TCE9mF",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/Ujn8TCE9mF"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1t2ePlj",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/AWuGa5J514"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    67,
+                    79
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            },
+            {
+                "id": 811019724,
+                "id_str": "811019724",
+                "indices": [
+                    128,
+                    136
+                ],
+                "name": "T",
+                "screen_name": "A_Tack5"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ujn8TCE9mF",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/Ujn8TCE9mF"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524198557419831296,
+    "id_str": "524198557419831296",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@fxnscitech: Puppy-sized spider surprises scientist in rainforest @LiveScience | http://t.co/AWuGa5J514 http://t.co/Ujn8TCE9mF\u201d@A_Tack5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 11 21:09:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "4eva29 \n\nI \u2764\ufe0f the beach, hardcore beach gurl!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1487,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 751907228,
+        "id_str": "751907228",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Manchester ",
+        "name": "\u2600\ufe0fLiz Tack \u2600\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/751907228/1380831252",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476082832876797952/7mRpLTnz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476082832876797952/7mRpLTnz_normal.jpeg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Im2bz2knowLiz",
+        "statuses_count": 1269,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

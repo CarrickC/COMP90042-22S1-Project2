@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 01:35:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528359758018125825,
+    "id_str": "528359758018125825",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528312406498635777,
+    "in_reply_to_status_id_str": "528312406498635777",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@washingtonpost - this is incredible!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 05 03:35:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "VOA Int'l mulitimedia Broadcaster//Social Media & technology Reporter/women rights activist \nTweets don't represent VOA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "darivoa.com/author/23221.h\u2026",
+                        "expanded_url": "https://www.darivoa.com/author/23221.html",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/N14V6Ubj48"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6488,
+        "follow_request_sent": false,
+        "followers_count": 23720,
+        "following": false,
+        "friends_count": 1040,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 545658274,
+        "id_str": "545658274",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 142,
+        "location": "Washington, DC",
+        "name": "Zheela Noori",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/545658274/1588509136",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1493398298060800004/si0CEVXg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493398298060800004/si0CEVXg_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ZheelaJ",
+        "statuses_count": 24524,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/N14V6Ubj48",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:16:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 57775464,
+                "id_str": "57775464",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Nicholas J.C. Pistor",
+                "screen_name": "nickpistor"
+            },
+            {
+                "id": 6039302,
+                "id_str": "6039302",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "St. Louis Post-Dispatch",
+                "screen_name": "stltoday"
+            },
+            {
+                "id": 92613268,
+                "id_str": "92613268",
+                "indices": [
+                    22,
+                    38
+                ],
+                "name": "Christine Byers",
+                "screen_name": "ChristineDByers"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 538848920764297216,
+    "id_str": "538848920764297216",
+    "in_reply_to_screen_name": "nickpistor",
+    "in_reply_to_status_id": 538847758032310272,
+    "in_reply_to_status_id_str": "538847758032310272",
+    "in_reply_to_user_id": 57775464,
+    "in_reply_to_user_id_str": "57775464",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nickpistor @stltoday @ChristineDByers yeah right",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 12 04:26:47 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1856,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 609,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 942822631,
+        "id_str": "942822631",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Phoenix ",
+        "name": "Keisha",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/942822631/1594817601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1283384003551096833/rAP5HVk8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283384003551096833/rAP5HVk8_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Absolutely_Keis",
+        "statuses_count": 2627,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

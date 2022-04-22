@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 17 19:22:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lkQV8IdrFR",
+                "expanded_url": "https://twitter.com/ComplexMag/status/567765185407234049/photo/1",
+                "id": 567765185314979841,
+                "id_str": "567765185314979841",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B-EbbYqIgAEqpFf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B-EbbYqIgAEqpFf.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "medium": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "small": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 567765185407234049,
+                "source_status_id_str": "567765185407234049",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/lkQV8IdrFR"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/G0Je17O",
+                "expanded_url": "http://trib.al/G0Je17O",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/zqiLJONvKK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lkQV8IdrFR",
+                "expanded_url": "https://twitter.com/ComplexMag/status/567765185407234049/photo/1",
+                "id": 567765185314979841,
+                "id_str": "567765185314979841",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B-EbbYqIgAEqpFf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B-EbbYqIgAEqpFf.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "medium": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "small": {
+                        "h": 615,
+                        "resize": "fit",
+                        "w": 615
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 567765185407234049,
+                "source_status_id_str": "567765185407234049",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/lkQV8IdrFR"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 567765932265979904,
+    "id_str": "567765932265979904",
+    "in_reply_to_screen_name": "Complex",
+    "in_reply_to_status_id": 567765185407234049,
+    "in_reply_to_status_id_str": "567765185407234049",
+    "in_reply_to_user_id": 13049362,
+    "in_reply_to_user_id_str": "13049362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ComplexMag: Who from Krispy Kreme thought \"KKK Wednesday\" would be a good idea? http://t.co/zqiLJONvKK http://t.co/lkQV8IdrFR\u201d \ud83d\ude36",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 26 02:10:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cashapp: $antfonny | ricegang | A.Foster",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11612,
+        "follow_request_sent": false,
+        "followers_count": 236,
+        "following": false,
+        "friends_count": 145,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 287999189,
+        "id_str": "287999189",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Wichita, KS",
+        "name": "antfonny",
+        "notifications": false,
+        "profile_background_color": "B3AFB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287999189/1621187858",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432010111371808768/3OcY08B0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432010111371808768/3OcY08B0_normal.jpg",
+        "profile_link_color": "A31D38",
+        "profile_sidebar_border_color": "0A0A0A",
+        "profile_sidebar_fill_color": "4A464A",
+        "profile_text_color": "DBD0D6",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "In4m_Ant",
+        "statuses_count": 16092,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

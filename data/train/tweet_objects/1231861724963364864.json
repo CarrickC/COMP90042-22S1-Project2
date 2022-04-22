@@ -1,0 +1,236 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 08:41:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/AP/status/1231\u2026",
+                "expanded_url": "https://twitter.com/AP/status/1231856819028594688?s=19",
+                "indices": [
+                    7,
+                    30
+                ],
+                "url": "https://t.co/QfCKo0ea8J"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1231861724963364864,
+    "id_str": "1231861724963364864",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1231835437246926849,
+    "in_reply_to_status_id_str": "1231835437246926849",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "S\u00e3o Paulo, Brasil",
+        "id": "68e019afec7d0ba5",
+        "name": "S\u00e3o Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Feb 24 08:22:07 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1231856819028594688",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/J9SrX3xNPE"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 104,
+        "favorited": false,
+        "geo": null,
+        "id": 1231856819028594688,
+        "id_str": "1231856819028594688",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 94,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Iranian state TV says the death toll in the country from the new coronavirus has risen to 12, after four more peopl\u2026 https://t.co/J9SrX3xNPE",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 26 21:48:52 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "apnews.com",
+                            "expanded_url": "https://apnews.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/0HD7A9hKKy"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3829,
+            "follow_request_sent": false,
+            "followers_count": 15777487,
+            "following": false,
+            "friends_count": 6834,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 51241574,
+            "id_str": "51241574",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 104417,
+            "location": "Global",
+            "name": "The Associated Press",
+            "notifications": false,
+            "profile_background_color": "333333",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1638483576",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+            "profile_link_color": "CC3300",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AP",
+            "statuses_count": 316596,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/0HD7A9hKKy",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1231856819028594688,
+    "quoted_status_id_str": "1231856819028594688",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHO \ud83d\udccc https://t.co/QfCKo0ea8J",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 27 14:38:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A lonely ghost...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 301018,
+        "follow_request_sent": false,
+        "followers_count": 427,
+        "following": false,
+        "friends_count": 78,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 272957426,
+        "id_str": "272957426",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "S\u00e3o Paulo - Los Angeles",
+        "name": "Roger Bauer",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/913558162103562240/VgWU2ua4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/913558162103562240/VgWU2ua4_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mcastralli",
+        "statuses_count": 16872,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

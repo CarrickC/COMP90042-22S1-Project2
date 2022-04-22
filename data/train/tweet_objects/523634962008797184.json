@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 00:41:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 662323,
+                "id_str": "662323",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Raanan Bar-Cohen (raanan.eth)",
+                "screen_name": "raanan"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    8,
+                    21
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 523634962008797184,
+    "id_str": "523634962008797184",
+    "in_reply_to_screen_name": "pourmecoffee",
+    "in_reply_to_status_id": 523581212175392768,
+    "in_reply_to_status_id_str": "523581212175392768",
+    "in_reply_to_user_id": 16906137,
+    "in_reply_to_user_id_str": "16906137",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://stone.com/Twittelator\" rel=\"nofollow\">Twittelator</a>",
+    "text": "@raanan @pourmecoffee omg to see that crawling on the wall, I'd burn the house down",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 27 10:59:47 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like trains, weather, 90s grunge music, comedy, and being a real mofo. I am the engineer of https://t.co/PGtJcgxC5k where I write and talk about WordPress",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "wpmainline.com",
+                        "expanded_url": "http://www.wpmainline.com",
+                        "indices": [
+                            94,
+                            117
+                        ],
+                        "url": "https://t.co/PGtJcgxC5k"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jeffc.me",
+                        "expanded_url": "http://jeffc.me",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MQCpZG9Saj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15632,
+        "follow_request_sent": false,
+        "followers_count": 9257,
+        "following": false,
+        "friends_count": 628,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 797805,
+        "id_str": "797805",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 568,
+        "location": "Ohio",
+        "name": "Jeff",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/797805/1525745368",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1443258388046041094/1NtWGtOI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443258388046041094/1NtWGtOI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeffr0",
+        "statuses_count": 64808,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MQCpZG9Saj",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

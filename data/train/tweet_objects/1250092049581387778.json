@@ -1,0 +1,204 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 16:02:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ywyniSi5Ny",
+                "expanded_url": "https://twitter.com/Mr_Muyodi/status/1250092049581387778/video/1",
+                "id": 1250092030467899395,
+                "id_str": "1250092030467899395",
+                "indices": [
+                    70,
+                    93
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250092030467899395/pu/img/7iiXFb8M8xUxVwoF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250092030467899395/pu/img/7iiXFb8M8xUxVwoF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ywyniSi5Ny"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 68144803,
+                "id_str": "68144803",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "kelvin Mungai",
+                "screen_name": "kelvin__mungai"
+            },
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    16,
+                    31
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "display_url": "pic.twitter.com/ywyniSi5Ny",
+                "expanded_url": "https://twitter.com/Mr_Muyodi/status/1250092049581387778/video/1",
+                "id": 1250092030467899395,
+                "id_str": "1250092030467899395",
+                "indices": [
+                    70,
+                    93
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250092030467899395/pu/img/7iiXFb8M8xUxVwoF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250092030467899395/pu/img/7iiXFb8M8xUxVwoF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 352,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/ywyniSi5Ny",
+                "video_info": {
+                    "aspect_ratio": [
+                        20,
+                        11
+                    ],
+                    "duration_millis": 1481,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1250092030467899395/pu/vid/640x352/l_wg3-zw4nUJecOZ.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1250092030467899395/pu/vid/490x270/XKb8w83pUEEEubHc.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1250092030467899395/pu/pl/_Q0t9MBXyGkD45X3.m3u8?tag=10"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1250092049581387778,
+    "id_str": "1250092049581387778",
+    "in_reply_to_screen_name": "kelvin__mungai",
+    "in_reply_to_status_id": 1250086474785095680,
+    "in_reply_to_status_id_str": "1250086474785095680",
+    "in_reply_to_user_id": 68144803,
+    "in_reply_to_user_id_str": "68144803",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kelvin__mungai @citizentvkenya Ehhh!!! Jamaa ako na vituko kila time https://t.co/ywyniSi5Ny",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 08:03:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Heavens very own... #MadeIn1991",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5527,
+        "follow_request_sent": false,
+        "followers_count": 324,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 267060586,
+        "id_str": "267060586",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "M\u043e\u0441\u043a\u0432\u0430",
+        "name": "Isaac Muyodi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267060586/1411144405",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/513002931906678784/dspB30cu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/513002931906678784/dspB30cu_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mr_Muyodi",
+        "statuses_count": 11144,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

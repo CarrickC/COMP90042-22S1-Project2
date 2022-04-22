@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 03 20:09:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2371458720,
+                "id_str": "2371458720",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Ukraine Reporter",
+                "screen_name": "StateOfUkraine"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 496024968967487488,
+    "id_str": "496024968967487488",
+    "in_reply_to_screen_name": "StateOfUkraine",
+    "in_reply_to_status_id": 495583434954514432,
+    "in_reply_to_status_id_str": "495583434954514432",
+    "in_reply_to_user_id": 2371458720,
+    "in_reply_to_user_id_str": "2371458720",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@StateOfUkraine maybe the poor bird got diarrhea whilst listening ...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 02 10:08:49 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Physicist, likes hiking, nature, radios, hacking & electronics",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 247,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2323544288,
+        "id_str": "2323544288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "tHJM",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451313700289273856/dBY8yzL0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451313700289273856/dBY8yzL0_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hjmathes",
+        "statuses_count": 795,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

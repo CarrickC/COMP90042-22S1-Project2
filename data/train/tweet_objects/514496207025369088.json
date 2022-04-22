@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:27:09 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    60,
+                    82
+                ],
+                "url": "http://t.co/OaHSsT4893"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514496207025369088,
+    "id_str": "514496207025369088",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/OaHSsT4893\u201d shit \ud83d\ude01",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 20:26:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Life Size Action Figure | Fitness | Food | 4Runners | Outdoors",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/Datribrown",
+                        "expanded_url": "https://www.youtube.com/user/Datribrown",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/j5pB5W3xit"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4873,
+        "follow_request_sent": false,
+        "followers_count": 1006,
+        "following": false,
+        "friends_count": 861,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30059558,
+        "id_str": "30059558",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Oklahoma City, OK",
+        "name": "\u2605\u2605 DAEZJON \u2605\u2605",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30059558/1633040070",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1445107686148919309/POK1PvEI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445107686148919309/POK1PvEI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mustard_405",
+        "statuses_count": 51488,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/j5pB5W3xit",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

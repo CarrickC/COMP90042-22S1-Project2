@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 06 20:10:02 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    74
+                ],
+                "text": "ActionIntell"
+            },
+            {
+                "indices": [
+                    75,
+                    83
+                ],
+                "text": "hpsplit"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "action-intell.com/2014/10/06/the\u2026",
+                "expanded_url": "http://www.action-intell.com/2014/10/06/the-great-divide-hp-splits-in-two/",
+                "indices": [
+                    38,
+                    60
+                ],
+                "url": "http://t.co/dwJszcUALx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 468082397,
+                "id_str": "468082397",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Marcelo Prince",
+                "screen_name": "marcelolprince"
+            },
+            {
+                "id": 3108351,
+                "id_str": "3108351",
+                "indices": [
+                    16,
+                    20
+                ],
+                "name": "The Wall Street Journal",
+                "screen_name": "WSJ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519218041230741504,
+    "id_str": "519218041230741504",
+    "in_reply_to_screen_name": "marcelolprince",
+    "in_reply_to_status_id": 519178213441167360,
+    "in_reply_to_status_id_str": "519178213441167360",
+    "in_reply_to_user_id": 468082397,
+    "in_reply_to_user_id_str": "468082397",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@marcelolprince @WSJ Get our take at: http://t.co/dwJszcUALx #ActionIntell #hpsplit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 05 22:18:59 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The leading source for news, analysis & research on the digital printer/MFP industry and the original & 3rd-party consumables biz.\ud83d\udce9Subscribe today!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "action-intell.com",
+                        "expanded_url": "http://www.action-intell.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PO3iAUDTy3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2803,
+        "follow_request_sent": false,
+        "followers_count": 1699,
+        "following": false,
+        "friends_count": 1882,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 223269129,
+        "id_str": "223269129",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "Franklin, MA",
+        "name": "Action Intell",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223269129/1563558756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/950409944615931904/Xct6WKgW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/950409944615931904/Xct6WKgW_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ActionIntell",
+        "statuses_count": 13600,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PO3iAUDTy3",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

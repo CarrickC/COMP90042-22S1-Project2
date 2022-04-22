@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 05:44:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gotnews.com",
+                "expanded_url": "http://gotnews.com",
+                "indices": [
+                    49,
+                    71
+                ],
+                "url": "http://t.co/N5nQZCtbeH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30488144,
+                "id_str": "30488144",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Hari Kondabolu",
+                "screen_name": "harikondabolu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538931437492133889,
+    "id_str": "538931437492133889",
+    "in_reply_to_screen_name": "harikondabolu",
+    "in_reply_to_status_id": 538930446814703616,
+    "in_reply_to_status_id_str": "538930446814703616",
+    "in_reply_to_user_id": 30488144,
+    "in_reply_to_user_id_str": "30488144",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@harikondabolu The only source for this claim is http://t.co/N5nQZCtbeH, run by Chuck Johnson, a RWNJ and serial liar. He is trolling.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 21 00:43:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48373,
+        "follow_request_sent": false,
+        "followers_count": 2017,
+        "following": false,
+        "friends_count": 3383,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49175101,
+        "id_str": "49175101",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 63,
+        "location": "Los Angeles, CA",
+        "name": "Maureen Damian",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/437028846768885760/E1xIxAvj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/437028846768885760/E1xIxAvj_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FactsMatter",
+        "statuses_count": 65565,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

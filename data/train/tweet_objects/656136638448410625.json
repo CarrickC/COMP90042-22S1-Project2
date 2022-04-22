@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 15:55:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gofundme.com/geowill",
+                "expanded_url": "https://www.gofundme.com/geowill",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/lBfVhEi7wq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 656136638448410625,
+    "id_str": "656136638448410625",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 656047932093763584,
+    "in_reply_to_status_id_str": "656047932093763584",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@cnnbrk \n\nhttps://t.co/lBfVhEi7wq \n\nPlease help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 13 13:50:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 15,
+        "following": false,
+        "friends_count": 188,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 281542019,
+        "id_str": "281542019",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "houston texas",
+        "name": "Gary Wayne Stunner",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/281542019/1370109983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3452749529/a9bb598fd520a0fc602aaf5bc75ef1b8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3452749529/a9bb598fd520a0fc602aaf5bc75ef1b8_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lillyemi1",
+        "statuses_count": 197,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 06 07:03:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247057339133263872",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/5th8r7sJnL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1041491786844135424,
+                "id_str": "1041491786844135424",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "John Adams",
+                "screen_name": "adamseconomics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1247057339133263872,
+    "id_str": "1247057339133263872",
+    "in_reply_to_screen_name": "adamseconomics",
+    "in_reply_to_status_id": 1247006523647119360,
+    "in_reply_to_status_id_str": "1247006523647119360",
+    "in_reply_to_user_id": 1041491786844135424,
+    "in_reply_to_user_id_str": "1041491786844135424",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@adamseconomics Just an extension of the fear narrative, we actually already have the Virus in us in different form\u2026 https://t.co/5th8r7sJnL",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 08 03:03:25 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Algorithmic -Gold and Market Index Trader",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2575,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 278851851,
+        "id_str": "278851851",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Australia",
+        "name": "RealityTrader",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278851851/1536069653",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256710980471414784/SB1-voVX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256710980471414784/SB1-voVX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "densalv",
+        "statuses_count": 6184,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

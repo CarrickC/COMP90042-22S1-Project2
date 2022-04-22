@@ -1,0 +1,127 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 13 22:33:36 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    11
+                ],
+                "text": "developing"
+            },
+            {
+                "indices": [
+                    104,
+                    109
+                ],
+                "text": "ISIS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510919251453304833,
+    "id_str": "510919251453304833",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 510918747188514816,
+    "in_reply_to_status_id_str": "510918747188514816",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#developing\nRT @FoxNews: BREAKING: Video claims to show beheading of British aid worker David Haines by #ISIS.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 31 23:36:58 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Get the latest headlines from Houston news, sports, and weather. Photo submission disclosure - https://t.co/55ElR9G8AJ",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2zAwVGO",
+                        "expanded_url": "http://bit.ly/2zAwVGO",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "url": "https://t.co/55ElR9G8AJ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Fox26Houston.com",
+                        "expanded_url": "http://www.Fox26Houston.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lnNjot9wa1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 62454,
+        "follow_request_sent": false,
+        "followers_count": 351102,
+        "following": false,
+        "friends_count": 4528,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17094323,
+        "id_str": "17094323",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1881,
+        "location": "Houston, Texas",
+        "name": "FOX26Houston",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17094323/1636737063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1459207114296078336/qho8DEyp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459207114296078336/qho8DEyp_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FOX26Houston",
+        "statuses_count": 407278,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lnNjot9wa1",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 23:26:33 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 712057842748887045,
+    "id_str": "712057842748887045",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 711949531877773312,
+    "in_reply_to_status_id_str": "711949531877773312",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+    "text": "@Gotham3 Bahahahaha",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 22:17:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#PFS District Leader-Rhythm guitar -lead rock singer~ #Entrepreneur #Global #Networker \ud83c\uddfa\ud83c\uddf8 \ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7 Success is right around your corner!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/lima58",
+                        "expanded_url": "https://twitter.com/lima58",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gF6vWcWhAI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56473,
+        "follow_request_sent": false,
+        "followers_count": 3581,
+        "following": false,
+        "friends_count": 4998,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 102496183,
+        "id_str": "102496183",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 307,
+        "location": "North Hills,Ca,USA",
+        "name": "John R Sandoval",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102496183/1428956605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1423703485007089665/PGdz82Q6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423703485007089665/PGdz82Q6_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lima58",
+        "statuses_count": 40672,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gF6vWcWhAI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

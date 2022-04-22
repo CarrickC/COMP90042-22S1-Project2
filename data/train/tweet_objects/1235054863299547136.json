@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 04 04:10:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1235054863299547136",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/KCCrS3ec6g"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 1235054863299547136,
+    "id_str": "1235054863299547136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Are hand dryers effective in killing the new coronavirus?\n\nSee below the answer.\n\nLearn more how to protect yoursel\u2026 https://t.co/KCCrS3ec6g",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 31 05:59:54 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A UN specialized agency collaborating with the Royal Thai Government, UN Country Team and other partners towards health protection and development in Thailand.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "who.int/thailand",
+                        "expanded_url": "http://who.int/thailand",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TP6BbRb0C6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1123,
+        "follow_request_sent": false,
+        "followers_count": 74533,
+        "following": false,
+        "friends_count": 611,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 479264032,
+        "id_str": "479264032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 263,
+        "location": "Nonthaburi, Thailand",
+        "name": "WHO Thailand",
+        "notifications": false,
+        "profile_background_color": "59BEE4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/479264032/1649662237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516338425032765444/qFTWS4mW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516338425032765444/qFTWS4mW_normal.jpg",
+        "profile_link_color": "8FCAE0",
+        "profile_sidebar_border_color": "4BB7DF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHOThailand",
+        "statuses_count": 7299,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TP6BbRb0C6",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

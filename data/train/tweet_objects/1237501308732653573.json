@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 10 22:11:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 916169412,
+                "id_str": "916169412",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Ryan Mullahy",
+                "screen_name": "OGRyanMullahy"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1237501308732653573,
+    "id_str": "1237501308732653573",
+    "in_reply_to_screen_name": "OGRyanMullahy",
+    "in_reply_to_status_id": 1237491167908020224,
+    "in_reply_to_status_id_str": "1237491167908020224",
+    "in_reply_to_user_id": 916169412,
+    "in_reply_to_user_id_str": "916169412",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@OGRyanMullahy No I just hate mosquitos",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 06 17:02:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#fatheroftheyear 2014-15 contributor for @thedad",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48491,
+        "follow_request_sent": false,
+        "followers_count": 13976,
+        "following": false,
+        "friends_count": 945,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 72075547,
+        "id_str": "72075547",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 128,
+        "location": "Boston, MA",
+        "name": "bottlerocket",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72075547/1609016264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1446478227829035008/Z8dtM7ds_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446478227829035008/Z8dtM7ds_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bottlerocket",
+        "statuses_count": 34811,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

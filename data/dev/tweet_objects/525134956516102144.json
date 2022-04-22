@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 04:01:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525134956516102144,
+    "id_str": "525134956516102144",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525134787778850818,
+    "in_reply_to_status_id_str": "525134787778850818",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC I'll pass.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 15 23:19:44 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "called Dad by twins, sometime scribe, Packer Nation, MOD who leans right, JHC strong, self-proclaimed greatest dungeon master in the world, cookie monster",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 562,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 760370191,
+        "id_str": "760370191",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Green Bay",
+        "name": "Shawneuser",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760370191/1407892982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2509272157/rimjkuh3n0e9kqgmb7aj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2509272157/rimjkuh3n0e9kqgmb7aj_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shawneuser",
+        "statuses_count": 5172,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

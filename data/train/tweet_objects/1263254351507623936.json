@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 20 23:44:42 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    52,
+                    55
+                ],
+                "text": "NZ"
+            },
+            {
+                "indices": [
+                    56,
+                    62
+                ],
+                "text": "ivory"
+            },
+            {
+                "indices": [
+                    73,
+                    87
+                ],
+                "text": "TIESActReview"
+            },
+            {
+                "indices": [
+                    97,
+                    100
+                ],
+                "text": "UK"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1263254351507623936",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/BHBLjhtbyd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 429452117,
+                "id_str": "429452117",
+                "indices": [
+                    34,
+                    46
+                ],
+                "name": "Eugenie Sage",
+                "screen_name": "EugenieSage"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1263254351507623936,
+    "id_str": "1263254351507623936",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\udc18When can we expect to hear from \u2066@EugenieSage\u2069 re: #NZ #ivory ban &amp; #TIESActReview results? #UK Court of Appeal di\u2026 https://t.co/BHBLjhtbyd",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 13 02:02:45 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mum\ud83c\udf38Gordon Consulting-Environmental Policy&Projects\ud83c\udf33Regional Councillor\ud83c\uddf3\ud83c\uddff Jane Goodall Institute NZ Ambassador #TrulyGlobalResponse #NewDealForNature",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gordonconsulting.org",
+                        "expanded_url": "http://www.gordonconsulting.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DiFRsZzWpU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31817,
+        "follow_request_sent": false,
+        "followers_count": 1146,
+        "following": false,
+        "friends_count": 2134,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1424440531,
+        "id_str": "1424440531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 130,
+        "location": "New Zealand",
+        "name": "Fiona Gordon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1424440531/1462081522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745445176496164864/DjzF2EuB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745445176496164864/DjzF2EuB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Fee_Gordon",
+        "statuses_count": 20802,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/DiFRsZzWpU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

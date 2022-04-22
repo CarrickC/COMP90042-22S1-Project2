@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 04:32:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 95023423,
+                "id_str": "95023423",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "UberFacts",
+                "screen_name": "UberFacts"
+            },
+            {
+                "id": 887374378425622528,
+                "id_str": "887374378425622528",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "Austin",
+                "screen_name": "fistinsquidward"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527317118380154880,
+    "id_str": "527317118380154880",
+    "in_reply_to_screen_name": "UberFacts",
+    "in_reply_to_status_id": 527162170531151872,
+    "in_reply_to_status_id_str": "527162170531151872",
+    "in_reply_to_user_id": 95023423,
+    "in_reply_to_user_id_str": "95023423",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UberFacts @fistinsquidward I'm puking",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 28 02:12:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "dog mom \ud83d\udc3e & plant mom \ud83c\udf31",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7137,
+        "follow_request_sent": false,
+        "followers_count": 313,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 343778663,
+        "id_str": "343778663",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "karissa",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343778663/1595038159",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290449314720837632/bh-pqu4t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290449314720837632/bh-pqu4t_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "B6D1E0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "justkarissa",
+        "statuses_count": 31892,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

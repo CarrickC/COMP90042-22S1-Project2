@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 08 08:24:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "wordcraftandstatecraft.blogspot.in/2015/01/je-sui\u2026",
+                "expanded_url": "http://wordcraftandstatecraft.blogspot.in/2015/01/je-suis-charlie-hebdo-indiscreet-charms.html",
+                "indices": [
+                    15,
+                    37
+                ],
+                "url": "http://t.co/eb8mgdzOtt"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 21291400,
+                "id_str": "21291400",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Daniel Demoustier",
+                "screen_name": "dandemoustier"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553104982959202304,
+    "id_str": "553104982959202304",
+    "in_reply_to_screen_name": "dandemoustier",
+    "in_reply_to_status_id": 553103772852191233,
+    "in_reply_to_status_id_str": "553103772852191233",
+    "in_reply_to_user_id": 21291400,
+    "in_reply_to_user_id_str": "21291400",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        79.599774,
+                        11.774197
+                    ],
+                    [
+                        79.843263,
+                        11.774197
+                    ],
+                    [
+                        79.843263,
+                        12.033405
+                    ],
+                    [
+                        79.599774,
+                        12.033405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u092d\u093e\u0930\u0924",
+        "country_code": "IN",
+        "full_name": "\u092a\u0949\u0928\u094d\u0921\u093f\u091a\u0947\u0930\u0940, \u092d\u093e\u0930\u0924",
+        "id": "44b7fc0bad0eae8d",
+        "name": "\u092a\u0949\u0928\u094d\u0921\u093f\u091a\u0947\u0930\u0940",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@dandemoustier http://t.co/eb8mgdzOtt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 12 15:24:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a historian working in Pondicherry University as a Professor of History. I took my Ph D in History from the University of Hawaii at Manoa.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wordcraftandstatecraft.blogspot.com",
+                        "expanded_url": "http://wordcraftandstatecraft.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QlKBB4AyMT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 6,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 132200534,
+        "id_str": "132200534",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Pondicherry",
+        "name": "Bahu Virupaksha",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/508170645515931648/epa89Gxx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/508170645515931648/epa89Gxx_normal.jpeg",
+        "profile_link_color": "AA00B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Bahuviru",
+        "statuses_count": 93,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/QlKBB4AyMT",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

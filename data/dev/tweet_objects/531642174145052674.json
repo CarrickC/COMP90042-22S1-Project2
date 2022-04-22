@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 02:59:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 531642174145052674,
+    "id_str": "531642174145052674",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@IGN Yep \u270c\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 23 10:05:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "song.link/us/i/1609005234",
+                        "expanded_url": "https://song.link/us/i/1609005234",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/X77IwJoL4v"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7684,
+        "follow_request_sent": false,
+        "followers_count": 51001,
+        "following": false,
+        "friends_count": 445,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 340826783,
+        "id_str": "340826783",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 111,
+        "location": "Spokane, WA",
+        "name": "bennsuede",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/340826783/1649630523",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513286167139172357/l3z6kfKL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513286167139172357/l3z6kfKL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BennSuede",
+        "statuses_count": 28790,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/X77IwJoL4v",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

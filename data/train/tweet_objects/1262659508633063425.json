@@ -1,0 +1,263 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 19 08:21:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1262659508633063425",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/gEDeiDHfoy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 885425256797798401,
+                "id_str": "885425256797798401",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Jim Grace",
+                "screen_name": "mac_puck"
+            },
+            {
+                "id": 19064891,
+                "id_str": "19064891",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Jamie Woodhouse",
+                "screen_name": "JamieWoodhouse"
+            },
+            {
+                "id": 412548718,
+                "id_str": "412548718",
+                "indices": [
+                    26,
+                    42
+                ],
+                "name": "Kit Yates",
+                "screen_name": "Kit_Yates_Maths"
+            },
+            {
+                "id": 626660983,
+                "id_str": "626660983",
+                "indices": [
+                    43,
+                    56
+                ],
+                "name": "Lyman Stone \u77f3\u4f86\u6c11 \ud83e\uddac\ud83e\uddac\ud83e\uddac",
+                "screen_name": "lymanstoneky"
+            },
+            {
+                "id": 3301743261,
+                "id_str": "3301743261",
+                "indices": [
+                    57,
+                    71
+                ],
+                "name": "Andrew Lilico",
+                "screen_name": "andrew_lilico"
+            },
+            {
+                "id": 1243894079211081728,
+                "id_str": "1243894079211081728",
+                "indices": [
+                    72,
+                    87
+                ],
+                "name": "El Laurence #FBPE #BorisLiedPeopleDied",
+                "screen_name": "bajhanlaurence"
+            },
+            {
+                "id": 305073570,
+                "id_str": "305073570",
+                "indices": [
+                    100,
+                    112
+                ],
+                "name": "Chris Giles",
+                "screen_name": "ChrisGiles_"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1262659508633063425,
+    "id_str": "1262659508633063425",
+    "in_reply_to_screen_name": "mac_puck",
+    "in_reply_to_status_id": 1262657276332081154,
+    "in_reply_to_status_id_str": "1262657276332081154",
+    "in_reply_to_user_id": 885425256797798401,
+    "in_reply_to_user_id_str": "885425256797798401",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 18 14:39:25 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1262392352439701513",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/jWTJBKXPDv"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 380,
+        "favorited": false,
+        "geo": null,
+        "id": 1262392352439701513,
+        "id_str": "1262392352439701513",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 202,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "I'm interested in people's views about the inferences that can safely be made about excess deaths in the UK\n\nI'll p\u2026 https://t.co/jWTJBKXPDv",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 25 16:01:25 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Economics Editor, FT",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ft.com/comment/column\u2026",
+                            "expanded_url": "https://www.ft.com/comment/columnists/chris-giles",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PNlY3dM0Qv"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 9636,
+            "follow_request_sent": false,
+            "followers_count": 155204,
+            "following": false,
+            "friends_count": 1482,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 305073570,
+            "id_str": "305073570",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1793,
+            "location": "",
+            "name": "Chris Giles",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/305073570/1478199800",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/856876131190009856/fgr5FNx6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/856876131190009856/fgr5FNx6_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ChrisGiles_",
+            "statuses_count": 27461,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/PNlY3dM0Qv",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1262392352439701513,
+    "quoted_status_id_str": "1262392352439701513",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@mac_puck @JamieWoodhouse @Kit_Yates_Maths @lymanstoneky @andrew_lilico @bajhanlaurence Correction, @ChrisGiles_  d\u2026 https://t.co/gEDeiDHfoy",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 15 19:44:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\uddec\ud83c\udde7 \ud83e\ude86 \ud83c\uddea\ud83c\uddfa PhD in theoretical physics. Logical positivist, rationalist, serial migrant. Unrelenting campaigner against the 2nd law of thermodynamics. #FBPE",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 75884,
+        "follow_request_sent": false,
+        "followers_count": 2097,
+        "following": false,
+        "friends_count": 1788,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 609460689,
+        "id_str": "609460689",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "European Union",
+        "name": "V. Cheianov, Esq.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/609460689/1609000553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/757932533547995136/e2MWPLEZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/757932533547995136/e2MWPLEZ_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cheianov",
+        "statuses_count": 52553,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

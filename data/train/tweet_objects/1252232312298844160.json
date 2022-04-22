@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 20 13:47:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1252232312298844160,
+    "id_str": "1252232312298844160",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1252232176361336833,
+    "in_reply_to_status_id_str": "1252232176361336833",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TIME What The Fuck Is COVID-19?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 13 14:21:12 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SHENANIGANIZER",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/grizz_705_slade",
+                        "expanded_url": "http://Instagram.com/grizz_705_slade",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/81UORLwpkM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21712,
+        "follow_request_sent": false,
+        "followers_count": 785,
+        "following": false,
+        "friends_count": 880,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 945881743,
+        "id_str": "945881743",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Ontario-SUDBURY-CANADA",
+        "name": "GRIZZ\ud83c\udf41 \ud83d\ude42\ud83d\udc4d",
+        "notifications": false,
+        "profile_background_color": "FA6F05",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945881743/1647707590",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1455233886024355845/pJEmHp_k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455233886024355845/pJEmHp_k_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TreverBoyce705",
+        "statuses_count": 16071,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/81UORLwpkM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

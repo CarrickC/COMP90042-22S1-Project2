@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 05:38:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 228944118,
+                "id_str": "228944118",
+                "indices": [
+                    14,
+                    24
+                ],
+                "name": "coreshift",
+                "screen_name": "coreshift"
+            },
+            {
+                "id": 342729318,
+                "id_str": "342729318",
+                "indices": [
+                    26,
+                    38
+                ],
+                "name": "Ted",
+                "screen_name": "Justice4Ted"
+            },
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    129,
+                    138
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499792118404366336,
+    "id_str": "499792118404366336",
+    "in_reply_to_screen_name": "coreshift",
+    "in_reply_to_status_id": 499682710190043136,
+    "in_reply_to_status_id_str": "499682710190043136",
+    "in_reply_to_user_id": 228944118,
+    "in_reply_to_user_id_str": "228944118",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "R u serious? \u201c@coreshift: @Justice4Ted Considering how hard it was for his parents to get him to finish HS I doubt he was clean. @ksdknews\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 21 22:17:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Music. Photography. Making stuff people love. PM for https://t.co/fk1NcLyb5u. Morehouse '12, ATL 'Life, \u264a 16-AP-11 \u271e A\u03a6A",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Booking.com",
+                        "expanded_url": "http://Booking.com",
+                        "indices": [
+                            53,
+                            76
+                        ],
+                        "url": "https://t.co/fk1NcLyb5u"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "creatingbrennen.com",
+                        "expanded_url": "http://www.creatingbrennen.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jZm1WIEqts"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1853,
+        "follow_request_sent": false,
+        "followers_count": 456,
+        "following": false,
+        "friends_count": 665,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1287112717,
+        "id_str": "1287112717",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Atlanta",
+        "name": "Amsterdam Buck \u2122",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287112717/1454175963",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/815904559625277440/vt-cBJyi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/815904559625277440/vt-cBJyi_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "creatingbrennen",
+        "statuses_count": 4089,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jZm1WIEqts",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

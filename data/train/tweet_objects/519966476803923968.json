@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 21:44:03 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZBtNxBc2Xn",
+                "expanded_url": "https://twitter.com/egbee/status/519966476803923968/photo/1",
+                "id": 519966475986018304,
+                "id_str": "519966475986018304",
+                "indices": [
+                    48,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzdKwUhCIAA6uUU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzdKwUhCIAA6uUU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/ZBtNxBc2Xn"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZBtNxBc2Xn",
+                "expanded_url": "https://twitter.com/egbee/status/519966476803923968/photo/1",
+                "id": 519966475986018304,
+                "id_str": "519966475986018304",
+                "indices": [
+                    48,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzdKwUhCIAA6uUU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzdKwUhCIAA6uUU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/ZBtNxBc2Xn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519966476803923968,
+    "id_str": "519966476803923968",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@realDonaldTrump They do look pretty dangerous. http://t.co/ZBtNxBc2Xn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 02:22:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT geek - Started out in the Cathedral and wound up at the Bazaar.      If you're still a #MAGA #KAG #GOP #Blocked",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3958,
+        "follow_request_sent": false,
+        "followers_count": 1071,
+        "following": false,
+        "friends_count": 2608,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 47822008,
+        "id_str": "47822008",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "earth",
+        "name": "egb",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47822008/1397844444",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506307735570112513/nA3wpRQb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506307735570112513/nA3wpRQb_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "egbee",
+        "statuses_count": 22113,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

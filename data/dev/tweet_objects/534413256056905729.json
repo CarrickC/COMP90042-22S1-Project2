@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 17 18:30:23 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 534413256056905729,
+    "id_str": "534413256056905729",
+    "in_reply_to_screen_name": "CBSNews",
+    "in_reply_to_status_id": 534409916560461825,
+    "in_reply_to_status_id_str": "534409916560461825",
+    "in_reply_to_user_id": 15012486,
+    "in_reply_to_user_id_str": "15012486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBSNews Thankfully, this wouldn't bother me one bit. I love caramel. I hate chocolate.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 17 02:05:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Free spirit, easy going. I\u2764\ufe0f2 laugh. I do & say what I want. I don't play by anyone's rules but my own. Down to earth. FSU LOVER!! HEAT FAN!! EDM is my music...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10910,
+        "follow_request_sent": false,
+        "followers_count": 152,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 40587676,
+        "id_str": "40587676",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "United States",
+        "name": "LilWaistLaLa",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40587676/1412060331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/764124000507289600/VynJka4z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/764124000507289600/VynJka4z_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LilWaistLaDaDi",
+        "statuses_count": 45435,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

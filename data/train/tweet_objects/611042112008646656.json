@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 05:26:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 611042112008646656,
+    "id_str": "611042112008646656",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 611039775856812032,
+    "in_reply_to_status_id_str": "611039775856812032",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@cnni wow, super gross of true.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 13 04:19:15 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I am awesome.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 59,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3018028418,
+        "id_str": "3018028418",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Sheba Howerton",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/566089542478745600/sSWU__6G_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/566089542478745600/sSWU__6G_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "68bb65faa1074dc",
+        "statuses_count": 5,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

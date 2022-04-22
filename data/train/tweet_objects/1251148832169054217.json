@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 17 14:01:41 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251148832169054217",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/GvOtVVoQQf"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 298225776,
+                "id_str": "298225776",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Niall Boylan",
+                "screen_name": "Niall_Boylan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251148832169054217,
+    "id_str": "1251148832169054217",
+    "in_reply_to_screen_name": "RiseUpEire",
+    "in_reply_to_status_id": 1250897381144567808,
+    "in_reply_to_status_id_str": "1250897381144567808",
+    "in_reply_to_user_id": 1246897454341148674,
+    "in_reply_to_user_id_str": "1246897454341148674",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ErinnGoBrach @Niall_Boylan No thats a myth we have no where that came from. 5G can carry a frequency up to 300ghz\u2026 https://t.co/GvOtVVoQQf",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 07 14:43:18 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2482,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 75,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2966133154,
+        "id_str": "2966133154",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Dublin City, Ireland",
+        "name": "David Clarke",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496845127796592641/hjRmQC6h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496845127796592641/hjRmQC6h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dclarke1984",
+        "statuses_count": 15392,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 15 16:42:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    18
+                ],
+                "text": "MYNEWTINDEROPENER"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1377719425,
+                "id_str": "1377719425",
+                "indices": [
+                    19,
+                    32
+                ],
+                "name": "Look at This Asshole \u2b07\ufe0f",
+                "screen_name": "assholeofday"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 567000983491072000,
+    "id_str": "567000983491072000",
+    "in_reply_to_screen_name": "assholeofday",
+    "in_reply_to_status_id": 566999951449001984,
+    "in_reply_to_status_id_str": "566999951449001984",
+    "in_reply_to_user_id": 1377719425,
+    "in_reply_to_user_id_str": "1377719425",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#MYNEWTINDEROPENER @assholeofday @LauraPalmer198",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 20 05:54:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CHIQUITO PERO PICOSITO\n#FRESHLYSQUEEZED \ud83c\udf4a\ud83d\ude0e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23961,
+        "follow_request_sent": false,
+        "followers_count": 7868,
+        "following": false,
+        "friends_count": 1314,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 441546611,
+        "id_str": "441546611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 246,
+        "location": "KEYBOARD",
+        "name": "ALL CAPS BRO",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/441546611/1539368196",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331344461192945681/LjJOLT8X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331344461192945681/LjJOLT8X_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ALLCAPSBRO",
+        "statuses_count": 333063,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

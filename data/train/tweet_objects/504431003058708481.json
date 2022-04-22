@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 00:51:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            },
+            {
+                "id": 57005320,
+                "id_str": "57005320",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Dustin Nielson",
+                "screen_name": "nielsonTSN1260"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504431003058708481,
+    "id_str": "504431003058708481",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@theScore @nielsonTSN1260 that would be great news for me! Would they play at Thomas and Mack?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 06 15:18:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hockey, Football, & Baseball is my passion & I like to tweet about it. Enjoying my retirement... & I love to travel. :)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4411,
+        "follow_request_sent": false,
+        "followers_count": 1014,
+        "following": false,
+        "friends_count": 868,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 368980387,
+        "id_str": "368980387",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 31,
+        "location": "Canada",
+        "name": "Doug Lehman",
+        "notifications": false,
+        "profile_background_color": "030303",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2854601813/cd9233eddf9b88ce7a5e70f7463cfb50_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2854601813/cd9233eddf9b88ce7a5e70f7463cfb50_normal.jpeg",
+        "profile_link_color": "F00C32",
+        "profile_sidebar_border_color": "E6E6E6",
+        "profile_sidebar_fill_color": "E6E3E6",
+        "profile_text_color": "080808",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "28doug",
+        "statuses_count": 34574,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

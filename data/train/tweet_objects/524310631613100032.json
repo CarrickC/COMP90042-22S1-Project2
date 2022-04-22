@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 21:26:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15791186,
+                "id_str": "15791186",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "KHOU 11 News Houston",
+                "screen_name": "KHOU"
+            },
+            {
+                "id": 236251346,
+                "id_str": "236251346",
+                "indices": [
+                    6,
+                    21
+                ],
+                "name": "KeyonDaHustler\u00ae",
+                "screen_name": "KeyonDaHustler"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524310631613100032,
+    "id_str": "524310631613100032",
+    "in_reply_to_screen_name": "KHOU",
+    "in_reply_to_status_id": 523888836456108032,
+    "in_reply_to_status_id_str": "523888836456108032",
+    "in_reply_to_user_id": 15791186,
+    "in_reply_to_user_id_str": "15791186",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@KHOU @KeyonDaHustler look like some shit straight from Jumanji fam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 28 03:03:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "WRLDWIDE/Street Porium",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wrldwidebmt.com",
+                        "expanded_url": "http://wrldwidebmt.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AbMB020NbI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 673,
+        "follow_request_sent": false,
+        "followers_count": 1336,
+        "following": false,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 43033811,
+        "id_str": "43033811",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Beaumont, TX",
+        "name": "Big Doobie",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43033811/1638887021",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1468224696995008512/ozWgWwXV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1468224696995008512/ozWgWwXV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SnoodieDoobie",
+        "statuses_count": 77922,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AbMB020NbI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

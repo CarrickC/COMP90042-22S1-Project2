@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 15 17:40:34 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 334725002681257984,
+    "id_str": "334725002681257984",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@stephenfry \"Right now it feels heavy and unreal.\" That's some neighbourly thing to do, I feel chuffed when I accept a parcel for mine.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 27 19:35:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Kent-based proud Welsh geek/scientist (PhD), lawyer (LLD), polyglot. SARS-Cov-2 can suck my balls. Using my virology experience to help fight this where poss.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18236,
+        "follow_request_sent": false,
+        "followers_count": 846,
+        "following": false,
+        "friends_count": 492,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 35835330,
+        "id_str": "35835330",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 34,
+        "location": "Citizen of the world (ok Kent)",
+        "name": "Jeremy Skyrme (Jem to my friends!)",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35835330/1499295408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1296808903993368576/HLl_KlIY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296808903993368576/HLl_KlIY_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrSkyrme",
+        "statuses_count": 79722,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

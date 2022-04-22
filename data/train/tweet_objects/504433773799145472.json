@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 01:02:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/X9wst97fJu",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    93,
+                    115
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/X9wst97fJu"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thesco.re/XQDehK",
+                "expanded_url": "http://thesco.re/XQDehK",
+                "indices": [
+                    70,
+                    92
+                ],
+                "url": "http://t.co/H9CJPUB03h"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/X9wst97fJu",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    93,
+                    115
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/X9wst97fJu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504433773799145472,
+    "id_str": "504433773799145472",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @theScore: NHL expansion to Las Vegas is reportedly 'a done deal.' http://t.co/H9CJPUB03h http://t.co/X9wst97fJu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 08 19:47:27 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3595,
+        "follow_request_sent": false,
+        "followers_count": 1466,
+        "following": false,
+        "friends_count": 713,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 213383260,
+        "id_str": "213383260",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "Orlando, FL",
+        "name": "Drew Spevak",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/213383260/1642392102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394522646411288578/03HBmt58_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394522646411288578/03HBmt58_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrewSpevak",
+        "statuses_count": 27281,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

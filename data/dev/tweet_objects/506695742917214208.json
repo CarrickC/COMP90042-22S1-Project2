@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -1.5512378,
+            53.7814032
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Sep 02 06:50:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1266239359,
+                "id_str": "1266239359",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "National Report",
+                "screen_name": "TNROnline"
+            },
+            {
+                "id": 393083814,
+                "id_str": "393083814",
+                "indices": [
+                    11,
+                    26
+                ],
+                "name": "LevelCap",
+                "screen_name": "LevelCapGaming"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.7814032,
+            -1.5512378
+        ],
+        "type": "Point"
+    },
+    "id": 506695742917214208,
+    "id_str": "506695742917214208",
+    "in_reply_to_screen_name": "TNROnline",
+    "in_reply_to_status_id": 505611045897924608,
+    "in_reply_to_status_id_str": "505611045897924608",
+    "in_reply_to_user_id": 1266239359,
+    "in_reply_to_user_id_str": "1266239359",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TNROnline @LevelCapGaming it's fake bro",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 09 20:49:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Yorkshire lad. Making brews in Leeds.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3735,
+        "follow_request_sent": false,
+        "followers_count": 392,
+        "following": false,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 519810116,
+        "id_str": "519810116",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Leeds, United Kingdom",
+        "name": "Danny Lewis",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/519810116/1453227728",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318939726448123905/ldLzNkO8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318939726448123905/ldLzNkO8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Dannydechampp",
+        "statuses_count": 3961,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

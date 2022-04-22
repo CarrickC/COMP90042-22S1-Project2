@@ -1,0 +1,106 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 26 00:05:41 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    137
+                ],
+                "text": "BANPALMOIL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 114816952,
+                "id_str": "114816952",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "The Kraft Heinz Company",
+                "screen_name": "KraftHeinzCo"
+            },
+            {
+                "id": 2873945681,
+                "id_str": "2873945681",
+                "indices": [
+                    97,
+                    111
+                ],
+                "name": "Nutella",
+                "screen_name": "NutellaGlobal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1242965913193852928,
+    "id_str": "1242965913193852928",
+    "in_reply_to_screen_name": "KraftHeinzCo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 114816952,
+    "in_reply_to_user_id_str": "114816952",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KraftHeinzCo I still don\u2019t but your ketchup but finally, no palm oil in your chocolate spread!! @NutellaGlobal take note and #BANPALMOIL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 28 02:21:37 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 37376,
+        "follow_request_sent": false,
+        "followers_count": 127,
+        "following": false,
+        "friends_count": 768,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1166536191929475072,
+        "id_str": "1166536191929475072",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Nk Ironside",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166536572860280832/zpdkJ2iY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166536572860280832/zpdkJ2iY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IronsideNk",
+        "statuses_count": 18512,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

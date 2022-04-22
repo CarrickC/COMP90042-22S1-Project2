@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 21:20:52 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    32
+                ],
+                "text": "BigHank"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 77821100,
+                "id_str": "77821100",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Kellie \ud83c\udf19\ud83d\udef8\ud83e\udd84\u2601\ufe0f",
+                "screen_name": "IAmKellieMc"
+            },
+            {
+                "id": 16331010,
+                "id_str": "16331010",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "TMZ",
+                "screen_name": "TMZ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532281831631384577,
+    "id_str": "532281831631384577",
+    "in_reply_to_screen_name": "IAmKellieMc",
+    "in_reply_to_status_id": 532275591941472257,
+    "in_reply_to_status_id_str": "532275591941472257",
+    "in_reply_to_user_id": 77821100,
+    "in_reply_to_user_id_str": "77821100",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IAmKellieMc @TMZ R.I.P #BigHank",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 22 22:49:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Music Booker | Event Mgmt | PR & Marketing | Tour Mgmt.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1486,
+        "follow_request_sent": false,
+        "followers_count": 1012,
+        "following": false,
+        "friends_count": 1829,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 322282404,
+        "id_str": "322282404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "",
+        "name": "Dawn Kelly",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/322282404/1560436478",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139179106296315905/LE27XVXw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139179106296315905/LE27XVXw_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "deetoursmusic",
+        "statuses_count": 2996,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

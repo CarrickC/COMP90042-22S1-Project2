@@ -1,0 +1,264 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -95.79911444,
+            41.27615913
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 20 17:53:17 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YKFRPek9Ui",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    103,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/YKFRPek9Ui"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1t2ePlj",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/gySrGxeGIH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    67,
+                    79
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            },
+            {
+                "id": 326516749,
+                "id_str": "326516749",
+                "indices": [
+                    126,
+                    139
+                ],
+                "name": "Sir William",
+                "screen_name": "KyleHerbert2"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YKFRPek9Ui",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    103,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/YKFRPek9Ui"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.27615913,
+            -95.79911444
+        ],
+        "type": "Point"
+    },
+    "id": 524257058917744640,
+    "id_str": "524257058917744640",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.9235509,
+                        41.194487
+                    ],
+                    [
+                        -95.746366,
+                        41.194487
+                    ],
+                    [
+                        -95.746366,
+                        41.300487
+                    ],
+                    [
+                        -95.9235509,
+                        41.300487
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Council Bluffs, IA",
+        "id": "1ff2b4659e670e52",
+        "name": "Council Bluffs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1ff2b4659e670e52.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@fxnscitech: Puppy-sized spider surprises scientist in rainforest @LiveScience http://t.co/gySrGxeGIH http://t.co/YKFRPek9Ui\u201d@KyleHerbert2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 20 14:17:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product Designer | Traeger Grills",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nicky.bio",
+                        "expanded_url": "https://nicky.bio",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pNJeusNed7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6647,
+        "follow_request_sent": false,
+        "followers_count": 753,
+        "following": false,
+        "friends_count": 787,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 320775240,
+        "id_str": "320775240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Salt Lake City, UT",
+        "name": "Nicky",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320775240/1626204399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415412367601643520/D0hy7PEU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415412367601643520/D0hy7PEU_normal.jpg",
+        "profile_link_color": "4ADDE5",
+        "profile_sidebar_border_color": "63E521",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "7D7D7D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nickynelsen",
+        "statuses_count": 12396,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pNJeusNed7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

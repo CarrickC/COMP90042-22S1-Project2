@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 00:31:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626550595432894464,
+    "id_str": "626550595432894464",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626546123713474560,
+    "in_reply_to_status_id_str": "626546123713474560",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@BuzzFeed and this is somehow better than stairs.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 17 12:58:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "keeper of off-hours, stoney baloney, trivia lover, & carnival enthusiast. always down to clown.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19124,
+        "follow_request_sent": false,
+        "followers_count": 281,
+        "following": false,
+        "friends_count": 803,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19109269,
+        "id_str": "19109269",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "toronto",
+        "name": "shawna",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19109269/1611639464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359450592167526401/K9nt8____normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359450592167526401/K9nt8____normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shawnasativa",
+        "statuses_count": 10615,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

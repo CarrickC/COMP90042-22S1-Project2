@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 22:56:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            },
+            {
+                "id": 339939397,
+                "id_str": "339939397",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "dani \ud83d\udc26",
+                "screen_name": "itsdanidarlingg"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    31,
+                    35
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659504007417896960,
+    "id_str": "659504007417896960",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FiNeSSeHaVeN @itsdanidarlingg @kfc thats why i dont fuck with kfc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 15 02:00:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "kish and uscb baseball alum",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38531,
+        "follow_request_sent": false,
+        "followers_count": 600,
+        "following": false,
+        "friends_count": 554,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 335674610,
+        "id_str": "335674610",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Charlotte, NC",
+        "name": "david",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/335674610/1503859217",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271563532841213952/UgBTBb5M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271563532841213952/UgBTBb5M_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidAVillafane",
+        "statuses_count": 34291,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

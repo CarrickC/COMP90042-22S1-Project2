@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 00:19:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 17726370,
+                "id_str": "17726370",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Giovane Rezende",
+                "screen_name": "GiovaneRezende"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626547674360233985,
+    "id_str": "626547674360233985",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626546123713474560,
+    "in_reply_to_status_id_str": "626546123713474560",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "pt",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BuzzFeed @GiovaneRezende Te disse que escada rolante \u00e9 perigosa!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 24 22:41:52 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ela/Dela, INFJ-T\nEscrevo umas paradas e depois posto elas online.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 53212,
+        "follow_request_sent": false,
+        "followers_count": 697,
+        "following": false,
+        "friends_count": 635,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 589484926,
+        "id_str": "589484926",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Juiz de Fora",
+        "name": "Mari Le\u00e3o Hater N\u00ba1 na @PSdoispontos",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/589484926/1569865457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505613073041735690/7aXQ1-pW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505613073041735690/7aXQ1-pW_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MariannaxLeao",
+        "statuses_count": 30184,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

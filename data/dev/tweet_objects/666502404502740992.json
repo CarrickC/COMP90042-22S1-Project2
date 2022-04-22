@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 06:25:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15754281,
+                "id_str": "15754281",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "USA TODAY",
+                "screen_name": "USATODAY"
+            },
+            {
+                "id": 448778732,
+                "id_str": "448778732",
+                "indices": [
+                    10,
+                    20
+                ],
+                "name": "R F GLOVER",
+                "screen_name": "Gloseeker"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666502404502740992,
+    "id_str": "666502404502740992",
+    "in_reply_to_screen_name": "USATODAY",
+    "in_reply_to_status_id": 666497286663503872,
+    "in_reply_to_status_id_str": "666497286663503872",
+    "in_reply_to_user_id": 15754281,
+    "in_reply_to_user_id_str": "15754281",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@USATODAY @Gloseeker   Oh Snap!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 21 19:29:47 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Proud Democrat. Retired special educator, school counselor and teacher of the English. Mom, 29 yr army spouse, Dodger fan, Putin hater, love dogs",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32207,
+        "follow_request_sent": false,
+        "followers_count": 2926,
+        "following": false,
+        "friends_count": 4999,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 125122422,
+        "id_str": "125122422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Washington, the state",
+        "name": "joP",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125122422/1616473085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512541334153793540/L32nNtvd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512541334153793540/L32nNtvd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jogopow",
+        "statuses_count": 36396,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

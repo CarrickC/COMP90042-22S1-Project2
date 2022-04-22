@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 11:21:19 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    106,
+                    110
+                ],
+                "text": "DMV"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nbcnews.to/M3IDLR",
+                "expanded_url": "http://nbcnews.to/M3IDLR",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/laeK8PJfvE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427763243227283456,
+    "id_str": "427763243227283456",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 427762638274437120,
+    "in_reply_to_status_id_str": "427762638274437120",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NBCNews: Actor who played Marlboro Man in ads dies from smoking-related disease http://t.co/laeK8PJfvE\u201d #DMV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 22 14:55:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2708Official Twitter page of \nA & C Travel Services, LLC. \nUnbelievable Daily Deals #travel \n#lastminute \ud83d\udca5#Airfare #Hotels #Cruises #Vacationpackages #Limo\ud83d\udca5",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flights4sale.com",
+                        "expanded_url": "http://flights4sale.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ksL5iJqQmz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34414,
+        "follow_request_sent": false,
+        "followers_count": 13151,
+        "following": false,
+        "friends_count": 10458,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 135917307,
+        "id_str": "135917307",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 580,
+        "location": "Washington, DC DMV (VA-DC-MD)",
+        "name": "Never Pay Full Price Save #CheapFlights \u2708\ufe0f\u2600\ufe0f\ud83c\udfdd\ufe0f\ud83c\udfe8",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135917307/1622168040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398093283402846209/Od-hsu2X_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398093283402846209/Od-hsu2X_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ACTRAVELSERVICE",
+        "statuses_count": 43427,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ksL5iJqQmz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

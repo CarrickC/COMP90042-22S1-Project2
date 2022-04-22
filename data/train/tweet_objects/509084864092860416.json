@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 21:04:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 342737639,
+                "id_str": "342737639",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jen from Texas",
+                "screen_name": "jensan1332"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509084864092860416,
+    "id_str": "509084864092860416",
+    "in_reply_to_screen_name": "jensan1332",
+    "in_reply_to_status_id": 509084603617792001,
+    "in_reply_to_status_id_str": "509084603617792001",
+    "in_reply_to_user_id": 342737639,
+    "in_reply_to_user_id_str": "342737639",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@jensan1332 Arrested for what? Is there a link?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 02 14:52:36 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The National Security Roundtable (NSR) is an organization dedicated to educating and informing the national security debate. See our website for more info.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nsroundtable.org",
+                        "expanded_url": "http://www.nsroundtable.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2ecnhZwrac"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 71499,
+        "follow_request_sent": false,
+        "followers_count": 4066,
+        "following": false,
+        "friends_count": 992,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 569163929,
+        "id_str": "569163929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 114,
+        "location": "",
+        "name": "TheNatSecRoundtable",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/569163929/1401817495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2184656178/NSR_Logo_180x180_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2184656178/NSR_Logo_180x180_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NSRoundtable",
+        "statuses_count": 235037,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2ecnhZwrac",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

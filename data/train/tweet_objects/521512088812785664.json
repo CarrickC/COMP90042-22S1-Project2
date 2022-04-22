@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 04:05:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 954124423,
+                "id_str": "954124423",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amy Mek",
+                "screen_name": "AmyMek"
+            },
+            {
+                "id": 3342312099,
+                "id_str": "3342312099",
+                "indices": [
+                    8,
+                    17
+                ],
+                "name": "Dumb Things Cons Say",
+                "screen_name": "dumbcons"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 521512088812785664,
+    "id_str": "521512088812785664",
+    "in_reply_to_screen_name": "AmyMek",
+    "in_reply_to_status_id": 521496155310796800,
+    "in_reply_to_status_id_str": "521496155310796800",
+    "in_reply_to_user_id": 954124423,
+    "in_reply_to_user_id_str": "954124423",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmyMek @dumbcons Just another libtard jane fonda who pretend lives a life. Bla Bla Bla,    like anyone give a shit what she thinks. She sks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 24 01:48:50 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#TEAPARTY, RETIRED LEO, #13Hours Benghazi never forget.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31916,
+        "follow_request_sent": false,
+        "followers_count": 974,
+        "following": false,
+        "friends_count": 752,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2722429967,
+        "id_str": "2722429967",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 73,
+        "location": "",
+        "name": "Mark Carroll",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659978538611666944/OgiB3lN2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659978538611666944/OgiB3lN2_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "markc2902",
+        "statuses_count": 63876,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

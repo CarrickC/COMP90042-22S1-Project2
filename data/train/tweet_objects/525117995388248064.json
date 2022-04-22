@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            18.28616,
+            -31.53924
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 23 02:54:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -31.53924,
+            18.28616
+        ],
+        "type": "Point"
+    },
+    "id": 525117995388248064,
+    "id_str": "525117995388248064",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525116411887513602,
+    "in_reply_to_status_id_str": "525116411887513602",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        16.4475932,
+                        -34.8342468
+                    ],
+                    [
+                        32.8922934,
+                        -34.8342468
+                    ],
+                    [
+                        32.8922934,
+                        -22.1247236
+                    ],
+                    [
+                        16.4475932,
+                        -22.1247236
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "South Africa",
+        "id": "dd9c0d7d7e07eb49",
+        "name": "South Africa",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c0d7d7e07eb49.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@ABC R.I.P Cpl Nathan Cirillo.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 03 16:05:10 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 50,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 175,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1145527986,
+        "id_str": "1145527986",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Lutzville, South Africa",
+        "name": "Sumerie Geldenhuys",
+        "notifications": false,
+        "profile_background_color": "FACDDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145527986/1466654430",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556105402572869633/TsyK8BwN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556105402572869633/TsyK8BwN_normal.jpeg",
+        "profile_link_color": "08F5CD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SumerieG",
+        "statuses_count": 2515,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

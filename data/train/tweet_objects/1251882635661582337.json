@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 14:37:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251882635661582337",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/tPbWcgrB3G"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251882635661582337,
+    "id_str": "1251882635661582337",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrZweliMkhize I place paper on the table. All packets are placed on the paper. I wipe down or spray each and every\u2026 https://t.co/tPbWcgrB3G",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 22 03:40:35 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Proudly South Afrian \ud83c\uddff\ud83c\udde6",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6306,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 344,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1032110255323394048,
+        "id_str": "1032110255323394048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Nadz",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032110255323394048/1534934785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278649105460461570/oUhKAlRH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278649105460461570/oUhKAlRH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nadalyn_naidoo",
+        "statuses_count": 755,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

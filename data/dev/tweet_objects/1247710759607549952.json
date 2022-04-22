@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 08 02:20:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247710759607549952",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/fnxLo2ckhb"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 527771370,
+                "id_str": "527771370",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "David Hunter",
+                "screen_name": "dvrh9"
+            },
+            {
+                "id": 305073570,
+                "id_str": "305073570",
+                "indices": [
+                    7,
+                    19
+                ],
+                "name": "Chris Giles",
+                "screen_name": "ChrisGiles_"
+            },
+            {
+                "id": 219275799,
+                "id_str": "219275799",
+                "indices": [
+                    20,
+                    24
+                ],
+                "name": "Office for National Statistics (ONS)",
+                "screen_name": "ONS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1247710759607549952,
+    "id_str": "1247710759607549952",
+    "in_reply_to_screen_name": "dvrh9",
+    "in_reply_to_status_id": 1247592969219211264,
+    "in_reply_to_status_id_str": "1247592969219211264",
+    "in_reply_to_user_id": 527771370,
+    "in_reply_to_user_id_str": "527771370",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@dvrh9 @ChrisGiles_ @ONS Few, if any, who die in care homes, or at home, have been tested. Will they be counted in\u2026 https://t.co/fnxLo2ckhb",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 24 06:25:33 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Londoner. Now lodged in 3rd country. \n\n#Scotland #Northumbria #Wales #Mercia #Kernow #Wessex #Albion \n\n#GFA\n\n#Rejoin EU as independent nations #PR",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 192848,
+        "follow_request_sent": false,
+        "followers_count": 8628,
+        "following": false,
+        "friends_count": 9478,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1077087866163888128,
+        "id_str": "1077087866163888128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Somewhere that's else ",
+        "name": "#FBPE #Brexit is a coup #Independence4OurNations",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077087866163888128/1594333445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205983997878132737/h7V0LIoy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205983997878132737/h7V0LIoy_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EUnotCoup",
+        "statuses_count": 134196,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

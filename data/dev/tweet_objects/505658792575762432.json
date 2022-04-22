@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 30 10:10:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "wivb.com/2014/01/10/tee\u2026",
+                "expanded_url": "http://wivb.com/2014/01/10/teen-cries-out-during-sentencing/",
+                "indices": [
+                    23,
+                    45
+                ],
+                "url": "http://t.co/aIXJ63fAqI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1266239359,
+                "id_str": "1266239359",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "National Report",
+                "screen_name": "TNROnline"
+            },
+            {
+                "id": 184637153,
+                "id_str": "184637153",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "High Im Paul.",
+                "screen_name": "eGoTheIcoN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 505658792575762432,
+    "id_str": "505658792575762432",
+    "in_reply_to_screen_name": "TNROnline",
+    "in_reply_to_status_id": 505611045897924608,
+    "in_reply_to_status_id_str": "505611045897924608",
+    "in_reply_to_user_id": 1266239359,
+    "in_reply_to_user_id_str": "1266239359",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TNROnline @eGoTheIcoN http://t.co/aIXJ63fAqI Same kid",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 15 01:39:58 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Software Engineer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 216,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2568123943,
+        "id_str": "2568123943",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Delayed",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2568123943/1479696885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/867267508025393152/CqawP0Ov_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/867267508025393152/CqawP0Ov_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DDeIayed",
+        "statuses_count": 1511,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

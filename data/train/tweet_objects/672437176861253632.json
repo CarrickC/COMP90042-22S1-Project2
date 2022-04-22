@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:28:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 715044396,
+                "id_str": "715044396",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Lisa",
+                "screen_name": "Rockprincess818"
+            },
+            {
+                "id": 1349149096909668363,
+                "id_str": "1349149096909668363",
+                "indices": [
+                    76,
+                    82
+                ],
+                "name": "President Biden",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672437176861253632,
+    "id_str": "672437176861253632",
+    "in_reply_to_screen_name": "Rockprincess818",
+    "in_reply_to_status_id": 672433211604013057,
+    "in_reply_to_status_id_str": "672433211604013057",
+    "in_reply_to_user_id": 715044396,
+    "in_reply_to_user_id_str": "715044396",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Rockprincess818 I am sure the hateful, divisive, us vs. them rhetoric from @POTUS wasn't a factor./sarc off",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 10:32:14 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reality Dweller and Lover of America. Both are reasons I will NEVER vote for any Democrats.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7401,
+        "follow_request_sent": false,
+        "followers_count": 813,
+        "following": false,
+        "friends_count": 408,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2991043915,
+        "id_str": "2991043915",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "USA",
+        "name": "Jeff McIrish",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2991043915/1560612742",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139921273688121349/yJOrub2L_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139921273688121349/yJOrub2L_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JeffMcIrish",
+        "statuses_count": 71863,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 08 13:26:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/messages/compo\u2026",
+                "expanded_url": "https://twitter.com/messages/compose?recipient_id=886557108",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/S8xhHTWYQz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4784843858,
+                "id_str": "4784843858",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Sourabh Jain",
+                "screen_name": "sourabhjain3131"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1269984079618990083,
+    "id_str": "1269984079618990083",
+    "in_reply_to_screen_name": "sourabhjain3131",
+    "in_reply_to_status_id": 1269968549310689280,
+    "in_reply_to_status_id_str": "1269968549310689280",
+    "in_reply_to_user_id": 4784843858,
+    "in_reply_to_user_id_str": "4784843858",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.locobuzz.com\" rel=\"nofollow\">Locobuzz CX</a>",
+    "text": "@sourabhjain3131 Hi, we request you to share with us the correct complaint number via DM. Regards, Team Axis Bank https://t.co/S8xhHTWYQz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 17 10:39:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are OPEN to help you! As part of the resolution process, our executives will never ask you for confidential information or initiate any financial transaction",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "axisbank.com",
+                        "expanded_url": "http://www.axisbank.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3PNHpyRgGu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 201691,
+        "following": false,
+        "friends_count": 2945,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 886557108,
+        "id_str": "886557108",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 117,
+        "location": "",
+        "name": "Axis Bank Support",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886557108/1579842022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108287793778909184/8lRmu2Np_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108287793778909184/8lRmu2Np_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AxisBankSupport",
+        "statuses_count": 572844,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/3PNHpyRgGu",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

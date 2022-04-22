@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 00:39:30 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    85,
+                    96
+                ],
+                "text": "SpiteHouse"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 232901331,
+                "id_str": "232901331",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Dan Bongino",
+                "screen_name": "dbongino"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 387014282720067585,
+    "id_str": "387014282720067585",
+    "in_reply_to_screen_name": "dbongino",
+    "in_reply_to_status_id": 387010299536355328,
+    "in_reply_to_status_id_str": "387010299536355328",
+    "in_reply_to_user_id": 232901331,
+    "in_reply_to_user_id_str": "232901331",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@dbongino Outrageous! AmberAlertSystem shut down. Only possible happy ending to this #SpiteHouse move would be if @NancyPelosi went missing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 07 22:56:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Orthopedic Surgeon, #SportsMed Doc #TeamPhysician @BestDoctors & Best Selling Author. Keynote Speaker. Dedicated to keeping you healthy in body, mind & spirit.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DrNick.com",
+                        "expanded_url": "http://www.DrNick.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EDLS8w2d19"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36493,
+        "follow_request_sent": false,
+        "followers_count": 7027,
+        "following": false,
+        "friends_count": 895,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 23245400,
+        "id_str": "23245400",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 187,
+        "location": "Philadelphia, PA",
+        "name": "Nicholas DiNubile MD",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23245400/1350138081",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290675447290892290/yUCjRbdS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290675447290892290/yUCjRbdS_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "drnickUSA",
+        "statuses_count": 22329,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EDLS8w2d19",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

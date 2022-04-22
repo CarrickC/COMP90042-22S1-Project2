@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 12 22:23:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    52
+                ],
+                "text": "tolerance"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 57917441,
+                "id_str": "57917441",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Lizz \" Feminist Buzzkill \" Winstead",
+                "screen_name": "lizzwinstead"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 565999569683484672,
+    "id_str": "565999569683484672",
+    "in_reply_to_screen_name": "lizzwinstead",
+    "in_reply_to_status_id": 565999191982616577,
+    "in_reply_to_status_id_str": "565999191982616577",
+    "in_reply_to_user_id": 57917441,
+    "in_reply_to_user_id_str": "57917441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@lizzwinstead Translated: He likes dudes. #tolerance",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 27 23:39:53 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Consultant to public companies that need help telling stories - Death threat deflector, boardroom bon vivant.\nOh yeah... Co-founder of @NEWWrestlingInc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "equity.guru",
+                        "expanded_url": "http://www.equity.guru",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ITAOlteGKM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 202485,
+        "follow_request_sent": false,
+        "followers_count": 7145,
+        "following": false,
+        "friends_count": 4396,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 17693211,
+        "id_str": "17693211",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 153,
+        "location": "Vancouver, BC",
+        "name": "\ud83c\udd92EquityGuruCP",
+        "notifications": false,
+        "profile_background_color": "AFB3B3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17693211/1399913124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1283510464765296640/05A7xY55_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283510464765296640/05A7xY55_normal.jpg",
+        "profile_link_color": "4A8822",
+        "profile_sidebar_border_color": "ED0C0C",
+        "profile_sidebar_fill_color": "FFBF47",
+        "profile_text_color": "070603",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisParry",
+        "statuses_count": 57264,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ITAOlteGKM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 28 18:21:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 60778244,
+                "id_str": "60778244",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Jaymee Sire",
+                "screen_name": "jaymee"
+            },
+            {
+                "id": 95023423,
+                "id_str": "95023423",
+                "indices": [
+                    8,
+                    18
+                ],
+                "name": "UberFacts",
+                "screen_name": "UberFacts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527163293891182592,
+    "id_str": "527163293891182592",
+    "in_reply_to_screen_name": "jaymee",
+    "in_reply_to_status_id": 527163121186914304,
+    "in_reply_to_status_id_str": "527163121186914304",
+    "in_reply_to_user_id": 60778244,
+    "in_reply_to_user_id_str": "60778244",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@jaymee @uberfacts It is a Giant spider.  Go Giants!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 21 03:59:45 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Drums \u2022 Santa Clara Vanguard Alumni \u2022 San Jose State Alumni \u2022 Apple",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/zmorton",
+                        "expanded_url": "https://Instagram.com/zmorton",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RjktEq7U4H"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2022,
+        "follow_request_sent": false,
+        "followers_count": 637,
+        "following": false,
+        "friends_count": 786,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15510137,
+        "id_str": "15510137",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "San Jose, CA",
+        "name": "Zak Morton",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15510137/1649699756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1494718527650951174/oEGmo7kr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494718527650951174/oEGmo7kr_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "zmorton",
+        "statuses_count": 16888,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RjktEq7U4H",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

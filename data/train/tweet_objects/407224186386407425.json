@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 19:06:26 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    54,
+                    62
+                ],
+                "text": "toosoon"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17446621,
+                "id_str": "17446621",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "The Hollywood Reporter",
+                "screen_name": "THR"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 407224186386407425,
+    "id_str": "407224186386407425",
+    "in_reply_to_screen_name": "THR",
+    "in_reply_to_status_id": 407223928084766721,
+    "in_reply_to_status_id_str": "407223928084766721",
+    "in_reply_to_user_id": 17446621,
+    "in_reply_to_user_id_str": "17446621",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@THR yea - because I was really concerned about that. #toosoon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 18 00:08:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of The Obituary of Tunde Johnson/ Co-Creator of Everybody Hates Chris/Comedian/Photographer/ Bassist/ Podcaster/ Race Car Driver/ Jack of all Tirades",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mrleroi.com",
+                        "expanded_url": "http://mrleroi.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nPX7BHXjYC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 986,
+        "follow_request_sent": false,
+        "followers_count": 9203,
+        "following": false,
+        "friends_count": 1867,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21149618,
+        "id_str": "21149618",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 115,
+        "location": "Awahcheah",
+        "name": "Ali LeRoi",
+        "notifications": false,
+        "profile_background_color": "0C2B4A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149618/1615653247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370774592734826498/KbDbcxI-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370774592734826498/KbDbcxI-_normal.jpg",
+        "profile_link_color": "473F42",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mrleroi",
+        "statuses_count": 8289,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nPX7BHXjYC",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

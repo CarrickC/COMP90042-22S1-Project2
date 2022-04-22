@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 05 00:59:50 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 705920724293308416,
+    "id_str": "705920724293308416",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 696798533433724928,
+    "in_reply_to_status_id_str": "696798533433724928",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Gotham3 @TheDailySchmuck Wow, we've a new low when Germany is calling us fascist.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 15 19:10:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Artist.  World Traveler,  Animal Lover, Free Thinker.  Aka @MySublimeMind https://t.co/RPkXInXA1g",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "mysublimemind.com",
+                        "expanded_url": "http://www.mysublimemind.com",
+                        "indices": [
+                            74,
+                            97
+                        ],
+                        "url": "https://t.co/RPkXInXA1g"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "coollawyer.com",
+                        "expanded_url": "http://www.coollawyer.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JotrGFuDqo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3095,
+        "follow_request_sent": false,
+        "followers_count": 164,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 47414949,
+        "id_str": "47414949",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "",
+        "name": "I'd Rather Laugh",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47414949/1453928121",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864675632101416960/T952XOd6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/864675632101416960/T952XOd6_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Coollawyer",
+        "statuses_count": 3037,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JotrGFuDqo",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

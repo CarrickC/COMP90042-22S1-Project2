@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -6.31993131,
+            53.39016882
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Sep 09 17:19:41 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425231,
+                "id_str": "2425231",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "Fact",
+                "screen_name": "Fact"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.39016882,
+            -6.31993131
+        ],
+        "type": "Point"
+    },
+    "id": 377119128139870208,
+    "id_str": "377119128139870208",
+    "in_reply_to_screen_name": "Fact",
+    "in_reply_to_status_id": 377002232257855488,
+    "in_reply_to_status_id_str": "377002232257855488",
+    "in_reply_to_user_id": 2425231,
+    "in_reply_to_user_id_str": "2425231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.387438,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@Fact: J.K. Rowling is working on an 8th Harry Potter book.\u201d \ud83d\udc4c\ud83c\udf89",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 23 00:51:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u275dwe're all addicted to something. whether it be cigarettes , alcohol, drugs or them fucking blue eyes and his smile\u275e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2925,
+        "follow_request_sent": false,
+        "followers_count": 2771,
+        "following": false,
+        "friends_count": 1469,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 147020551,
+        "id_str": "147020551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 59,
+        "location": "\u2661 Dublin,Ireland \u2661",
+        "name": "Peach \u2661",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147020551/1558222382",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058894510934159360/ZtejqCRV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058894510934159360/ZtejqCRV_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ProudofNialler",
+        "statuses_count": 84789,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 31 02:04:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 161387747,
+                "id_str": "161387747",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "\ud835\udd3b\ud835\udd52\ud835\udd5f\ud835\udd5a\ud835\udd56\ud835\udd5d, \ud835\udd3c\ud835\udd64\ud835\udd62.",
+                "screen_name": "Daniel22223333"
+            },
+            {
+                "id": 391560579,
+                "id_str": "391560579",
+                "indices": [
+                    16,
+                    24
+                ],
+                "name": "Hamza Shaban",
+                "screen_name": "hshaban"
+            },
+            {
+                "id": 21134925,
+                "id_str": "21134925",
+                "indices": [
+                    25,
+                    37
+                ],
+                "name": "Lois Beckett",
+                "screen_name": "loisbeckett"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1244807876448788480,
+    "id_str": "1244807876448788480",
+    "in_reply_to_screen_name": "Daniel22223333",
+    "in_reply_to_status_id": 1244484061520855047,
+    "in_reply_to_status_id_str": "1244484061520855047",
+    "in_reply_to_user_id": 161387747,
+    "in_reply_to_user_id_str": "161387747",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Daniel22223333 @hshaban @loisbeckett Nope! When you speak/sing there are a lot of droplets in the air! They don\u2019t fall. They hang for hours",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 10 10:33:19 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Parent, citizen, human. I care!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19732,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 313,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1126797356605870080,
+        "id_str": "1126797356605870080",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Clinton, TN",
+        "name": "Onward",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272962184641994753/sf6iegKi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272962184641994753/sf6iegKi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Onward01609988",
+        "statuses_count": 7985,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

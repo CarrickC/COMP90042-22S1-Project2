@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 12 12:38:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2837996969,
+                "id_str": "2837996969",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Strong facts",
+                "screen_name": "RealStrongfacts"
+            },
+            {
+                "id": 3079391493,
+                "id_str": "3079391493",
+                "indices": [
+                    17,
+                    29
+                ],
+                "name": "Katy one more time",
+                "screen_name": "KatyFeliDay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 631444544974786560,
+    "id_str": "631444544974786560",
+    "in_reply_to_screen_name": "RealStrongfacts",
+    "in_reply_to_status_id": 631388553801564160,
+    "in_reply_to_status_id_str": "631388553801564160",
+    "in_reply_to_user_id": 2837996969,
+    "in_reply_to_user_id_str": "2837996969",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@RealStrongfacts @KatyFeliDay it fell from photoshop",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 29 19:46:46 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "just a big sweet cool nerdy teddy bear.\ni work at a movie theater which means free movies for me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "listia.com/signup/1367040",
+                        "expanded_url": "http://www.listia.com/signup/1367040",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/p8PAFNBHDZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 374,
+        "follow_request_sent": false,
+        "followers_count": 7,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 540230452,
+        "id_str": "540230452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Grand Rapids, MI",
+        "name": "Juggalo4k",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1987483296/ghost_clown_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1987483296/ghost_clown_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Juggalo4k",
+        "statuses_count": 943,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/p8PAFNBHDZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

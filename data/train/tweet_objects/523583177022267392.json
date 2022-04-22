@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 21:15:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/f1dDMuM2mg",
+                "expanded_url": "https://twitter.com/pourmecoffee/status/523581212175392768/photo/1",
+                "id": 523581211789496320,
+                "id_str": "523581211789496320",
+                "indices": [
+                    106,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0QiVovIEAAWVqT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0QiVovIEAAWVqT.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 523581212175392768,
+                "source_status_id_str": "523581212175392768",
+                "source_user_id": 16906137,
+                "source_user_id_str": "16906137",
+                "type": "photo",
+                "url": "http://t.co/f1dDMuM2mg"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "livescience.com/48340-goliath-\u2026",
+                "expanded_url": "http://livescience.com/48340-goliath-birdeater-surprises-scientist.html",
+                "indices": [
+                    83,
+                    105
+                ],
+                "url": "http://t.co/ez6FKGvCNV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/f1dDMuM2mg",
+                "expanded_url": "https://twitter.com/pourmecoffee/status/523581212175392768/photo/1",
+                "id": 523581211789496320,
+                "id_str": "523581211789496320",
+                "indices": [
+                    106,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0QiVovIEAAWVqT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0QiVovIEAAWVqT.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 523581212175392768,
+                "source_status_id_str": "523581212175392768",
+                "source_user_id": 16906137,
+                "source_user_id_str": "16906137",
+                "type": "photo",
+                "url": "http://t.co/f1dDMuM2mg"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523583177022267392,
+    "id_str": "523583177022267392",
+    "in_reply_to_screen_name": "pourmecoffee",
+    "in_reply_to_status_id": 523581212175392768,
+    "in_reply_to_status_id_str": "523581212175392768",
+    "in_reply_to_user_id": 16906137,
+    "in_reply_to_user_id_str": "16906137",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00a0for\u00a0Android</a>",
+    "text": "Excuse me? RT @pourmecoffee \"Puppy-Sized Spider Surprises Scientist in Rainforest\" http://t.co/ez6FKGvCNV http://t.co/f1dDMuM2mg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 01:44:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#BlackLivesMatter \u2022 An angel trapped in a vessel of death \u2022 #ChelseaFC #DenverBroncos, #Yankees, #Habs, #OrlandoMagic, #Wrasslin",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/Leftylucky_",
+                        "expanded_url": "https://www.instagram.com/Leftylucky_",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xfkRmj5paR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50687,
+        "follow_request_sent": false,
+        "followers_count": 1033,
+        "following": false,
+        "friends_count": 1109,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20407378,
+        "id_str": "20407378",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 33,
+        "location": "",
+        "name": "Mile High Wilson",
+        "notifications": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20407378/1615254072",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510332605908103170/2zjxm1A8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510332605908103170/2zjxm1A8_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "335CFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LeftyLucky_",
+        "statuses_count": 200852,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xfkRmj5paR",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

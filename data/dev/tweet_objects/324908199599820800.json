@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 18 15:32:05 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 599478682,
+                "id_str": "599478682",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "DontFollowMe",
+                "screen_name": "IDisDummies"
+            },
+            {
+                "id": 1260504658600222726,
+                "id_str": "1260504658600222726",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Earth pics \ud83c\udf0d",
+                "screen_name": "PicturesEarth"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 324908199599820800,
+    "id_str": "324908199599820800",
+    "in_reply_to_screen_name": "IDisDummies",
+    "in_reply_to_status_id": 324907837966913536,
+    "in_reply_to_status_id_str": "324907837966913536",
+    "in_reply_to_user_id": 599478682,
+    "in_reply_to_user_id_str": "599478682",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@IDisDummies @picturesearth couldn't be me ..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 18 03:54:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Best Uncle In The World. Cuthroat Era. Air Force 1 Enthusiast #JetLife #Yankees #ChelseaFC #49ers #Knicks #NYR #BodegaHive #BulletClub",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "HendricksGin.com",
+                        "expanded_url": "http://HendricksGin.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/coEPmlrWww"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 680,
+        "follow_request_sent": false,
+        "followers_count": 2529,
+        "following": false,
+        "friends_count": 1088,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 115264552,
+        "id_str": "115264552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 82,
+        "location": "Land of The Flee,Home of The\ud83c\udf0a",
+        "name": "J.R. \ud83c\udde9\ud83c\uddf2",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115264552/1620235366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1507800661181800448/YczgsMC3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1507800661181800448/YczgsMC3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HarlemGetsMoney",
+        "statuses_count": 552305,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/coEPmlrWww",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

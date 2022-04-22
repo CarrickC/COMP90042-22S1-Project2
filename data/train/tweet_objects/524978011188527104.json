@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 17:38:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1242098041819213825,
+                "id_str": "1242098041819213825",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "_tattoo_queen_",
+                "screen_name": "TattooQ"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 524978011188527104,
+    "id_str": "524978011188527104",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 524976963862429697,
+    "in_reply_to_status_id_str": "524976963862429697",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @TattooQ\nA car hits people waiting at the Ammunition Hill station\nof Jerusalem's light rail\ndriver shot trying to flee...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 14 23:47:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You were meant to be here from the beginning. I am for God, family, country and Trump - I like to feel with my heart & think with my brain. It's a process...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=Jb_Zgl\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=Jb_ZglyvHyI",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GKVrqdEa5e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1300,
+        "follow_request_sent": false,
+        "followers_count": 1425,
+        "following": false,
+        "friends_count": 1529,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 24452368,
+        "id_str": "24452368",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Atlantic North East",
+        "name": "Chasmarang",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24452368/1622692015",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400297902195494913/z9l_WLje_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400297902195494913/z9l_WLje_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chasmarang",
+        "statuses_count": 17243,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GKVrqdEa5e",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

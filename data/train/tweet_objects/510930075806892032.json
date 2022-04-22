@@ -1,0 +1,130 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 13 23:16:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "drrichswier.com/2014/09/12/wan\u2026",
+                "expanded_url": "http://drrichswier.com/2014/09/12/want-get-really-big-war-elect-liberal/",
+                "indices": [
+                    34,
+                    56
+                ],
+                "url": "http://t.co/400s31BZyY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2745158945,
+                "id_str": "2745158945",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "cliftongraber",
+                "screen_name": "cliftongraber"
+            },
+            {
+                "id": 718768609,
+                "id_str": "718768609",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Josh",
+                "screen_name": "chwder50"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    25,
+                    33
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510930075806892032,
+    "id_str": "510930075806892032",
+    "in_reply_to_screen_name": "cliftongraber",
+    "in_reply_to_status_id": 510924212467683328,
+    "in_reply_to_status_id_str": "510924212467683328",
+    "in_reply_to_user_id": 2745158945,
+    "in_reply_to_user_id_str": "2745158945",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@cliftongraber @chwder50 @FoxNews http://t.co/400s31BZyY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 01 23:23:10 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/GClHhmtvDS God Save the Republic #RollTide #HailState (house divided) Venting until shut down.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ConventionofStates.com",
+                        "expanded_url": "http://ConventionofStates.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GClHhmtvDS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27371,
+        "follow_request_sent": false,
+        "followers_count": 4398,
+        "following": false,
+        "friends_count": 4932,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15696011,
+        "id_str": "15696011",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 186,
+        "location": "Alabama, USA",
+        "name": "God Bless America",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15696011/1511964334",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1488976660779220999/Fm75AXGc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488976660779220999/Fm75AXGc_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZanP",
+        "statuses_count": 82308,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 31 22:29:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528312841749950464,
+    "id_str": "528312841749950464",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528312406498635777,
+    "in_reply_to_status_id_str": "528312406498635777",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@washingtonpost I thought this was a Halloween-themed joke at first. But I'm glad I was wrong!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 12 19:59:59 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I mainly care about travel, sustainability, books, and community \ud83c\udf31",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/kelseysreads",
+                        "expanded_url": "http://instagram.com/kelseysreads",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AthwU1fdF6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19586,
+        "follow_request_sent": false,
+        "followers_count": 232,
+        "following": false,
+        "friends_count": 309,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2288612756,
+        "id_str": "2288612756",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Washington, D.C.",
+        "name": "Kelsey",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219985141969440768/MX2tG9og_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219985141969440768/MX2tG9og_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KGras13",
+        "statuses_count": 9026,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AthwU1fdF6",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

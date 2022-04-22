@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 16:19:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "dlvr.it/7Ttj4t",
+                "expanded_url": "http://dlvr.it/7Ttj4t",
+                "indices": [
+                    69,
+                    91
+                ],
+                "url": "http://t.co/9AA6BhGYD1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16331010,
+                "id_str": "16331010",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "TMZ",
+                "screen_name": "TMZ"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 532206085726568449,
+    "id_str": "532206085726568449",
+    "in_reply_to_screen_name": "TMZ",
+    "in_reply_to_status_id": 532197572698320896,
+    "in_reply_to_status_id_str": "532197572698320896",
+    "in_reply_to_user_id": 16331010,
+    "in_reply_to_user_id_str": "16331010",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TMZ: Sugarhill Gang's Big Bank Hank Dies -- Dead at 57 from Cancer http://t.co/9AA6BhGYD1\u201d Sad.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 28 19:07:06 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "She/Her. Do one thing for a 9-5. Write as a second job, trying to make it a main job. Zeta. JSU. #TheeILove",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1074,
+        "follow_request_sent": false,
+        "followers_count": 425,
+        "following": false,
+        "friends_count": 517,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17026379,
+        "id_str": "17026379",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "People\u2019s Republic of Brooklyn",
+        "name": "DrennaB",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112576986176802816/wbt4ZYtw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112576986176802816/wbt4ZYtw_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrennaB",
+        "statuses_count": 69808,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 00:16:02 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    119,
+                    135
+                ],
+                "text": "RIPMichaelBrown"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2561466085,
+                "id_str": "2561466085",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "luzifer_hind",
+                "screen_name": "PlayVicious"
+            },
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499711006340161536,
+    "id_str": "499711006340161536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@PlayVicious @ksdknews . Because if he's a \"thug\" he deserves to get shot...while his hands were up ...with no weapon. #RIPMichaelBrown",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 09 13:41:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author of Inherited Curses by Andi Williams on https://t.co/Bg7vCkRvR6, Jamaican-American/ Traveler/Blogger/Public Health/Teacher/Thinker/Wanderer",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "amazon.com",
+                        "expanded_url": "http://amazon.com",
+                        "indices": [
+                            47,
+                            70
+                        ],
+                        "url": "https://t.co/Bg7vCkRvR6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2723,
+        "follow_request_sent": false,
+        "followers_count": 331,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 332251410,
+        "id_str": "332251410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "6 Continents ",
+        "name": "Andrea T.",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/332251410/1401678020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650171367644532736/TJ8BzP_p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650171367644532736/TJ8BzP_p_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndiT262",
+        "statuses_count": 2951,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

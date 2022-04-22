@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 20:00:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238193044815577088",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/f8ko7IsBIA"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1238193044815577088,
+    "id_str": "1238193044815577088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Turns out the answer is the same as the question. WHO let the dogs out! \"Can I catch COVID-19 from my pet? No. Ther\u2026 https://t.co/f8ko7IsBIA",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 02 19:14:19 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Senior Director, Technology Policy https://t.co/Ub4EbOqtiV https://t.co/Q5F11a06wX (Tweets r my own)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/pub/eric-wenge\u2026",
+                        "expanded_url": "http://www.linkedin.com/pub/eric-wenger/3/559/8b9/",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "url": "https://t.co/Ub4EbOqtiV"
+                    },
+                    {
+                        "display_url": "Kisses4Kayla.info",
+                        "expanded_url": "http://www.Kisses4Kayla.info",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "url": "https://t.co/Q5F11a06wX"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Cisco.com",
+                        "expanded_url": "http://www.Cisco.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PDRlK2U3e0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2091,
+        "follow_request_sent": false,
+        "followers_count": 1526,
+        "following": false,
+        "friends_count": 1312,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19923719,
+        "id_str": "19923719",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51,
+        "location": "",
+        "name": "EricWenger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19923719/1524176941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186304764197388288/WQ3Dh6Ok_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186304764197388288/WQ3Dh6Ok_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EricWenger",
+        "statuses_count": 5265,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PDRlK2U3e0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

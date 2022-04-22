@@ -1,0 +1,228 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -85.77271293,
+            42.27078134
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Mar 29 18:39:33 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    110,
+                    121
+                ],
+                "text": "speechless"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V3tpmrGQ1I",
+                "expanded_url": "https://twitter.com/ArenaOfPictures/status/295944137948151809/photo/1",
+                "id": 295944137956540418,
+                "id_str": "295944137956540418",
+                "indices": [
+                    76,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/BBtnoCBCQAIMBsF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BBtnoCBCQAIMBsF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 415,
+                        "resize": "fit",
+                        "w": 690
+                    },
+                    "medium": {
+                        "h": 415,
+                        "resize": "fit",
+                        "w": 690
+                    },
+                    "small": {
+                        "h": 409,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 295944137948151809,
+                "source_status_id_str": "295944137948151809",
+                "source_user_id": 1109500842,
+                "source_user_id_str": "1109500842",
+                "type": "photo",
+                "url": "http://t.co/V3tpmrGQ1I"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/V3tpmrGQ1I",
+                "expanded_url": "https://twitter.com/ArenaOfPictures/status/295944137948151809/photo/1",
+                "id": 295944137956540418,
+                "id_str": "295944137956540418",
+                "indices": [
+                    76,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/BBtnoCBCQAIMBsF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BBtnoCBCQAIMBsF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 415,
+                        "resize": "fit",
+                        "w": 690
+                    },
+                    "medium": {
+                        "h": 415,
+                        "resize": "fit",
+                        "w": 690
+                    },
+                    "small": {
+                        "h": 409,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 295944137948151809,
+                "source_status_id_str": "295944137948151809",
+                "source_user_id": 1109500842,
+                "source_user_id_str": "1109500842",
+                "type": "photo",
+                "url": "http://t.co/V3tpmrGQ1I"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            42.27078134,
+            -85.77271293
+        ],
+        "type": "Point"
+    },
+    "id": 317707616195342337,
+    "id_str": "317707616195342337",
+    "in_reply_to_screen_name": "MovieEasterEggs",
+    "in_reply_to_status_id": 295944137948151809,
+    "in_reply_to_status_id_str": "295944137948151809",
+    "in_reply_to_user_id": 1109500842,
+    "in_reply_to_user_id_str": "1109500842",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.878867,
+                        42.244596
+                    ],
+                    [
+                        -85.765506,
+                        42.244596
+                    ],
+                    [
+                        -85.765506,
+                        42.332181
+                    ],
+                    [
+                        -85.878867,
+                        42.332181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Almena, MI",
+        "id": "dd7b82347a490d5c",
+        "name": "Almena",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dd7b82347a490d5c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ArenaOfPictures: A photo of black nurses saving the life of a KKK member. http://t.co/V3tpmrGQ1I\u201d\nThis.... \n#speechless",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 08 03:55:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "catch me on twitch sometime https://t.co/N4XoLntRbS",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/iamjustsono",
+                        "expanded_url": "http://twitch.tv/iamjustsono",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "url": "https://t.co/N4XoLntRbS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14524,
+        "follow_request_sent": false,
+        "followers_count": 453,
+        "following": false,
+        "friends_count": 178,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 486282775,
+        "id_str": "486282775",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "\ud835\udd40\ud835\udd38\ud835\udd44\ud835\udd41\ud835\udd4c\ud835\udd4a\ud835\udd4b\ud835\udd4a\ud835\udd46\u2115\ud835\udd46",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486282775/1610125234",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1479148141282836481/HtEGazgg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479148141282836481/HtEGazgg_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "IAMJUSTSONO",
+        "statuses_count": 22184,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

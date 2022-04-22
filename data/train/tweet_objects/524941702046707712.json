@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:13:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 44685373,
+                "id_str": "44685373",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Peter Henderson",
+                "screen_name": "Henderburn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524941702046707712,
+    "id_str": "524941702046707712",
+    "in_reply_to_screen_name": "Henderburn",
+    "in_reply_to_status_id": 524922729485848576,
+    "in_reply_to_status_id_str": "524922729485848576",
+    "in_reply_to_user_id": 44685373,
+    "in_reply_to_user_id_str": "44685373",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Henderburn I'm a Photo Editor @ ABC- Would you be willing to share this with all ABC News platforms and with partners if we credit?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 23:26:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "work @fallontonight | past @wirecutter @buzzfeed @abc | @wirecutterunion + @nyguild 4ever | dog mom | \"looks evil but is actually very nice\"",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sarahkobos.com",
+                        "expanded_url": "https://www.sarahkobos.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aAuWhzAUpt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9003,
+        "follow_request_sent": false,
+        "followers_count": 1590,
+        "following": false,
+        "friends_count": 970,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 33339548,
+        "id_str": "33339548",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "Brooklyn by way of SC",
+        "name": "Sarah Kobos",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33339548/1616206328",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1462109198024597504/374klAeV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1462109198024597504/374klAeV_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F0CCB8",
+        "profile_text_color": "787878",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "skobos",
+        "statuses_count": 14788,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aAuWhzAUpt",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

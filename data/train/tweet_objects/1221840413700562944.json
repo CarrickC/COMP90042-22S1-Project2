@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 17:00:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1221840413700562944",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/3jS9UEsGhR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    9,
+                    18
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    19,
+                    30
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    31,
+                    39
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    40,
+                    48
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    49,
+                    57
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 1187,
+    "favorited": false,
+    "geo": null,
+    "id": 1221840413700562944,
+    "id_str": "1221840413700562944",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1221834674386997249,
+    "in_reply_to_status_id_str": "1221834674386997249",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 941,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Q: Are there any specific medicines to prevent or treat t\u2026 https://t.co/3jS9UEsGhR",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are the #UnitedNations\u2019 health agency - #HealthForAll.\n\u25b6\ufe0f Always check our latest tweets on #COVID19 for updated advice/information.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "who.int",
+                        "expanded_url": "http://www.who.int",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wVulKuROWG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12077,
+        "follow_request_sent": false,
+        "followers_count": 11051954,
+        "following": false,
+        "friends_count": 1751,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14499829,
+        "id_str": "14499829",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35074,
+        "location": "Geneva, Switzerland",
+        "name": "World Health Organization (WHO)",
+        "notifications": false,
+        "profile_background_color": "D0ECF8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1639153014",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+        "profile_link_color": "0396DB",
+        "profile_sidebar_border_color": "8C8C8C",
+        "profile_sidebar_fill_color": "D9D9D9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHO",
+        "statuses_count": 68955,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/wVulKuROWG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

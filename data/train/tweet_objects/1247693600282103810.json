@@ -1,0 +1,217 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 08 01:11:49 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247693600282103810",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/N9E213l7rv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1247693600282103810,
+    "id_str": "1247693600282103810",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Apr 07 22:08:59 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1247647587492073474",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/oYQmYLKbX4"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 8575,
+        "favorited": false,
+        "geo": null,
+        "id": 1247647587492073474,
+        "id_str": "1247647587492073474",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3024,
+        "retweeted": false,
+        "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+        "text": "WATCH: Trump announces a \u201chold\u201d on money going to the WHO, calls them \u201cChina centric.\u201d \n\n\u201cThey missed the call. The\u2026 https://t.co/oYQmYLKbX4",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 04 22:28:20 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Meet the Press is the longest-running television show in history. \n\nIf it's Sunday, it's Meet the Press with @ChuckTodd. \n\n#MTP #IfItsSunday #MTPDaily",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "MeetThePress.com",
+                            "expanded_url": "http://MeetThePress.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/uqtRXPrjFZ"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2969,
+            "follow_request_sent": false,
+            "followers_count": 660724,
+            "following": false,
+            "friends_count": 458,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 11856892,
+            "id_str": "11856892",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 7061,
+            "location": "Washington, D.C.",
+            "name": "Meet the Press",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11856892/1510484695",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929666076279017472/HSm8OUL7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929666076279017472/HSm8OUL7_normal.jpg",
+            "profile_link_color": "124578",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5D7EB",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MeetThePress",
+            "statuses_count": 94974,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/uqtRXPrjFZ",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1247647587492073474,
+    "quoted_status_id_str": "1247647587492073474",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "He\u2019s blaming @Who to divert from the blame that lies with him. He was warned in January that thousands of Americans\u2026 https://t.co/N9E213l7rv",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 01 05:51:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Veteran of global human rights NGOs, now @PenAmerica. Pro-free expression, anti-censorship. Mom, Dem activist, master & eco-gardener, hiker. Brakes for trees.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/suzanne-tri\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/suzanne-trimel-77170813",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aYS6y0yciU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 119085,
+        "follow_request_sent": false,
+        "followers_count": 6621,
+        "following": false,
+        "friends_count": 6842,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22336731,
+        "id_str": "22336731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 254,
+        "location": "Montclair, NJ ",
+        "name": "Suzanne Trimel \u201cpro Democracy\u201d",
+        "notifications": false,
+        "profile_background_color": "ACBDB7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22336731/1642800482",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1485245460843487236/A1xhlYiI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485245460843487236/A1xhlYiI_normal.jpg",
+        "profile_link_color": "52B5C8",
+        "profile_sidebar_border_color": "EE3348",
+        "profile_sidebar_fill_color": "F5608A",
+        "profile_text_color": "B4BA1A",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "STrimel",
+        "statuses_count": 104493,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aYS6y0yciU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

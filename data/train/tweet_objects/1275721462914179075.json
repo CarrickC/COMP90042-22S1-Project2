@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 24 09:24:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 115393565,
+                "id_str": "115393565",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Stefan Simanowitz",
+                "screen_name": "StefSimanowitz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1275721462914179075,
+    "id_str": "1275721462914179075",
+    "in_reply_to_screen_name": "StefSimanowitz",
+    "in_reply_to_status_id": 1275693305611812865,
+    "in_reply_to_status_id_str": "1275693305611812865",
+    "in_reply_to_user_id": 115393565,
+    "in_reply_to_user_id_str": "115393565",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StefSimanowitz Yes! Not enough have died",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 26 12:33:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I rant about cycling! Italian & Spanish (Basque). Liguigas were the best\u2764\ufe0f Euskadi Forever \ud83e\udd55\ud83e\udd55\ud83e\udde1\ud83e\udde1. it\u2019s never ducking or duck - cycling photographer in Europe",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cycling-junkie.com",
+                        "expanded_url": "https://cycling-junkie.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1Rsla3sP6q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 271841,
+        "follow_request_sent": false,
+        "followers_count": 2193,
+        "following": false,
+        "friends_count": 1265,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 77464236,
+        "id_str": "77464236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 158,
+        "location": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f \ud83c\uddea\ud83c\uddfa",
+        "name": "Trudgin \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\uddf5\ud83c\uddf8\ud83c\uddea\ud83c\uddfa",
+        "notifications": false,
+        "profile_background_color": "00B831",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77464236/1649834997",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517460109219274753/KuCc-h0F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517460109219274753/KuCc-h0F_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Trudgin",
+        "statuses_count": 303856,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1Rsla3sP6q",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

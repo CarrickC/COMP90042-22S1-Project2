@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 21 21:05:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "buzzfeed.com/ryankincaid/st\u2026",
+                "expanded_url": "http://www.buzzfeed.com/ryankincaid/starbucks-dark-barrel-latte?utm_term=5yw8cz?bftw=main",
+                "indices": [
+                    79,
+                    101
+                ],
+                "url": "http://t.co/JfXSzfNHvx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 849521312,
+                "id_str": "849521312",
+                "indices": [
+                    102,
+                    115
+                ],
+                "name": "lewis clarke",
+                "screen_name": "iamlewclarke"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 513796105776431104,
+    "id_str": "513796105776431104",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 513779458340569088,
+    "in_reply_to_status_id_str": "513779458340569088",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BuzzFeed: Starbucks Is Testing A New Latte That Tastes Exactly Like Guinness http://t.co/JfXSzfNHvx\u201d@iamlewclarke no complaints here!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 04 19:38:52 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Little - love laughing, dancing & baking",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5392,
+        "follow_request_sent": false,
+        "followers_count": 325,
+        "following": false,
+        "friends_count": 1366,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 514682793,
+        "id_str": "514682793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Lancashire, England",
+        "name": "Ruth",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/514682793/1396422493",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131288744953298945/8pVzQTQx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131288744953298945/8pVzQTQx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bijouruffle",
+        "statuses_count": 1214,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

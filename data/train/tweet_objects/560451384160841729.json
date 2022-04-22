@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 28 14:56:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3cRu0vBaKt",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "id": 560125530972770304,
+                "id_str": "560125530972770304",
+                "indices": [
+                    36,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 560414522758799361,
+                "source_status_id_str": "560414522758799361",
+                "source_user_id": 167421802,
+                "source_user_id_str": "167421802",
+                "type": "photo",
+                "url": "http://t.co/3cRu0vBaKt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3cRu0vBaKt",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "id": 560125530972770304,
+                "id_str": "560125530972770304",
+                "indices": [
+                    36,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 560414522758799361,
+                "source_status_id_str": "560414522758799361",
+                "source_user_id": 167421802,
+                "source_user_id_str": "167421802",
+                "type": "photo",
+                "url": "http://t.co/3cRu0vBaKt"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560451384160841729,
+    "id_str": "560451384160841729",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 560414522758799361,
+    "in_reply_to_status_id_str": "560414522758799361",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BurgerKing: Breakfast all around. http://t.co/3cRu0vBaKt\u201d nigga Yall make burgers, not oatmeal.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 08 15:45:51 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "RIP Uncle Tim. watch over us. #GoSpursGo",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7485,
+        "follow_request_sent": false,
+        "followers_count": 809,
+        "following": false,
+        "friends_count": 692,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 130872236,
+        "id_str": "130872236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "ya mama crib ",
+        "name": "Tae Ohtani",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130872236/1628299166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207092676664942592/FbssaVsX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207092676664942592/FbssaVsX_normal.jpg",
+        "profile_link_color": "F5050D",
+        "profile_sidebar_border_color": "F50A1D",
+        "profile_sidebar_fill_color": "080808",
+        "profile_text_color": "040FDE",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Too_Dopee",
+        "statuses_count": 83612,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -79.4622921,
+            35.10067466
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Aug 27 04:15:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/ALe1Z",
+                "expanded_url": "http://ow.ly/ALe1Z",
+                "indices": [
+                    87,
+                    109
+                ],
+                "url": "http://t.co/gOpGKVmA4j"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 119482229,
+                "id_str": "119482229",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "No Context Blinn",
+                "screen_name": "NHLBlinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            35.10067466,
+            -79.4622921
+        ],
+        "type": "Point"
+    },
+    "id": 504482191137861632,
+    "id_str": "504482191137861632",
+    "in_reply_to_screen_name": "NHLBlinn",
+    "in_reply_to_status_id": 504478567062056962,
+    "in_reply_to_status_id_str": "504478567062056962",
+    "in_reply_to_user_id": 119482229,
+    "in_reply_to_user_id_str": "119482229",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.494073,
+                        35.098509
+                    ],
+                    [
+                        -79.4368822,
+                        35.098509
+                    ],
+                    [
+                        -79.4368822,
+                        35.1391695
+                    ],
+                    [
+                        -79.494073,
+                        35.1391695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pinebluff, NC",
+        "id": "e01c064a0f1a73ff",
+        "name": "Pinebluff",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e01c064a0f1a73ff.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NHLBlinn: Report: Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion: http://t.co/gOpGKVmA4j\u201d  WUT?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 07 02:50:00 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83c\udfd2\u26bd\ufe0f\ud83e\udd4d|| quack quack || @NHL - @AnaheimDucks || @MLS - @NYCFC || \u2661@jnnyfrh\u2661 #FlyTogether",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bearbiology.org",
+                        "expanded_url": "https://www.bearbiology.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JNcLztcaJN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 218067,
+        "follow_request_sent": false,
+        "followers_count": 1872,
+        "following": false,
+        "friends_count": 1272,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 63619764,
+        "id_str": "63619764",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 32,
+        "location": "Phoenix, AZ ",
+        "name": "Chris",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63619764/1650051751",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1474877691618725891/FDbJ68mb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1474877691618725891/FDbJ68mb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CJKChel",
+        "statuses_count": 112130,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JNcLztcaJN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:59:14 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 524938032957640704,
+    "id_str": "524938032957640704",
+    "in_reply_to_screen_name": "CBCNews",
+    "in_reply_to_status_id": 524928878075457536,
+    "in_reply_to_status_id_str": "524928878075457536",
+    "in_reply_to_user_id": 6433472,
+    "in_reply_to_user_id_str": "6433472",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CBCNews ummm, maybe don't have the banner \"Canada Laughs Here\" above a story about a soldier being shot...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 24 05:41:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Textbook jack of all trades. Dad of 2. Part jock. Part Geek. Crazy into fishing, movies, travel, and photography. Football, MMA and soccer fanatic.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imdb.com/name/nm4258035/",
+                        "expanded_url": "http://www.imdb.com/name/nm4258035/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aCRkCiVZVa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 127,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 85,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 271275328,
+        "id_str": "271275328",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "Mike Sutton",
+        "notifications": false,
+        "profile_background_color": "050005",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271275328/1398346526",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459324919327633408/WbIF3DZi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459324919327633408/WbIF3DZi_normal.jpeg",
+        "profile_link_color": "636566",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "themikesutton",
+        "statuses_count": 1463,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/aCRkCiVZVa",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

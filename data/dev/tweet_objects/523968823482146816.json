@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 22:47:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 58524428,
+                "id_str": "58524428",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Margarita Noriega",
+                "screen_name": "margarita"
+            },
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            },
+            {
+                "id": 26659703,
+                "id_str": "26659703",
+                "indices": [
+                    20,
+                    34
+                ],
+                "name": "Meredith Frost",
+                "screen_name": "MeredithFrost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523968823482146816,
+    "id_str": "523968823482146816",
+    "in_reply_to_screen_name": "margarita",
+    "in_reply_to_status_id": 523939598691741696,
+    "in_reply_to_status_id_str": "523939598691741696",
+    "in_reply_to_user_id": 58524428,
+    "in_reply_to_user_id_str": "58524428",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@margarita @CBSNews @MeredithFrost // Thx for the sleepless night or three. ((Shudder))",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 22:59:53 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Craftbeer,bourbon,booziness! @spiderbitebeer BarFly, Freelancer https://t.co/V4wPX7QKgJ https://t.co/AISpiQcwIY https://t.co/bvKd4SVYoo",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "LIPulse.com",
+                        "expanded_url": "http://LIPulse.com",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "url": "https://t.co/V4wPX7QKgJ"
+                    },
+                    {
+                        "display_url": "GreaterLongIsland.com",
+                        "expanded_url": "http://GreaterLongIsland.com",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "url": "https://t.co/AISpiQcwIY"
+                    },
+                    {
+                        "display_url": "Northforker.com",
+                        "expanded_url": "http://Northforker.com",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "url": "https://t.co/bvKd4SVYoo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1175,
+        "follow_request_sent": false,
+        "followers_count": 326,
+        "following": false,
+        "friends_count": 240,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 26618208,
+        "id_str": "26618208",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 48,
+        "location": "Lawn Guyland, New York",
+        "name": "BeerZombie",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26618208/1354492078",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2925072294/f094881dc1398575ee194e954d067856_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2925072294/f094881dc1398575ee194e954d067856_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BeerZ0mbie",
+        "statuses_count": 16417,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

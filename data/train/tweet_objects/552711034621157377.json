@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 06:19:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34310170,
+                "id_str": "34310170",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M\u03b1ri\u03b1nge\u2113 M.",
+                "screen_name": "CegataMariangel"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 24878499,
+                "id_str": "24878499",
+                "indices": [
+                    27,
+                    36
+                ],
+                "name": "Alan White",
+                "screen_name": "aljwhite"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552711034621157377,
+    "id_str": "552711034621157377",
+    "in_reply_to_screen_name": "CegataMariangel",
+    "in_reply_to_status_id": 552710347166330880,
+    "in_reply_to_status_id_str": "552710347166330880",
+    "in_reply_to_user_id": 34310170,
+    "in_reply_to_user_id_str": "34310170",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CegataMariangel @BuzzFeed @aljwhite   Paddington",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 10 00:34:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Transportation/urban planning consultant in Florida. Author of forthcoming \"Paleo Places\" - an evolutionary approach to urban planning.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 286059,
+        "follow_request_sent": false,
+        "followers_count": 4083,
+        "following": false,
+        "friends_count": 4999,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 55414986,
+        "id_str": "55414986",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 193,
+        "location": "",
+        "name": "Elizabeth Rodriguez",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55414986/1487340456",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/832592330473537536/i07vfAJ0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/832592330473537536/i07vfAJ0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LibbyBlog",
+        "statuses_count": 178533,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

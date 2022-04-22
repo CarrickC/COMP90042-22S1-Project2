@@ -1,0 +1,96 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 24 00:04:05 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    23
+                ],
+                "text": "BendGate"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16675569,
+                "id_str": "16675569",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "The Sydney Morning Herald",
+                "screen_name": "smh"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514565902042296320,
+    "id_str": "514565902042296320",
+    "in_reply_to_screen_name": "smh",
+    "in_reply_to_status_id": 514555852351479808,
+    "in_reply_to_status_id_str": "514555852351479808",
+    "in_reply_to_user_id": 16675569,
+    "in_reply_to_user_id_str": "16675569",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@smh: Dubbed #BendGate, iPhone 6 Plus users report the aluminium body is bending in pants pockets  little known ergonomic feature of iP6!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 20 00:55:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Expat, aspiring model citizen, husband, father and dog owner. Runner and low carb couch potato. Opinions and ideas are my own except for those I've borrowed.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 376,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 240474382,
+        "id_str": "240474382",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Queensland, Australia",
+        "name": "Ian Pritchard",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971690115440324608/F6yFmPen_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971690115440324608/F6yFmPen_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "iancpritchard",
+        "statuses_count": 1003,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

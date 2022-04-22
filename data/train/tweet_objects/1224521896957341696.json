@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 02:35:45 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1224521896957341696",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/YyYeTH8hFP"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1224521896957341696,
+    "id_str": "1224521896957341696",
+    "in_reply_to_screen_name": "sarapandesss",
+    "in_reply_to_status_id": 1224521835183632384,
+    "in_reply_to_status_id_str": "1224521835183632384",
+    "in_reply_to_user_id": 3021859326,
+    "in_reply_to_user_id_str": "3021859326",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "6. The consumption of raw or undercooked animal products should be avoided. Raw meat, milk or animal organs should\u2026 https://t.co/YyYeTH8hFP",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 16 04:03:30 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2014 i'm gonna make it \u2695 || \ud83d\udc9b",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "curiouscat.me/sarapandes",
+                        "expanded_url": "https://curiouscat.me/sarapandes",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2CedzQsldP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85401,
+        "follow_request_sent": false,
+        "followers_count": 10190,
+        "following": false,
+        "friends_count": 8151,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3021859326,
+        "id_str": "3021859326",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "van gogh's canvas ",
+        "name": "\ud835\udc2c \ud835\udc22 \ud835\udc2b \ud835\udc22 \u264f",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3021859326/1616070358",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1472180247919357952/oRR5ZFNs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472180247919357952/oRR5ZFNs_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sarapandesss",
+        "statuses_count": 32243,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2CedzQsldP",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

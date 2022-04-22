@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:23:46 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    116
+                ],
+                "text": "ottnews"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ottawacitizen.com/news/national/\u2026",
+                "expanded_url": "http://ottawacitizen.com/news/national/soldier-shot-at-war-memorial-in-ottawa/",
+                "indices": [
+                    85,
+                    107
+                ],
+                "url": "http://t.co/64V216TLzO"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 14,
+    "favorited": false,
+    "geo": null,
+    "id": 524929106987991040,
+    "id_str": "524929106987991040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 175,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/64V216TLzO #ottnews",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 20:58:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The biggest daily in the nation's capital",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ottawacitizen.com",
+                        "expanded_url": "http://ottawacitizen.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NScQK8Nq81"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 720,
+        "follow_request_sent": false,
+        "followers_count": 236493,
+        "following": false,
+        "friends_count": 309,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23655688,
+        "id_str": "23655688",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2927,
+        "location": "",
+        "name": "Ottawa Citizen",
+        "notifications": false,
+        "profile_background_color": "8AA477",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23655688/1422398386",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478801926699556871/wN4iG1ZE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478801926699556871/wN4iG1ZE_normal.jpg",
+        "profile_link_color": "162142",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DFE6F1",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "OttawaCitizen",
+        "statuses_count": 296920,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NScQK8Nq81",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

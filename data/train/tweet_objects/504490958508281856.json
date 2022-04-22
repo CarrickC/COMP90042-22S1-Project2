@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 04:49:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/ALe1Z",
+                "expanded_url": "http://ow.ly/ALe1Z",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/JMc89omdCv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 132267974,
+                "id_str": "132267974",
+                "indices": [
+                    7,
+                    18
+                ],
+                "name": "Julien",
+                "screen_name": "IronJulien"
+            },
+            {
+                "id": 119482229,
+                "id_str": "119482229",
+                "indices": [
+                    22,
+                    31
+                ],
+                "name": "No Context Blinn",
+                "screen_name": "NHLBlinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504490958508281856,
+    "id_str": "504490958508281856",
+    "in_reply_to_screen_name": "NHLBlinn",
+    "in_reply_to_status_id": 504478567062056962,
+    "in_reply_to_status_id_str": "504478567062056962",
+    "in_reply_to_user_id": 119482229,
+    "in_reply_to_user_id_str": "119482229",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "...... @IronJulien RT @NHLBlinn: Report: Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion: http://t.co/JMc89omdCv",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 04:09:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/andrewbascom",
+                        "expanded_url": "https://linktr.ee/andrewbascom",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wBnCnapJDT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 58584,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 1126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27810805,
+        "id_str": "27810805",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Toronto, Ontario",
+        "name": "torontoandrew",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27810805/1500054602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216803679459856387/pv3ZoguA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216803679459856387/pv3ZoguA_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "torontoandrew",
+        "statuses_count": 4079,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wBnCnapJDT",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

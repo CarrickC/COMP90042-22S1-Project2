@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 05:40:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 56699328,
+                "id_str": "56699328",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "BusaBuntu",
+                "screen_name": "BusaBuntu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 577706001480200192,
+    "id_str": "577706001480200192",
+    "in_reply_to_screen_name": "BusaBuntu",
+    "in_reply_to_status_id": 316688415229898753,
+    "in_reply_to_status_id_str": "316688415229898753",
+    "in_reply_to_user_id": 56699328,
+    "in_reply_to_user_id_str": "56699328",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@BusaBuntu the depth",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 30 05:13:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wonderfully & Fearfully made**",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/vuyiswa.khoali",
+                        "expanded_url": "http://www.facebook.com/vuyiswa.khoali",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/S2VpgzJ3aR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 815,
+        "follow_request_sent": false,
+        "followers_count": 327,
+        "following": false,
+        "friends_count": 285,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 244806145,
+        "id_str": "244806145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Johannesburg",
+        "name": "Vuyiswa Khoali",
+        "notifications": false,
+        "profile_background_color": "FDAEDD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244806145/1450413658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859393941535379456/n3rBzZX-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859393941535379456/n3rBzZX-_normal.jpg",
+        "profile_link_color": "F25068",
+        "profile_sidebar_border_color": "EA0C1B",
+        "profile_sidebar_fill_color": "FF223B",
+        "profile_text_color": "FF344D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Palesa_K_08",
+        "statuses_count": 7575,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/S2VpgzJ3aR",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

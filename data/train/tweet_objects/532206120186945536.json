@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 16:20:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26329195,
+                "id_str": "26329195",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Eater",
+                "screen_name": "Eater"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532206120186945536,
+    "id_str": "532206120186945536",
+    "in_reply_to_screen_name": "Eater",
+    "in_reply_to_status_id": 532199717594497024,
+    "in_reply_to_status_id_str": "532199717594497024",
+    "in_reply_to_user_id": 26329195,
+    "in_reply_to_user_id_str": "26329195",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Eater Trying to imagine \"barely\" in the weird voice...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 07 14:56:38 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Journalist, wine drinker, pedant, patriotic liberal, baseball dad.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 72,
+        "follow_request_sent": false,
+        "followers_count": 6530,
+        "following": false,
+        "friends_count": 328,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 102700850,
+        "id_str": "102700850",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 234,
+        "location": "Boulder, Colorado",
+        "name": "Bruce Schoenfeld",
+        "notifications": false,
+        "profile_background_color": "F0E622",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1363670183479443457/lz92PEUT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363670183479443457/lz92PEUT_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "030A0A",
+        "profile_sidebar_fill_color": "869DB5",
+        "profile_text_color": "161517",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bruceschoenfeld",
+        "statuses_count": 43593,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

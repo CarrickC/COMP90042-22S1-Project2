@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 18:14:33 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    96,
+                    103
+                ],
+                "text": "cbcOTT"
+            },
+            {
+                "indices": [
+                    104,
+                    112
+                ],
+                "text": "OTTnews"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cbc.ca/news/politics/\u2026",
+                "expanded_url": "http://www.cbc.ca/news/politics/parliament-hill-attack-1-gunman-dead-after-soldier-shot-at-national-war-memorial-1.2808710",
+                "indices": [
+                    73,
+                    95
+                ],
+                "url": "http://t.co/alz6qu6Mca"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 20,
+    "favorited": false,
+    "geo": null,
+    "id": 524987184836005889,
+    "id_str": "524987184836005889",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 104,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "The RCMP and Ottawa police news conference is beginning now. Watch live: http://t.co/alz6qu6Mca #cbcOTT #OTTnews",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 14 22:46:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow for breaking news, special reports and RTs of our journalists' latest work. Find us on https://t.co/WPwqpjR2L1 or on https://t.co/sx4E81D70W",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/cbcottawanews",
+                        "expanded_url": "http://Instagram.com/cbcottawanews",
+                        "indices": [
+                            94,
+                            117
+                        ],
+                        "url": "https://t.co/WPwqpjR2L1"
+                    },
+                    {
+                        "display_url": "Facebook.com/cbcottawa",
+                        "expanded_url": "http://Facebook.com/cbcottawa",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "url": "https://t.co/sx4E81D70W"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cbc.ca/ottawa",
+                        "expanded_url": "http://cbc.ca/ottawa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/36kIIgNtXx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3269,
+        "follow_request_sent": false,
+        "followers_count": 258227,
+        "following": false,
+        "friends_count": 520,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18999969,
+        "id_str": "18999969",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2439,
+        "location": "Ottawa",
+        "name": "CBC Ottawa",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18999969/1643837082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110964617549889538/GKYDESJq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110964617549889538/GKYDESJq_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CBCOttawa",
+        "statuses_count": 149652,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/36kIIgNtXx",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 02 10:50:24 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20012204,
+                "id_str": "20012204",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Us Weekly",
+                "screen_name": "usweekly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407461742113865728,
+    "id_str": "407461742113865728",
+    "in_reply_to_screen_name": "usweekly",
+    "in_reply_to_status_id": 407162181059612672,
+    "in_reply_to_status_id_str": "407162181059612672",
+    "in_reply_to_user_id": 20012204,
+    "in_reply_to_user_id_str": "20012204",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@usweekly indonesia also crying :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 27 16:51:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Resort Manager in Bali.\nHotelier for Bali Tourism. \nUnity in Diversity",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 39,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 108992945,
+        "id_str": "108992945",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Denpasar, Bali",
+        "name": "wawanmashuri",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108992945/1405866758",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083377441777676295/B00TQCnh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083377441777676295/B00TQCnh_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wawan_mashuri",
+        "statuses_count": 147,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

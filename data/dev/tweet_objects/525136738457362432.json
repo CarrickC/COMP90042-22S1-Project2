@@ -1,0 +1,213 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.3364286,
+            33.7906021
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 23 04:08:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KxIzO9RiV8",
+                "expanded_url": "https://twitter.com/LUMENSELECTRIC/status/525136738457362432/photo/1",
+                "id": 525136731289296896,
+                "id_str": "525136731289296896",
+                "indices": [
+                    29,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0mpEycCIAAMn7d.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0mpEycCIAAMn7d.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "medium": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/KxIzO9RiV8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KxIzO9RiV8",
+                "expanded_url": "https://twitter.com/LUMENSELECTRIC/status/525136738457362432/photo/1",
+                "id": 525136731289296896,
+                "id_str": "525136731289296896",
+                "indices": [
+                    29,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0mpEycCIAAMn7d.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0mpEycCIAAMn7d.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "medium": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1080
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/KxIzO9RiV8"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.7906021,
+            -118.3364286
+        ],
+        "type": "Point"
+    },
+    "id": 525136738457362432,
+    "id_str": "525136738457362432",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525134787778850818,
+    "in_reply_to_status_id_str": "525134787778850818",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.3940862,
+                        33.7804411
+                    ],
+                    [
+                        -118.308349,
+                        33.7804411
+                    ],
+                    [
+                        -118.308349,
+                        33.886988
+                    ],
+                    [
+                        -118.3940862,
+                        33.886988
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Torrance, CA",
+        "id": "c1e1a49e92ce1ba0",
+        "name": "Torrance",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c1e1a49e92ce1ba0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC check this puppy out !! http://t.co/KxIzO9RiV8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 22 03:37:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "activist, nature lover , animal lover, engineer, contractor, automation expert, I am a patriot #MAGA.\n   live free, or die trying!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6781,
+        "follow_request_sent": false,
+        "followers_count": 1279,
+        "following": false,
+        "friends_count": 4853,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 76240681,
+        "id_str": "76240681",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Torrance, CA",
+        "name": "Chris Arancibia",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76240681/1612501942",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357557661223563269/g_dCIzqu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357557661223563269/g_dCIzqu_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LUMENSELECTRIC",
+        "statuses_count": 13280,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

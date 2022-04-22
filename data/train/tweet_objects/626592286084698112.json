@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 03:16:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 421672163,
+                "id_str": "421672163",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Erin Condy",
+                "screen_name": "erbearrr432"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626592286084698112,
+    "id_str": "626592286084698112",
+    "in_reply_to_screen_name": "erbearrr432",
+    "in_reply_to_status_id": 626592103687061504,
+    "in_reply_to_status_id_str": "626592103687061504",
+    "in_reply_to_user_id": 421672163,
+    "in_reply_to_user_id_str": "421672163",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@erbearrr432 @BuzzFeed @Samwestfall26 HAHAHA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 01 02:11:13 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "same as it ever was",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/trentjamesw",
+                        "expanded_url": "http://Instagram.com/trentjamesw",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/n0VUHAmVnV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21204,
+        "follow_request_sent": false,
+        "followers_count": 218,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 425484426,
+        "id_str": "425484426",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "california",
+        "name": "stanley yelnats",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/425484426/1628988524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1426707160390455296/OOyy1ZrO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426707160390455296/OOyy1ZrO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "trentjamesw",
+        "statuses_count": 16485,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/n0VUHAmVnV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

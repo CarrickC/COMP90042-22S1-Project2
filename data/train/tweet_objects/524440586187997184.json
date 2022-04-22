@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 21 06:02:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 52146755,
+                "id_str": "52146755",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "MythBusters",
+                "screen_name": "MythBusters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524440586187997184,
+    "id_str": "524440586187997184",
+    "in_reply_to_screen_name": "MythBusters",
+    "in_reply_to_status_id": 524291188422356993,
+    "in_reply_to_status_id_str": "524291188422356993",
+    "in_reply_to_user_id": 52146755,
+    "in_reply_to_user_id_str": "52146755",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@MythBusters Holy bleep! That's huge!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 24 17:45:37 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bachelor of Arts holder and hobbyist writer from Canada with a love for the weird and strange.\ud83d\ude00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 616,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 82,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2677650504,
+        "id_str": "2677650504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Alberta, Canada",
+        "name": "Alanna Z",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2677650504/1534753251",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327512096330838016/NyRks2-R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327512096330838016/NyRks2-R_normal.jpg",
+        "profile_link_color": "C28285",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DruidAlanna",
+        "statuses_count": 371,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 31 17:55:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1245047056621764608",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/gmddPDhtRd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1651522832,
+                "id_str": "1651522832",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dena Grayson, MD, PhD",
+                "screen_name": "DrDenaGrayson"
+            }
+        ]
+    },
+    "favorite_count": 22,
+    "favorited": false,
+    "geo": null,
+    "id": 1245047056621764608,
+    "id_str": "1245047056621764608",
+    "in_reply_to_screen_name": "DrDenaGrayson",
+    "in_reply_to_status_id": 1245045575629844481,
+    "in_reply_to_status_id_str": "1245045575629844481",
+    "in_reply_to_user_id": 1651522832,
+    "in_reply_to_user_id_str": "1651522832",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrDenaGrayson This would make grocery shopping a pretty serious issue.\n\nWe've been told that social distancing is\u2026 https://t.co/gmddPDhtRd",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 11 02:01:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Thinker, Doer, Family Man, Immigrant. Veteran of the mobile phone & PC wars. \n\nSVP Business Development & Strategy @WiTricity. All opinions strictly my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "witricity.com",
+                        "expanded_url": "http://www.witricity.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wqbA8nV90t"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 79203,
+        "follow_request_sent": false,
+        "followers_count": 5782,
+        "following": false,
+        "friends_count": 3701,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15080332,
+        "id_str": "15080332",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 275,
+        "location": "Austin, Texas & Boston, MA",
+        "name": "Farooq Butt",
+        "notifications": false,
+        "profile_background_color": "2B2642",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15080332/1416159365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872119659771740160/sjwOOOEa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872119659771740160/sjwOOOEa_normal.jpg",
+        "profile_link_color": "153DDB",
+        "profile_sidebar_border_color": "A6A6A6",
+        "profile_sidebar_fill_color": "DDE2F0",
+        "profile_text_color": "090F0D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fmbutt",
+        "statuses_count": 37706,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wqbA8nV90t",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 27 19:53:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893041820824997888,
+                "id_str": "893041820824997888",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "JoanneJohnston",
+                "screen_name": "peddoc63"
+            },
+            {
+                "id": 820136761162657792,
+                "id_str": "820136761162657792",
+                "indices": [
+                    19,
+                    33
+                ],
+                "name": "Sam Paterson",
+                "screen_name": "LodiSilverado"
+            },
+            {
+                "id": 954124423,
+                "id_str": "954124423",
+                "indices": [
+                    34,
+                    41
+                ],
+                "name": "Amy Mek",
+                "screen_name": "AmyMek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560163725475581952,
+    "id_str": "560163725475581952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@peddoc63 @DB10524 @LodiSilverado @AmyMek Lock and Load!!!!!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 23 18:24:10 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disabled Vet who believes in America, freedom, and a lot LESS government",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1122,
+        "follow_request_sent": false,
+        "followers_count": 281,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 444850755,
+        "id_str": "444850755",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "",
+        "name": "Redcrown",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522792088627195905/zbawPuUv_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522792088627195905/zbawPuUv_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Redcrown27",
+        "statuses_count": 6284,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 26 18:22:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276581741520736258",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/pNKeCo3PWv"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 65,
+    "favorited": false,
+    "geo": null,
+    "id": 1276581741520736258,
+    "id_str": "1276581741520736258",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 21,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "text": "Sweden's top disease expert says the WHO misinterpreted data when it included Sweden \u2014 which didn't impose a strict\u2026 https://t.co/pNKeCo3PWv",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News. Arts & Life. Music & more. This is NPR. \ud83d\udd75\ufe0f Securely send us news tips: https://t.co/qfEoMDe1Hw",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "securedrop.npr.org",
+                        "expanded_url": "http://securedrop.npr.org",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "url": "https://t.co/qfEoMDe1Hw"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "npr.org",
+                        "expanded_url": "http://www.npr.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NacrixPEkp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2795,
+        "follow_request_sent": false,
+        "followers_count": 8939672,
+        "following": false,
+        "friends_count": 68127,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 5392522,
+        "id_str": "5392522",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 70398,
+        "location": "",
+        "name": "NPR",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1419704144026296333/ms3D5ipo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419704144026296333/ms3D5ipo_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NPR",
+        "statuses_count": 229693,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NacrixPEkp",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

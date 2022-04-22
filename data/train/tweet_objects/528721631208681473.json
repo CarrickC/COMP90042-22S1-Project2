@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 02 01:33:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2316246829,
+                "id_str": "2316246829",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr. Lynn J Anderson",
+                "screen_name": "andersonDrLJA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528721631208681473,
+    "id_str": "528721631208681473",
+    "in_reply_to_screen_name": "andersonDrLJA",
+    "in_reply_to_status_id": 528389559441444864,
+    "in_reply_to_status_id_str": "528389559441444864",
+    "in_reply_to_user_id": 2316246829,
+    "in_reply_to_user_id_str": "2316246829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@andersonDrLJA @HardAspie  Socialists want all children to be raised in creches.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 10 06:45:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Australian, botanist, libertarian. Disciple of the Buddha's spiritual tradition, via Nagarjuna, Fazang, Hubbard, Spencer-Brown and especially Dennis Stephens.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "adarsajnana.wordpress.com",
+                        "expanded_url": "http://adarsajnana.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HX8E33j9kZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17160,
+        "follow_request_sent": false,
+        "followers_count": 213,
+        "following": false,
+        "friends_count": 234,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 296111397,
+        "id_str": "296111397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Adelaide",
+        "name": "David Cooke \ud83c\udf38 \u2638\ufe0f",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3122473574/0788c0643e3427722d39c06847567341_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3122473574/0788c0643e3427722d39c06847567341_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidACooke",
+        "statuses_count": 11126,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/HX8E33j9kZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

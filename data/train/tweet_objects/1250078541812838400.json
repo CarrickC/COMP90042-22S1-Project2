@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 15:08:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250078541812838400",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/CmRTi7qd2N"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1481538050488520705,
+                "id_str": "1481538050488520705",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Fabio Alemanno",
+                "screen_name": "alemanno_fabio"
+            },
+            {
+                "id": 32167214,
+                "id_str": "32167214",
+                "indices": [
+                    16,
+                    29
+                ],
+                "name": "Mario Porpora",
+                "screen_name": "marioporpora"
+            },
+            {
+                "id": 872436137771626497,
+                "id_str": "872436137771626497",
+                "indices": [
+                    30,
+                    38
+                ],
+                "name": "Paco",
+                "screen_name": "PacoScn"
+            },
+            {
+                "id": 1153093807417806848,
+                "id_str": "1153093807417806848",
+                "indices": [
+                    39,
+                    52
+                ],
+                "name": "Marco Ermini",
+                "screen_name": "MarcoErmini2"
+            },
+            {
+                "id": 381457143,
+                "id_str": "381457143",
+                "indices": [
+                    53,
+                    68
+                ],
+                "name": "Alberto aka Hendrik",
+                "screen_name": "Milestemplaris"
+            },
+            {
+                "id": 495882009,
+                "id_str": "495882009",
+                "indices": [
+                    69,
+                    81
+                ],
+                "name": "Pierluigi Lopalco",
+                "screen_name": "ProfLopalco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250078541812838400,
+    "id_str": "1250078541812838400",
+    "in_reply_to_screen_name": "meth_deni",
+    "in_reply_to_status_id": 1250078019168935936,
+    "in_reply_to_status_id_str": "1250078019168935936",
+    "in_reply_to_user_id": 2207054960,
+    "in_reply_to_user_id_str": "2207054960",
+    "is_quote_status": false,
+    "lang": "it",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@alemanno_fabio @marioporpora @PacoScn @MarcoErmini2 @Milestemplaris @ProfLopalco Tutte le ricerche dicono che la q\u2026 https://t.co/CmRTi7qd2N",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 21 12:09:00 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11965,
+        "follow_request_sent": false,
+        "followers_count": 102,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2207054960,
+        "id_str": "2207054960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "federicoDeni",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "meth_deni",
+        "statuses_count": 21591,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

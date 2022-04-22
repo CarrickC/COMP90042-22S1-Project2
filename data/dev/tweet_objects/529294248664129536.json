@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 03 15:29:17 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 529294248664129536,
+    "id_str": "529294248664129536",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fluffyguy I was like damn at least I saw him in New Orleans before Wrestlemania.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 10 18:06:21 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Wrestling fan since 91, Foodie, Astronomer, Sociologist, Traveler, and a Historian 4-Life",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8200,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 263765684,
+        "id_str": "263765684",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "N 41\u00b030' 0'' / W 87\u00b038' 0''",
+        "name": "LBeast",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263765684/1641868134",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1480728388667162629/1HMxTOMx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480728388667162629/1HMxTOMx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LayloBeast",
+        "statuses_count": 7177,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

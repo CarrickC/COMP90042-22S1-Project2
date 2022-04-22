@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 16:56:16 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239958742386409472",
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/xr653aJrat"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2589338451,
+                "id_str": "2589338451",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Moondogg Sikes",
+                "screen_name": "moondoggsikes80"
+            },
+            {
+                "id": 821644302,
+                "id_str": "821644302",
+                "indices": [
+                    32,
+                    48
+                ],
+                "name": "The Wanted Emcees",
+                "screen_name": "TheWantedEmcees"
+            },
+            {
+                "id": 1013884873390612480,
+                "id_str": "1013884873390612480",
+                "indices": [
+                    49,
+                    62
+                ],
+                "name": "FREED.M\ud83c\udf3b",
+                "screen_name": "Me2189251618"
+            },
+            {
+                "id": 1012948460050550784,
+                "id_str": "1012948460050550784",
+                "indices": [
+                    63,
+                    76
+                ],
+                "name": "Frank Geurts PhD \ud83c\uddf3\ud83c\uddf1\ud83c\udf1e",
+                "screen_name": "FrankGeurts3"
+            },
+            {
+                "id": 806307077903814656,
+                "id_str": "806307077903814656",
+                "indices": [
+                    91,
+                    104
+                ],
+                "name": "Peace and Love",
+                "screen_name": "LoveHasOnly1"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1239958742386409472,
+    "id_str": "1239958742386409472",
+    "in_reply_to_screen_name": "moondoggsikes80",
+    "in_reply_to_status_id": 1239791375471828992,
+    "in_reply_to_status_id_str": "1239791375471828992",
+    "in_reply_to_user_id": 2589338451,
+    "in_reply_to_user_id_str": "2589338451",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@moondoggsikes80 @Quall44249005 @TheWantedEmcees @Me2189251618 @FrankGeurts3 @skybluecanoe @LoveHasOnly1\u2026 https://t.co/xr653aJrat",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 06 01:50:32 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like the pretty lights.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 95531,
+        "follow_request_sent": false,
+        "followers_count": 5417,
+        "following": false,
+        "friends_count": 5602,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 717529891680313345,
+        "id_str": "717529891680313345",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Los Angeles, CA",
+        "name": "IMAGINER",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717529891680313345/1645506083",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478540702032150528/RICdHltD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478540702032150528/RICdHltD_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Imaginer77",
+        "statuses_count": 74678,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

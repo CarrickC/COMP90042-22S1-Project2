@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 19 18:36:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1274048444500307969",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Xd7VLgUYrV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1250219924,
+                "id_str": "1250219924",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Johnathan Wood",
+                "screen_name": "Johnathan_Wood1"
+            },
+            {
+                "id": 3577824986,
+                "id_str": "3577824986",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "El Duderino",
+                "screen_name": "thatdanhanna"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1274048444500307969,
+    "id_str": "1274048444500307969",
+    "in_reply_to_screen_name": "Johnathan_Wood1",
+    "in_reply_to_status_id": 1274045310592040960,
+    "in_reply_to_status_id_str": "1274045310592040960",
+    "in_reply_to_user_id": 1250219924,
+    "in_reply_to_user_id_str": "1250219924",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Johnathan_Wood1 @thatdanhanna I didn\u2019t ignore anything. Arguing on social media solves nothing. You\u2019ll have your o\u2026 https://t.co/Xd7VLgUYrV",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 03 18:59:43 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Chicago sports fan(no one cares about the White Sox). Notre Dame",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1100,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1124388082705260544,
+        "id_str": "1124388082705260544",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Chicago, IL",
+        "name": "RWC",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124388082705260544/1565888530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388679740983152644/WUQqr34C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388679740983152644/WUQqr34C_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Angrydoc24",
+        "statuses_count": 12251,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

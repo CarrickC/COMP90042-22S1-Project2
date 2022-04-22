@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 02 18:45:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16041234,
+                "id_str": "16041234",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Raw Story",
+                "screen_name": "RawStory"
+            },
+            {
+                "id": 2903750502,
+                "id_str": "2903750502",
+                "indices": [
+                    10,
+                    24
+                ],
+                "name": "newBreedIrons",
+                "screen_name": "newBreedIrons"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 661252726962200576,
+    "id_str": "661252726962200576",
+    "in_reply_to_screen_name": "RawStory",
+    "in_reply_to_status_id": 661229627734667264,
+    "in_reply_to_status_id_str": "661229627734667264",
+    "in_reply_to_user_id": 16041234,
+    "in_reply_to_user_id_str": "16041234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@RawStory @newBreedIrons oooh the denials are gonna be good allll day long",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 21 19:54:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "deathica dies",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6309,
+        "follow_request_sent": false,
+        "followers_count": 204,
+        "following": false,
+        "friends_count": 152,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 76123915,
+        "id_str": "76123915",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "astral plane",
+        "name": "jessica jonesing \ud83e\udd8e she/they",
+        "notifications": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76123915/1473697212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395026031925399561/yLlDFJlV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395026031925399561/yLlDFJlV_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "0D0D0C",
+        "profile_sidebar_fill_color": "64859C",
+        "profile_text_color": "0F2230",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "blessicabones",
+        "statuses_count": 4830,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

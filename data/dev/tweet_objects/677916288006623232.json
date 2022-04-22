@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 18 18:20:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19851491,
+                "id_str": "19851491",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Kuantom",
+                "screen_name": "Notexplained"
+            },
+            {
+                "id": 2223592103,
+                "id_str": "2223592103",
+                "indices": [
+                    14,
+                    22
+                ],
+                "name": "You Had One Job",
+                "screen_name": "CutPics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 677916288006623232,
+    "id_str": "677916288006623232",
+    "in_reply_to_screen_name": "Unexplained",
+    "in_reply_to_status_id": 520299904934371328,
+    "in_reply_to_status_id_str": "520299904934371328",
+    "in_reply_to_user_id": 1681324362,
+    "in_reply_to_user_id_str": "1681324362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NotExplained @CutPics seems legit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 08 17:09:54 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u2018I\u2019ve got opinions and I\u2019m not afraid to use them\u2019 *deletes tweet*",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20959,
+        "follow_request_sent": false,
+        "followers_count": 151,
+        "following": false,
+        "friends_count": 512,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 313435976,
+        "id_str": "313435976",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Orion Spur, Milky Way",
+        "name": "David Dubuis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/955886389605826561/vMRRrv4m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/955886389605826561/vMRRrv4m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidDubuis",
+        "statuses_count": 10105,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

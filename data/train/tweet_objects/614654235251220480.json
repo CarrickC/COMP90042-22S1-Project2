@@ -1,0 +1,120 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 04:39:24 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    23
+                ],
+                "text": "LGBT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3122401793,
+                "id_str": "3122401793",
+                "indices": [
+                    27,
+                    43
+                ],
+                "name": "Duchess",
+                "screen_name": "DuchessSandrena"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    44,
+                    52
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 614654235251220480,
+    "id_str": "614654235251220480",
+    "in_reply_to_screen_name": "DuchessSandrena",
+    "in_reply_to_status_id": 614600182060195844,
+    "in_reply_to_status_id_str": "614600182060195844",
+    "in_reply_to_user_id": 3122401793,
+    "in_reply_to_user_id_str": "3122401793",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "Majority supports #LGBT RT @DuchessSandrena @FoxNews this lightening is wrong,The White House belongs to all the ppl not just a small group",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 05:34:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We're not perfect, but they're nuts! I tend to swear, A LOT! #Resist #UniteBlue",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "uniteblue.org/user/Lomawny",
+                        "expanded_url": "http://uniteblue.org/user/Lomawny",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/c5MlyoVRBi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 619,
+        "follow_request_sent": false,
+        "followers_count": 2436,
+        "following": false,
+        "friends_count": 2360,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23906678,
+        "id_str": "23906678",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "92,960,000 miles from the sun ",
+        "name": "- CoLiN-",
+        "notifications": false,
+        "profile_background_color": "0A0A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23906678/1624423800",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515386255646855180/SWo81ALO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515386255646855180/SWo81ALO_normal.jpg",
+        "profile_link_color": "ED0505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lomawny",
+        "statuses_count": 16423,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/c5MlyoVRBi",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

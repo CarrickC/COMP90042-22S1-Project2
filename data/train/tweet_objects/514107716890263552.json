@@ -1,0 +1,91 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 17:43:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514107716890263552,
+    "id_str": "514107716890263552",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@juicy_jaaz  \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 10 02:59:45 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "33rdst.us",
+                        "expanded_url": "http://33rdst.us",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NaPphJOtiY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56065,
+        "follow_request_sent": false,
+        "followers_count": 265,
+        "following": false,
+        "friends_count": 263,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 371042561,
+        "id_str": "371042561",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Dallas, TX",
+        "name": "jesus",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371042561/1604472806",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508824220926726148/5O-4TbqN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508824220926726148/5O-4TbqN_normal.jpg",
+        "profile_link_color": "080808",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JAUjr",
+        "statuses_count": 35340,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NaPphJOtiY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

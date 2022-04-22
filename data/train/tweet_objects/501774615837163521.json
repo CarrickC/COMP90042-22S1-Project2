@@ -1,0 +1,194 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 16:56:05 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    29,
+                    38
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QZN1AwnVsy",
+                "expanded_url": "https://twitter.com/NBCNews/status/501768276523761666/photo/1",
+                "id": 501768276389527554,
+                "id_str": "501768276389527554",
+                "indices": [
+                    98,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/BvajlsHCAAI58Nz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BvajlsHCAAI58Nz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 501768276523761666,
+                "source_status_id_str": "501768276523761666",
+                "source_user_id": 14173315,
+                "source_user_id_str": "14173315",
+                "type": "photo",
+                "url": "http://t.co/QZN1AwnVsy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nbcnews.to/Xy2JnO",
+                "expanded_url": "http://nbcnews.to/Xy2JnO",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/GQdfut0VFM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1376334719281991682,
+                "id_str": "1376334719281991682",
+                "indices": [
+                    125,
+                    139
+                ],
+                "name": "Unity Ferguson",
+                "screen_name": "FergusonUnity"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QZN1AwnVsy",
+                "expanded_url": "https://twitter.com/NBCNews/status/501768276523761666/photo/1",
+                "id": 501768276389527554,
+                "id_str": "501768276389527554",
+                "indices": [
+                    98,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/BvajlsHCAAI58Nz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BvajlsHCAAI58Nz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 501768276523761666,
+                "source_status_id_str": "501768276523761666",
+                "source_user_id": 14173315,
+                "source_user_id_str": "14173315",
+                "type": "photo",
+                "url": "http://t.co/QZN1AwnVsy"
+            }
+        ]
+    },
+    "favorite_count": 114,
+    "favorited": false,
+    "geo": null,
+    "id": 501774615837163521,
+    "id_str": "501774615837163521",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 318,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "List of overnight arrests in #Ferguson much higher than officials reported http://t.co/GQdfut0VFM http://t.co/QZN1AwnVsy via @FergusonUnity",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 09 05:10:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We are Anonymous, we are legion, we do not forgive, we do not forget. Expect us. \n\nPrepared to go forward w/it. Here live. Not a cat.\n\n#Anonymous #HackThePlanet",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22555,
+        "follow_request_sent": false,
+        "followers_count": 8050522,
+        "following": false,
+        "friends_count": 835,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 279390084,
+        "id_str": "279390084",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16848,
+        "location": "The Interwebs",
+        "name": "Anonymous",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/279390084/1459539143",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390018317864296450/bk21WUAT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390018317864296450/bk21WUAT_normal.png",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YourAnonNews",
+        "statuses_count": 189614,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

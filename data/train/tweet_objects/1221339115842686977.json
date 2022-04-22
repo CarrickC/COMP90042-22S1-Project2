@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 26 07:48:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1221339115842686977",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/uXyMKJXZlp"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 113050169,
+                "id_str": "113050169",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Vincent Menezes",
+                "screen_name": "vincentmenezes"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1221339115842686977,
+    "id_str": "1221339115842686977",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1218269428166602753,
+    "in_reply_to_status_id_str": "1218269428166602753",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://www.primal.com\" rel=\"nofollow\">Primal for Twitter</a>",
+    "text": "@WHO @vincentmenezes Wuhan Virus Latest: Official Infection Count Nears 450 as Outbreak Spreads\u2026 https://t.co/uXyMKJXZlp",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 29 20:14:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow Primal Digest to get content just for you. It's simple: Follow us and we'll learn your interests. When we find relevant content, we'll send a reply.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1251,
+        "follow_request_sent": false,
+        "followers_count": 26634,
+        "following": false,
+        "friends_count": 19404,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 138526255,
+        "id_str": "138526255",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3206,
+        "location": "",
+        "name": "Primal Digest",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138526255/1501183553",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994383792142942213/vtCldWYV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994383792142942213/vtCldWYV_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCD",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Primal_Digest",
+        "statuses_count": 581876,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

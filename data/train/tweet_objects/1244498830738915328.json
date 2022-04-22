@@ -1,0 +1,329 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 30 05:36:57 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/danishrasheed2\u2026",
+                "expanded_url": "https://twitter.com/danishrasheed23/status/1244319106842513408?s=19",
+                "indices": [
+                    19,
+                    42
+                ],
+                "url": "https://t.co/Knj2ueFw3c"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 99329240,
+                "id_str": "99329240",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shaukat Khanum",
+                "screen_name": "SKMCH"
+            },
+            {
+                "id": 2645823097,
+                "id_str": "2645823097",
+                "indices": [
+                    7,
+                    18
+                ],
+                "name": "Dr Muhammad Babar Riaz Abidi",
+                "screen_name": "BabarAbidi"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1244498830738915328,
+    "id_str": "1244498830738915328",
+    "in_reply_to_screen_name": "SKMCH",
+    "in_reply_to_status_id": 1244490261885079559,
+    "in_reply_to_status_id_str": "1244490261885079559",
+    "in_reply_to_user_id": 99329240,
+    "in_reply_to_user_id_str": "99329240",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Mar 29 17:42:48 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        4,
+                        16
+                    ],
+                    "text": "Coronavirus"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/GgD5triGgH",
+                    "expanded_url": "https://twitter.com/danishrasheed23/status/1244319106842513408/video/1",
+                    "id": 1244318790881382400,
+                    "id_str": "1244318790881382400",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244318790881382400/pu/img/_RUd86lfRZH-RtEf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244318790881382400/pu/img/_RUd86lfRZH-RtEf.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "medium": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "small": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/GgD5triGgH"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "display_url": "pic.twitter.com/GgD5triGgH",
+                    "expanded_url": "https://twitter.com/danishrasheed23/status/1244319106842513408/video/1",
+                    "id": 1244318790881382400,
+                    "id_str": "1244318790881382400",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244318790881382400/pu/img/_RUd86lfRZH-RtEf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244318790881382400/pu/img/_RUd86lfRZH-RtEf.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "medium": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "small": {
+                            "h": 320,
+                            "resize": "fit",
+                            "w": 480
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/GgD5triGgH",
+                    "video_info": {
+                        "aspect_ratio": [
+                            3,
+                            2
+                        ],
+                        "duration_millis": 118567,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1244318790881382400/pu/pl/LLYNBLE1Ps5iEUSX.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1244318790881382400/pu/vid/480x320/18mDexYVP7lANUcB.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1244318790881382400/pu/vid/404x270/PmOzc67cZtE-wOIT.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1244319106842513408,
+        "id_str": "1244319106842513408",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "How #Coronavirus is Transmitted \n2/4 https://t.co/GgD5triGgH",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 02 09:37:36 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#Spirituality #StudyHumanBehaviour #Zodiacsign #Compatibility #Compassion #Empathy \n\u2764\ufe0fPakistan Armed Forces except those Generals who support Nawaz & Zardari",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/channel/UCdkCm\u2026",
+                            "expanded_url": "https://youtube.com/channel/UCdkCmxYyOxohBmLhSUXRLWA",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/uMmaPoFFZ6"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 77291,
+            "follow_request_sent": false,
+            "followers_count": 850,
+            "following": false,
+            "friends_count": 260,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3007777256,
+            "id_str": "3007777256",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 8,
+            "location": "Planet Earth",
+            "name": "Danish",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007777256/1650302052",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1515599159188881410/3fZQ_POJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515599159188881410/3fZQ_POJ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "danishrasheed23",
+            "statuses_count": 80870,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/uMmaPoFFZ6",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1244319106842513408,
+    "quoted_status_id_str": "1244319106842513408",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SKMCH @BabarAbidi https://t.co/Knj2ueFw3c",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 02 09:37:36 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Spirituality #StudyHumanBehaviour #Zodiacsign #Compatibility #Compassion #Empathy \n\u2764\ufe0fPakistan Armed Forces except those Generals who support Nawaz & Zardari",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCdkCm\u2026",
+                        "expanded_url": "https://youtube.com/channel/UCdkCmxYyOxohBmLhSUXRLWA",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uMmaPoFFZ6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 77291,
+        "follow_request_sent": false,
+        "followers_count": 850,
+        "following": false,
+        "friends_count": 260,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3007777256,
+        "id_str": "3007777256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Planet Earth",
+        "name": "Danish",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007777256/1650302052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515599159188881410/3fZQ_POJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515599159188881410/3fZQ_POJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danishrasheed23",
+        "statuses_count": 80870,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uMmaPoFFZ6",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

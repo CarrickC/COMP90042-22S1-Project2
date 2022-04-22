@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 06 15:09:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1068121346,
+                "id_str": "1068121346",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "BuzzFeed UK",
+                "screen_name": "BuzzFeedUK"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552481969096105984,
+    "id_str": "552481969096105984",
+    "in_reply_to_screen_name": "BuzzFeedUK",
+    "in_reply_to_status_id": 552457656666185728,
+    "in_reply_to_status_id_str": "552457656666185728",
+    "in_reply_to_user_id": 1068121346,
+    "in_reply_to_user_id_str": "1068121346",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BuzzFeedUK @BuzzFeed Sooo sad. \ud83d\ude2d\ud83d\udc94",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 02 15:30:38 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Respect your Mother\u2026 Earth \ud83c\udf0d",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/marissatherecy\u2026",
+                        "expanded_url": "http://instagram.com/marissatherecycler",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/21kYyhjbY3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2474191063,
+        "id_str": "2474191063",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Arizona, USA",
+        "name": "Marissa the Recycler",
+        "notifications": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2474191063/1648078287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506775576584982529/MoDm8qSP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506775576584982529/MoDm8qSP_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FA1E5E",
+        "profile_text_color": "FB7C3E",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mrssmchll",
+        "statuses_count": 4747,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/21kYyhjbY3",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

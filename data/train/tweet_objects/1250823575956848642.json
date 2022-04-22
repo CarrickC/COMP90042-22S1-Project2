@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 16:29:14 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    100
+                ],
+                "text": "BtystaySafe"
+            },
+            {
+                "indices": [
+                    101,
+                    117
+                ],
+                "text": "braceuptheyoung"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1161997987,
+                "id_str": "1161997987",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "King David Ifeanyi Ugochukwu",
+                "screen_name": "livindave"
+            },
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            },
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    118,
+                    126
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1250823575956848642,
+    "id_str": "1250823575956848642",
+    "in_reply_to_screen_name": "livindave",
+    "in_reply_to_status_id": 1250823074037055488,
+    "in_reply_to_status_id_str": "1250823074037055488",
+    "in_reply_to_user_id": 1161997987,
+    "in_reply_to_user_id_str": "1161997987",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@livindave @NCDCgov Thank you for your answer.\n\nIs Covid-19 and corona virus the same?\n\n#BtystaySafe\n#braceuptheyoung\n@NCDCgov",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 11 09:51:18 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Educating and mentoring the young population to become innovative and Accountable leaders. \nFor contacts: \u2709 Braceuptheyoung@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "braceuptheyoung.com",
+                        "expanded_url": "https://www.braceuptheyoung.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Q1qLwrsmFr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 852,
+        "follow_request_sent": false,
+        "followers_count": 272,
+        "following": false,
+        "friends_count": 361,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1061556965250383873,
+        "id_str": "1061556965250383873",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ogun, Nigeria",
+        "name": "Brace-up The Young",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061556965250383873/1565205814",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120350289557639171/r9G9Bd4e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120350289557639171/r9G9Bd4e_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BraceuptheYoung",
+        "statuses_count": 1291,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Q1qLwrsmFr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

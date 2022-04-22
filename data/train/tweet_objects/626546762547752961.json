@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 00:16:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626546762547752961,
+    "id_str": "626546762547752961",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626546123713474560,
+    "in_reply_to_status_id_str": "626546123713474560",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BuzzFeed looks more like planking. Remember that stupid trend kids?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 01 20:02:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "30 / Evergreen State / @kidcudi Cud Life Forever / RIP @MacMiller",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6842,
+        "follow_request_sent": false,
+        "followers_count": 829,
+        "following": false,
+        "friends_count": 367,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 43958958,
+        "id_str": "43958958",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "4th Dimension",
+        "name": "\ud83d\ude80",
+        "notifications": false,
+        "profile_background_color": "5E1811",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43958958/1586871147",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382853380473692165/N18-04J6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382853380473692165/N18-04J6_normal.jpg",
+        "profile_link_color": "066366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88C200",
+        "profile_text_color": "2D3020",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KIDSSEEWZRDS",
+        "statuses_count": 29523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

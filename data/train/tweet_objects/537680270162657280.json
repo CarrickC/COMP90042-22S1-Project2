@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 26 18:52:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537680270162657280,
+    "id_str": "537680270162657280",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 537377960471166976,
+    "in_reply_to_status_id_str": "537377960471166976",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@deray omg shut up",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 27 13:20:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u263b \u0493\u1d0f\u0280\u0299\u026a\u1d05\u1d05\u1d07\u0274 \u1d0b\u026a\u0274\u0262\u1d05\u1d0f\u1d0d \u21d2 \u1d07\u1d05\u1d04\u029f\u1d20 \u21d2 \u1d0d\u1d0f\u1d0f\u0274\u0280\u026as\u1d07 \u21d2 \u029f\u1d0fs\u1d1b \u029f\u1d00\u0274\u1d05s \u21d2 \u1d07\u1d05\u1d04\u1d0f \u263b",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3Dcvcm6",
+                        "expanded_url": "https://bit.ly/3Dcvcm6",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hx9QMVwKzz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4368,
+        "follow_request_sent": false,
+        "followers_count": 491,
+        "following": false,
+        "friends_count": 978,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 148731913,
+        "id_str": "148731913",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "\u2b21\u2b22 H\u039eXAGONIA \u2b21\u2b22",
+        "name": "s\u029c\u1d00\u0274 \ud83d\udd1c \u0493\u1d0b \ud83d\udc09",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148731913/1648502312",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497785423946563585/Cr8iV4za_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497785423946563585/Cr8iV4za_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shiba_shan",
+        "statuses_count": 76208,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/hx9QMVwKzz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

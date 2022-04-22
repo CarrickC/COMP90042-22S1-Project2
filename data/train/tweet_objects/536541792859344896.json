@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 23 15:28:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/weEI4DOCtc",
+                "expanded_url": "https://twitter.com/extrasexual/status/536540403109879809/photo/1",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/weEI4DOCtc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2928124344,
+                "id_str": "2928124344",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "Sexual",
+                "screen_name": "extrasexual"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536541792859344896,
+    "id_str": "536541792859344896",
+    "in_reply_to_screen_name": "girlideas",
+    "in_reply_to_status_id": 536540403109879809,
+    "in_reply_to_status_id_str": "536540403109879809",
+    "in_reply_to_user_id": 131752870,
+    "in_reply_to_user_id_str": "131752870",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@extrasexual: a letter written to parents inside all 1970s Lego sets\ud83d\ude33\ud83d\udcaf this is perfect. http://t.co/weEI4DOCtc\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 27 13:38:24 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "What if I had only 24 hours to live?",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ask.fm/Brcyk95",
+                        "expanded_url": "http://ask.fm/Brcyk95",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/RHtmnYMLWR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3038,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 258330928,
+        "id_str": "258330928",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "______________",
+        "notifications": false,
+        "profile_background_color": "C1EBE3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258330928/1400916433",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436115547286032384/F8bIEMG3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436115547286032384/F8bIEMG3_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BCYK95",
+        "statuses_count": 25885,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/RHtmnYMLWR",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 15:51:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1c2EpuB",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/Uel1OVtVnn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 460627754,
+                "id_str": "460627754",
+                "indices": [
+                    106,
+                    116
+                ],
+                "name": "Emily",
+                "screen_name": "roseemoji"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436166225388130305,
+    "id_str": "436166225388130305",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 436160836524965891,
+    "in_reply_to_status_id_str": "436160836524965891",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@CNN: Nestl\u00e9 USA has issued a recall of Hot Pockets. See the varieties affected: http://t.co/Uel1OVtVnn\u201d @roseemoji MAYDAY MAYDAY MAYDAY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 09 13:48:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "lolly gaggin\u2019             she/her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36397,
+        "follow_request_sent": false,
+        "followers_count": 283,
+        "following": false,
+        "friends_count": 921,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 72855885,
+        "id_str": "72855885",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Kaitlyn",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72855885/1444260016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213267777814851584/RA5zRF5u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213267777814851584/RA5zRF5u_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wafflepizza",
+        "statuses_count": 11064,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

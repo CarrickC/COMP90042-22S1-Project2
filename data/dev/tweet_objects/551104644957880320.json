@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 19:56:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17525171,
+                "id_str": "17525171",
+                "indices": [
+                    65,
+                    73
+                ],
+                "name": "Variety",
+                "screen_name": "Variety"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 551104644957880320,
+    "id_str": "551104644957880320",
+    "in_reply_to_screen_name": "Variety",
+    "in_reply_to_status_id": 551097831851687938,
+    "in_reply_to_status_id_str": "551097831851687938",
+    "in_reply_to_user_id": 17525171,
+    "in_reply_to_user_id_str": "17525171",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "In her honor, I pledge to use the word \"critters\" more often. MT @Variety: Donna Douglas, Elly May on \u2018Beverly Hillbillies,\u2019 Dies at 81",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 13:38:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "6-9am ET @am990theanswer | 10-12N CST @kcmotalkradio | https://t.co/vr9ViYa2DM contributor | Daily pod https://t.co/eMQALdwcC4 | pick up dry cleaning",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Townhall.com",
+                        "expanded_url": "http://Townhall.com",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "url": "https://t.co/vr9ViYa2DM"
+                    },
+                    {
+                        "display_url": "chrisstigall.com",
+                        "expanded_url": "http://chrisstigall.com",
+                        "indices": [
+                            103,
+                            126
+                        ],
+                        "url": "https://t.co/eMQALdwcC4"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/ChrisStigall",
+                        "expanded_url": "https://linktr.ee/ChrisStigall",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1jP4mC9uuO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25146,
+        "follow_request_sent": false,
+        "followers_count": 43412,
+        "following": false,
+        "friends_count": 1537,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22008787,
+        "id_str": "22008787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 300,
+        "location": "In your grocer\u2019s freezer ",
+        "name": "Chris Stigall",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22008787/1599589628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1423311088284839937/WdwA8V_m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423311088284839937/WdwA8V_m_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisStigall",
+        "statuses_count": 66122,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1jP4mC9uuO",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

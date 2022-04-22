@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:33:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524931515705462784,
+    "id_str": "524931515705462784",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 524930365400821761,
+    "in_reply_to_status_id_str": "524930365400821761",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@cnnbrk tell me bout it,plss!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 13 06:54:36 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ask BIGWIGS bout V~BOY,they gon tell yo../2285E60B.... VICO/07084385696.... VICOBIGWIGS@YAHOO.COM",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Bigwigs.com",
+                        "expanded_url": "http://Bigwigs.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zuyp9Lxw0n"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 89,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2544656529,
+        "id_str": "2544656529",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Victoria island lagos",
+        "name": "Oloye victor dami\u00a9\u2122\u2663",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544656529/1416067290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564348930931294208/rPJ4pCAm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564348930931294208/rPJ4pCAm_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Vicolag1",
+        "statuses_count": 669,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/zuyp9Lxw0n",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

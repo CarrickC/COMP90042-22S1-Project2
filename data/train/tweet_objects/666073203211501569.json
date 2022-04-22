@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 16 02:00:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14887069,
+                "id_str": "14887069",
+                "indices": [
+                    1,
+                    15
+                ],
+                "name": "DRUDGE REPORT",
+                "screen_name": "DRUDGE_REPORT"
+            },
+            {
+                "id": 17141268,
+                "id_str": "17141268",
+                "indices": [
+                    95,
+                    100
+                ],
+                "name": "wdsu",
+                "screen_name": "wdsu"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 666073203211501569,
+    "id_str": "666073203211501569",
+    "in_reply_to_screen_name": "NEWS_MAKER",
+    "in_reply_to_status_id": 666070802924617728,
+    "in_reply_to_status_id_str": "666070802924617728",
+    "in_reply_to_user_id": 14669951,
+    "in_reply_to_user_id_str": "14669951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": ".@DRUDGE_REPORT @TimmyTeepell Jindal doesn't need to demand info from anyone. Maybe just check @WDSU at 10.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 23 02:58:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36240,
+        "follow_request_sent": false,
+        "followers_count": 2093,
+        "following": false,
+        "friends_count": 3316,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34508196,
+        "id_str": "34508196",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 54,
+        "location": "Lafayette, LA",
+        "name": "Karl's in Charge",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34508196/1594324204",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3062693574/1e5b5e98ea0098e56a33c965dc969230_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3062693574/1e5b5e98ea0098e56a33c965dc969230_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "karlschott",
+        "statuses_count": 51220,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

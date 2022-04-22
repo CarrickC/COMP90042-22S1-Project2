@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 18:55:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            },
+            {
+                "id": 893041820824997888,
+                "id_str": "893041820824997888",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "JoanneJohnston",
+                "screen_name": "peddoc63"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 643136019450073088,
+    "id_str": "643136019450073088",
+    "in_reply_to_screen_name": "AllenWest",
+    "in_reply_to_status_id": 643103859729166337,
+    "in_reply_to_status_id_str": "643103859729166337",
+    "in_reply_to_user_id": 237403203,
+    "in_reply_to_user_id_str": "237403203",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AllenWest @peddoc63 ok they don't want our help ,,,,don't offer it again",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 13 02:36:46 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "widow,2sons,2daughters in law,7grandkids,love animals,conservative,christian,happy!!TRUMP SUPPORTERS UNITE RETWEET TRUTH tired of twitter bias come2 https://t.co/5YElXqTiNh",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Parler.com",
+                        "expanded_url": "http://Parler.com",
+                        "indices": [
+                            149,
+                            172
+                        ],
+                        "url": "https://t.co/5YElXqTiNh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48325,
+        "follow_request_sent": false,
+        "followers_count": 14773,
+        "following": false,
+        "friends_count": 16540,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143288338,
+        "id_str": "143288338",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 97,
+        "location": "Alaska",
+        "name": "Cinders2",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2623495606/rtr39gknzezkr2ipce6d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2623495606/rtr39gknzezkr2ipce6d_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealCinders2",
+        "statuses_count": 312675,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 30 21:36:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/AyGRH5uij8",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "id": 560125530972770304,
+                "id_str": "560125530972770304",
+                "indices": [
+                    36,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 560414522758799361,
+                "source_status_id_str": "560414522758799361",
+                "source_user_id": 167421802,
+                "source_user_id_str": "167421802",
+                "type": "photo",
+                "url": "http://t.co/AyGRH5uij8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/AyGRH5uij8",
+                "expanded_url": "https://twitter.com/BurgerKing/status/560414522758799361/photo/1",
+                "id": 560125530972770304,
+                "id_str": "560125530972770304",
+                "indices": [
+                    36,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B8X3M-dCUAAyOhq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 560414522758799361,
+                "source_status_id_str": "560414522758799361",
+                "source_user_id": 167421802,
+                "source_user_id_str": "167421802",
+                "type": "photo",
+                "url": "http://t.co/AyGRH5uij8"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 561276762722955265,
+    "id_str": "561276762722955265",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 560414522758799361,
+    "in_reply_to_status_id_str": "560414522758799361",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BurgerKing: Breakfast all around. http://t.co/AyGRH5uij8\u201d oatmeal is not breakfast all around. Eggs. Bacon. Toast. Jelly. Pancakes.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 12 21:08:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Iraqi \ud83c\uddee\ud83c\uddf6 Chaldean-American/ Brand Ambassador for Bazonzoes Provisioning Centers / Performance Poet / Writer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bazonzoesmi.com",
+                        "expanded_url": "http://bazonzoesmi.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ubVsFX9fnX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6985,
+        "follow_request_sent": false,
+        "followers_count": 697,
+        "following": false,
+        "friends_count": 342,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 39596332,
+        "id_str": "39596332",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Michigan",
+        "name": "AnnEsshaki",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39596332/1593791656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1472663763857944592/Hp9W1EBJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472663763857944592/Hp9W1EBJ_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EsshakiAnn",
+        "statuses_count": 42601,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ubVsFX9fnX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

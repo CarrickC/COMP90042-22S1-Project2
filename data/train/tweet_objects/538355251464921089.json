@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 28 15:34:28 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    11,
+                    32
+                ],
+                "text": "violenceagainstwomen"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "amazon.com/Sticks-Stones-\u2026",
+                "expanded_url": "http://www.amazon.com/Sticks-Stones-Broken-Bones-Charmed-ebook/dp/B00M6V9TY4/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/Z1ZB4XyvEh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 93879982,
+                "id_str": "93879982",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Keegan Stephan",
+                "screen_name": "KeeganNYC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538355251464921089,
+    "id_str": "538355251464921089",
+    "in_reply_to_screen_name": "KeeganNYC",
+    "in_reply_to_status_id": 538346377794031618,
+    "in_reply_to_status_id_str": "538346377794031618",
+    "in_reply_to_user_id": 93879982,
+    "in_reply_to_user_id_str": "93879982",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@KeeganNYC #violenceagainstwomen transcends the effects of emotional and physical trauma onto the children.Read-&gt; http://t.co/Z1ZB4XyvEh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 25 04:10:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "No one is safe from inhumanity, so be f!!king kind! #SticksAndStones",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 972422,
+        "follow_request_sent": false,
+        "followers_count": 35321,
+        "following": false,
+        "friends_count": 24614,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 535977623,
+        "id_str": "535977623",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1768,
+        "location": "Shingletown ca",
+        "name": "Linda Lee King",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/535977623/1601815804",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312736733880958976/ST7Ajwpy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312736733880958976/ST7Ajwpy_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "9AAD8E",
+        "profile_sidebar_fill_color": "728E83",
+        "profile_text_color": "496F78",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "LindaLeeKing",
+        "statuses_count": 1297329,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

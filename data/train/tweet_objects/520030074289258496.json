@@ -1,0 +1,244 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -77.37883464,
+            38.61433474
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Oct 09 01:56:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GwUxhKeAIk",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/GwUxhKeAIk"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/LCfbZqy",
+                "expanded_url": "http://trib.al/LCfbZqy",
+                "indices": [
+                    78,
+                    100
+                ],
+                "url": "http://t.co/XJE3ouBGSe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GwUxhKeAIk",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/GwUxhKeAIk"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            38.61433474,
+            -77.37883464
+        ],
+        "type": "Point"
+    },
+    "id": 520030074289258496,
+    "id_str": "520030074289258496",
+    "in_reply_to_screen_name": "Complex",
+    "in_reply_to_status_id": 519867098945044480,
+    "in_reply_to_status_id_str": "519867098945044480",
+    "in_reply_to_user_id": 13049362,
+    "in_reply_to_user_id_str": "13049362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.410461,
+                        38.5803763
+                    ],
+                    [
+                        -77.3030731,
+                        38.5803763
+                    ],
+                    [
+                        -77.3030731,
+                        38.635996
+                    ],
+                    [
+                        -77.410461,
+                        38.635996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Montclair, VA",
+        "id": "f243cab414476355",
+        "name": "Montclair",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f243cab414476355.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ComplexMag: Someone spray painted a penis on a $2.4 million Bugatti Veyron: http://t.co/XJE3ouBGSe http://t.co/GwUxhKeAIk\u201d nah\u270b",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 12:55:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trying to better myself as a person everyday",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wish.org",
+                        "expanded_url": "https://wish.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YBxJ2QUqYi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14965,
+        "follow_request_sent": false,
+        "followers_count": 654,
+        "following": false,
+        "friends_count": 485,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 53054303,
+        "id_str": "53054303",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Kyle Adams",
+        "notifications": false,
+        "profile_background_color": "12EB12",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53054303/1645628609",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496628279343788036/R0Tj6bZG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496628279343788036/R0Tj6bZG_normal.jpg",
+        "profile_link_color": "3FDB18",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kyleadams27",
+        "statuses_count": 28517,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/YBxJ2QUqYi",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

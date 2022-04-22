@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 02 03:20:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893966122109853696,
+                "id_str": "893966122109853696",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Placeholder",
+                "screen_name": "DavidJo52951945"
+            },
+            {
+                "id": 33079769,
+                "id_str": "33079769",
+                "indices": [
+                    17,
+                    31
+                ],
+                "name": "3QuartersToday",
+                "screen_name": "3Quarters2Day"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517514538238087169,
+    "id_str": "517514538238087169",
+    "in_reply_to_screen_name": "DavidJoBrexit",
+    "in_reply_to_status_id": 516636338679197697,
+    "in_reply_to_status_id_str": "516636338679197697",
+    "in_reply_to_user_id": 1125937411,
+    "in_reply_to_user_id_str": "1125937411",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DavidJo52951945 @3Quarters2Day Just how ridiculous can we get!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 17 19:27:08 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired HS principal. Interests: dog training, cooking, cooking knives, climate change, travel, economics and politics. Fiscal conservative & social libertarian",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 660,
+        "follow_request_sent": false,
+        "followers_count": 604,
+        "following": false,
+        "friends_count": 483,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 829665337,
+        "id_str": "829665337",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Ottawa, Sandy Hill",
+        "name": "Ralph Perry",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/829665337/1402277862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338608845690724352/wvw-5-nG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338608845690724352/wvw-5-nG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rjottawa",
+        "statuses_count": 8993,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 04 03:10:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 551576382674075648,
+    "id_str": "551576382674075648",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 551575491430211584,
+    "in_reply_to_status_id_str": "551575491430211584",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@FoxNews: 19-year-old girl wakes up during brain surgery, asks doctors \u2018How\u2019s it going?\u2019\" Not bad just pickin' your brain, you?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 25 00:56:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 50185,
+        "follow_request_sent": false,
+        "followers_count": 812,
+        "following": false,
+        "friends_count": 1053,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50501391,
+        "id_str": "50501391",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Birmingham, AL",
+        "name": "Austin Whitt",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50501391/1650203321",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199397928701444098/1mEEcyYJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199397928701444098/1mEEcyYJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Austin_Whitt",
+        "statuses_count": 13734,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

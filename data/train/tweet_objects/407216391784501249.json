@@ -1,0 +1,221 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -3.72180584,
+            40.42413091
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 18:35:28 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HbpPpE32n0",
+                "expanded_url": "https://twitter.com/MarZ_4_Lyfe/status/407213757048160256/photo/1",
+                "id": 407213756901367808,
+                "id_str": "407213756901367808",
+                "indices": [
+                    87,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/Baa2wR_CIAAp3Oq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Baa2wR_CIAAp3Oq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 407213757048160256,
+                "source_status_id_str": "407213757048160256",
+                "source_user_id": 345139292,
+                "source_user_id_str": "345139292",
+                "type": "photo",
+                "url": "http://t.co/HbpPpE32n0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 345139292,
+                "id_str": "345139292",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "est. MARZ-198X",
+                "screen_name": "MarZ_4_Lyfe"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HbpPpE32n0",
+                "expanded_url": "https://twitter.com/MarZ_4_Lyfe/status/407213757048160256/photo/1",
+                "id": 407213756901367808,
+                "id_str": "407213756901367808",
+                "indices": [
+                    87,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/Baa2wR_CIAAp3Oq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Baa2wR_CIAAp3Oq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 407213757048160256,
+                "source_status_id_str": "407213757048160256",
+                "source_user_id": 345139292,
+                "source_user_id_str": "345139292",
+                "type": "photo",
+                "url": "http://t.co/HbpPpE32n0"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.42413091,
+            -3.72180584
+        ],
+        "type": "Point"
+    },
+    "id": 407216391784501249,
+    "id_str": "407216391784501249",
+    "in_reply_to_screen_name": "MarZ_4_Lyfe",
+    "in_reply_to_status_id": 407213757048160256,
+    "in_reply_to_status_id_str": "407213757048160256",
+    "in_reply_to_user_id": 345139292,
+    "in_reply_to_user_id_str": "345139292",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Madrid, Espa\u00f1a",
+        "id": "c6a1f1f8e7db637a",
+        "name": "Madrid",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c6a1f1f8e7db637a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@MarZ_4_Lyfe: R.I.P. Paul Walker\u2026 He died doing what he loved\u2026 And that's going fast. http://t.co/HbpPpE32n0\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 22 21:28:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "~Madrile\u00f1o de sangre mallorquina~ |Uno es due\u00f1o de lo que calla y esclavo de lo que habla|",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1333,
+        "follow_request_sent": false,
+        "followers_count": 347,
+        "following": false,
+        "friends_count": 412,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 444074972,
+        "id_str": "444074972",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Hollywood Hills",
+        "name": "\u2022Beltri\u2022",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/444074972/1419338600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545369002613407745/GbI3-9Im_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545369002613407745/GbI3-9Im_normal.jpeg",
+        "profile_link_color": "1929D1",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JavierBSFS",
+        "statuses_count": 7761,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 15:36:29 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    23,
+                    33
+                ],
+                "text": "MikeBrown"
+            },
+            {
+                "indices": [
+                    81,
+                    90
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DxZJXQe1dT",
+                "expanded_url": "https://twitter.com/ksdknews/status/499679379820412928/photo/1",
+                "id": 499679379614875648,
+                "id_str": "499679379614875648",
+                "indices": [
+                    91,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bu83v5OIQAA-r3p.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bu83v5OIQAA-r3p.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 499679379820412928,
+                "source_status_id_str": "499679379820412928",
+                "source_user_id": 42921216,
+                "source_user_id_str": "42921216",
+                "type": "photo",
+                "url": "http://t.co/DxZJXQe1dT"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.ksdk.com/1ovtJPT",
+                "expanded_url": "http://on.ksdk.com/1ovtJPT",
+                "indices": [
+                    58,
+                    80
+                ],
+                "url": "http://t.co/L8qlzjmKfW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DxZJXQe1dT",
+                "expanded_url": "https://twitter.com/ksdknews/status/499679379820412928/photo/1",
+                "id": 499679379614875648,
+                "id_str": "499679379614875648",
+                "indices": [
+                    91,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bu83v5OIQAA-r3p.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bu83v5OIQAA-r3p.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 499679379820412928,
+                "source_status_id_str": "499679379820412928",
+                "source_user_id": 42921216,
+                "source_user_id_str": "42921216",
+                "type": "photo",
+                "url": "http://t.co/DxZJXQe1dT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499942645565632513,
+    "id_str": "499942645565632513",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ksdknews: Confirmed: #MikeBrown had no criminal record. http://t.co/L8qlzjmKfW #Ferguson http://t.co/DxZJXQe1dT\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 27 17:28:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "a whole ugly you aint ever seen\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f || IG: og.dremike",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1814,
+        "follow_request_sent": false,
+        "followers_count": 780,
+        "following": false,
+        "friends_count": 634,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 591996079,
+        "id_str": "591996079",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "DDD, TX",
+        "name": "OG Dre Mike",
+        "notifications": false,
+        "profile_background_color": "B8ABA5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/591996079/1606023707",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1418085321267363841/Ir48NPkP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418085321267363841/Ir48NPkP_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ogdremike",
+        "statuses_count": 21413,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

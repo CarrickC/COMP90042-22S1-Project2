@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 14 01:56:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16172991,
+                "id_str": "16172991",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Steve Clemons",
+                "screen_name": "SCClemons"
+            },
+            {
+                "id": 80330381,
+                "id_str": "80330381",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Husain Haqqani",
+                "screen_name": "husainhaqqani"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510970419445514240,
+    "id_str": "510970419445514240",
+    "in_reply_to_screen_name": "SCClemons",
+    "in_reply_to_status_id": 510921017972514817,
+    "in_reply_to_status_id_str": "510921017972514817",
+    "in_reply_to_user_id": 16172991,
+    "in_reply_to_user_id_str": "16172991",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SCClemons @husainhaqqani highly brutal act. Murderers must be punished. Sympathies with family",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 06:56:14 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired life, MA Journalism. I wish corruption free world and honest global leadership. Hate corruption and corrupt ppl. Love man kind and trust in God .",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 428,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 257,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 718728034,
+        "id_str": "718728034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Karachi, Pakistan",
+        "name": "Liyakat Ali",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718728034/1420997020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238063992670687238/8Pn1aKCz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238063992670687238/8Pn1aKCz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AliLiyakatali3",
+        "statuses_count": 496,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

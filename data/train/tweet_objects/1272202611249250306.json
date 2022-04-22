@@ -1,0 +1,103 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 14 16:21:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1272202611249250306",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rSvegIDVu8"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 22,
+    "favorited": false,
+    "geo": null,
+    "id": 1272202611249250306,
+    "id_str": "1272202611249250306",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1272108679442116610,
+    "quoted_status_id_str": "1272108679442116610",
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Hmmmm Andrew, what is worse, a bunch of Tory crooks making a few grand on a crooked property deal,  or Cummings and\u2026 https://t.co/rSvegIDVu8",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 00:37:08 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Physicist and Vision Scientist. Invented and clinically tried the self-refraction approach to correct refractive error. Now developing an optical virus detector",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cvdw.org",
+                        "expanded_url": "http://cvdw.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KRZggUJmLW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88846,
+        "follow_request_sent": false,
+        "followers_count": 19524,
+        "following": false,
+        "friends_count": 19693,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 59305661,
+        "id_str": "59305661",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 94,
+        "location": "Oxford",
+        "name": "Joshua Silver",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000858682338/qFgks8LI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000858682338/qFgks8LI_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eyejosh",
+        "statuses_count": 184611,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/KRZggUJmLW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

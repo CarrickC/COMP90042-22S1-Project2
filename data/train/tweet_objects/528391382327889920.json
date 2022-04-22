@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 03:41:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2270677056,
+                "id_str": "2270677056",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Kristoff Somerset",
+                "screen_name": "buttergolfer"
+            },
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    14,
+                    29
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528391382327889920,
+    "id_str": "528391382327889920",
+    "in_reply_to_screen_name": "buttergolfer",
+    "in_reply_to_status_id": 528377981967020032,
+    "in_reply_to_status_id_str": "528377981967020032",
+    "in_reply_to_user_id": 2270677056,
+    "in_reply_to_user_id_str": "2270677056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@buttergolfer @washingtonpost what the...!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 01 04:29:17 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 70,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2255682927,
+        "id_str": "2255682927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Athens",
+        "name": "LittleMsGreeceNot",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/418568230748184576/dyvd-4d3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/418568230748184576/dyvd-4d3_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "notreallygreek",
+        "statuses_count": 137,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

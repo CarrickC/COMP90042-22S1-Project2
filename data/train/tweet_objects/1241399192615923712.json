@@ -1,0 +1,103 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 21 16:20:06 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    14
+                ],
+                "text": "COVID"
+            },
+            {
+                "indices": [
+                    97,
+                    106
+                ],
+                "text": "pregnant"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241399192615923712",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/BvagboNTvc"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1241399192615923712,
+    "id_str": "1241399192615923712",
+    "in_reply_to_screen_name": "ParentingQ",
+    "in_reply_to_status_id": 1241398991058681861,
+    "in_reply_to_status_id_str": "1241398991058681861",
+    "in_reply_to_user_id": 1197205231177588736,
+    "in_reply_to_user_id_str": "1197205231177588736",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Q4: Can #COVID-19 be transferred from mom to unborn/newborn?\n\nAns: This is still not known, if a #pregnant woman wi\u2026 https://t.co/BvagboNTvc",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 20 17:29:27 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "We share info abt #pregnancy, #parentingtips, #breastfeeding, #motherhood #earlymomentsmatter etc; everything related to #parenting | #ParentingQ",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1197205231177588736,
+        "id_str": "1197205231177588736",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "parentingQ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197205231177588736/1575301031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201518707496718337/YrXuqnwz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201518707496718337/YrXuqnwz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ParentingQ",
+        "statuses_count": 594,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

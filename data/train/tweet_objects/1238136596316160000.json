@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 16:15:42 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238136596316160000",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/eroAKSDrIb"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1238136596316160000,
+    "id_str": "1238136596316160000",
+    "in_reply_to_screen_name": "Johnlaban256",
+    "in_reply_to_status_id": 1238136589387272198,
+    "in_reply_to_status_id_str": "1238136589387272198",
+    "in_reply_to_user_id": 1044637291338223618,
+    "in_reply_to_user_id_str": "1044637291338223618",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are\u2026 https://t.co/eroAKSDrIb",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 25 17:18:33 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Passionate about Tourism and Sports. \ud83e\udec2in Pace Essie",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 128772,
+        "follow_request_sent": false,
+        "followers_count": 135625,
+        "following": false,
+        "friends_count": 12881,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1044637291338223618,
+        "id_str": "1044637291338223618",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 63,
+        "location": "Nsambya Kirombe ku Mwala",
+        "name": "Stranger",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044637291338223618/1647232789",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513514785790435331/joc8E62s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513514785790435331/joc8E62s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Johnlaban256",
+        "statuses_count": 201617,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

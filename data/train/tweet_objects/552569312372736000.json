@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 06 20:56:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552569312372736000,
+    "id_str": "552569312372736000",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 552568163431247873,
+    "in_reply_to_status_id_str": "552568163431247873",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC I hope he finds his forever home soon! Makes me sad but look like they took care of him. Wonder why his previous owner abandoned him!?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 23:11:10 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Married into a KU family. #Rockchalk \u26be\ufe0f Latina/Asian Jewish American. Mom of 3 boys.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27633,
+        "follow_request_sent": false,
+        "followers_count": 100,
+        "following": false,
+        "friends_count": 737,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 25405824,
+        "id_str": "25405824",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Los Angeles, CA",
+        "name": "Denisse Ginsberg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25405824/1442155797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643074138295242752/aNibq2pK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643074138295242752/aNibq2pK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "denisseginsberg",
+        "statuses_count": 3145,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 21:48:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 48956231,
+                "id_str": "48956231",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Zaid Benjamin",
+                "screen_name": "zaidbenjamin"
+            },
+            {
+                "id": 563849409,
+                "id_str": "563849409",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "Martin Patriquin",
+                "screen_name": "MartinPatriquin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501848307103461377,
+    "id_str": "501848307103461377",
+    "in_reply_to_screen_name": "zaidbenjamin",
+    "in_reply_to_status_id": 501827465032237056,
+    "in_reply_to_status_id_str": "501827465032237056",
+    "in_reply_to_user_id": 48956231,
+    "in_reply_to_user_id_str": "48956231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@zaidbenjamin @MartinPatriquin Such an easy process to destroy and such a hard process to build.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 05 14:32:25 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "All arseholes aren\u2019t racist, but all racists are arseholes. Grandmother. She/Her. Peace and Friendship Treaty #MeToo. #BlackLivesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 223515,
+        "follow_request_sent": false,
+        "followers_count": 3754,
+        "following": false,
+        "friends_count": 4997,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 571796080,
+        "id_str": "571796080",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 61,
+        "location": "Unama\u2019ki, Canada",
+        "name": "Nana \ud83d\udc1d",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/571796080/1649418426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1501907353091952642/Zow5LbJx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1501907353091952642/Zow5LbJx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ValMackinnon",
+        "statuses_count": 151670,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

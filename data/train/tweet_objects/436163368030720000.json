@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 15:40:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1c2EpuB",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/D23C4Nw6au"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 6539592,
+                "id_str": "6539592",
+                "indices": [
+                    106,
+                    118
+                ],
+                "name": "Jim Gaffigan",
+                "screen_name": "JimGaffigan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436163368030720000,
+    "id_str": "436163368030720000",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 436160836524965891,
+    "in_reply_to_status_id_str": "436160836524965891",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@CNN: Nestl\u00e9 USA has issued a recall of Hot Pockets. See the varieties affected: http://t.co/D23C4Nw6au\u201d @JimGaffigan  is not surprised",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 23:18:50 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1073,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 514,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57478857,
+        "id_str": "57478857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "JuJu",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57478857/1487608465",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1122646509504401409/HLO41bgx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122646509504401409/HLO41bgx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TherealJuJu55",
+        "statuses_count": 4263,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

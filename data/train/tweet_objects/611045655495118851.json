@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 05:40:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 611045655495118851,
+    "id_str": "611045655495118851",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 611039775856812032,
+    "in_reply_to_status_id_str": "611039775856812032",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@cnni you say it like its a bad thing... no one ever went to KFC just for the chicken, its the luxurious coating they go for. YUM.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 29 00:42:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "eBooks covering the Space Shuttle, International Space Station, Russian & Chinese Space programs. We tweet every major Space launch and story, follow and enjoy!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "spaceshuttlealmanac.com",
+                        "expanded_url": "http://www.spaceshuttlealmanac.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Mhn4dS2y8B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24511,
+        "follow_request_sent": false,
+        "followers_count": 34911,
+        "following": false,
+        "friends_count": 3500,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 363976433,
+        "id_str": "363976433",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 594,
+        "location": "",
+        "name": "Space Shuttle Almanac",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/363976433/1619339936",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1501451087270014976/Qs7OopXF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1501451087270014976/Qs7OopXF_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShuttleAlmanac",
+        "statuses_count": 121587,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/Mhn4dS2y8B",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

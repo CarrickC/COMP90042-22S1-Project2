@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 19:37:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14780915,
+                "id_str": "14780915",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Rolling Stone",
+                "screen_name": "RollingStone"
+            },
+            {
+                "id": 357552802,
+                "id_str": "357552802",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "Chris Dunford",
+                "screen_name": "yankeebluenose8"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674311897777213440,
+    "id_str": "674311897777213440",
+    "in_reply_to_screen_name": "RollingStone",
+    "in_reply_to_status_id": 674263945172119552,
+    "in_reply_to_status_id_str": "674263945172119552",
+    "in_reply_to_user_id": 14780915,
+    "in_reply_to_user_id_str": "14780915",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@RollingStone @yankeebluenose8 - About same # of abortions performed in 1980 alone. Since 1980 there have been over 23 million babies killed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 17 14:46:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Warrior #Survivor #Warrior again \ud83d\udcaa  God & family first. Soccer family;\nUNL football #Huskers #ProLife #AllLivesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36691,
+        "follow_request_sent": false,
+        "followers_count": 276,
+        "following": false,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 66370008,
+        "id_str": "66370008",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Nebraska, USA",
+        "name": "Jim&Shelly Whitaker",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66370008/1568298776",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233217368140210185/XY7us-ha_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233217368140210185/XY7us-ha_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhitakersNE",
+        "statuses_count": 9256,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

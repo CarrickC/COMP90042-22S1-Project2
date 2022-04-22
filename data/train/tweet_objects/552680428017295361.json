@@ -1,0 +1,209 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 04:17:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XxDdAxidkn",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "id": 552112449113968640,
+                "id_str": "552112449113968640",
+                "indices": [
+                    82,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "medium": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "small": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552112474913136641,
+                "source_status_id_str": "552112474913136641",
+                "source_user_id": 14629315,
+                "source_user_id_str": "14629315",
+                "type": "photo",
+                "url": "http://t.co/XxDdAxidkn"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1zOfpCr",
+                "expanded_url": "http://bit.ly/1zOfpCr",
+                "indices": [
+                    59,
+                    81
+                ],
+                "url": "http://t.co/PQJJOpxPxc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14629315,
+                "id_str": "14629315",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "XXL Magazine",
+                "screen_name": "XXL"
+            },
+            {
+                "id": 613668264,
+                "id_str": "613668264",
+                "indices": [
+                    106,
+                    114
+                ],
+                "name": "jgirl",
+                "screen_name": "_gorjas"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XxDdAxidkn",
+                "expanded_url": "https://twitter.com/XXL/status/552112474913136641/photo/1",
+                "id": 552112449113968640,
+                "id_str": "552112449113968640",
+                "indices": [
+                    82,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B6l_WOWCUAAUbD_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "medium": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "small": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 550
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 552112474913136641,
+                "source_status_id_str": "552112474913136641",
+                "source_user_id": 14629315,
+                "source_user_id_str": "14629315",
+                "type": "photo",
+                "url": "http://t.co/XxDdAxidkn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552680428017295361,
+    "id_str": "552680428017295361",
+    "in_reply_to_screen_name": "XXL",
+    "in_reply_to_status_id": 552112474913136641,
+    "in_reply_to_status_id_str": "552112474913136641",
+    "in_reply_to_user_id": 14629315,
+    "in_reply_to_user_id_str": "14629315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@XXL: President Obama\u2019s daughter wears a Pro Era t-shirt: http://t.co/PQJJOpxPxc http://t.co/XxDdAxidkn\u201d @_gorjas",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 16 06:53:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Artist | Songwriter | BusBoy (EP) available everywhere \u2b07\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "songwhip.com/thankyoubus/bu\u2026",
+                        "expanded_url": "https://songwhip.com/thankyoubus/busboy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8NsmeH40Qc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4232,
+        "follow_request_sent": false,
+        "followers_count": 1082,
+        "following": false,
+        "friends_count": 606,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 318275588,
+        "id_str": "318275588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Los Angeles, CA",
+        "name": "ZniPer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/318275588/1611882282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362605668113342465/SFsQxWzF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362605668113342465/SFsQxWzF_normal.jpg",
+        "profile_link_color": "0A0A0A",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "6F8894",
+        "profile_text_color": "D2D7DB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thankyoubus",
+        "statuses_count": 39128,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/8NsmeH40Qc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

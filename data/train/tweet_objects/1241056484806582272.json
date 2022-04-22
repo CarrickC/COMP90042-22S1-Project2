@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 17:38:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241056484806582272",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/rSJ3xfx2Mc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 586462114,
+                "id_str": "586462114",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "UNICEF Jamaica",
+                "screen_name": "UNICEFJamaica"
+            },
+            {
+                "id": 2853553786,
+                "id_str": "2853553786",
+                "indices": [
+                    15,
+                    29
+                ],
+                "name": "Jamaica Library Service",
+                "screen_name": "JamLibService"
+            },
+            {
+                "id": 382671909,
+                "id_str": "382671909",
+                "indices": [
+                    30,
+                    46
+                ],
+                "name": "Andrew Holness",
+                "screen_name": "AndrewHolnessJM"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1241056484806582272,
+    "id_str": "1241056484806582272",
+    "in_reply_to_screen_name": "UNICEFJamaica",
+    "in_reply_to_status_id": 1240697724581728256,
+    "in_reply_to_status_id_str": "1240697724581728256",
+    "in_reply_to_user_id": 586462114,
+    "in_reply_to_user_id_str": "586462114",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UNICEFJamaica @JamLibService @AndrewHolnessJM scanners required for libraries which are still open to the public\u2026 https://t.co/rSJ3xfx2Mc",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 27 17:48:39 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Records and Information Manager",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 471,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 93,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 399560917,
+        "id_str": "399560917",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Tricia Lawrence",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824672631953784833/7zeBGFgZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824672631953784833/7zeBGFgZ_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TriciaLawrence1",
+        "statuses_count": 122,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

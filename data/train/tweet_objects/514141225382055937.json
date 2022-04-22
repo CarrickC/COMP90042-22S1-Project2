@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 19:56:35 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6017542,
+                "id_str": "6017542",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Breaking News",
+                "screen_name": "BreakingNews"
+            },
+            {
+                "id": 21419504,
+                "id_str": "21419504",
+                "indices": [
+                    14,
+                    19
+                ],
+                "name": "WCVB-TV Boston",
+                "screen_name": "WCVB"
+            },
+            {
+                "id": 16558796,
+                "id_str": "16558796",
+                "indices": [
+                    20,
+                    26
+                ],
+                "name": "7News Boston WHDH",
+                "screen_name": "7News"
+            },
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    27,
+                    35
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514141225382055937,
+    "id_str": "514141225382055937",
+    "in_reply_to_screen_name": "BreakingNews",
+    "in_reply_to_status_id": 514100169307348992,
+    "in_reply_to_status_id_str": "514100169307348992",
+    "in_reply_to_user_id": 6017542,
+    "in_reply_to_user_id_str": "6017542",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BreakingNews @WCVB @7News @NBCNews Damn. Even they wanted out of the country.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 19 01:53:35 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 150,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 30,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 48571353,
+        "id_str": "48571353",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Wichita, Kansas",
+        "name": "Rob Galaway",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/432557627898208257/KKbgR0H0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/432557627898208257/KKbgR0H0_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robgalaway",
+        "statuses_count": 626,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

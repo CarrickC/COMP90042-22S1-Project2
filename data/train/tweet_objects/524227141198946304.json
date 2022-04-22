@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 15:54:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 132688318,
+                "id_str": "132688318",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "Jennifer Yacheson",
+                "screen_name": "JennYach"
+            },
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    21,
+                    32
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    33,
+                    45
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 524227141198946304,
+    "id_str": "524227141198946304",
+    "in_reply_to_screen_name": "Just_SueF",
+    "in_reply_to_status_id": 524223824989286400,
+    "in_reply_to_status_id_str": "524223824989286400",
+    "in_reply_to_user_id": 1639279320,
+    "in_reply_to_user_id_str": "1639279320",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Prof_SueF @JennYach @fxnscitech @LiveScience I dropped my phone yesterday scrolling thru Facebook and there was a pic ofGoliath bird eater",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 04 23:32:45 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Just your average geeky research scientist who loves everything scifi and St. Louis Blues hockey.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1826,
+        "follow_request_sent": false,
+        "followers_count": 290,
+        "following": false,
+        "friends_count": 579,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2604335342,
+        "id_str": "2604335342",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "St Louis, MO",
+        "name": "Tina Raeber",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2604335342/1471127193",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/764588972878270464/Fpz-NqgQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/764588972878270464/Fpz-NqgQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tmrosestl",
+        "statuses_count": 9359,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

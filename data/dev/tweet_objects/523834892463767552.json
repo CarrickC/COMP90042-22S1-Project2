@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 13:55:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39585367,
+                "id_str": "39585367",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Harvard University",
+                "screen_name": "Harvard"
+            },
+            {
+                "id": 1049644164,
+                "id_str": "1049644164",
+                "indices": [
+                    9,
+                    19
+                ],
+                "name": "Piotr Naskrecki",
+                "screen_name": "naskrecki"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523834892463767552,
+    "id_str": "523834892463767552",
+    "in_reply_to_screen_name": "Harvard",
+    "in_reply_to_status_id": 523820806917603328,
+    "in_reply_to_status_id_str": "523820806917603328",
+    "in_reply_to_user_id": 39585367,
+    "in_reply_to_user_id_str": "39585367",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@Harvard @naskrecki That's huge!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 26 14:54:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Interactive community with forums for ongoing discussions of Greek life, sports, & campus life. Not affiliated with any universities.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "studentcitylife.com",
+                        "expanded_url": "http://www.studentcitylife.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IW9xBidonD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 568,
+        "follow_request_sent": false,
+        "followers_count": 154,
+        "following": false,
+        "friends_count": 206,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2770163053,
+        "id_str": "2770163053",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "UCF/Florida",
+        "name": "StudentCityLife",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2770163053/1413686791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510173417153101824/PhubW0jw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510173417153101824/PhubW0jw_normal.png",
+        "profile_link_color": "00B30C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SCityLife",
+        "statuses_count": 558,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/IW9xBidonD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

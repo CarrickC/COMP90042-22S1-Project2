@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 21:00:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532276589229539328,
+    "id_str": "532276589229539328",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 532275347413544961,
+    "in_reply_to_status_id_str": "532275347413544961",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@HuffingtonPost RIP Sugarhill Gang = groundbreaking pioneers",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 28 17:09:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Consider yourself forewarned: my tweets are focused on equality issues, pop culture and my fave entertainer: Adam Lambert! #RESIST",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4252,
+        "follow_request_sent": false,
+        "followers_count": 703,
+        "following": false,
+        "friends_count": 1035,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 85862406,
+        "id_str": "85862406",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "",
+        "name": "Imma Freak",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85862406/1568483185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1470208276587417601/OYwgxnFU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470208276587417601/OYwgxnFU_normal.jpg",
+        "profile_link_color": "015559",
+        "profile_sidebar_border_color": "121214",
+        "profile_sidebar_fill_color": "8E4FB3",
+        "profile_text_color": "050505",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AFL143",
+        "statuses_count": 108037,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

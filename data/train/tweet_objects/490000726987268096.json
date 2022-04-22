@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 18 05:10:51 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3108351,
+                "id_str": "3108351",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "The Wall Street Journal",
+                "screen_name": "WSJ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 490000726987268096,
+    "id_str": "490000726987268096",
+    "in_reply_to_screen_name": "WSJ",
+    "in_reply_to_status_id": 489974591985840128,
+    "in_reply_to_status_id_str": "489974591985840128",
+    "in_reply_to_user_id": 3108351,
+    "in_reply_to_user_id_str": "3108351",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@WSJ innocents suffer unnecessary tragedy.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 08:35:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#digitalmarketing #adtargeting #socialsales #crowdsourcing #socialgood #iot #internetofthings #civicinnovation #privacy #cybersecurity #leadership #calfire",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4674,
+        "follow_request_sent": false,
+        "followers_count": 464,
+        "following": false,
+        "friends_count": 555,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20423451,
+        "id_str": "20423451",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 215,
+        "location": "San Francisco Bay Area",
+        "name": "Dee D.",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20423451/1482245420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1662159228/gplprof_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1662159228/gplprof_2_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DDeeSF",
+        "statuses_count": 4405,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

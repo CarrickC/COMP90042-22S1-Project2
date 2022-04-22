@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 14:31:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523119034611822592,
+    "id_str": "523119034611822592",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "text": "@bbcbreaking I said negotiations were the only way.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 13 15:29:20 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Security/ safety consultant @ executive protection services",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "epskenya.com",
+                        "expanded_url": "http://www.epskenya.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/XY4OD7UWUE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4705,
+        "follow_request_sent": false,
+        "followers_count": 1631,
+        "following": false,
+        "friends_count": 168,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1086422443,
+        "id_str": "1086422443",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Nairobi",
+        "name": "George Musamali",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308769992985530373/VMeyXSLp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308769992985530373/VMeyXSLp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GMusamali",
+        "statuses_count": 5526,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/XY4OD7UWUE",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

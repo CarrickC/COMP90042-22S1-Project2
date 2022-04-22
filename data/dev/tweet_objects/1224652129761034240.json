@@ -1,0 +1,161 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 11:13:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1224652129761034240",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/St3Lx9dROK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 2218026914,
+                "id_str": "2218026914",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "World Health Organization Philippines",
+                "screen_name": "WHOPhilippines"
+            },
+            {
+                "id": 918829268372635648,
+                "id_str": "918829268372635648",
+                "indices": [
+                    39,
+                    53
+                ],
+                "name": "Dr Takeshi Kasai",
+                "screen_name": "takeshi_kasai"
+            },
+            {
+                "id": 531041640,
+                "id_str": "531041640",
+                "indices": [
+                    62,
+                    75
+                ],
+                "name": "KKMalaysia\ud83c\uddf2\ud83c\uddfe\ud83d\ude37",
+                "screen_name": "KKMPutrajaya"
+            },
+            {
+                "id": 538804810,
+                "id_str": "538804810",
+                "indices": [
+                    86,
+                    94
+                ],
+                "name": "WHO Centre for Health Development",
+                "screen_name": "WHOKobe"
+            },
+            {
+                "id": 855223341581336576,
+                "id_str": "855223341581336576",
+                "indices": [
+                    95,
+                    108
+                ],
+                "name": "AMR\u81e8\u5e8a\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u30bb\u30f3\u30bf\u30fc",
+                "screen_name": "AMRCRC_JAPAN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1224652129761034240,
+    "id_str": "1224652129761034240",
+    "in_reply_to_screen_name": "WHOWPRO",
+    "in_reply_to_status_id": 1223902268744843265,
+    "in_reply_to_status_id_str": "1223902268744843265",
+    "in_reply_to_user_id": 3794682452,
+    "in_reply_to_user_id_str": "3794682452",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@WHOWPRO @WHOPhilippines @WHO_Mongolia @takeshi_kasai @DOHgov @KKMPutrajaya @KoreaCDC @WHOKobe @AMRCRC_JAPAN\u2026 https://t.co/St3Lx9dROK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 00:38:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "3D Visualizer, Trainer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paramvirchahal.com",
+                        "expanded_url": "http://www.paramvirchahal.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/p4tIPAdkvW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 726,
+        "follow_request_sent": false,
+        "followers_count": 32,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 67767352,
+        "id_str": "67767352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "India, Punjab",
+        "name": "Paramvir Singh",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1275468847332487168/F95o-LBo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275468847332487168/F95o-LBo_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "paramvirchahal",
+        "statuses_count": 1779,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/p4tIPAdkvW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

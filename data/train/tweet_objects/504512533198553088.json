@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -113.96165924,
+            50.91911201
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Aug 27 06:15:35 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21660529,
+                "id_str": "21660529",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sportsnet",
+                "screen_name": "Sportsnet"
+            },
+            {
+                "id": 142464582,
+                "id_str": "142464582",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "loc",
+                "screen_name": "loc8ingoil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            50.91911201,
+            -113.96165924
+        ],
+        "type": "Point"
+    },
+    "id": 504512533198553088,
+    "id_str": "504512533198553088",
+    "in_reply_to_screen_name": "Sportsnet",
+    "in_reply_to_status_id": 504453071041482753,
+    "in_reply_to_status_id_str": "504453071041482753",
+    "in_reply_to_user_id": 21660529,
+    "in_reply_to_user_id_str": "21660529",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.3160379,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        51.212548
+                    ],
+                    [
+                        -114.3160379,
+                        51.212548
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Calgary, Alberta",
+        "id": "53504716d445dcad",
+        "name": "Calgary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sportsnet @loc8ingoil I think Mr.Bettman should pipe up soon. This thing is gaining traction.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 14 17:10:53 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "One day, All your hopes & dreams, will come true. never stop moving forward.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3386,
+        "follow_request_sent": false,
+        "followers_count": 160,
+        "following": false,
+        "friends_count": 265,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 553769511,
+        "id_str": "553769511",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Alberta, Canada",
+        "name": "Kevin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/553769511/1640407830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1474603429502676994/06AUcj2__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1474603429502676994/06AUcj2__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KTennert",
+        "statuses_count": 2296,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

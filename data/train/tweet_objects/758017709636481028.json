@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 26 19:14:39 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 758017709636481028,
+    "id_str": "758017709636481028",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 674364257799004160,
+    "in_reply_to_status_id_str": "674364257799004160",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@Gotham3 looking sexy 50 lad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 10 07:08:23 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "poet rapper rhymer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 180,
+        "follow_request_sent": false,
+        "followers_count": 148,
+        "following": false,
+        "friends_count": 292,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 250015978,
+        "id_str": "250015978",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "uk",
+        "name": "philip mccormick",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250015978/1374101187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3646741110/4582f437695a975ecad35e3d8e883c84_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3646741110/4582f437695a975ecad35e3d8e883c84_normal.jpeg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "philymc1",
+        "statuses_count": 5037,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

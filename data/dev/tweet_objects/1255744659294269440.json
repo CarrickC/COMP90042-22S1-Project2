@@ -1,0 +1,140 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 06:23:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1255744659294269440",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/yXp8X6qL0r"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 701800924759494656,
+                "id_str": "701800924759494656",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "TrapGod.J",
+                "screen_name": "jacqueswalker12"
+            },
+            {
+                "id": 1161090178850512897,
+                "id_str": "1161090178850512897",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "rami",
+                "screen_name": "boredrami"
+            },
+            {
+                "id": 388752047,
+                "id_str": "388752047",
+                "indices": [
+                    28,
+                    39
+                ],
+                "name": "AtomSea \u24cb\u23f3",
+                "screen_name": "TheAtomSea"
+            },
+            {
+                "id": 16516027,
+                "id_str": "16516027",
+                "indices": [
+                    40,
+                    54
+                ],
+                "name": "Joe Farrell",
+                "screen_name": "comanchepilot"
+            },
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    55,
+                    63
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1255744659294269440,
+    "id_str": "1255744659294269440",
+    "in_reply_to_screen_name": "jacqueswalker12",
+    "in_reply_to_status_id": 1255741035327762432,
+    "in_reply_to_status_id_str": "1255741035327762432",
+    "in_reply_to_user_id": 701800924759494656,
+    "in_reply_to_user_id_str": "701800924759494656",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jacqueswalker12 @boredrami @TheAtomSea @comanchepilot @CBSNews Another useful info from U Chicago. You can scroll\u2026 https://t.co/yXp8X6qL0r",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 24 12:44:50 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A global resident",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2055,
+        "follow_request_sent": false,
+        "followers_count": 6,
+        "following": false,
+        "friends_count": 111,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1231922760286265345,
+        "id_str": "1231922760286265345",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "US, DE, JP, CN",
+        "name": "SamGriggs",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231922760286265345/1584975389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242021026281607168/RSCiCz2P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242021026281607168/RSCiCz2P_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamGrig69320547",
+        "statuses_count": 475,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

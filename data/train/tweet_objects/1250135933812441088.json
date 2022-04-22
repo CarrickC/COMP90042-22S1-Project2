@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 18:56:47 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250135933812441088,
+    "id_str": "1250135933812441088",
+    "in_reply_to_screen_name": "citizentvkenya",
+    "in_reply_to_status_id": 1250066794066444290,
+    "in_reply_to_status_id_str": "1250066794066444290",
+    "in_reply_to_user_id": 70394965,
+    "in_reply_to_user_id_str": "70394965",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@citizentvkenya Am ashamed to have voted you in.  Ushindwe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 28 11:18:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Child of God || Husband || Father || Public Speaker || School Administrator || Evangelist || Relationship Advisor || Political Fence Sitter!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "myjob-cv.blogspot.com",
+                        "expanded_url": "http://www.myjob-cv.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/svmpfsFdcV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 273,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 358,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 325484858,
+        "id_str": "325484858",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kenya",
+        "name": "Gov. Kennedy Barasa",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/325484858/1494520634",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/862708424936763392/TNVml2Mx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/862708424936763392/TNVml2Mx_normal.jpg",
+        "profile_link_color": "4C2CCF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "governorbarasa",
+        "statuses_count": 1140,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/svmpfsFdcV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

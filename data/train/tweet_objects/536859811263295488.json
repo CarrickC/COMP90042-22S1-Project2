@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 24 12:32:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536859811263295488,
+    "id_str": "536859811263295488",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 536804445678755840,
+    "in_reply_to_status_id_str": "536804445678755840",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Independent @DianneUCLan Saw lego-lookalike build your own Sagrada Familia in Home Bargains. Gender non-specific.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 06 19:14:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ambleside-based PR, parkrunner & writer.  https://t.co/oa4U5mAQX3\u2026 Also writes about theatre & musicals  @stageylady",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "gritstonecoop.co.uk/books/how-park",
+                        "expanded_url": "http://gritstonecoop.co.uk/books/how-park",
+                        "indices": [
+                            42,
+                            65
+                        ],
+                        "url": "https://t.co/oa4U5mAQX3"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cumbriapr.com",
+                        "expanded_url": "http://cumbriapr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/bSpla8xLa1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32986,
+        "follow_request_sent": false,
+        "followers_count": 3356,
+        "following": false,
+        "friends_count": 2002,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23104544,
+        "id_str": "23104544",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 76,
+        "location": "Ambleside",
+        "name": "Eileen Jones",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23104544/1616939594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123696984450371589/sFGN384y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123696984450371589/sFGN384y_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CumbriaPR",
+        "statuses_count": 35093,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/bSpla8xLa1",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

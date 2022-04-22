@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 22:34:51 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            },
+            {
+                "id": 17878322,
+                "id_str": "17878322",
+                "indices": [
+                    64,
+                    72
+                ],
+                "name": "Charlamagne Tha God",
+                "screen_name": "cthagod"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521791201230733312,
+    "id_str": "521791201230733312",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521790664674377730,
+    "in_reply_to_status_id_str": "521790664674377730",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@lilduval: nigga it was a joke stop using me to push yo agenda @cthagod\u201dlmfaooooooo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 13 01:09:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I Move P\u2019s\u2026 \ud83d\ude9b Duval, FL #904 #Zone5 #AirForce",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3992,
+        "follow_request_sent": false,
+        "followers_count": 931,
+        "following": false,
+        "friends_count": 829,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 165977945,
+        "id_str": "165977945",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "bring out the olives !",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165977945/1642790583",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1463224325302067209/H-IT1PAi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1463224325302067209/H-IT1PAi_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CutDaCheck904",
+        "statuses_count": 275548,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

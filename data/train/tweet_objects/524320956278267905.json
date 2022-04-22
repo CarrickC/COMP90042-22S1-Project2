@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:07:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524320956278267905,
+    "id_str": "524320956278267905",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AlfredoFlores u see me?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 24 19:19:42 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ollg will never die -alfredo\u263d Justin follows \u265b my fandom? proud Belieber, nothing else | my dream? his ollg | fanfiction 'danger' is life | Selena is queen",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20629,
+        "follow_request_sent": false,
+        "followers_count": 19919,
+        "following": false,
+        "friends_count": 23642,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1697247014,
+        "id_str": "1697247014",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "Germany",
+        "name": "\u263d",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697247014/1466980252",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728707378850435072/dKkGS3t0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728707378850435072/dKkGS3t0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ollgitsme",
+        "statuses_count": 6797,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

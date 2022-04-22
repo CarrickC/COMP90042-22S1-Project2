@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 21:32:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "snopes.com/food/tainted/k\u2026",
+                "expanded_url": "http://www.snopes.com/food/tainted/kfc.asp",
+                "indices": [
+                    21,
+                    44
+                ],
+                "url": "https://t.co/A7FLIrOmud"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            }
+        ]
+    },
+    "favorite_count": 23,
+    "favorited": false,
+    "geo": null,
+    "id": 659482834944397312,
+    "id_str": "659482834944397312",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FiNeSSeHaVeN FALSE! https://t.co/A7FLIrOmud",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 13 01:10:24 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sometimes I have something to say. 62, Bi, LGBTQIA+ #BLM. SoCal native https://t.co/uPPATvXrJH",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "mobile.twitter.com/search?q=from%\u2026",
+                        "expanded_url": "https://mobile.twitter.com/search?q=from%3AAskAuntieEm1%20-filter%3Amentions&s=typd",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "url": "https://t.co/uPPATvXrJH"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "favstar.fm/users/AskAunti\u2026",
+                        "expanded_url": "https://favstar.fm/users/AskAuntieEm1/recent",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zBkxYbeme3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 208580,
+        "follow_request_sent": false,
+        "followers_count": 10647,
+        "following": false,
+        "friends_count": 9921,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 552310370,
+        "id_str": "552310370",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 490,
+        "location": "Land of Cheese & Beer",
+        "name": "Auntie M",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552310370/1398090013",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000133657098/43fda401ceb6e87b47d341cfbbdf46ed_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000133657098/43fda401ceb6e87b47d341cfbbdf46ed_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AskAuntieEm1",
+        "statuses_count": 182022,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zBkxYbeme3",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

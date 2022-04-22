@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 00:23:04 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    38,
+                    51
+                ],
+                "text": "PumpkinSpice"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509134857700913152,
+    "id_str": "509134857700913152",
+    "in_reply_to_screen_name": "enews",
+    "in_reply_to_status_id": 509114008587100160,
+    "in_reply_to_status_id_str": "509114008587100160",
+    "in_reply_to_user_id": 2883841,
+    "in_reply_to_user_id_str": "2883841",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@eonline Why does this seem so wrong? #PumpkinSpice",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 25 08:46:25 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pioneering Fabric Mounted LED Lighting Systems",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theraglite.com",
+                        "expanded_url": "http://www.theraglite.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AnLYNFFUyE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 356,
+        "follow_request_sent": false,
+        "followers_count": 337,
+        "following": false,
+        "friends_count": 1085,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2410539643,
+        "id_str": "2410539643",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Chicago",
+        "name": "RagLite Technology",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2410539643/1411482672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521344855130124288/GZQTrYqh_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521344855130124288/GZQTrYqh_normal.jpeg",
+        "profile_link_color": "0065B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RagLite",
+        "statuses_count": 397,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/AnLYNFFUyE",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

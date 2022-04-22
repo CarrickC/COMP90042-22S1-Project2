@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 25 10:09:49 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276095244136841229",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/FiHaltcOiu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 809185603162144770,
+                "id_str": "809185603162144770",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "W45DMM",
+                "screen_name": "dmm_w45"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1276095244136841229,
+    "id_str": "1276095244136841229",
+    "in_reply_to_screen_name": "dmm_w45",
+    "in_reply_to_status_id": 1276092676102897664,
+    "in_reply_to_status_id_str": "1276092676102897664",
+    "in_reply_to_user_id": 809185603162144770,
+    "in_reply_to_user_id_str": "809185603162144770",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@dmm_w45 Some of those actually did come, but I'm afraid we've got other projects to deal with too, such as today's\u2026 https://t.co/FiHaltcOiu",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 30 12:40:12 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Developer for Old School RS. Likes playing the violin & piano, eating kebabs and cooking food. Views expressed are my own and do not represent anyone else.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "oldschool.runescape.com",
+                        "expanded_url": "https://oldschool.runescape.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/x8QziXUTs7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 118290,
+        "following": false,
+        "friends_count": 48,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1712662364,
+        "id_str": "1712662364",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 114,
+        "location": "Cambridge, UK",
+        "name": "Mod Ash",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712662364/1633433410",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1430425360991141889/JmEK_wG2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1430425360991141889/JmEK_wG2_normal.jpg",
+        "profile_link_color": "403020",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JagexAsh",
+        "statuses_count": 363031,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/x8QziXUTs7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}
