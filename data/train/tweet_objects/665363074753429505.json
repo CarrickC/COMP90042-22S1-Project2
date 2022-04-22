@@ -1,0 +1,89 @@
+{
+    "created_at": "Sat Nov 14 02:58:13 +0000 2015",
+    "id": 665363074753429505,
+    "id_str": "665363074753429505",
+    "text": "@JohnGGalt where are the women and children?",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JohnGGalt",
+                "name": "John Galt 🚂💥🇺🇸",
+                "id": 130294479,
+                "id_str": "130294479",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 665358434351509504,
+    "in_reply_to_status_id_str": "665358434351509504",
+    "in_reply_to_user_id": 130294479,
+    "in_reply_to_user_id_str": "130294479",
+    "in_reply_to_screen_name": "JohnGGalt",
+    "user": {
+        "id": 3394898979,
+        "id_str": "3394898979",
+        "name": "Jane MacIntire 😎",
+        "screen_name": "MamaMadisons",
+        "location": "a small blue ball ",
+        "description": "“Sometimes you never know the value of a moment until it becomes a memory.” \n🏳️‍🌈🇮🇱\n\nForgive and forget,\nRelive and regret",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4658,
+        "friends_count": 5057,
+        "listed_count": 3,
+        "created_at": "Thu Jul 30 03:24:54 +0000 2015",
+        "favourites_count": 407279,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 326977,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349364184685961216/hEwQFgXM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349364184685961216/hEwQFgXM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3394898979/1475899785",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}
