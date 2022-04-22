@@ -1,0 +1,101 @@
+{
+    "created_at": "Sun Mar 08 00:24:24 +0000 2020",
+    "id": 1236447642390892544,
+    "id_str": "1236447642390892544",
+    "text": "@mainroadly 正能量要400-2500,胡说八道得多少钱?1000起步吧。",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mainroadly",
+                "name": "正派流氓",
+                "id": 1700808344,
+                "id_str": "1700808344",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1236446799092563969,
+    "in_reply_to_status_id_str": "1236446799092563969",
+    "in_reply_to_user_id": 1700808344,
+    "in_reply_to_user_id_str": "1700808344",
+    "in_reply_to_screen_name": "mainroadly",
+    "user": {
+        "id": 21866217,
+        "id_str": "21866217",
+        "name": "Alex Chen 我爱小甜饼",
+        "screen_name": "dychan",
+        "location": "Shenzhen China",
+        "description": "Linux/FreeBSD/Python/Asterisk/Freeswitch/SIP/TETRA/DMR/rtl-sdr/Food porn/Horrible Histories/Geography/Computer history archive/8bits",
+        "url": "https://t.co/m5zoDirFdb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/m5zoDirFdb",
+                        "expanded_url": "http://www.slackadmin.com",
+                        "display_url": "slackadmin.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 638,
+        "friends_count": 2114,
+        "listed_count": 11,
+        "created_at": "Wed Feb 25 13:43:46 +0000 2009",
+        "favourites_count": 72160,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18598,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3233678080/2ec84df7591c5fafb2159295127459cb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3233678080/2ec84df7591c5fafb2159295127459cb_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+}

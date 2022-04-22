@@ -1,0 +1,142 @@
+{
+    "created_at": "Tue Dec 08 19:11:10 +0000 2015",
+    "id": 674305235272249345,
+    "id_str": "674305235272249345",
+    "text": "@cnni @PressSec @realDonaldTrump Трамп честно говорит то, о чём думает каждый, но боится признаться. Трамп - один честный политик в США.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cnni",
+                "name": "CNN International",
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "screen_name": "PressSec",
+                "name": "Jen Psaki",
+                "id": 1349170292564905988,
+                "id_str": "1349170292564905988",
+                "indices": [
+                    6,
+                    15
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 674301413040758785,
+    "in_reply_to_status_id_str": "674301413040758785",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "in_reply_to_screen_name": "cnni",
+    "user": {
+        "id": 2354388944,
+        "id_str": "2354388944",
+        "name": "ArbatReal🇷🇺MoZcow",
+        "screen_name": "ArbatReal",
+        "location": "РОССiЯ Москва RОSSIYA MoZkVa",
+        "description": "Per aspera ad astra! ХРИСТОС Воскресе!☦️ (Мsk.МГУ им.Ломоносова🎓,TASS✍🏻, РосАкадемияНаук✍🏻, 🔴⚪️, SputnikV,Light). История России - история РПЦ",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 669,
+        "friends_count": 451,
+        "listed_count": 23,
+        "created_at": "Fri Feb 21 07:08:16 +0000 2014",
+        "favourites_count": 20723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 122424,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1437911958725046277/BlPj0iSt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1437911958725046277/BlPj0iSt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2354388944/1478024482",
+        "profile_link_color": "B300B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        36.8878157,
+                        55.4883244
+                    ],
+                    [
+                        37.9674694,
+                        55.4883244
+                    ],
+                    [
+                        37.9674694,
+                        56.0212511
+                    ],
+                    [
+                        36.8878157,
+                        56.0212511
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+}
