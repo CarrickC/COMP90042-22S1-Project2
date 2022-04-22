@@ -1,0 +1,112 @@
+{
+    "created_at": "Sat Jun 27 00:47:00 +0000 2015",
+    "id": 614595749951598592,
+    "id_str": "614595749951598592",
+    "text": "@Bipartisanism @WhiteHouse he was against it before he was for it. hilarious",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bipartisanism",
+                "name": "Bipartisan Report",
+                "id": 487600344,
+                "id_str": "487600344",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "WhiteHouse",
+                "name": "The White House",
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 614594667225571328,
+    "in_reply_to_status_id_str": "614594667225571328",
+    "in_reply_to_user_id": 487600344,
+    "in_reply_to_user_id_str": "487600344",
+    "in_reply_to_screen_name": "Bipartisanism",
+    "user": {
+        "id": 2752298752,
+        "id_str": "2752298752",
+        "name": "The Drunk Republican",
+        "screen_name": "DrunkRepub",
+        "location": "",
+        "description": "Keeping conservatism alive with a little help from the grape and the grain. Find me at The American Spectator, The Federalist, Human Events, etc.",
+        "url": "https://t.co/JCcNClkvFd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JCcNClkvFd",
+                        "expanded_url": "http://www.thedrunkrepublican.com",
+                        "display_url": "thedrunkrepublican.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1576,
+        "friends_count": 1326,
+        "listed_count": 36,
+        "created_at": "Wed Aug 27 04:23:01 +0000 2014",
+        "favourites_count": 107957,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61215,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689300184371597312/gX4_nxhW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/689300184371597312/gX4_nxhW_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2752298752/1629647098",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

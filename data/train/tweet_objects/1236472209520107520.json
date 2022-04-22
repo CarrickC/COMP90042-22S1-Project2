@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Mar 08 02:02:01 +0000 2020",
+    "id": 1236472209520107520,
+    "id_str": "1236472209520107520",
+    "text": "@mainroadly @williamlong 刚刚删。很多推看到有之前的截图",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mainroadly",
+                "name": "正派流氓",
+                "id": 1700808344,
+                "id_str": "1700808344",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "williamlong",
+                "name": "William Long 🇺🇦",
+                "id": 2786701,
+                "id_str": "2786701",
+                "indices": [
+                    12,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"https://github.com/TwidereProject\" rel=\"nofollow\">Twidere for Android</a>",
+    "in_reply_to_status_id": 1236446799092563969,
+    "in_reply_to_status_id_str": "1236446799092563969",
+    "in_reply_to_user_id": 1700808344,
+    "in_reply_to_user_id_str": "1700808344",
+    "in_reply_to_screen_name": "mainroadly",
+    "user": {
+        "id": 2325890484,
+        "id_str": "2325890484",
+        "name": "原圭一",
+        "screen_name": "y_g_y_",
+        "location": "NoWonderLand",
+        "description": "👫\n多年生木本植物，喜欢温暖的环境。讨厌大风\n多见于：巴利阿里海，长江\n移动速度：3\n攻击力：2\n防御力：100\n珍稀程度：205\n天敌：troll\n食物：拉面 \nBreak the circle Morty, rise above, focus on science. \n\n\n#无知社 #我与D君二三事",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1934,
+        "friends_count": 1046,
+        "listed_count": 12,
+        "created_at": "Mon Feb 03 18:45:05 +0000 2014",
+        "favourites_count": 30466,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 59509,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489544604923871232/GRfHede__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489544604923871232/GRfHede__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2325890484/1592474091",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+}

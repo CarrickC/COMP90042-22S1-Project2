@@ -1,0 +1,165 @@
+{
+    "created_at": "Mon Apr 27 21:38:54 +0000 2020",
+    "id": 1254887775075172359,
+    "id_str": "1254887775075172359",
+    "text": "@cryptospa1 @tulipan81 @Y_deGaia Да! С нетърпение очаквам деня 😊",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cryptospa1",
+                "name": "Cryptospa (Go Crypto Go!)",
+                "id": 1088390388392624130,
+                "id_str": "1088390388392624130",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "tulipan81",
+                "name": "Malwario ⚡️ Valerio Vaccaro",
+                "id": 172846941,
+                "id_str": "172846941",
+                "indices": [
+                    12,
+                    22
+                ]
+            },
+            {
+                "screen_name": "Y_deGaia",
+                "name": "Broken Link Hijacking",
+                "id": 1504422946391134209,
+                "id_str": "1504422946391134209",
+                "indices": [
+                    23,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1254886126244040708,
+    "in_reply_to_status_id_str": "1254886126244040708",
+    "in_reply_to_user_id": 1088390388392624130,
+    "in_reply_to_user_id_str": "1088390388392624130",
+    "in_reply_to_screen_name": "cryptospa1",
+    "user": {
+        "id": 1027643918530306048,
+        "id_str": "1027643918530306048",
+        "name": "🇧🇬 φал ⚡️",
+        "screen_name": "valeriyageorg",
+        "location": "",
+        "description": "Psycho 🐥 | Bitcoin Lobby Is My Hobby | Founder of @shoesinbitcoin | Artist on @raretoshi https://t.co/AcUUCUQx1p",
+        "url": "https://t.co/DJlGS7Agdz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/DJlGS7Agdz",
+                        "expanded_url": "https://shoesinbitcoin.com/academy/",
+                        "display_url": "shoesinbitcoin.com/academy/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/AcUUCUQx1p",
+                        "expanded_url": "https://raretoshi.com/valeriyageorg",
+                        "display_url": "raretoshi.com/valeriyageorg",
+                        "indices": [
+                            89,
+                            112
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 873,
+        "friends_count": 1747,
+        "listed_count": 11,
+        "created_at": "Thu Aug 09 19:52:57 +0000 2018",
+        "favourites_count": 8962,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4772,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510142433622990852/zgDx3H4j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510142433622990852/zgDx3H4j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027643918530306048/1648881119",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "d27e0fe618df1ea0",
+        "url": "https://api.twitter.com/1.1/geo/id/d27e0fe618df1ea0.json",
+        "place_type": "city",
+        "name": "Brescia",
+        "full_name": "Brescia, Lombardia",
+        "country_code": "IT",
+        "country": "Italia",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        10.1473035,
+                        45.480594
+                    ],
+                    [
+                        10.3003246,
+                        45.480594
+                    ],
+                    [
+                        10.3003246,
+                        45.5899553
+                    ],
+                    [
+                        10.1473035,
+                        45.5899553
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "bg"
+}
