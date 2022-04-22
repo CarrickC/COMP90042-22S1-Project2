@@ -55,7 +55,7 @@
         "protected": false,
         "followers_count": 27835,
         "friends_count": 556,
-        "listed_count": 0,
+        "listed_count": 381,
         "created_at": "Sat Nov 07 12:26:00 +0000 2009",
         "favourites_count": 6746,
         "utc_offset": null,
@@ -145,11 +145,11 @@
                 }
             },
             "protected": false,
-            "followers_count": 3371,
+            "followers_count": 3370,
             "friends_count": 1020,
             "listed_count": 46,
             "created_at": "Sun Sep 28 16:25:25 +0000 2008",
-            "favourites_count": 4776,
+            "favourites_count": 4775,
             "utc_offset": null,
             "time_zone": null,
             "geo_enabled": true,
@@ -223,7 +223,6 @@
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
-        "possibly_sensitive_appealable": false,
         "lang": "en"
     },
     "retweet_count": 3,
@@ -231,6 +230,5 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "possibly_sensitive_appealable": false,
     "lang": "en"
 }

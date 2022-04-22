@@ -57,7 +57,7 @@
         "friends_count": 3242,
         "listed_count": 544,
         "created_at": "Wed Dec 23 15:51:07 +0000 2009",
-        "favourites_count": 15971,
+        "favourites_count": 15972,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -226,7 +226,6 @@
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
-        "possibly_sensitive_appealable": false,
         "lang": "en"
     },
     "retweet_count": 0,
@@ -234,6 +233,5 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "possibly_sensitive_appealable": false,
     "lang": "en"
 }

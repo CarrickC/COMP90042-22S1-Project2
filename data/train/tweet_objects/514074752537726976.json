@@ -1,0 +1,100 @@
+{
+    "created_at": "Mon Sep 22 15:32:26 +0000 2014",
+    "id": 514074752537726976,
+    "id_str": "514074752537726976",
+    "text": "“@BuzzFeed: Starbucks Is Testing A New Latte That Tastes Exactly Like Guinness http://t.co/kUdixK4vRa …”",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BuzzFeed",
+                "name": "BuzzFeed",
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "http://t.co/kUdixK4vRa",
+                "expanded_url": "http://www.buzzfeed.com/ryankincaid/starbucks-dark-barrel-latte?utm_term=5yw8cz?bftw=main",
+                "display_url": "buzzfeed.com/ryankincaid/st…",
+                "indices": [
+                    79,
+                    101
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 513779458340569088,
+    "in_reply_to_status_id_str": "513779458340569088",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "user": {
+        "id": 58401199,
+        "id_str": "58401199",
+        "name": "ᴸᵃⁱ",
+        "screen_name": "ilaivender",
+        "location": "Republic of the Philippines",
+        "description": "ᵂʰᵉʳᵉᵛᵉʳ ʸᵒᵘ ᶜᵃᵐᵉ ᶠʳᵒᵐ ʷᵉˡᶜᵒᵐᵉ ᵗᵒ ᵐʸ ᵖʳᵒᶠⁱˡᵉ. ᴵᵗ ᵐᵃᵏᵉˢ ᵐᵉ ʰᵃᵖᵖʸ ᵗᵒ ᵍᵉᵗ ᵛⁱˢⁱᵗᵒʳˢ",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 87244,
+        "friends_count": 59479,
+        "listed_count": 38,
+        "created_at": "Mon Jul 20 05:39:07 +0000 2009",
+        "favourites_count": 119409,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 145276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517264774350123008/zWsGHYCG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517264774350123008/zWsGHYCG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58401199/1646258182",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+}

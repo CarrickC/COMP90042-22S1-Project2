@@ -53,7 +53,7 @@
         "name": "Dr Rob Whitehurst",
         "screen_name": "OYCar",
         "location": "Blue Mountains New South Wales",
-        "description": "Heliocentrist. Erstwhile astrophysicist now a somewhat agricultural scientist and investor.",
+        "description": "Heliocentrist. Erstwhile astrophysicist but now a somewhat agricultural scientist and investor",
         "url": null,
         "entities": {
             "description": {
@@ -61,16 +61,16 @@
             }
         },
         "protected": false,
-        "followers_count": 1247,
+        "followers_count": 1245,
         "friends_count": 80,
         "listed_count": 31,
         "created_at": "Wed Jul 30 03:11:25 +0000 2014",
-        "favourites_count": 4964,
+        "favourites_count": 4979,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 12547,
+        "statuses_count": 12558,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -267,7 +267,6 @@
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
-        "possibly_sensitive_appealable": false,
         "lang": "en"
     },
     "retweet_count": 0,
@@ -275,6 +274,5 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "possibly_sensitive_appealable": false,
     "lang": "en"
 }
