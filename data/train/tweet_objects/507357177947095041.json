@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 04 02:39:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 31448593,
+                "id_str": "31448593",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Danielle Ivancich",
+                "screen_name": "danielleivan8"
+            },
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 507357177947095041,
+    "id_str": "507357177947095041",
+    "in_reply_to_screen_name": "danielleivan8",
+    "in_reply_to_status_id": 507356752099442688,
+    "in_reply_to_status_id_str": "507356752099442688",
+    "in_reply_to_user_id": 31448593,
+    "in_reply_to_user_id_str": "31448593",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@danielleivan8 @eonline nor can they tell the difference between \"dyes\" and \"dies\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 09 21:57:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11927,
+        "follow_request_sent": false,
+        "followers_count": 246,
+        "following": false,
+        "friends_count": 2030,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2175013089,
+        "id_str": "2175013089",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "",
+        "name": "Brandee",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175013089/1411358179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1477196333341626369/sFDheD-8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1477196333341626369/sFDheD-8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brandee1974",
+        "statuses_count": 7203,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

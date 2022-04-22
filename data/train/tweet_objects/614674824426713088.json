@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 06:01:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2884771,
+                "id_str": "2884771",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Newsweek",
+                "screen_name": "Newsweek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614674824426713088,
+    "id_str": "614674824426713088",
+    "in_reply_to_screen_name": "Newsweek",
+    "in_reply_to_status_id": 614648099542204416,
+    "in_reply_to_status_id_str": "614648099542204416",
+    "in_reply_to_user_id": 2884771,
+    "in_reply_to_user_id_str": "2884771",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Newsweek",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 01 12:09:21 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sharonfigueiredofernandes.com",
+                        "expanded_url": "http://www.sharonfigueiredofernandes.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/q0rcHOrKU7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 106,
+        "following": false,
+        "friends_count": 1414,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 366007231,
+        "id_str": "366007231",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Mumbai,Maharashtra,India",
+        "name": "Sharon Fernandes",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366007231/1412001762",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516598416613203968/x67odCyH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/516598416613203968/x67odCyH_normal.jpeg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SharonFernande6",
+        "statuses_count": 162,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/q0rcHOrKU7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

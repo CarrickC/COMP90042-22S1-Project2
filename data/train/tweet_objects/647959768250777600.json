@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 27 02:23:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            },
+            {
+                "id": 3150863347,
+                "id_str": "3150863347",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "megs",
+                "screen_name": "megsmckeeeee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 647959768250777600,
+    "id_str": "647959768250777600",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TheValleyReport @megsmckeeeee you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 22 02:00:51 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/artist/7KMe4W0\u2026",
+                        "expanded_url": "https://open.spotify.com/artist/7KMe4W0PjYClO82CfQ2HIe?si=bu4bDEG6Qn2m_xklL902Jw&dl_branch=1",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qSRQ0jTfyu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34334,
+        "follow_request_sent": false,
+        "followers_count": 1350,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 614757914,
+        "id_str": "614757914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Phoenix, AZ",
+        "name": "HVRDWOOD",
+        "notifications": false,
+        "profile_background_color": "0A0A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/614757914/1635886129",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517237057348808704/STuh1Hy0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517237057348808704/STuh1Hy0_normal.jpg",
+        "profile_link_color": "574E57",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HVRDWOOD",
+        "statuses_count": 45447,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/qSRQ0jTfyu",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

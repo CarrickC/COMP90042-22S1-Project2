@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 20 21:16:50 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 48956231,
+                "id_str": "48956231",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Zaid Benjamin",
+                "screen_name": "zaidbenjamin"
+            },
+            {
+                "id": 44204171,
+                "id_str": "44204171",
+                "indices": [
+                    14,
+                    20
+                ],
+                "name": "Katie",
+                "screen_name": "k_mcq"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 502202623324200960,
+    "id_str": "502202623324200960",
+    "in_reply_to_screen_name": "zaidbenjamin",
+    "in_reply_to_status_id": 501827465032237056,
+    "in_reply_to_status_id_str": "501827465032237056",
+    "in_reply_to_user_id": 48956231,
+    "in_reply_to_user_id_str": "48956231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@zaidbenjamin @k_mcq Where did this image originate?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 17 13:31:18 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2572937587,
+        "id_str": "2572937587",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Pranav Arora",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2572937587/1406342927",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492862880509726720/s1cOfauO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492862880509726720/s1cOfauO_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pr_arora",
+        "statuses_count": 283,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

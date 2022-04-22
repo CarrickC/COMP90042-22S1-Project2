@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 05 17:34:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=H5HayP\u2026",
+                "expanded_url": "https://www.youtube.com/watch?v=H5HayPhnRq8",
+                "indices": [
+                    22,
+                    45
+                ],
+                "url": "https://t.co/Oc1kEl12Mn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14629315,
+                "id_str": "14629315",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "XXL Magazine",
+                "screen_name": "XXL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552156134585679872,
+    "id_str": "552156134585679872",
+    "in_reply_to_screen_name": "XXL",
+    "in_reply_to_status_id": 552112474913136641,
+    "in_reply_to_status_id_str": "552112474913136641",
+    "in_reply_to_user_id": 14629315,
+    "in_reply_to_user_id_str": "14629315",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@XXL @WeAreTheKoolest https://t.co/Oc1kEl12Mn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 21 23:14:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "the world is yours \ud83c\udf0e",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lukaverse.com",
+                        "expanded_url": "http://www.lukaverse.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JgLQM5J4jD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 74200,
+        "follow_request_sent": false,
+        "followers_count": 34529,
+        "following": false,
+        "friends_count": 9,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 67748747,
+        "id_str": "67748747",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": "Los Angeles, CA",
+        "name": "LUKA",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67748747/1618262000",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226382359424929792/fS9bxdVK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226382359424929792/fS9bxdVK_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lukaverse",
+        "statuses_count": 82529,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JgLQM5J4jD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

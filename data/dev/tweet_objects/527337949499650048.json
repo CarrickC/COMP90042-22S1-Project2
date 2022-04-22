@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 05:55:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 749963,
+                "id_str": "749963",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Pierre Omidyar",
+                "screen_name": "pierre"
+            },
+            {
+                "id": 205782980,
+                "id_str": "205782980",
+                "indices": [
+                    8,
+                    17
+                ],
+                "name": "M\ud83d\ude37sked Porn\ud83c\udf37nska",
+                "screen_name": "Pedinska"
+            },
+            {
+                "id": 38271276,
+                "id_str": "38271276",
+                "indices": [
+                    31,
+                    39
+                ],
+                "name": "Matt Taibbi",
+                "screen_name": "mtaibbi"
+            },
+            {
+                "id": 719972682322853888,
+                "id_str": "719972682322853888",
+                "indices": [
+                    49,
+                    63
+                ],
+                "name": "The Intercept FLM",
+                "screen_name": "the_intercept"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527337949499650048,
+    "id_str": "527337949499650048",
+    "in_reply_to_screen_name": "pierre",
+    "in_reply_to_status_id": 527308173112139776,
+    "in_reply_to_status_id_str": "527308173112139776",
+    "in_reply_to_user_id": 749963,
+    "in_reply_to_user_id_str": "749963",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@pierre @Pedinska Sorry to see @mtaibbi won't be @the_intercept. One thing is certain - Matt won't lose his voice.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 18 18:47:29 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MedicareForAll  Modern Monetary Theory (MMT) is the future, or we'll have none. \"Extraordinary claims require extraordinary evidence\" - Carl Sagan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55582,
+        "follow_request_sent": false,
+        "followers_count": 3013,
+        "following": false,
+        "friends_count": 4783,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2505220368,
+        "id_str": "2505220368",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "",
+        "name": "Adrian",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2505220368/1400989297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369441032811773960/y_n8JBLR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369441032811773960/y_n8JBLR_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SillyPutty78",
+        "statuses_count": 83489,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

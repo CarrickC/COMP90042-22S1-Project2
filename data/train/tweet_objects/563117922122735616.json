@@ -1,0 +1,224 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 04 23:32:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    69
+                ],
+                "text": "SB49"
+            },
+            {
+                "indices": [
+                    71,
+                    74
+                ],
+                "text": "fb"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GkKSf1aGIX",
+                "expanded_url": "https://twitter.com/nfl/status/563117355254161408/photo/1",
+                "id": 563117355124162560,
+                "id_str": "563117355124162560",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B9CYQD8IgAAO4Ti.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B9CYQD8IgAAO4Ti.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 563117355254161408,
+                "source_status_id_str": "563117355254161408",
+                "source_user_id": 19426551,
+                "source_user_id_str": "19426551",
+                "type": "photo",
+                "url": "http://t.co/GkKSf1aGIX"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "at.nfl.com/4PTsAf3",
+                "expanded_url": "http://at.nfl.com/4PTsAf3",
+                "indices": [
+                    92,
+                    114
+                ],
+                "url": "http://t.co/7PfoQ67pXC"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19426551,
+                "id_str": "19426551",
+                "indices": [
+                    3,
+                    7
+                ],
+                "name": "NFL",
+                "screen_name": "NFL"
+            },
+            {
+                "id": 50096544,
+                "id_str": "50096544",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "Madden NFL 22",
+                "screen_name": "EAMaddenNFL"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GkKSf1aGIX",
+                "expanded_url": "https://twitter.com/nfl/status/563117355254161408/photo/1",
+                "id": 563117355124162560,
+                "id_str": "563117355124162560",
+                "indices": [
+                    115,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/B9CYQD8IgAAO4Ti.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B9CYQD8IgAAO4Ti.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 563117355254161408,
+                "source_status_id_str": "563117355254161408",
+                "source_user_id": 19426551,
+                "source_user_id_str": "19426551",
+                "type": "photo",
+                "url": "http://t.co/GkKSf1aGIX"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 563117922122735616,
+    "id_str": "563117922122735616",
+    "in_reply_to_screen_name": "NFL",
+    "in_reply_to_status_id": 563117355254161408,
+    "in_reply_to_status_id_str": "563117355254161408",
+    "in_reply_to_user_id": 19426551,
+    "in_reply_to_user_id_str": "19426551",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+    "text": "RT @nfl .@EAMaddenNFL successfully predicted the final score of #SB49. #fb\n\nYES, it's true: http://t.co/7PfoQ67pXC http://t.co/GkKSf1aGIX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 24 07:52:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Comedian. Improv. Wrestling With Problems. Well Suited Theater Co-Owner. King David Komedy. NWI Rugby. MillerBeach PerforMance Theater Co-Owner. $KingDavidLane",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "KingDavidLane.com",
+                        "expanded_url": "http://KingDavidLane.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3g4g7UIQGK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16671,
+        "follow_request_sent": false,
+        "followers_count": 3094,
+        "following": false,
+        "friends_count": 3075,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 21737845,
+        "id_str": "21737845",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 114,
+        "location": "Lake Station, IN",
+        "name": "King David Lane",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21737845/1633618700",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309983092237414401/ex_x5LJw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309983092237414401/ex_x5LJw_normal.jpg",
+        "profile_link_color": "050099",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KingDavidLane",
+        "statuses_count": 93075,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3g4g7UIQGK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

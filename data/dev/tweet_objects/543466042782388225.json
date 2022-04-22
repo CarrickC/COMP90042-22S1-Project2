@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 12 18:02:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 584134043,
+                "id_str": "584134043",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Marty McFly",
+                "screen_name": "youngaFerr"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 543466042782388225,
+    "id_str": "543466042782388225",
+    "in_reply_to_screen_name": "youngaFerr",
+    "in_reply_to_status_id": 543464447055257600,
+    "in_reply_to_status_id_str": "543464447055257600",
+    "in_reply_to_user_id": 584134043,
+    "in_reply_to_user_id_str": "584134043",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@youngaFerr @nytimes hahahahahaha",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 15 05:24:34 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I been told that bitch",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12086,
+        "follow_request_sent": false,
+        "followers_count": 545,
+        "following": false,
+        "friends_count": 461,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1353517716,
+        "id_str": "1353517716",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "timmy 2 dads",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353517716/1452361295",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781663240073773056/L5Lx62FN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781663240073773056/L5Lx62FN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BimBonnelly",
+        "statuses_count": 13361,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

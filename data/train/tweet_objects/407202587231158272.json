@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 17:40:36 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    17,
+                    20
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407202587231158272,
+    "id_str": "407202587231158272",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 407192126032986112,
+    "in_reply_to_status_id_str": "407192126032986112",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "2fast, 2furious? @AP: AP VIDEO: Police say speed was a factor in an L.A. crash that killed 2, including \"Fast &amp; Furious\" actor Paul Walker",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 01 01:30:29 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 22,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 981598406,
+        "id_str": "981598406",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Ryan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2916850012/5fed5e5813f49de29704c4aba1c91d54_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2916850012/5fed5e5813f49de29704c4aba1c91d54_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pro5Stringer",
+        "statuses_count": 74,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:52:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1257689418888089600,
+                "id_str": "1257689418888089600",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Pete Souza",
+                "screen_name": "PeteSouza"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614627222431924224,
+    "id_str": "614627222431924224",
+    "in_reply_to_screen_name": "PeteSouza44",
+    "in_reply_to_status_id": 614610920782888960,
+    "in_reply_to_status_id_str": "614610920782888960",
+    "in_reply_to_user_id": 18215973,
+    "in_reply_to_user_id_str": "18215973",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@petesouza @ChazDragoon The Empire State Building is the one I like.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 01 23:29:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a G Gundam, Touhou,Super Robot Taisen/Wars,Legacy of Kain, wrestling fan! I also like SFW and NSFW! Democrats and Repugs sucks. #AllRacesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/demonican\u2026",
+                        "expanded_url": "http://www.youtube.com/user/demonicanthonyalbert",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aHVimvHxl6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 121070,
+        "follow_request_sent": false,
+        "followers_count": 245,
+        "following": false,
+        "friends_count": 568,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 52890203,
+        "id_str": "52890203",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Michigan, USA",
+        "name": "Neal Camerlengo",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52890203/1420391213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851377121108918272/wO4Ixci-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/851377121108918272/wO4Ixci-_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "demonicneal",
+        "statuses_count": 87899,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/aHVimvHxl6",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

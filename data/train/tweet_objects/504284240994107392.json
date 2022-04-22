@@ -1,0 +1,106 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 15:08:26 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    106
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 11740172,
+                "id_str": "11740172",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Charles Jaco",
+                "screen_name": "charlesjaco1"
+            },
+            {
+                "id": 14090948,
+                "id_str": "14090948",
+                "indices": [
+                    14,
+                    28
+                ],
+                "name": "Antonio French",
+                "screen_name": "AntonioFrench"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504284240994107392,
+    "id_str": "504284240994107392",
+    "in_reply_to_screen_name": "charlesjaco1",
+    "in_reply_to_status_id": 504243239084236800,
+    "in_reply_to_status_id_str": "504243239084236800",
+    "in_reply_to_user_id": 11740172,
+    "in_reply_to_user_id_str": "11740172",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@charlesjaco1 @AntonioFrench So, now it's time to launch forensics and find the other 4 bullets. #Ferguson",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 18 18:02:48 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45 years old, gay, survived a shot in the back with a Glock 9mm. Still a 2nd Amendment supporter. Fun fact: US Federal government is suzerain, not sovereign.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1193,
+        "follow_request_sent": false,
+        "followers_count": 339,
+        "following": false,
+        "friends_count": 587,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 5142931,
+        "id_str": "5142931",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "",
+        "name": "Kyle Hamilton",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341820523911770117/p5NXp5b3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341820523911770117/p5NXp5b3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wolfoftheair",
+        "statuses_count": 28104,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

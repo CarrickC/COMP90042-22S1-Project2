@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 23:04:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "Learn more",
+                "expanded_url": "https://support.twitter.com/articles/20169199",
+                "indices": [
+                    95,
+                    105
+                ],
+                "url": "https://support.twitter.com/articles/20169199"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 642473721551298561,
+    "id_str": "642473721551298561",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sburton305's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 01 21:24:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@sburton305's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Learn more",
+                        "expanded_url": "https://support.twitter.com/articles/20169199",
+                        "indices": [
+                            95,
+                            105
+                        ],
+                        "url": "https://support.twitter.com/articles/20169199"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3665,
+        "follow_request_sent": false,
+        "followers_count": 2091,
+        "following": false,
+        "friends_count": 3371,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22408659,
+        "id_str": "22408659",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "",
+        "name": "",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "",
+        "profile_image_url_https": "",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sburton305",
+        "statuses_count": 14759,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

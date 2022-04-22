@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 15 13:25:13 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239180854150213639",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/dGFNDGs1IE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19242750,
+                "id_str": "19242750",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "david ropeik",
+                "screen_name": "dropeik"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1239180854150213639,
+    "id_str": "1239180854150213639",
+    "in_reply_to_screen_name": "dropeik",
+    "in_reply_to_status_id": 1239177638767362049,
+    "in_reply_to_status_id_str": "1239177638767362049",
+    "in_reply_to_user_id": 19242750,
+    "in_reply_to_user_id_str": "19242750",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@dropeik just admit, you have spread misinformation about a deadly disease. All to further your brand. Deranged nar\u2026 https://t.co/dGFNDGs1IE",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 22 02:53:04 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "here for disease, war, madness",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11670,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 21,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 877721066239610880,
+        "id_str": "877721066239610880",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "supercut outro",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/877721066239610880/1565844069",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393350434987945991/mVHbzjaB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393350434987945991/mVHbzjaB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "supercutoutro",
+        "statuses_count": 2669,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

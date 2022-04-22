@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 15:55:07 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1904010924,
+                "id_str": "1904010924",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Ministero della Salute",
+                "screen_name": "MinisteroSalute"
+            },
+            {
+                "id": 116716199,
+                "id_str": "116716199",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "EU Medicines Agency",
+                "screen_name": "EMA_News"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1240305742445514760,
+    "id_str": "1240305742445514760",
+    "in_reply_to_screen_name": "MinisteroSalute",
+    "in_reply_to_status_id": 1240305439419531267,
+    "in_reply_to_status_id_str": "1240305439419531267",
+    "in_reply_to_user_id": 1904010924,
+    "in_reply_to_user_id_str": "1904010924",
+    "is_quote_status": false,
+    "lang": "it",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MinisteroSalute @EMA_News L\u2019ha suggerito il Ministro francese della salute...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 07 19:22:54 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Compte personnel d'un diplomate au Kenya, supporter de l\u2019OM \u00e0 ses heures perdues et persuad\u00e9 qu'un tennisman fran\u00e7ais gagnera un GC en 2022 (!)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3866,
+        "follow_request_sent": false,
+        "followers_count": 1216,
+        "following": false,
+        "friends_count": 4140,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1249873999,
+        "id_str": "1249873999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "Nairobi, Kenya",
+        "name": "Lionel Fabre",
+        "notifications": false,
+        "profile_background_color": "ADB0DE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249873999/1628349403",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336260917328220160/crrRUupw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336260917328220160/crrRUupw_normal.jpg",
+        "profile_link_color": "053485",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "liofaber",
+        "statuses_count": 7340,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

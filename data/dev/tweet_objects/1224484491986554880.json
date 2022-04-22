@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 00:07:07 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1224484491986554880",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/iDS5AlGQCI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4562251217,
+                "id_str": "4562251217",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "RJ",
+                "screen_name": "Elkski1960"
+            },
+            {
+                "id": 531041640,
+                "id_str": "531041640",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "KKMalaysia\ud83c\uddf2\ud83c\uddfe\ud83d\ude37",
+                "screen_name": "KKMPutrajaya"
+            }
+        ]
+    },
+    "favorite_count": 29,
+    "favorited": false,
+    "geo": null,
+    "id": 1224484491986554880,
+    "id_str": "1224484491986554880",
+    "in_reply_to_screen_name": "Elkski1960",
+    "in_reply_to_status_id": 1224420016465969152,
+    "in_reply_to_status_id_str": "1224420016465969152",
+    "in_reply_to_user_id": 4562251217,
+    "in_reply_to_user_id_str": "4562251217",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 8,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Elkski1960 @KKMPutrajaya For cats, some of them also have coronavirus in them tapi it's different strain and biasa\u2026 https://t.co/iDS5AlGQCI",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 19 01:18:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MLPTF #TripleS #TripleSMalaysia #Henecia #VIP",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 169830,
+        "follow_request_sent": false,
+        "followers_count": 596,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 134634995,
+        "id_str": "134634995",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Malaysia-Singapura-Indonesia",
+        "name": "Inadiasyikin",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134634995/1504080330",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410549577007079428/CqQ3dvzi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410549577007079428/CqQ3dvzi_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Inadiasyikin",
+        "statuses_count": 128453,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

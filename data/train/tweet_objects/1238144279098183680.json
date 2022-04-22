@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 16:46:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238144279098183680",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Qw0qGXEj9c"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    26,
+                    34
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    35,
+                    43
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    44,
+                    53
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1238144279098183680,
+    "id_str": "1238144279098183680",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1238139539228692482,
+    "in_reply_to_status_id_str": "1238139539228692482",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHO @pahowho @WHO_Europe @WHOEMRO @WHOAFRO @WHOSEARO @WHOWPRO An open letter to the World Health Organization.\nDea\u2026 https://t.co/Qw0qGXEj9c",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 13:44:52 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "YOUTUBE is updated every Friday\nhttps://t.co/cl686dx566",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCSsCm\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCSsCmyhpe5p3KcxouKrxSkw",
+                        "indices": [
+                            32,
+                            55
+                        ],
+                        "url": "https://t.co/cl686dx566"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3099703430,
+        "id_str": "3099703430",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Taiwan",
+        "name": "TWT0X1T",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3099703430/1649608008",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513191721995505664/TMPSpb98_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513191721995505664/TMPSpb98_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elaine19960204",
+        "statuses_count": 9,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

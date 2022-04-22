@@ -1,0 +1,193 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 04:02:53 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    129,
+                    135
+                ],
+                "text": "ohNah"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TSBTlXhg9H",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/TSBTlXhg9H"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcn.ws/1wsBVlR",
+                "expanded_url": "http://abcn.ws/1wsBVlR",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/dsDI7BncQD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TSBTlXhg9H",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/TSBTlXhg9H"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525135244304080896,
+    "id_str": "525135244304080896",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 525134787778850818,
+    "in_reply_to_status_id_str": "525134787778850818",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: http://t.co/dsDI7BncQD http://t.co/TSBTlXhg9H\u201d #ohNah",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 18 17:05:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 81,
+        "follow_request_sent": false,
+        "followers_count": 805,
+        "following": false,
+        "friends_count": 723,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40915414,
+        "id_str": "40915414",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "\u00dcT: 40.637398,-74.397405",
+        "name": "SquirtDoffaHoffa",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2897558843/fa5d505082a2e5b64660d0a86e51008e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2897558843/fa5d505082a2e5b64660d0a86e51008e_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SquirtDawg",
+        "statuses_count": 25862,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

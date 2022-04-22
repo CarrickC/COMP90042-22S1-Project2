@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 12:26:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 872169050771787776,
+                "id_str": "872169050771787776",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Bieber",
+                "screen_name": "ourkidrauhlside"
+            },
+            {
+                "id": 372224674,
+                "id_str": "372224674",
+                "indices": [
+                    17,
+                    25
+                ],
+                "name": "I SAW HER",
+                "screen_name": "xROOOOS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436114620202618881,
+    "id_str": "436114620202618881",
+    "in_reply_to_screen_name": "BieberGalaxyz",
+    "in_reply_to_status_id": 436074888638763008,
+    "in_reply_to_status_id_str": "436074888638763008",
+    "in_reply_to_user_id": 603558099,
+    "in_reply_to_user_id_str": "603558099",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@OurKidrauhlSide @xROOOOS \ud83d\ude0f\ud83d\ude0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 06 17:35:11 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ezra \u2764\ufe0f | MOVES!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "liefde-loos.tumblr.com",
+                        "expanded_url": "http://liefde-loos.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RFOY4qj5a6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1423,
+        "follow_request_sent": false,
+        "followers_count": 334,
+        "following": false,
+        "friends_count": 473,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 516711830,
+        "id_str": "516711830",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "doo",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/516711830/1419811442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/788829694514851840/VNCsH3Bw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/788829694514851840/VNCsH3Bw_normal.jpg",
+        "profile_link_color": "E605FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xd0minique_",
+        "statuses_count": 40707,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RFOY4qj5a6",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

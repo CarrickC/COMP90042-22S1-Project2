@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 18:20:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524988684408741889,
+    "id_str": "524988684408741889",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 524976963862429697,
+    "in_reply_to_status_id_str": "524976963862429697",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNN this is a dark day in Canada my deepest condolences for the soldier who lost his life family members and friends. May he rest in peace.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 01 02:46:39 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "https://t.co/arTpGKMtmq",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vm.tiktok.com/ZMLCjSRsL/",
+                        "expanded_url": "https://vm.tiktok.com/ZMLCjSRsL/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/arTpGKMtmq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/XgoKeMaO5Bg",
+                        "expanded_url": "https://youtu.be/XgoKeMaO5Bg",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YhsKsFV0s4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7770,
+        "follow_request_sent": false,
+        "followers_count": 10333,
+        "following": false,
+        "friends_count": 11163,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2451298481,
+        "id_str": "2451298481",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Barbados",
+        "name": "kaydenrossi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2451298481/1632104918",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1455232369070415877/JluFSg1m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455232369070415877/JluFSg1m_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kaydenrossi1",
+        "statuses_count": 19610,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/YhsKsFV0s4",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

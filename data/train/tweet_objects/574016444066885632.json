@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 07 01:19:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 574016444066885632,
+    "id_str": "574016444066885632",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 574004164570841088,
+    "in_reply_to_status_id_str": "574004164570841088",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC this is crazy, and why are 6 year olds getting detention?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 07 14:57:01 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mommy & Teacher",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1392,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 498,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 331030038,
+        "id_str": "331030038",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Leigh",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/331030038/1374028880",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000145040230/36a35d9d46b2e2cf6cee283f3f1cbc0a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000145040230/36a35d9d46b2e2cf6cee283f3f1cbc0a_normal.jpeg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_LBurns_",
+        "statuses_count": 803,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

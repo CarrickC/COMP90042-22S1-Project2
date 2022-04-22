@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 30 18:51:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "theepochtimes.com/n3/591469-brit\u2026",
+                "expanded_url": "http://www.theepochtimes.com/n3/591469-british-scientists-clone-dinosaur-is-fake-baby-apatosaurus-named-spot-a-marsupial/",
+                "indices": [
+                    31,
+                    53
+                ],
+                "url": "http://t.co/mXZwRPA2A0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            },
+            {
+                "id": 366415076,
+                "id_str": "366415076",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "DB",
+                "screen_name": "DangerBurgundy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 450344646464376832,
+    "id_str": "450344646464376832",
+    "in_reply_to_screen_name": "joerogan",
+    "in_reply_to_status_id": 450341615979069440,
+    "in_reply_to_status_id_str": "450341615979069440",
+    "in_reply_to_user_id": 18208354,
+    "in_reply_to_user_id_str": "18208354",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@joerogan @DangerBurgundy No.. http://t.co/mXZwRPA2A0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 25 08:10:51 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 379618090,
+        "id_str": "379618090",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Deebious",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mapa_Wu",
+        "statuses_count": 187,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

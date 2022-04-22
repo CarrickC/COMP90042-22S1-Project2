@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 04 03:12:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507365557805776896,
+    "id_str": "507365557805776896",
+    "in_reply_to_screen_name": "enews",
+    "in_reply_to_status_id": 507354546041925632,
+    "in_reply_to_status_id_str": "507354546041925632",
+    "in_reply_to_user_id": 2883841,
+    "in_reply_to_user_id_str": "2883841",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@eonline Betty is our girl! Always. Dye Job? Hell, she could give them a -low Job and come up smiling!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 14 23:30:30 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "Wife,Mom,Friend. Retired Therapist   Love family, support our military, fire departments, police departments and all medical personnel.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 168,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 190834848,
+        "id_str": "190834848",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Georgetown,Ky",
+        "name": "Tammy R Burris",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "babyjoy7599",
+        "statuses_count": 8054,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

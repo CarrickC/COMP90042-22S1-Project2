@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 04 18:11:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 115245884,
+                "id_str": "115245884",
+                "indices": [
+                    11,
+                    26
+                ],
+                "name": "Carly Ledbetter",
+                "screen_name": "ledbettercarly"
+            },
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    27,
+                    42
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 628629455230078978,
+    "id_str": "628629455230078978",
+    "in_reply_to_screen_name": "pendingobsolete",
+    "in_reply_to_status_id": 628605779218722818,
+    "in_reply_to_status_id_str": "628605779218722818",
+    "in_reply_to_user_id": 402428325,
+    "in_reply_to_user_id_str": "402428325",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@angieguid @ledbettercarly @HuffingtonPost  jajaj wtf! Yo quiero de rucula",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 22 03:22:08 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7226,
+        "follow_request_sent": false,
+        "followers_count": 63,
+        "following": false,
+        "friends_count": 636,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 41741736,
+        "id_str": "41741736",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Chaque\u00f1o en CABA",
+        "name": "Muddy Waters",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41741736/1619830752",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1492861405397237761/zpIoIGy6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492861405397237761/zpIoIGy6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "InDispute2",
+        "statuses_count": 1459,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

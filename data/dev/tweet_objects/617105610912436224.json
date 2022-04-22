@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 03 23:00:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9300262,
+                "id_str": "9300262",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "POLITICO",
+                "screen_name": "politico"
+            },
+            {
+                "id": 125481462,
+                "id_str": "125481462",
+                "indices": [
+                    10,
+                    24
+                ],
+                "name": "Ron Howard",
+                "screen_name": "RealRonHoward"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 617105610912436224,
+    "id_str": "617105610912436224",
+    "in_reply_to_screen_name": "politico",
+    "in_reply_to_status_id": 614702244001382400,
+    "in_reply_to_status_id_str": "614702244001382400",
+    "in_reply_to_user_id": 9300262,
+    "in_reply_to_user_id_str": "9300262",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@politico @RealRonHoward Thumbs up",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 29 21:10:26 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 86163046,
+        "id_str": "86163046",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "alyce kenney",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603585846676164608/iC1_Eu0E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/603585846676164608/iC1_Eu0E_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alycekenney",
+        "statuses_count": 5,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 07 18:31:57 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247592969219211264",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/kTKgvJCuPm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 305073570,
+                "id_str": "305073570",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Chris Giles",
+                "screen_name": "ChrisGiles_"
+            },
+            {
+                "id": 219275799,
+                "id_str": "219275799",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "Office for National Statistics (ONS)",
+                "screen_name": "ONS"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1247592969219211264,
+    "id_str": "1247592969219211264",
+    "in_reply_to_screen_name": "ChrisGiles_",
+    "in_reply_to_status_id": 1247458186300456960,
+    "in_reply_to_status_id_str": "1247458186300456960",
+    "in_reply_to_user_id": 305073570,
+    "in_reply_to_user_id_str": "305073570",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ChrisGiles_ @ONS Can you clarify for me: what is a \"coronavirus death\"? Is it someone who has a coronavirus infect\u2026 https://t.co/kTKgvJCuPm",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 17 19:38:21 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Consultant: accessible streets, travel and strategic planning. Joint Planning/Strategy lead for @WeAreMACS. Convenor @LivingStreetsEd.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nfpplanning.com",
+                        "expanded_url": "http://www.nfpplanning.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lp2MLYnwpK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3862,
+        "follow_request_sent": false,
+        "followers_count": 724,
+        "following": false,
+        "friends_count": 604,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 527771370,
+        "id_str": "527771370",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Edinburgh",
+        "name": "David Hunter",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/527771370/1450007818",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1052509572706066432/tvAWh5oc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052509572706066432/tvAWh5oc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dvrh9",
+        "statuses_count": 5369,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lp2MLYnwpK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

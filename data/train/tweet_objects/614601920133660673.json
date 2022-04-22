@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:11:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4861868667,
+                "id_str": "4861868667",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "AWN",
+                "screen_name": "WNTonight"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 614601920133660673,
+    "id_str": "614601920133660673",
+    "in_reply_to_screen_name": "ABCWorldNews",
+    "in_reply_to_status_id": 614601139422633984,
+    "in_reply_to_status_id_str": "614601139422633984",
+    "in_reply_to_user_id": 86141342,
+    "in_reply_to_user_id_str": "86141342",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WNTonight Pathetic and sad.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 19 21:18:34 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "There is life out there in the universe and unknown things here on Earth. Have an open mind.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 626,
+        "follow_request_sent": false,
+        "followers_count": 62,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1104692737,
+        "id_str": "1104692737",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Virginia, USA",
+        "name": "Endless Twist",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104692737/1492039951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/852303453779091456/Qj8NY-5M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/852303453779091456/Qj8NY-5M_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EndlessTwist",
+        "statuses_count": 1262,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

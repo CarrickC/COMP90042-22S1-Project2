@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 18:33:32 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3382805182,
+                "id_str": "3382805182",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Meshach Maina",
+                "screen_name": "Mesh3pleM"
+            },
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            },
+            {
+                "id": 24236583,
+                "id_str": "24236583",
+                "indices": [
+                    20,
+                    31
+                ],
+                "name": "JCI",
+                "screen_name": "jcileaders"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    32,
+                    36
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 1243969489877766150,
+    "id_str": "1243969489877766150",
+    "in_reply_to_screen_name": "Mesh3pleM",
+    "in_reply_to_status_id": 1243969273866924033,
+    "in_reply_to_status_id_str": "1243969273866924033",
+    "in_reply_to_user_id": 3382805182,
+    "in_reply_to_user_id_str": "3382805182",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Mesh3pleM @NCDCgov @jcileaders @WHO Thank you!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 02 19:23:50 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "JCI is a worldwide federation of young leaders providing development opportunities that empower young people to create positive change. #ONELegacy #JCINigeria",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jci.ng",
+                        "expanded_url": "https://jci.ng",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ucb6X6G9k7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1744,
+        "follow_request_sent": false,
+        "followers_count": 6843,
+        "following": false,
+        "friends_count": 174,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 366756768,
+        "id_str": "366756768",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "Nigeria",
+        "name": "JCI Nigeria",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366756768/1642410096",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1483001538960408579/_HQOXxoP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483001538960408579/_HQOXxoP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jci_nigeria",
+        "statuses_count": 12113,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Ucb6X6G9k7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

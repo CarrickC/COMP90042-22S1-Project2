@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 00:33:40 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 112280016,
+                "id_str": "112280016",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nick Searcy, INTERNATIONAL FILM & TELEVISION STAR",
+                "screen_name": "yesnicksearcy"
+            },
+            {
+                "id": 15976697,
+                "id_str": "15976697",
+                "indices": [
+                    15,
+                    30
+                ],
+                "name": "Michelle Malkin",
+                "screen_name": "michellemalkin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387012815237558272,
+    "id_str": "387012815237558272",
+    "in_reply_to_screen_name": "yesnicksearcy",
+    "in_reply_to_status_id": 387012463792635904,
+    "in_reply_to_status_id_str": "387012463792635904",
+    "in_reply_to_user_id": 112280016,
+    "in_reply_to_user_id_str": "112280016",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@yesnicksearcy @michellemalkin Obama has it in his head to blame the Republicans just like he did Bush, America, wake up!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 23 14:40:48 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News & Topic Discussion online radio show that kicks FOX NEWS, MSNBC & CNN's butts together,  found at http://t.co/X7q7tXl2Vn\u2026",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "blogtalkradio.com/firefoxnews-on",
+                        "expanded_url": "http://blogtalkradio.com/firefoxnews-on",
+                        "indices": [
+                            103,
+                            125
+                        ],
+                        "url": "http://t.co/X7q7tXl2Vn"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "firefoxnewsonlineproductions.com",
+                        "expanded_url": "http://firefoxnewsonlineproductions.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6awU0KcI9G"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 370,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 17573209,
+        "id_str": "17573209",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "New York State",
+        "name": "FIREFOXNEWS ONLINE\u2122",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17573209/1432937209",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/604406831360815104/rZ671PZL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/604406831360815104/rZ671PZL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FFNO",
+        "statuses_count": 14962,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/6awU0KcI9G",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

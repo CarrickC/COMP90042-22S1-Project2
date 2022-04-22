@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 03:36:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278170607419613186",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/JCPBeeoGoL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1278170607419613186,
+    "id_str": "1278170607419613186",
+    "in_reply_to_screen_name": "AlexBerenson",
+    "in_reply_to_status_id": 1278168876027650049,
+    "in_reply_to_status_id_str": "1278168876027650049",
+    "in_reply_to_user_id": 87679233,
+    "in_reply_to_user_id_str": "87679233",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@AlexBerenson National action requires a Pelosi Congress, who would allocate everybody's savings away and destroy t\u2026 https://t.co/JCPBeeoGoL",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 14 18:20:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Liberty in economics, speech, gov, society. Im not here, twitter locked my account for 2 months & then emailed me, \"our bad\". Get on gab.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 2023,
+        "following": false,
+        "friends_count": 3210,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 635639298,
+        "id_str": "635639298",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "the crater of liberty",
+        "name": "\ud83d\udca5heymikey80\ud83d\udca5",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/635639298/1357944630",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584200700655112192/dHT4gnJC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584200700655112192/dHT4gnJC_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "heymikey80",
+        "statuses_count": 119820,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

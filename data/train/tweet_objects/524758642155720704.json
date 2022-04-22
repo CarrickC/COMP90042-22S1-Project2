@@ -1,0 +1,231 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -81.22472573,
+            35.10198628
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 22 03:06:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5svRnSyHg7",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/5svRnSyHg7"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "abcn.ws/1wsBVlR",
+                "expanded_url": "http://abcn.ws/1wsBVlR",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/EHE9i3imky"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5svRnSyHg7",
+                "expanded_url": "https://twitter.com/Nightline/status/524678629830037505/photo/1",
+                "id": 524678628852764672,
+                "id_str": "524678628852764672",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0gIbt4CEAAqktQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "medium": {
+                        "h": 558,
+                        "resize": "fit",
+                        "w": 992
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524678629830037505,
+                "source_status_id_str": "524678629830037505",
+                "source_user_id": 19740592,
+                "source_user_id_str": "19740592",
+                "type": "photo",
+                "url": "http://t.co/5svRnSyHg7"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            35.10198628,
+            -81.22472573
+        ],
+        "type": "Point"
+    },
+    "id": 524758642155720704,
+    "id_str": "524758642155720704",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 524757333608394752,
+    "in_reply_to_status_id_str": "524757333608394752",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.24699,
+                        35.092328
+                    ],
+                    [
+                        -81.150045,
+                        35.092328
+                    ],
+                    [
+                        -81.150045,
+                        35.131789
+                    ],
+                    [
+                        -81.24699,
+                        35.131789
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Clover, SC",
+        "id": "804210fd7f9b2e79",
+        "name": "Clover",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/804210fd7f9b2e79.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ABC: Meet the South American Goliath birdeater -- a spider the size of a puppy: http://t.co/EHE9i3imky http://t.co/5svRnSyHg7\u201d fuuuck that",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 10 01:26:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Skylar Marie Conyers \u2764 7.7.16 at 7:02 PM, you changed my life forever. \nYou'll forever be my babygirl. \nDevernest Conyers, 9.24.11, forever my one & only. \u2764",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2447,
+        "follow_request_sent": false,
+        "followers_count": 361,
+        "following": false,
+        "friends_count": 405,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 73007530,
+        "id_str": "73007530",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Clover, SC",
+        "name": "Trisha Schlagel",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73007530/1470194144",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/760675942159319041/pInSvqw8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/760675942159319041/pInSvqw8_normal.jpg",
+        "profile_link_color": "09E6E6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "t_schlaagel",
+        "statuses_count": 8686,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 00:55:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 323613077,
+                "id_str": "323613077",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "GMAN VMT",
+                "screen_name": "GMANvmt"
+            },
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    9,
+                    18
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504431981573464065,
+    "id_str": "504431981573464065",
+    "in_reply_to_screen_name": "GMANvmt",
+    "in_reply_to_status_id": 504431822156337154,
+    "in_reply_to_status_id_str": "504431822156337154",
+    "in_reply_to_user_id": 323613077,
+    "in_reply_to_user_id_str": "323613077",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GMANvmt @theScore good no quebec, they need team in the west",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 16:30:41 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8818,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 49047623,
+        "id_str": "49047623",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Canada",
+        "name": "Daniel Deschenes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179804150542061568/MyHbnRMo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179804150542061568/MyHbnRMo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "therock785",
+        "statuses_count": 1482,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 10:11:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyti.ms/1L032bs",
+                "expanded_url": "http://nyti.ms/1L032bs",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/GorQMpZXll"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 204,
+    "favorited": false,
+    "geo": null,
+    "id": 649889459836710912,
+    "id_str": "649889459836710912",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 306,
+    "retweeted": false,
+    "source": "<a href=\"http://www.nytimes.com/twitter\" rel=\"nofollow\">The New York Times</a>",
+    "text": "Breaking News: Pope Francis\u2019 encounter with Kim Davis wasn\u2019t an endorsement of her views, the Vatican says.\nhttp://t.co/GorQMpZXll",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "nyti.ms/2FVHq9v",
+                        "expanded_url": "http://nyti.ms/2FVHq9v",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "url": "https://t.co/ghL9OoYKMM"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nytimes.com",
+                        "expanded_url": "http://www.nytimes.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ahvuWqicF9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18819,
+        "follow_request_sent": false,
+        "followers_count": 52694016,
+        "following": false,
+        "friends_count": 878,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 807095,
+        "id_str": "807095",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 215373,
+        "location": "New York City",
+        "name": "The New York Times",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_link_color": "607696",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nytimes",
+        "statuses_count": 469586,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ahvuWqicF9",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

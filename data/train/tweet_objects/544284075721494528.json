@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 00:13:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tF52hwM5FG",
+                "expanded_url": "https://twitter.com/DailyMailAU/status/544272537341812736/photo/1",
+                "id": 544272534271569920,
+                "id_str": "544272534271569920",
+                "indices": [
+                    103,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/B42k_HpCMAAcgj4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B42k_HpCMAAcgj4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "medium": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "small": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 544272537341812736,
+                "source_status_id_str": "544272537341812736",
+                "source_user_id": 1960878613,
+                "source_user_id_str": "1960878613",
+                "type": "photo",
+                "url": "http://t.co/tF52hwM5FG"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "tinyurl.com/qgkakkm",
+                "expanded_url": "http://tinyurl.com/qgkakkm",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/rNyV1Yulxw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tF52hwM5FG",
+                "expanded_url": "https://twitter.com/DailyMailAU/status/544272537341812736/photo/1",
+                "id": 544272534271569920,
+                "id_str": "544272534271569920",
+                "indices": [
+                    103,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/B42k_HpCMAAcgj4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B42k_HpCMAAcgj4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "medium": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "small": {
+                        "h": 475,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 544272537341812736,
+                "source_status_id_str": "544272537341812736",
+                "source_user_id": 1960878613,
+                "source_user_id_str": "1960878613",
+                "type": "photo",
+                "url": "http://t.co/tF52hwM5FG"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544284075721494528,
+    "id_str": "544284075721494528",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 544282227035869184,
+    "in_reply_to_status_id_str": "544282227035869184",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@PzFeed: BREAKING NEWS: Gunmen take hostages at Sydney cafe, wave Islamic flag http://t.co/rNyV1Yulxw http://t.co/tF52hwM5FG\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 16:31:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soy intenso y tuiteo libremente. Opiniones personales // IG - @AlvaroVR",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/alvarovr",
+                        "expanded_url": "http://about.me/alvarovr",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/VnpAa87ltV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15311,
+        "follow_request_sent": false,
+        "followers_count": 14773,
+        "following": false,
+        "friends_count": 2863,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 59513871,
+        "id_str": "59513871",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 109,
+        "location": "Mexico City ",
+        "name": "\u00c1lvaro Velasco",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59513871/1580258276",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1471561022456709128/btUCoHK0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471561022456709128/btUCoHK0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alvarovr",
+        "statuses_count": 62222,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/VnpAa87ltV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

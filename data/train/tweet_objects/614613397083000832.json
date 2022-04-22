@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:57:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614613397083000832,
+    "id_str": "614613397083000832",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 614605997953404929,
+    "in_reply_to_status_id_str": "614605997953404929",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AP \ud83d\ude11\ud83d\ude11\ud83d\ude11\ud83d\ude11",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 14 16:52:19 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sports and occasional random thoughts! Speak things into existence ... BELIEVE in it! #Browns #Tribe #Cavs\nIG: Wellsrentalgroupllc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wellsrentalgroup.com",
+                        "expanded_url": "http://wellsrentalgroup.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5VxggJxkoH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 239744,
+        "follow_request_sent": false,
+        "followers_count": 806,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2410578521,
+        "id_str": "2410578521",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "At work",
+        "name": "Dennis Wells",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2410578521/1594844963",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1419618463811883011/Oxf_4l2p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419618463811883011/Oxf_4l2p_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dwellz90",
+        "statuses_count": 176367,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/5VxggJxkoH",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

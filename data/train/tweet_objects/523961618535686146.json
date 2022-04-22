@@ -1,0 +1,344 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 22:19:19 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/nickkristof/st\u2026",
+                "expanded_url": "https://twitter.com/nickkristof/status/523943647449198592",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/Wbw3Y9KqeW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 360607837,
+                "id_str": "360607837",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Kron",
+                "screen_name": "Kronykal"
+            },
+            {
+                "id": 272748593,
+                "id_str": "272748593",
+                "indices": [
+                    10,
+                    26
+                ],
+                "name": "Creeples \ud83e\udd9d",
+                "screen_name": "Shadow__Creeper"
+            },
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    51,
+                    63
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 2563699940,
+                "id_str": "2563699940",
+                "indices": [
+                    64,
+                    75
+                ],
+                "name": "vickfyeah",
+                "screen_name": "OmarShabbi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523961618535686146,
+    "id_str": "523961618535686146",
+    "in_reply_to_screen_name": "NickKristof",
+    "in_reply_to_status_id": 523943647449198592,
+    "in_reply_to_status_id_str": "523943647449198592",
+    "in_reply_to_user_id": 17004618,
+    "in_reply_to_user_id_str": "17004618",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 19 21:07:54 +0000 2014",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/uERfNy1mIC",
+                    "expanded_url": "https://twitter.com/CBSNews/status/523863683928457216/photo/1",
+                    "id": 523863683706159105,
+                    "id_str": "523863683706159105",
+                    "indices": [
+                        98,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B0UjPqoIgAEtRrC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B0UjPqoIgAEtRrC.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 960,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 523863683928457216,
+                    "source_status_id_str": "523863683928457216",
+                    "source_user_id": 15012486,
+                    "source_user_id_str": "15012486",
+                    "type": "photo",
+                    "url": "http://t.co/uERfNy1mIC"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 15012486,
+                    "id_str": "15012486",
+                    "indices": [
+                        35,
+                        43
+                    ],
+                    "name": "CBS News",
+                    "screen_name": "CBSNews"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/uERfNy1mIC",
+                    "expanded_url": "https://twitter.com/CBSNews/status/523863683928457216/photo/1",
+                    "id": 523863683706159105,
+                    "id_str": "523863683706159105",
+                    "indices": [
+                        98,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B0UjPqoIgAEtRrC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B0UjPqoIgAEtRrC.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 960,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 523863683928457216,
+                    "source_status_id_str": "523863683928457216",
+                    "source_user_id": 15012486,
+                    "source_user_id_str": "15012486",
+                    "type": "photo",
+                    "url": "http://t.co/uERfNy1mIC"
+                }
+            ]
+        },
+        "favorite_count": 69,
+        "favorited": false,
+        "geo": null,
+        "id": 523943647449198592,
+        "id_str": "523943647449198592",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 122,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Now he's a one-handed scientist RT @CBSNews: Puppy-sized spider surprises scientist in rainforest http://t.co/uERfNy1mIC",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 27 19:14:53 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Oregon author, journalist and farmer, still sorting things out.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "nickkristof.substack.com",
+                            "expanded_url": "https://nickkristof.substack.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/N8hWP07SFq"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 299,
+            "follow_request_sent": false,
+            "followers_count": 2003500,
+            "following": false,
+            "friends_count": 3227,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 17004618,
+            "id_str": "17004618",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 21639,
+            "location": "Yamhill, Oregon",
+            "name": "Nicholas Kristof",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17004618/1645993736",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1453381583847657473/77brYR0Q_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453381583847657473/77brYR0Q_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "NickKristof",
+            "statuses_count": 51156,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/N8hWP07SFq",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 523943647449198592,
+    "quoted_status_id_str": "523943647449198592",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Kronykal @Shadow__Creeper https://t.co/Wbw3Y9KqeW @NickKristof @OmarShabbi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 19 17:42:41 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Use it. #NoTraitors #CancelFox.ALSO please take action. Midterms are coming. If Republicans win back power, democracy is over: https://t.co/tBSoC53rvA",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "democrats.org/take-action/",
+                        "expanded_url": "http://democrats.org/take-action/",
+                        "indices": [
+                            127,
+                            150
+                        ],
+                        "url": "https://t.co/tBSoC53rvA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "democrats.org/take-action/",
+                        "expanded_url": "http://democrats.org/take-action/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tBSoC53rvA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 189087,
+        "follow_request_sent": false,
+        "followers_count": 2465,
+        "following": false,
+        "friends_count": 5000,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1022550523,
+        "id_str": "1022550523",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 74,
+        "location": "USA ",
+        "name": "\ud83c\udf3b 14th AMENDMENT LUCY \ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022550523/1515619046",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324848793196650496/4T-LyEQv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324848793196650496/4T-LyEQv_normal.jpg",
+        "profile_link_color": "005CB3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lucy_____Smith",
+        "statuses_count": 247724,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tBSoC53rvA",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

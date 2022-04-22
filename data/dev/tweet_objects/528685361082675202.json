@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 23:09:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 545564714,
+                "id_str": "545564714",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Mars",
+                "screen_name": "neontotem"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528685361082675202,
+    "id_str": "528685361082675202",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528562608463704064,
+    "in_reply_to_status_id_str": "528562608463704064",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@washingtonpost @neontotem Vampire deer. Sounds like a great season!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 25 17:46:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ICS DFIR @dragosinc, martial artist, marksman, humanist, Lvl14 Neutral Good rogue, USAF Ret. Tweet *very serious* things about infosec. Thoughts mine. They/them",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tisiphone.net",
+                        "expanded_url": "http://tisiphone.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RQ7E8Jai4N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 393146,
+        "follow_request_sent": false,
+        "followers_count": 161975,
+        "following": false,
+        "friends_count": 7805,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 207617689,
+        "id_str": "207617689",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3178,
+        "location": "Chicago, IL",
+        "name": "Lesley Carhart",
+        "notifications": false,
+        "profile_background_color": "334444",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207617689/1634186129",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513331066706223107/NYREz3FR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513331066706223107/NYREz3FR_normal.jpg",
+        "profile_link_color": "775487",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hacks4pancakes",
+        "statuses_count": 150303,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RQ7E8Jai4N",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

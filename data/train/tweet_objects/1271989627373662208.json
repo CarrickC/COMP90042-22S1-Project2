@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 14 02:15:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1271989627373662208",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/dtgZWWoIlP"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 41460280,
+                "id_str": "41460280",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Kurt Ramlo",
+                "screen_name": "KurtRamlo"
+            },
+            {
+                "id": 1153815723699032064,
+                "id_str": "1153815723699032064",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "FredbirdsBurner",
+                "screen_name": "FredbirdsB"
+            },
+            {
+                "id": 1500129642,
+                "id_str": "1500129642",
+                "indices": [
+                    23,
+                    37
+                ],
+                "name": "Dr. Matt Walsh, Women\u2019s Studies Scholar",
+                "screen_name": "MattWalshBlog"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1271989627373662208,
+    "id_str": "1271989627373662208",
+    "in_reply_to_screen_name": "bnjmnwst",
+    "in_reply_to_status_id": 1271989212225720321,
+    "in_reply_to_status_id_str": "1271989212225720321",
+    "in_reply_to_user_id": 17176025,
+    "in_reply_to_user_id_str": "17176025",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@KurtRamlo @FredbirdsB @MattWalshBlog the law? If so, do you understand what that means? It doesn't mean that every\u2026 https://t.co/dtgZWWoIlP",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 05 01:29:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I drive a truck and tell it like it is! He/Him (obviously)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/bnjmnwst",
+                        "expanded_url": "http://www.facebook.com/bnjmnwst",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2evggpA5eV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 74928,
+        "follow_request_sent": false,
+        "followers_count": 741,
+        "following": false,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17176025,
+        "id_str": "17176025",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "N 31\u00b042' 0'' / W 89\u00b08' 0''",
+        "name": "Ben West",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17176025/1458113558",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710005986648592384/SaOtv_3y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710005986648592384/SaOtv_3y_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bnjmnwst",
+        "statuses_count": 17327,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2evggpA5eV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

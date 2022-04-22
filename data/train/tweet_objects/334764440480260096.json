@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 15 20:17:16 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            },
+            {
+                "id": 17986456,
+                "id_str": "17986456",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Ian",
+                "screen_name": "elvis717"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 334764440480260096,
+    "id_str": "334764440480260096",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@stephenfry @elvis717 As a swede, i get suspicious where his neighbour is named \"Standingboner\"....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 05 22:06:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "charm\u00f6r, sj\u00f6man och cowboy, musiker, artist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30820,
+        "follow_request_sent": false,
+        "followers_count": 1480,
+        "following": false,
+        "friends_count": 399,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 223265942,
+        "id_str": "223265942",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "",
+        "name": "Oskar",
+        "notifications": false,
+        "profile_background_color": "F6E9E9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223265942/1540832785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136195558845177856/kdQxg1Kx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136195558845177856/kdQxg1Kx_normal.jpg",
+        "profile_link_color": "234396",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kaptenskojare",
+        "statuses_count": 16077,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:49:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    72,
+                    94
+                ],
+                "url": "http://t.co/cPzEddjDMu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 319220881,
+                "id_str": "319220881",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jamie Santucci",
+                "screen_name": "J_Santucci"
+            },
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    13,
+                    18
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514501845902184448,
+    "id_str": "514501845902184448",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@J_Santucci \u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/cPzEddjDMu\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 11 04:38:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Columbus, OH",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4253,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 271,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30399278,
+        "id_str": "30399278",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "John S",
+        "notifications": false,
+        "profile_background_color": "001500",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30399278/1516468524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499406181223346176/-3xfGc3L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499406181223346176/-3xfGc3L_normal.jpg",
+        "profile_link_color": "006B46",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "142200",
+        "profile_text_color": "506C49",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jsweezie",
+        "statuses_count": 10576,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

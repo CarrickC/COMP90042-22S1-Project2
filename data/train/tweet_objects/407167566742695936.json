@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            120.98917908,
+            14.60473044
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 15:21:27 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 149655776,
+                "id_str": "149655776",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Bitch Problems \ud83d\udc81\ud83c\udffc",
+                "screen_name": "ItsThingsInLife"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            14.60473044,
+            120.98917908
+        ],
+        "type": "Point"
+    },
+    "id": 407167566742695936,
+    "id_str": "407167566742695936",
+    "in_reply_to_screen_name": "ItsThingsInLife",
+    "in_reply_to_status_id": 407164597511393280,
+    "in_reply_to_status_id_str": "407164597511393280",
+    "in_reply_to_user_id": 149655776,
+    "in_reply_to_user_id_str": "149655776",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ItsThingsInLife: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 18 13:56:06 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Let's be together alone. | Pursuit of Happiness | Tams | Marketing | Instagram: @pendimaano",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1701,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 765747686,
+        "id_str": "765747686",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Makati City, National Capital Region",
+        "name": "Pen Dimaano",
+        "notifications": false,
+        "profile_background_color": "A3DEE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765747686/1512450757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980781347827433472/jrap8t41_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980781347827433472/jrap8t41_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pennydimaano",
+        "statuses_count": 15479,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

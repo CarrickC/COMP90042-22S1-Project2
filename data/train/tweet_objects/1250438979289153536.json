@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 15:00:59 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250438979289153536",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/wqEuI5oIMB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 25088746,
+                "id_str": "25088746",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "SABC News",
+                "screen_name": "SABCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250438979289153536,
+    "id_str": "1250438979289153536",
+    "in_reply_to_screen_name": "SABCNews",
+    "in_reply_to_status_id": 1250302907389333504,
+    "in_reply_to_status_id_str": "1250302907389333504",
+    "in_reply_to_user_id": 25088746,
+    "in_reply_to_user_id_str": "25088746",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SABCNews It's true 5G do not spread Covad-19, but, it's a source behind man suffering today. \n   For the world's g\u2026 https://t.co/wqEuI5oIMB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 31 07:45:55 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Best quality and prices reaching more people on the Continent, hence reducing  Chinese fake , creating jobs & industrialisation. Shop now \nhppt//capemasai.co.za",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "capemasai.co.za",
+                        "expanded_url": "https://capemasai.co.za/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ieMtfpFZIB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 19,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1189809975918563328,
+        "id_str": "1189809975918563328",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Cape Town, South Africa",
+        "name": "capemasai",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189809975918563328/1573378440",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1507965018041729031/ajgTgRSm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1507965018041729031/ajgTgRSm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "capemasai1",
+        "statuses_count": 130,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ieMtfpFZIB",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

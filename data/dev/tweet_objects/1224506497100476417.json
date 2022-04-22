@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 01:34:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 531041640,
+                "id_str": "531041640",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "KKMalaysia\ud83c\uddf2\ud83c\uddfe\ud83d\ude37",
+                "screen_name": "KKMPutrajaya"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1224506497100476417,
+    "id_str": "1224506497100476417",
+    "in_reply_to_screen_name": "KKMPutrajaya",
+    "in_reply_to_status_id": 1224384700191428613,
+    "in_reply_to_status_id_str": "1224384700191428613",
+    "in_reply_to_user_id": 531041640,
+    "in_reply_to_user_id_str": "531041640",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@KKMPutrajaya virus ni belum cukup point nak beli perk kott",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 10 15:29:38 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Tirol belongs to Austria.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/madlad100",
+                        "expanded_url": "http://instagram.com/madlad100",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nOtL3bKQy9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10301,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 107,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1138105950722613250,
+        "id_str": "1138105950722613250",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "mome",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138105950722613250/1572735585",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266414105767800833/QtodcmfE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266414105767800833/QtodcmfE_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ggegge9",
+        "statuses_count": 11486,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nOtL3bKQy9",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

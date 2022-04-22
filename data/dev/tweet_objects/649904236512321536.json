@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 11:10:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 649904236512321536,
+    "id_str": "649904236512321536",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 649903655160815616,
+    "in_reply_to_status_id_str": "649903655160815616",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@CNN Well, she's a very lucky person to have met him.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 18 00:15:49 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "sff author | coffee enthusiast | musician | gardener | unrepentant book accumulator",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thebobcorrigan.com",
+                        "expanded_url": "http://thebobcorrigan.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AOH0CYuFKd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 57284,
+        "follow_request_sent": false,
+        "followers_count": 3208,
+        "following": false,
+        "friends_count": 2424,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 657733,
+        "id_str": "657733",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 135,
+        "location": "sequestered",
+        "name": "b o b \ud83c\udf37\u2615\ufe0f",
+        "notifications": false,
+        "profile_background_color": "050503",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/657733/1634773899",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1420955318016696320/kboQO2Of_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420955318016696320/kboQO2Of_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E0A6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bobcorrigan",
+        "statuses_count": 86747,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AOH0CYuFKd",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

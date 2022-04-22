@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 20:17:05 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    76
+                ],
+                "text": "Walmart"
+            },
+            {
+                "indices": [
+                    96,
+                    109
+                ],
+                "text": "DarrenWilson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 944425148,
+                "id_str": "944425148",
+                "indices": [
+                    51,
+                    66
+                ],
+                "name": "The Collective",
+                "screen_name": "SaveJobsGlobal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523568469388718080,
+    "id_str": "523568469388718080",
+    "in_reply_to_screen_name": "SaveJobsGlobal",
+    "in_reply_to_status_id": 523562674487975937,
+    "in_reply_to_status_id_str": "523562674487975937",
+    "in_reply_to_user_id": 944425148,
+    "in_reply_to_user_id_str": "944425148",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "As if I needed another reason to hate Walmart. RT: @SaveJobsGlobal \"#Walmart donates $10,000 to #DarrenWilson ...\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 29 10:49:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "(she/her)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7313,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 61167100,
+        "id_str": "61167100",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Toronto, Ontario",
+        "name": "A. Nesbitt",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61167100/1420369746",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551691421237772288/oBGt2vak_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551691421237772288/oBGt2vak_normal.jpeg",
+        "profile_link_color": "E6894E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "strmcr0w",
+        "statuses_count": 3672,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

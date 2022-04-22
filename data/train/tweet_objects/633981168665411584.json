@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 12:37:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    29,
+                    45
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    46,
+                    53
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633981168665411584,
+    "id_str": "633981168665411584",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 633961125126668288,
+    "in_reply_to_status_id_str": "633961125126668288",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+    "text": "@CNNPolitics @HillaryClinton @realDonaldTrump @cnnbrk God bless America! The rest of the world could never understand you. \ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 30 12:10:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Everything MS, Tech & Space . I Love this creative process called Technology. The Atoms and molecules shaping our existence. More at: https://t.co/oTJY2dpTKD.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "mcakins.com",
+                        "expanded_url": "http://mcakins.com",
+                        "indices": [
+                            134,
+                            157
+                        ],
+                        "url": "https://t.co/oTJY2dpTKD"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mcakins.com",
+                        "expanded_url": "http://mcakins.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/oTJY2dpTKD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7827,
+        "follow_request_sent": false,
+        "followers_count": 850,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 93617397,
+        "id_str": "93617397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 75,
+        "location": "Third Rock from the Sun",
+        "name": "McAkins Online - J316247365",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93617397/1459019464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498267821511487494/xn-LwLnU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498267821511487494/xn-LwLnU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "McAkins",
+        "statuses_count": 49649,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oTJY2dpTKD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

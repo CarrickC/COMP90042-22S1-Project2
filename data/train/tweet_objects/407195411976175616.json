@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 17:12:06 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407195411976175616,
+    "id_str": "407195411976175616",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 407192126032986112,
+    "in_reply_to_status_id_str": "407192126032986112",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AP wow that car was totaled. Just Sad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 19:59:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NFT digital artist. I created beautiful vibrant, colorful and unique women artworks. I choose women cause they create life. \ud83e\udd77#Dogecoin \ud83d\udc8e \ud83d\udd90\ud83c\udffe",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "opensea.io/collection/mrr\u2026",
+                        "expanded_url": "https://opensea.io/collection/mrruffin-collection",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5JQgwfqRmM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17235,
+        "follow_request_sent": false,
+        "followers_count": 2871,
+        "following": false,
+        "friends_count": 1863,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22053247,
+        "id_str": "22053247",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 58,
+        "location": "South Central Los Angeles",
+        "name": "\ud83c\uddfa\ud83c\uddf8 MrRuffin \u264c\ufe0f",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22053247/1630919580",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506057127730720768/2q4F1pGd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506057127730720768/2q4F1pGd_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrRuffin_",
+        "statuses_count": 176638,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/5JQgwfqRmM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

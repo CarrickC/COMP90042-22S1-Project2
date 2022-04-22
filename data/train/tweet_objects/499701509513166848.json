@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 13 23:38:18 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    45,
+                    54
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15249499,
+                "id_str": "15249499",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Neal Carter he/him",
+                "screen_name": "nealcarter"
+            },
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 499701509513166848,
+    "id_str": "499701509513166848",
+    "in_reply_to_screen_name": "nealcarter",
+    "in_reply_to_status_id": 499683602452717569,
+    "in_reply_to_status_id_str": "499683602452717569",
+    "in_reply_to_user_id": 15249499,
+    "in_reply_to_user_id_str": "15249499",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nealcarter @ksdknews Journalists, show up @ #Ferguson PD to express intent to sue re. violation of 1st amend.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 09 14:05:40 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Since literal free speech goes unheeded without $$, and Citizen's United declared speech is $$, let's exercise our 1st amendment rights! http://t.co/Jx2ZEk9KJ7",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "wartaxboycott.org",
+                        "expanded_url": "http://wartaxboycott.org/",
+                        "indices": [
+                            137,
+                            159
+                        ],
+                        "url": "http://t.co/Jx2ZEk9KJ7"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kontempl8.wordpress.com",
+                        "expanded_url": "http://kontempl8.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nDC5PG64NY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 70,
+        "follow_request_sent": false,
+        "followers_count": 233,
+        "following": false,
+        "friends_count": 757,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 153805650,
+        "id_str": "153805650",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "sophia",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687351619596468224/xNKxziFg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687351619596468224/xNKxziFg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sandlewould",
+        "statuses_count": 2980,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/nDC5PG64NY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

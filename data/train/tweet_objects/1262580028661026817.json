@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 19 03:05:11 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YXKgAtfUSm",
+                "expanded_url": "https://twitter.com/1adityajoshi/status/1262580028661026817/photo/1",
+                "id": 1262579975963783169,
+                "id_str": "1262579975963783169",
+                "indices": [
+                    11,
+                    34
+                ],
+                "media_url": "http://pbs.twimg.com/media/EYWVzHfXsAE6HT-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EYWVzHfXsAE6HT-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 146,
+                        "resize": "fit",
+                        "w": 1396
+                    },
+                    "medium": {
+                        "h": 126,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 71,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 146,
+                        "resize": "crop",
+                        "w": 146
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YXKgAtfUSm"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9316452,
+                "id_str": "9316452",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Xavier Amatriain \ud83c\uddfa\ud83c\udde6",
+                "screen_name": "xamat"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YXKgAtfUSm",
+                "expanded_url": "https://twitter.com/1adityajoshi/status/1262580028661026817/photo/1",
+                "id": 1262579975963783169,
+                "id_str": "1262579975963783169",
+                "indices": [
+                    11,
+                    34
+                ],
+                "media_url": "http://pbs.twimg.com/media/EYWVzHfXsAE6HT-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EYWVzHfXsAE6HT-.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 146,
+                        "resize": "fit",
+                        "w": 1396
+                    },
+                    "medium": {
+                        "h": 126,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 71,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 146,
+                        "resize": "crop",
+                        "w": 146
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YXKgAtfUSm"
+            }
+        ]
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1262580028661026817,
+    "id_str": "1262580028661026817",
+    "in_reply_to_screen_name": "xamat",
+    "in_reply_to_status_id": 1262541401000009728,
+    "in_reply_to_status_id_str": "1262541401000009728",
+    "in_reply_to_user_id": 9316452,
+    "in_reply_to_user_id_str": "9316452",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@xamat 50% https://t.co/YXKgAtfUSm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 16 12:00:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "creator and interpreter of abstractions. student of philosophy, programming, crypto, music, ml, history, art. prev @aws @Mila_Quebec. @CryptoMangaNFT \u26e9",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amplituhedron.org",
+                        "expanded_url": "https://www.amplituhedron.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/47uBf1ALZj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23681,
+        "follow_request_sent": false,
+        "followers_count": 709,
+        "following": false,
+        "friends_count": 2771,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 299613108,
+        "id_str": "299613108",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Toronto, Ontario",
+        "name": "adijo.eth",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299613108/1647288343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1511772097353330690/hnRWPL2p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1511772097353330690/hnRWPL2p_normal.jpg",
+        "profile_link_color": "003366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amplituhedron",
+        "statuses_count": 4679,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/47uBf1ALZj",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

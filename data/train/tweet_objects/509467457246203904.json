@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:24:41 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14372486,
+                "id_str": "14372486",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Engadget",
+                "screen_name": "engadget"
+            },
+            {
+                "id": 15297310,
+                "id_str": "15297310",
+                "indices": [
+                    10,
+                    21
+                ],
+                "name": "Timothy J. Seppala",
+                "screen_name": "timseppala"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509467457246203904,
+    "id_str": "509467457246203904",
+    "in_reply_to_screen_name": "engadget",
+    "in_reply_to_status_id": 509466295344304129,
+    "in_reply_to_status_id_str": "509466295344304129",
+    "in_reply_to_user_id": 14372486,
+    "in_reply_to_user_id_str": "14372486",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@engadget @timseppala NOOOOOO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 20 22:16:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Make my day punk",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/murkaadurkaa",
+                        "expanded_url": "http://twitch.tv/murkaadurkaa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hoENgof2Uf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1898,
+        "follow_request_sent": false,
+        "followers_count": 325,
+        "following": false,
+        "friends_count": 692,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 417410820,
+        "id_str": "417410820",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "North wales",
+        "name": "Dan",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/417410820/1567686602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1420410398667378688/rmbEf87u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420410398667378688/rmbEf87u_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MurkaaDurkaa",
+        "statuses_count": 7138,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/hoENgof2Uf",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

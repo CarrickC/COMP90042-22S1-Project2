@@ -1,0 +1,315 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 10 17:49:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    83
+                ],
+                "text": "Trump"
+            },
+            {
+                "indices": [
+                    84,
+                    98
+                ],
+                "text": "BernieSanders"
+            },
+            {
+                "indices": [
+                    99,
+                    107
+                ],
+                "text": "Hillary"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/7uiHPxKpDo",
+                "expanded_url": "https://twitter.com/2016Swingers/status/642032083641090048/photo/1",
+                "id": 642031958109761536,
+                "id_str": "642031958109761536",
+                "indices": [
+                    108,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/COj0qg2UsAA8V4n.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COj0qg2UsAA8V4n.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/7uiHPxKpDo"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "kickstarter.com/projects/12549\u2026",
+                "expanded_url": "https://www.kickstarter.com/projects/1254956201/presidential-swingers-a-coloring-book-of-hidden-de",
+                "indices": [
+                    53,
+                    76
+                ],
+                "url": "https://t.co/BX2txYKgQj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    36,
+                    52
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/7uiHPxKpDo",
+                "expanded_url": "https://twitter.com/2016Swingers/status/642032083641090048/photo/1",
+                "id": 642031958109761536,
+                "id_str": "642031958109761536",
+                "indices": [
+                    108,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/COj0qg2UsAA8V4n.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COj0qg2UsAA8V4n.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/7uiHPxKpDo"
+            },
+            {
+                "display_url": "pic.twitter.com/7uiHPxKpDo",
+                "expanded_url": "https://twitter.com/2016Swingers/status/642032083641090048/photo/1",
+                "id": 642031958302679040,
+                "id_str": "642031958302679040",
+                "indices": [
+                    108,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/COj0qhkUYAAUdz2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COj0qhkUYAAUdz2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 791,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 791,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 525,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/7uiHPxKpDo"
+            },
+            {
+                "display_url": "pic.twitter.com/7uiHPxKpDo",
+                "expanded_url": "https://twitter.com/2016Swingers/status/642032083641090048/photo/1",
+                "id": 642031958483079168,
+                "id_str": "642031958483079168",
+                "indices": [
+                    108,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/COj0qiPVEAAbxei.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/COj0qiPVEAAbxei.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 791
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 791
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 525
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/7uiHPxKpDo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642032083641090048,
+    "id_str": "642032083641090048",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 642027433693171712,
+    "in_reply_to_status_id_str": "642027433693171712",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump https://t.co/BX2txYKgQj #Trump #BernieSanders #Hillary http://t.co/7uiHPxKpDo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 07 19:57:43 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Support our #kickstarter for a cheeky coloring book depicting (what we imagine to be) the hidden bedroom desires of the 2016 U.S. presidential candidates!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kickstarter.com/projects/12549\u2026",
+                        "expanded_url": "https://www.kickstarter.com/projects/1254956201/presidential-swingers-a-coloring-book-of-hidden-de",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MtgcfTJDhO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 23,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3485243833,
+        "id_str": "3485243833",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Los Angeles, CA",
+        "name": "Prez Swingers Book",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3485243833/1441656388",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640977793455554560/8Vs445Om_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640977793455554560/8Vs445Om_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "2016Swingers",
+        "statuses_count": 139,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MtgcfTJDhO",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 19:35:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1652541,
+                "id_str": "1652541",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Reuters",
+                "screen_name": "Reuters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650031344672616448,
+    "id_str": "650031344672616448",
+    "in_reply_to_screen_name": "Reuters",
+    "in_reply_to_status_id": 649974380416618496,
+    "in_reply_to_status_id_str": "649974380416618496",
+    "in_reply_to_user_id": 1652541,
+    "in_reply_to_user_id_str": "1652541",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Reuters there should be a BIG sense of regret.  He needs to know what he stands for, not just take the advice of his staff.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 31 02:35:53 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "People do not deserve WAR & Globalization.  \nAll cultures & peoples are important. \nHeal Mother Earth.\nThis is NOT a rehearsal",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34846,
+        "follow_request_sent": false,
+        "followers_count": 306,
+        "following": false,
+        "friends_count": 214,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1714291674,
+        "id_str": "1714291674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": " Atlantis born Rosh Adar ",
+        "name": "Robb Shep",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714291674/1456683824",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827299642375299072/HyRQjMA3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827299642375299072/HyRQjMA3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RobbShep",
+        "statuses_count": 38964,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

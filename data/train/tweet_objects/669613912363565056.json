@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 20:29:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14294848,
+                "id_str": "14294848",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "snopes.com",
+                "screen_name": "snopes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669613912363565056,
+    "id_str": "669613912363565056",
+    "in_reply_to_screen_name": "snopes",
+    "in_reply_to_status_id": 669613420665159680,
+    "in_reply_to_status_id_str": "669613420665159680",
+    "in_reply_to_user_id": 14294848,
+    "in_reply_to_user_id_str": "14294848",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@snopes people really are thick as fuck.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 27 13:37:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "If you have an issue with foreigners don't follow me, we won't get on.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17504,
+        "follow_request_sent": false,
+        "followers_count": 151,
+        "following": false,
+        "friends_count": 304,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 422617145,
+        "id_str": "422617145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Mr Goodkat",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/422617145/1613468612",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361612159684345857/rhzUOuK-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361612159684345857/rhzUOuK-_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Macko1968",
+        "statuses_count": 5119,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

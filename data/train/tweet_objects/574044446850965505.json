@@ -1,0 +1,114 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 07 03:10:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    112
+                ],
+                "text": "pray4us"
+            },
+            {
+                "indices": [
+                    113,
+                    120
+                ],
+                "text": "donate"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            },
+            {
+                "id": 232268199,
+                "id_str": "232268199",
+                "indices": [
+                    78,
+                    89
+                ],
+                "name": "Archive: Governor Andrew Cuomo",
+                "screen_name": "NYGovCuomo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 574044446850965505,
+    "id_str": "574044446850965505",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 574004164570841088,
+    "in_reply_to_status_id_str": "574004164570841088",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC Long Islanders hit by Hurricanesandy still suffering NYRISING Failed us .@NYGovCuomo needs to help #pray4us #donate",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 17 13:53:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83d\udd25 alison@reptheus.com. agavestrawsandcutleryhttp://www.reptheus.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12041,
+        "follow_request_sent": false,
+        "followers_count": 1019,
+        "following": false,
+        "friends_count": 929,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32412066,
+        "id_str": "32412066",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Long Island NY",
+        "name": "AML524",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32412066/1419691472",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/902193364266881024/f3cAi3O4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/902193364266881024/f3cAi3O4_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alison524",
+        "statuses_count": 39433,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

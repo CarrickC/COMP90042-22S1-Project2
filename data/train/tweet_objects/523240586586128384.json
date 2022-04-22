@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 22:34:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 321814909,
+                "id_str": "321814909",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Dale",
+                "screen_name": "Dale_Digabow"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523240586586128384,
+    "id_str": "523240586586128384",
+    "in_reply_to_screen_name": "Dale_Digabow",
+    "in_reply_to_status_id": 523240337788399617,
+    "in_reply_to_status_id_str": "523240337788399617",
+    "in_reply_to_user_id": 321814909,
+    "in_reply_to_user_id_str": "321814909",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Dale_Digabow oh hell naw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 28 01:16:26 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "take life one day at a time",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11759,
+        "follow_request_sent": false,
+        "followers_count": 482,
+        "following": false,
+        "friends_count": 313,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 620587101,
+        "id_str": "620587101",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Steven Head",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620587101/1543525672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1286086756283162624/xJI_-kKt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286086756283162624/xJI_-kKt_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Stevenhead36",
+        "statuses_count": 19975,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

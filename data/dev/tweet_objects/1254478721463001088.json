@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 26 18:33:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1254478721463001088",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/wmkJJkKb5e"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1246846738109026308,
+                "id_str": "1246846738109026308",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Neekademus",
+                "screen_name": "neekademus"
+            },
+            {
+                "id": 818155216214355968,
+                "id_str": "818155216214355968",
+                "indices": [
+                    12,
+                    23
+                ],
+                "name": "The Reader-Shelf Help Books \ud83d\udc96\ud83d\udcda",
+                "screen_name": "JPL_Reader"
+            },
+            {
+                "id": 23022687,
+                "id_str": "23022687",
+                "indices": [
+                    24,
+                    32
+                ],
+                "name": "Ted Cruz",
+                "screen_name": "tedcruz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1254478721463001088,
+    "id_str": "1254478721463001088",
+    "in_reply_to_screen_name": "neekademus",
+    "in_reply_to_status_id": 1254476000425017344,
+    "in_reply_to_status_id_str": "1254476000425017344",
+    "in_reply_to_user_id": 1246846738109026308,
+    "in_reply_to_user_id_str": "1246846738109026308",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1254020264591011841,
+    "quoted_status_id_str": "1254020264591011841",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@neekademus @JPL_Reader @tedcruz Here\u2019s an ER doctor citing CDC and WHO numbers.  Watch and be shocked.\n\nThese offi\u2026 https://t.co/wmkJJkKb5e",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 06 19:14:24 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Educator, Author, Filmmaker, connecting with other teachers to fight progressivism on the front lines\u2014in the classroom. Views are my own, not my employer\u2019s.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "whitehouse.gov/about-the-whit\u2026",
+                        "expanded_url": "https://www.whitehouse.gov/about-the-white-house/the-constitution/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NlSWHqZ2bG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1704,
+        "follow_request_sent": false,
+        "followers_count": 208,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1488504740,
+        "id_str": "1488504740",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "United States",
+        "name": "TeachersOn\ud83c\uddfa\ud83c\uddf8TheRight",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488504740/1576689078",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207336001972178944/TNjGJZ2V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207336001972178944/TNjGJZ2V_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TeachOnTheRight",
+        "statuses_count": 6193,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NlSWHqZ2bG",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

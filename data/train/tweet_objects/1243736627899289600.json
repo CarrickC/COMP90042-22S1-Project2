@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 03:08:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1215092629794324480,
+                "id_str": "1215092629794324480",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Vibe Don Quench",
+                "screen_name": "Basitchei"
+            },
+            {
+                "id": 1155485905815318531,
+                "id_str": "1155485905815318531",
+                "indices": [
+                    11,
+                    26
+                ],
+                "name": "The Health Factor \ud83d\udc8a\ud83d\udc89\ud83e\ude78\ud83d\udc69\ud83c\udffd\u200d\u2695\ufe0f\ud83d\udc68\ud83c\udffe\u200d\u2695\ufe0f",
+                "screen_name": "THF_Foundation"
+            },
+            {
+                "id": 2474554404,
+                "id_str": "2474554404",
+                "indices": [
+                    27,
+                    41
+                ],
+                "name": "Dorothy Shaw",
+                "screen_name": "DrDorothyShaw"
+            },
+            {
+                "id": 770650559699386369,
+                "id_str": "770650559699386369",
+                "indices": [
+                    42,
+                    51
+                ],
+                "name": "Dr. Natalia Kanem /she/her/ella/",
+                "screen_name": "Atayeshe"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1243736627899289600,
+    "id_str": "1243736627899289600",
+    "in_reply_to_screen_name": "Basitchei",
+    "in_reply_to_status_id": 1243661340524363782,
+    "in_reply_to_status_id_str": "1243661340524363782",
+    "in_reply_to_user_id": 1215092629794324480,
+    "in_reply_to_user_id_str": "1215092629794324480",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Basitchei @THF_Foundation @DrDorothyShaw @Atayeshe @MajorVinyl But how do u know someone is ill?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 03:06:57 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Shenzhen",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 761035666784333824,
+        "id_str": "761035666784333824",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "\u5e7f\u4e1c, \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+        "name": "BenKei",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/761035666784333824/1585363210",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243729404783517699/QGMRy4SS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243729404783517699/QGMRy4SS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BenKeicx",
+        "statuses_count": 3,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

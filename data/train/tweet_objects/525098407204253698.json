@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 01:36:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    9,
+                    17
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525098407204253698,
+    "id_str": "525098407204253698",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Renacus @CBCNews According to the news, their weapons are not loaded.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 20 18:38:31 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Best-selling author, journalist, speaker. Author of ADHD According to Zo\u00eb. Proud TWUC Member.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zoekessler.com",
+                        "expanded_url": "http://www.zoekessler.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/T7MHdSZcuu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2341,
+        "follow_request_sent": false,
+        "followers_count": 2637,
+        "following": false,
+        "friends_count": 1386,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 193001855,
+        "id_str": "193001855",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 162,
+        "location": "",
+        "name": "Zoe Kessler",
+        "notifications": false,
+        "profile_background_color": "EBE5D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/193001855/1436386602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000744405329/98d75f0437d0f1e3bc67baf76442f4b1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000744405329/98d75f0437d0f1e3bc67baf76442f4b1_normal.jpeg",
+        "profile_link_color": "004080",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChickADD44",
+        "statuses_count": 9499,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/T7MHdSZcuu",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 28 03:00:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3162043071,
+                "id_str": "3162043071",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "ACT for America",
+                "screen_name": "act4america"
+            },
+            {
+                "id": 457984599,
+                "id_str": "457984599",
+                "indices": [
+                    39,
+                    53
+                ],
+                "name": "Breitbart News",
+                "screen_name": "BreitbartNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560271149183934464,
+    "id_str": "560271149183934464",
+    "in_reply_to_screen_name": "ACTforAmerica",
+    "in_reply_to_status_id": 560187970389819392,
+    "in_reply_to_status_id_str": "560187970389819392",
+    "in_reply_to_user_id": 168541923,
+    "in_reply_to_user_id_str": "168541923",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Shameful! @act4america @HellNo2Amnesty @BreitbartNews",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 29 15:56:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife, Mom, Daughter, Catholic, Freedom Loving, RespectingAllStagesOfLife - Follow4Follow - \ud83d\udeabDM's",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "page.is/n-rose",
+                        "expanded_url": "http://page.is/n-rose",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3j8UhSlRWx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56098,
+        "follow_request_sent": false,
+        "followers_count": 13768,
+        "following": false,
+        "friends_count": 13868,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 344789714,
+        "id_str": "344789714",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 78,
+        "location": "Earth",
+        "name": "\u0646 Rose",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344789714/1355536237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348162002636693505/Pq_dQCD7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348162002636693505/Pq_dQCD7_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rmcmartino1",
+        "statuses_count": 125947,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3j8UhSlRWx",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

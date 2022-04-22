@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 22 05:02:41 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241591104585125889",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/lByffX9Uac"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 68333060,
+                "id_str": "68333060",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Deepak",
+                "screen_name": "deepakkutty"
+            },
+            {
+                "id": 48924841,
+                "id_str": "48924841",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "Somnath Mukherjee",
+                "screen_name": "somnath1978"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1241591104585125889,
+    "id_str": "1241591104585125889",
+    "in_reply_to_screen_name": "deepakkutty",
+    "in_reply_to_status_id": 1241374875991724035,
+    "in_reply_to_status_id_str": "1241374875991724035",
+    "in_reply_to_user_id": 68333060,
+    "in_reply_to_user_id_str": "68333060",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@deepakkutty @somnath1978 Simple phsycological ploy to avoid any potential bank run till crisis subsides..... Last\u2026 https://t.co/lByffX9Uac",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 23 13:05:12 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7945,
+        "follow_request_sent": false,
+        "followers_count": 83,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 616173018,
+        "id_str": "616173018",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "India",
+        "name": "VimalM",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616173018/1628921972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1479149231629737987/5L36qVix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479149231629737987/5L36qVix_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vimalmehta3",
+        "statuses_count": 7798,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

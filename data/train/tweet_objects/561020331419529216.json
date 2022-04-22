@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 30 04:37:24 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    111
+                ],
+                "text": "ScaredToSleep"
+            },
+            {
+                "indices": [
+                    112,
+                    120
+                ],
+                "text": "DarkNet"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            },
+            {
+                "id": 278821089,
+                "id_str": "278821089",
+                "indices": [
+                    29,
+                    41
+                ],
+                "name": "Sarah Hartman Naar",
+                "screen_name": "sarah__says"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 561020331419529216,
+    "id_str": "561020331419529216",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Squarespace @TheJeffBridges @sarah__says we need to make a parody recording. Go to the website! #ScaredToSleep #DarkNet",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 16 15:58:02 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Arts Advocate | #Classical #Musician | #Crossword Junkie | #Foodie | #Logophile | https://t.co/qPRTHytjWM",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/hermanleptz/",
+                        "expanded_url": "https://Instagram.com/hermanleptz/",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/qPRTHytjWM"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "independent.academia.edu/HermanLeptz",
+                        "expanded_url": "http://independent.academia.edu/HermanLeptz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3ZVGDFCKQf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3951,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 948,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1095604226,
+        "id_str": "1095604226",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "New York, NY",
+        "name": "Herman Leptz",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095604226/1361038325",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1425892072532451338/iDV2SS_c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1425892072532451338/iDV2SS_c_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "HermanLeptz",
+        "statuses_count": 458,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3ZVGDFCKQf",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

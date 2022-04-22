@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 15:39:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.mash.to/1oCoIWI",
+                "expanded_url": "http://on.mash.to/1oCoIWI",
+                "indices": [
+                    85,
+                    107
+                ],
+                "url": "http://t.co/iaLKlKN0lF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    6,
+                    15
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531833550858121216,
+    "id_str": "531833550858121216",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 531833153145823233,
+    "in_reply_to_status_id_str": "531833153145823233",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.394337,
+                        41.744775
+                    ],
+                    [
+                        -71.3178404,
+                        41.744775
+                    ],
+                    [
+                        -71.3178404,
+                        41.862724
+                    ],
+                    [
+                        -71.394337,
+                        41.862724
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Providence, RI",
+        "id": "232aebf678219af9",
+        "name": "East Providence",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/232aebf678219af9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Hurk! @mashable Just your Monday reminder that Doritos-flavored Mountain Dew exists. http://t.co/iaLKlKN0lF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 01 18:38:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Volunteer weekend puppy raiser with @NEADS_dogs\n\nMarketing at @GE_Digital",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6716,
+        "follow_request_sent": false,
+        "followers_count": 1367,
+        "following": false,
+        "friends_count": 714,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70751282,
+        "id_str": "70751282",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 136,
+        "location": "Home",
+        "name": "Colleen Whelpley",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70751282/1599910936",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1316075274925203463/oc1os66c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316075274925203463/oc1os66c_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ColleenWhelpley",
+        "statuses_count": 11861,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

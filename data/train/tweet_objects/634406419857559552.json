@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 20 16:47:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14075928,
+                "id_str": "14075928",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "The Onion",
+                "screen_name": "TheOnion"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 634406419857559552,
+    "id_str": "634406419857559552",
+    "in_reply_to_screen_name": "TheOnion",
+    "in_reply_to_status_id": 634404792241143809,
+    "in_reply_to_status_id_str": "634404792241143809",
+    "in_reply_to_user_id": 14075928,
+    "in_reply_to_user_id_str": "14075928",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TheOnion oh shit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 06 16:47:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Director of Digital Operations @theintercept. Past: @WSJ, @ColumbiaJournMA. Writer. \ud83c\udf08  Hello.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7087,
+        "follow_request_sent": false,
+        "followers_count": 2285,
+        "following": false,
+        "friends_count": 753,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87980046,
+        "id_str": "87980046",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 124,
+        "location": "NYC",
+        "name": "Leandro Oliva",
+        "notifications": false,
+        "profile_background_color": "949294",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87980046/1600968021",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1490910205764423681/0g4ka5do_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490910205764423681/0g4ka5do_normal.jpg",
+        "profile_link_color": "3B415E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7DADDB",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lmoliva_",
+        "statuses_count": 32873,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

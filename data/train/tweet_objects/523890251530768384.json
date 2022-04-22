@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 17:35:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15791186,
+                "id_str": "15791186",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "KHOU 11 News Houston",
+                "screen_name": "KHOU"
+            },
+            {
+                "id": 537464605,
+                "id_str": "537464605",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Jaimito",
+                "screen_name": "Jaime_Acosta7"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523890251530768384,
+    "id_str": "523890251530768384",
+    "in_reply_to_screen_name": "KHOU",
+    "in_reply_to_status_id": 523888836456108032,
+    "in_reply_to_status_id_str": "523888836456108032",
+    "in_reply_to_user_id": 15791186,
+    "in_reply_to_user_id_str": "15791186",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KHOU @LOUDassAryel2 @Jaime_Acosta7 about time we leave earth my nigga!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 18 20:47:44 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Austin 3:16 Rip Tucker Big Truss,Milk enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21975,
+        "follow_request_sent": false,
+        "followers_count": 653,
+        "following": false,
+        "friends_count": 258,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 496316316,
+        "id_str": "496316316",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Deathvalley ",
+        "name": "Xanakin Skywalker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/496316316/1645985281",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516181917829414919/MeqWOBW6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516181917829414919/MeqWOBW6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "givesno_nub",
+        "statuses_count": 74386,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

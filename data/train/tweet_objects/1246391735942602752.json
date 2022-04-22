@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 04 10:58:41 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    70
+                ],
+                "text": "COVID19"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 136737072,
+                "id_str": "136737072",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Tsholo",
+                "screen_name": "SpliphDude"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1246391735942602752,
+    "id_str": "1246391735942602752",
+    "in_reply_to_screen_name": "SpliphDude",
+    "in_reply_to_status_id": 1246390088801624064,
+    "in_reply_to_status_id_str": "1246390088801624064",
+    "in_reply_to_user_id": 136737072,
+    "in_reply_to_user_id_str": "136737072",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SpliphDude No evidence that suggest it is vital to fight the #COVID19",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 05 08:58:05 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Towards a safer Gauteng",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gautsafety.gpg.gov.za",
+                        "expanded_url": "http://www.gautsafety.gpg.gov.za",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/o38EQ98Ql9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9867,
+        "follow_request_sent": false,
+        "followers_count": 79796,
+        "following": false,
+        "friends_count": 3846,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 368225673,
+        "id_str": "368225673",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 71,
+        "location": "25 Pixley Ka Isaka Seme Street",
+        "name": "GP Community Safety",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/368225673/1609917245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/893065140924334080/5Sy5h2ju_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/893065140924334080/5Sy5h2ju_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GP_CommSafety",
+        "statuses_count": 28306,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/o38EQ98Ql9",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

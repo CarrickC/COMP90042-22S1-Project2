@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 10 18:36:59 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    62
+                ],
+                "text": "2A"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 426802833,
+                "id_str": "426802833",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "AP Politics",
+                "screen_name": "AP_Politics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 675021406422241281,
+    "id_str": "675021406422241281",
+    "in_reply_to_screen_name": "AP_Politics",
+    "in_reply_to_status_id": 675005503160901632,
+    "in_reply_to_status_id_str": "675005503160901632",
+    "in_reply_to_user_id": 426802833,
+    "in_reply_to_user_id_str": "426802833",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AP_Politics \"Gosh, no, I'm not a tyrant. Why do you ask?\" #2A",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 23 23:53:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vacuuming up Twitter\u2019s filthy floor\u2014a futile effort, but I keep trying.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 226277,
+        "follow_request_sent": false,
+        "followers_count": 7303,
+        "following": false,
+        "friends_count": 4564,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 68270085,
+        "id_str": "68270085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 170,
+        "location": "",
+        "name": "Jesse Pinkman\u2019s Roomba",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68270085/1642315535",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829572783696814081/41nnmeK1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829572783696814081/41nnmeK1_normal.jpg",
+        "profile_link_color": "C90808",
+        "profile_sidebar_border_color": "6B5B52",
+        "profile_sidebar_fill_color": "050300",
+        "profile_text_color": "BFB6A3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "corrcomm",
+        "statuses_count": 452465,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

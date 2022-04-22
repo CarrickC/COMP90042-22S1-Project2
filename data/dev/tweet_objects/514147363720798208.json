@@ -1,0 +1,116 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 20:20:58 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    74,
+                    86
+                ],
+                "text": "howgullible"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 124302756,
+                "id_str": "124302756",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Vassy Kapelos",
+                "screen_name": "VassyKapelos"
+            },
+            {
+                "id": 168470806,
+                "id_str": "168470806",
+                "indices": [
+                    14,
+                    29
+                ],
+                "name": "Joe Warmington",
+                "screen_name": "joe_warmington"
+            },
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    30,
+                    38
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514147363720798208,
+    "id_str": "514147363720798208",
+    "in_reply_to_screen_name": "VassyKapelos",
+    "in_reply_to_status_id": 514122638923669504,
+    "in_reply_to_status_id_str": "514122638923669504",
+    "in_reply_to_user_id": 124302756,
+    "in_reply_to_user_id_str": "124302756",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@VassyKapelos @joe_warmington @NBCNews all they want is free Healthcare.  #howgullible",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 00:58:43 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retweet does not necessarily imply agreement. \n\nIf you put me on a list I will block you.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9304,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 665,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 481644165,
+        "id_str": "481644165",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Howard Rosen \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555940730514849793/xBXdZaI8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555940730514849793/xBXdZaI8_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RosenHoward",
+        "statuses_count": 25688,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

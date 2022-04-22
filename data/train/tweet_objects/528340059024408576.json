@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 00:17:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 16723213,
+                "id_str": "16723213",
+                "indices": [
+                    16,
+                    31
+                ],
+                "name": "Cybernaut (^.~)\u2606",
+                "screen_name": "Miss_Cybernaut"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 528340059024408576,
+    "id_str": "528340059024408576",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528312406498635777,
+    "in_reply_to_status_id_str": "528312406498635777",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@washingtonpost @Miss_Cybernaut That's not a deer... and it's in D.C. not in Afghanistan! It's the true face of the Democratic Party Donkey!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 12 15:45:38 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\"The history of all countries shows that the working class, exclusively by its own effort, is able to develop only trade union consciousness\" iwpchi@gmx.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iwpchi.wordpress.com",
+                        "expanded_url": "http://iwpchi.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4jqmcPHkiE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20716,
+        "follow_request_sent": false,
+        "followers_count": 1590,
+        "following": false,
+        "friends_count": 4971,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1262275483,
+        "id_str": "1262275483",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 39,
+        "location": "Chicago, IL",
+        "name": "Indep. Workers Party",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262275483/1642680869",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1300164984845074434/ZnJNEfnj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300164984845074434/ZnJNEfnj_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IWPCHI",
+        "statuses_count": 77282,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4jqmcPHkiE",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

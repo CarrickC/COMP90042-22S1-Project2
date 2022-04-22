@@ -1,0 +1,211 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 18:58:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VpfbVdTSWS",
+                "expanded_url": "https://twitter.com/fox5newsdc/status/544567299102244864/photo/1",
+                "id": 544567271973076992,
+                "id_str": "544567271973076992",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/B46xDHJCQAAEulx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B46xDHJCQAAEulx.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "medium": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "small": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/VpfbVdTSWS"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "myfoxdc.com/story/27628076\u2026",
+                "expanded_url": "http://www.myfoxdc.com/story/27628076/new-york-city-high-school-student-reportedly-makes-72m-on-stock-market",
+                "indices": [
+                    65,
+                    87
+                ],
+                "url": "http://t.co/HLUUGj7Lxg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 754897,
+                "id_str": "754897",
+                "indices": [
+                    88,
+                    99
+                ],
+                "name": "wall street",
+                "screen_name": "wallstreet"
+            },
+            {
+                "id": 338328924,
+                "id_str": "338328924",
+                "indices": [
+                    100,
+                    115
+                ],
+                "name": "Stuyvesant High",
+                "screen_name": "StuyvesantHigh"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VpfbVdTSWS",
+                "expanded_url": "https://twitter.com/fox5newsdc/status/544567299102244864/photo/1",
+                "id": 544567271973076992,
+                "id_str": "544567271973076992",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/B46xDHJCQAAEulx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B46xDHJCQAAEulx.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "medium": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "small": {
+                        "h": 200,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/VpfbVdTSWS"
+            }
+        ]
+    },
+    "favorite_count": 101,
+    "favorited": false,
+    "geo": null,
+    "id": 544567299102244864,
+    "id_str": "544567299102244864",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 115,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "High school student reportedly makes 72 million on stock market. http://t.co/HLUUGj7Lxg @wallstreet @StuyvesantHigh http://t.co/VpfbVdTSWS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 24 23:13:59 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We cover breaking news in Washington #DC, Maryland & Virginia. NEWS TIPS: 202-895-3000 or fox5tips@foxtv.com. Online: https://t.co/9Tlyl9EfGA. Facebook: FOX 5 DC",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "fox5dc.com",
+                        "expanded_url": "http://fox5dc.com",
+                        "indices": [
+                            118,
+                            141
+                        ],
+                        "url": "https://t.co/9Tlyl9EfGA"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fox5dc.com",
+                        "expanded_url": "http://www.fox5dc.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DY6ZjTmYZW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18903,
+        "follow_request_sent": false,
+        "followers_count": 323178,
+        "following": false,
+        "friends_count": 5933,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 13918492,
+        "id_str": "13918492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2494,
+        "location": "Washington DC",
+        "name": "FOX 5 DC",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13918492/1641327921",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1459168696488927233/kKwo_wfA_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459168696488927233/kKwo_wfA_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fox5dc",
+        "statuses_count": 352205,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/DY6ZjTmYZW",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 28 22:06:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    14,
+                    18
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 659491499839623168,
+    "id_str": "659491499839623168",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@FiNeSSeHaVeN @kfc  Fake news.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 02 15:03:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Overtown Miami Native living in Metro ATL. It's all about the U! I bleed orange & green!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1866,
+        "follow_request_sent": false,
+        "followers_count": 61,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 79202516,
+        "id_str": "79202516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Hampton,GA United States",
+        "name": "David J",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79202516/1401459098",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1438158982795956235/0b7HHfst_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438158982795956235/0b7HHfst_normal.jpg",
+        "profile_link_color": "00B318",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "overtownD",
+        "statuses_count": 1369,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

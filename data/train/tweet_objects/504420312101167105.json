@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 00:09:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            },
+            {
+                "id": 101671923,
+                "id_str": "101671923",
+                "indices": [
+                    10,
+                    23
+                ],
+                "name": "Corey Pronman",
+                "screen_name": "coreypronman"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504420312101167105,
+    "id_str": "504420312101167105",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@theScore @coreypronman McDavid",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 17:27:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "MAN",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3287,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 443,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 53127608,
+        "id_str": "53127608",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "New York, USA",
+        "name": "Mon O",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53127608/1372478284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/519826494697529344/Q79_1bfw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/519826494697529344/Q79_1bfw_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "oby_star",
+        "statuses_count": 4641,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

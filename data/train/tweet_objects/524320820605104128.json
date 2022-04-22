@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:06:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524320820605104128,
+    "id_str": "524320820605104128",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AlfredoFlores you will follow me and answer me with ''eu te amo, dani'' \ud83d\udd2e",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 01 16:39:43 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "sem querer me gabar mas eu ja fui dos vingadores",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vm.tiktok.com/ZMLMALgqs/",
+                        "expanded_url": "https://vm.tiktok.com/ZMLMALgqs/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7UuhDkD0Ex"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9400,
+        "follow_request_sent": false,
+        "followers_count": 2328,
+        "following": false,
+        "friends_count": 934,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1395050749,
+        "id_str": "1395050749",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "S\u00e3o Paulo, Brasil",
+        "name": "hela",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395050749/1643687644",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514764165612720130/Q2MVnj2v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514764165612720130/Q2MVnj2v_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cinderelageek",
+        "statuses_count": 82895,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/7UuhDkD0Ex",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

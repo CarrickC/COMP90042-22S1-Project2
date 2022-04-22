@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 18 17:10:18 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1635754086,
+                "id_str": "1635754086",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Life Pro News",
+                "screen_name": "BestProNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 380378257591255040,
+    "id_str": "380378257591255040",
+    "in_reply_to_screen_name": "BestProNews",
+    "in_reply_to_status_id": 380055172896272384,
+    "in_reply_to_status_id_str": "380055172896272384",
+    "in_reply_to_user_id": 1635754086,
+    "in_reply_to_user_id_str": "1635754086",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT\u201c@BestProNews: A city in Louisiana has made \"twerking\" illegal, imposing a punishment of 30 days in jail for a first offense\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 25 20:01:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cinematographer | Director Founder & Director of @vuvisualstudios  \ud83d\udce7 Vuvisualsphotos@gmail\ud83d\udccd Miami | NY | LA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/peeweezzy",
+                        "expanded_url": "http://Instagram.com/peeweezzy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/u1s2RvsCHI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 600,
+        "following": false,
+        "friends_count": 809,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 379930761,
+        "id_str": "379930761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Peewee The Boneless",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/379930761/1449597198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1471905578507251716/f1Mzz5vY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471905578507251716/f1Mzz5vY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Peeweezzy",
+        "statuses_count": 132838,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/u1s2RvsCHI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

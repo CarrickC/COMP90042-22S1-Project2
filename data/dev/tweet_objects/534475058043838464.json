@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 17 22:35:58 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    38
+                ],
+                "text": "racism"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "reut.rs/1xQDZVx",
+                "expanded_url": "http://reut.rs/1xQDZVx",
+                "indices": [
+                    116,
+                    138
+                ],
+                "url": "http://t.co/l7aEmdiTPr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1652541,
+                "id_str": "1652541",
+                "indices": [
+                    40,
+                    48
+                ],
+                "name": "Reuters",
+                "screen_name": "Reuters"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 534475058043838464,
+    "id_str": "534475058043838464",
+    "in_reply_to_screen_name": "Reuters",
+    "in_reply_to_status_id": 534445263528947712,
+    "in_reply_to_status_id_str": "534445263528947712",
+    "in_reply_to_user_id": 1652541,
+    "in_reply_to_user_id_str": "1652541",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "How is this possible? Oh yeah, #racism \u201c@Reuters: Missouri governor declares state of emergency ahead of grand jury http://t.co/l7aEmdiTPr\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 08 22:59:58 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Never mind me, I'm just here for the news. Tweets are my own - destined to reflect my cluttered mind and not representative.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 926,
+        "follow_request_sent": false,
+        "followers_count": 144,
+        "following": false,
+        "friends_count": 893,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1161435458,
+        "id_str": "1161435458",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "S.E.T.H.",
+        "notifications": false,
+        "profile_background_color": "690E1D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161435458/1486403031",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098803479907201025/yhvz1tn9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098803479907201025/yhvz1tn9_normal.jpg",
+        "profile_link_color": "D1B31F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "skinnyMNy",
+        "statuses_count": 1704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

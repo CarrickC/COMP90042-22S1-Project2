@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 13 22:37:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 510920140901216256,
+    "id_str": "510920140901216256",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 510918747188514816,
+    "in_reply_to_status_id_str": "510918747188514816",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FoxNews let's send them into oblivion. Whoever takes there place we can do the same. We are the 10,000. We will take on all comers",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 30 21:53:55 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Toy impresario wonder aficionado and avid shoe wearer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 188,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2319599660,
+        "id_str": "2319599660",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "",
+        "name": "Option Zen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642308716029579264/yzoRCdEC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642308716029579264/yzoRCdEC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jakob05222002",
+        "statuses_count": 4299,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

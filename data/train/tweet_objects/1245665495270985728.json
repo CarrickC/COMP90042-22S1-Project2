@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 02 10:52:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 789361285620260864,
+                "id_str": "789361285620260864",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Steve P \u2b50\ufe0f\u2b50\ufe0f",
+                "screen_name": "Codeye67"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1245665495270985728,
+    "id_str": "1245665495270985728",
+    "in_reply_to_screen_name": "Codeye67",
+    "in_reply_to_status_id": 1245664579402608640,
+    "in_reply_to_status_id_str": "1245664579402608640",
+    "in_reply_to_user_id": 789361285620260864,
+    "in_reply_to_user_id_str": "789361285620260864",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@Codeye67 unbelievable isn't it ,we're getting it 24/7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 07 14:08:14 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "All things Chelseafc ,Lifelong Supporter since 1970, Rolling Stones ,Bowie ,Little Steven ,Reggae,Rock n Roller ,stuck in the '60's n 70's",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "littlesteven.com",
+                        "expanded_url": "http://www.littlesteven.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Lo7pgypi1k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36662,
+        "follow_request_sent": false,
+        "followers_count": 1446,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1170337936140853248,
+        "id_str": "1170337936140853248",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "ChelseaDagger",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170337936140853248/1568103087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170360599387262977/O4oK1ejm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170360599387262977/O4oK1ejm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrChelseaDagger",
+        "statuses_count": 21345,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Lo7pgypi1k",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

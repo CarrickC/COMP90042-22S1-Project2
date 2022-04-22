@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:16:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23195603,
+                "id_str": "23195603",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Dale Now\u274c #COVFEFE",
+                "screen_name": "Dbargen"
+            },
+            {
+                "id": 2321322426,
+                "id_str": "2321322426",
+                "indices": [
+                    9,
+                    23
+                ],
+                "name": "Rebooting Liberty",
+                "screen_name": "RebootLiberty"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672434121319157760,
+    "id_str": "672434121319157760",
+    "in_reply_to_screen_name": "Dbargen",
+    "in_reply_to_status_id": 672432930426372096,
+    "in_reply_to_status_id_str": "672432930426372096",
+    "in_reply_to_user_id": 23195603,
+    "in_reply_to_user_id_str": "23195603",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Dbargen @RebootLiberty  Great hockey stick graph",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 13 14:13:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Experts agree, a confidant alleges, professionals believe, a private associate says, a secret informant reveals...\nCheck any totalitarian impulses at the door.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14231,
+        "follow_request_sent": false,
+        "followers_count": 1115,
+        "following": false,
+        "friends_count": 1902,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 39757671,
+        "id_str": "39757671",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "California",
+        "name": "Sources Say",
+        "notifications": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39757671/1579643466",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219739217493942272/hG8d3IEB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219739217493942272/hG8d3IEB_normal.jpg",
+        "profile_link_color": "057083",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "warmingtozero",
+        "statuses_count": 8957,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

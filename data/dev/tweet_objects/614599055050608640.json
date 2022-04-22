@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:00:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18939358,
+                "id_str": "18939358",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Hunter Schwarz",
+                "screen_name": "hunterschwarz"
+            },
+            {
+                "id": 208083510,
+                "id_str": "208083510",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "DR. TWEET, Ph.D.",
+                "screen_name": "Callisto1947"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 614599055050608640,
+    "id_str": "614599055050608640",
+    "in_reply_to_screen_name": "hunterschwarz",
+    "in_reply_to_status_id": 614595181845839873,
+    "in_reply_to_status_id_str": "614595181845839873",
+    "in_reply_to_user_id": 18939358,
+    "in_reply_to_user_id_str": "18939358",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@hunterschwarz @Callisto1947 that's shits so gay....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 17 20:14:28 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I\u2019m from the government & I\u2019m here to help.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 232557,
+        "follow_request_sent": false,
+        "followers_count": 1604,
+        "following": false,
+        "friends_count": 979,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2349012840,
+        "id_str": "2349012840",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "\ud83c\udd7f\ufe0fresident-Elect \ud83e\udd9a",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2349012840/1611855858",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359971832594640901/0EhhShGH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359971832594640901/0EhhShGH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZDAuburn60",
+        "statuses_count": 61301,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

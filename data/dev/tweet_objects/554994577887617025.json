@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -103.04713452,
+            34.3184604
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 13 13:33:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "apne.ws/14V0FcG",
+                "expanded_url": "http://apne.ws/14V0FcG",
+                "indices": [
+                    102,
+                    124
+                ],
+                "url": "http://t.co/fazPe7LYlX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    1,
+                    4
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            34.3184604,
+            -103.04713452
+        ],
+        "type": "Point"
+    },
+    "id": 554994577887617025,
+    "id_str": "554994577887617025",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 554979642210549760,
+    "in_reply_to_status_id_str": "554979642210549760",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -109.050173,
+                        31.332176
+                    ],
+                    [
+                        -103.002065,
+                        31.332176
+                    ],
+                    [
+                        -103.002065,
+                        37.000294
+                    ],
+                    [
+                        -109.050173,
+                        37.000294
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Mexico, USA",
+        "id": "71d65c0e6d94efab",
+        "name": "New Mexico",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/71d65c0e6d94efab.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@AP: Mozambique death toll rises to 72 from beer believed to have been poisoned with crocodile bile: http://t.co/fazPe7LYlX\u201d what?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 14 03:29:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Displaced New Mexican. Proud supporter of turn signals, public radio, and you. Free indeed.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "allisonmyers.substack.com",
+                        "expanded_url": "http://allisonmyers.substack.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wsx8q1BlFr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20814,
+        "follow_request_sent": false,
+        "followers_count": 598,
+        "following": false,
+        "friends_count": 1214,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82266422,
+        "id_str": "82266422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Dallas, TX",
+        "name": "Allison Myers",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82266422/1621981308",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1365171049546067969/GLHiue5-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365171049546067969/GLHiue5-_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "allimyers",
+        "statuses_count": 9287,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wsx8q1BlFr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

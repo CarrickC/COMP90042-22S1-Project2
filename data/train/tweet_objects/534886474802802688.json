@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 19 01:50:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2313227480,
+                "id_str": "2313227480",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Conspiracy",
+                "screen_name": "conspiracystory"
+            },
+            {
+                "id": 345220073,
+                "id_str": "345220073",
+                "indices": [
+                    17,
+                    32
+                ],
+                "name": "I am Darius Graves",
+                "screen_name": "thereal_Graves"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 534886474802802688,
+    "id_str": "534886474802802688",
+    "in_reply_to_screen_name": "conspiracystory",
+    "in_reply_to_status_id": 528242965915779072,
+    "in_reply_to_status_id_str": "528242965915779072",
+    "in_reply_to_user_id": 2313227480,
+    "in_reply_to_user_id_str": "2313227480",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@conspiracystory @thereal_Graves",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 07 00:23:32 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LLJG | | BlackHeartGang \ud83d\udda4| ig: regrob50 | #BIGBAGENT \ud83d\udcb0| #FearGOD | 21. |",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "childsplayclo.com",
+                        "expanded_url": "http://childsplayclo.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dsSXg9DkEt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29587,
+        "follow_request_sent": false,
+        "followers_count": 5162,
+        "following": false,
+        "friends_count": 4382,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 573223899,
+        "id_str": "573223899",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Greensboro, NC",
+        "name": "Reg Rob\u2122",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/573223899/1639282301",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504522906788900874/T7CZV6WY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504522906788900874/T7CZV6WY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RegRob__",
+        "statuses_count": 46133,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/dsSXg9DkEt",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

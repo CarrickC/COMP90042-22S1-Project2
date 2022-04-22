@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 03 03:22:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17471979,
+                "id_str": "17471979",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "National Geographic",
+                "screen_name": "NatGeo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 616809244772421632,
+    "id_str": "616809244772421632",
+    "in_reply_to_screen_name": "NatGeo",
+    "in_reply_to_status_id": 616765822095261700,
+    "in_reply_to_status_id_str": "616765822095261700",
+    "in_reply_to_user_id": 17471979,
+    "in_reply_to_user_id_str": "17471979",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@NatGeo this is in sad contrast to the garbage on your TV channel. Had great respect for NG, but each time I land on your channel, sad.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 22 16:24:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 609,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19345772,
+        "id_str": "19345772",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Michael Fiscus",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183195134/fiscus_09a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183195134/fiscus_09a_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mfiscus",
+        "statuses_count": 236,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

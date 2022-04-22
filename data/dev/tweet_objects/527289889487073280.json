@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 02:44:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/hpUGMtzWju"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527289889487073280,
+    "id_str": "527289889487073280",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/hpUGMtzWju\u201d - well done",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 11 12:52:11 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Loving father of two. \ud83d\udc95 Baseball fan. \u26be\ufe0f Red wine lover. \ud83c\udf77 Eclectic music fan. \ud83c\udfb6 Amateur painter. \ud83c\udfa8",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3088,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 430,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2286593564,
+        "id_str": "2286593564",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "",
+        "name": "\ud83c\udde8\ud83c\udde6 Nanz \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2286593564/1414808572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644327944626634752/JfO9LG3z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644327944626634752/JfO9LG3z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mrthenanz",
+        "statuses_count": 10769,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

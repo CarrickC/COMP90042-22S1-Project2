@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 13:53:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24486612,
+                "id_str": "24486612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Colorado Livin",
+                "screen_name": "Coloradogun"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672775858323521536,
+    "id_str": "672775858323521536",
+    "in_reply_to_screen_name": "Coloradogun",
+    "in_reply_to_status_id": 672539897899577344,
+    "in_reply_to_status_id_str": "672539897899577344",
+    "in_reply_to_user_id": 24486612,
+    "in_reply_to_user_id_str": "24486612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Coloradogun so how is Obama responsible for mass shootings when he has tried multiple times to put gun laws in place?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 24 02:07:41 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Out here living and growing. \ud83c\udf3b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 89,
+        "follow_request_sent": false,
+        "followers_count": 61,
+        "following": false,
+        "friends_count": 189,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4340019492,
+        "id_str": "4340019492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Oklahoma, USA",
+        "name": "Shay O.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4340019492/1593055973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1275995349971275777/9phSdO3L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275995349971275777/9phSdO3L_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "afrocentric_86",
+        "statuses_count": 120,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

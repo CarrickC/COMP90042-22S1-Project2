@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 13:07:50 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238089317802795008",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/fZMlyVNpKd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2836421,
+                "id_str": "2836421",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "MSNBC",
+                "screen_name": "MSNBC"
+            },
+            {
+                "id": 52070270,
+                "id_str": "52070270",
+                "indices": [
+                    7,
+                    23
+                ],
+                "name": "Savannah Guthrie",
+                "screen_name": "SavannahGuthrie"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1238089317802795008,
+    "id_str": "1238089317802795008",
+    "in_reply_to_screen_name": "MSNBC",
+    "in_reply_to_status_id": 1238083344333713412,
+    "in_reply_to_status_id_str": "1238083344333713412",
+    "in_reply_to_user_id": 2836421,
+    "in_reply_to_user_id_str": "2836421",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@MSNBC @SavannahGuthrie \"Irresponsible rhetoric\"??\nRemember Trump saying COVID-19 is just like the flu?\nRemember Pe\u2026 https://t.co/fZMlyVNpKd",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 17 23:49:39 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nolite te bastardes carborundorum -Call your MOC: 202-224-3121. Artist, Teacher, Patriot \ud83c\uddfa\ud83c\uddf8 , Sec Humanist \ud83c\udf08Ally #\u03a9 #MN03 #BLM #DemCast #WtP #Truth #Fresh",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 222618,
+        "follow_request_sent": false,
+        "followers_count": 45876,
+        "following": false,
+        "friends_count": 44072,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 466953226,
+        "id_str": "466953226",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 38,
+        "location": "Minneapolis, MN",
+        "name": "KrisS \ud83d\udd25 Your Vote, Your Voice \ud83d\udd25",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/466953226/1645740078",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184996773217091585/NZfcmAuS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184996773217091585/NZfcmAuS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MplsMe",
+        "statuses_count": 97155,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

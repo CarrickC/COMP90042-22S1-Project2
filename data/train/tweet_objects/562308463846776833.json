@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 02 17:55:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 572160375,
+                "id_str": "572160375",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "ty \ud83d\udc95\u2728",
+                "screen_name": "chai_txx"
+            },
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    23,
+                    38
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 562308463846776833,
+    "id_str": "562308463846776833",
+    "in_reply_to_screen_name": "chai_txx",
+    "in_reply_to_status_id": 562293459319816194,
+    "in_reply_to_status_id_str": "562293459319816194",
+    "in_reply_to_user_id": 572160375,
+    "in_reply_to_user_id_str": "572160375",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@chai_txx @Squarespace @TheJeffBridges BOOOOOONNNNGGGGGG",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 14 00:58:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "dreaming about burritos",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 53815,
+        "follow_request_sent": false,
+        "followers_count": 512,
+        "following": false,
+        "friends_count": 365,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 822442916,
+        "id_str": "822442916",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Tiffany",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822442916/1646149715",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498686589987430411/HXFkIArG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498686589987430411/HXFkIArG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nalodynaffit",
+        "statuses_count": 12821,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

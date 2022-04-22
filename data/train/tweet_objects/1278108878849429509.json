@@ -1,0 +1,280 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 23:31:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278108878849429509",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/CxweO2WOsa"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 59935808,
+                "id_str": "59935808",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Adam \ud83c\udf3b",
+                "screen_name": "Adam_Boyle_"
+            },
+            {
+                "id": 925895691540447232,
+                "id_str": "925895691540447232",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "\u00a2\u00e4lv\u00a1n",
+                "screen_name": "CDG_GTR"
+            },
+            {
+                "id": 29780473,
+                "id_str": "29780473",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Apoorva Mandavilli",
+                "screen_name": "apoorva_nyc"
+            },
+            {
+                "id": 4207961,
+                "id_str": "4207961",
+                "indices": [
+                    35,
+                    47
+                ],
+                "name": "Chris Hayes",
+                "screen_name": "chrislhayes"
+            },
+            {
+                "id": 704282873231237121,
+                "id_str": "704282873231237121",
+                "indices": [
+                    48,
+                    64
+                ],
+                "name": "Florian Krammer",
+                "screen_name": "florian_krammer"
+            },
+            {
+                "id": 1239664586954911744,
+                "id_str": "1239664586954911744",
+                "indices": [
+                    65,
+                    73
+                ],
+                "name": "Taia Wang Lab",
+                "screen_name": "LabTaia"
+            },
+            {
+                "id": 224896427,
+                "id_str": "224896427",
+                "indices": [
+                    74,
+                    80
+                ],
+                "name": "Trevor Bedford",
+                "screen_name": "trvrb"
+            },
+            {
+                "id": 19980619,
+                "id_str": "19980619",
+                "indices": [
+                    81,
+                    89
+                ],
+                "name": "University at Albany",
+                "screen_name": "ualbany"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1278108878849429509,
+    "id_str": "1278108878849429509",
+    "in_reply_to_screen_name": "Adam_Boyle_",
+    "in_reply_to_status_id": 1278104496363708418,
+    "in_reply_to_status_id_str": "1278104496363708418",
+    "in_reply_to_user_id": 59935808,
+    "in_reply_to_user_id_str": "59935808",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jun 30 08:44:01 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        97,
+                        106
+                    ],
+                    "text": "SARSCoV2"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1277885591376535553",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/WO1HpCiGRh"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 4828,
+        "favorited": false,
+        "geo": null,
+        "id": 1277885591376535553,
+        "id_str": "1277885591376535553",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2341,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Over the last weeks, a substantial amount of new evidence has become available about immunity to #SARSCoV2. This in\u2026 https://t.co/WO1HpCiGRh",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 04 10:18:22 +0000 2019",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Director @UGI_at_UCL\n\nInterest in Infectious disease epidemiology, genomics and global health",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "scholar.google.co.uk/citations?user\u2026",
+                            "expanded_url": "https://scholar.google.co.uk/citations?user=AwppHXYAAAAJ&hl=en",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Fni7YCMcAY"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 38040,
+            "follow_request_sent": false,
+            "followers_count": 147482,
+            "following": false,
+            "friends_count": 945,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1113747629282930688,
+            "id_str": "1113747629282930688",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2262,
+            "location": "Where snow is powdery and deep",
+            "name": "Prof Francois Balloux",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113747629282930688/1599122494",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1301438328781373440/t_EhVI_k_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301438328781373440/t_EhVI_k_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "BallouxFrancois",
+            "statuses_count": 20118,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Fni7YCMcAY",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1277885591376535553,
+    "quoted_status_id_str": "1277885591376535553",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Adam_Boyle_ @CDG_GTR @apoorva_nyc @chrislhayes @florian_krammer @LabTaia @trvrb @ualbany Thread on immunity by som\u2026 https://t.co/CxweO2WOsa",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 14 01:13:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IMS FP/TM/SYS L2, politics,aerospace,technology,military/naval history. Vaccinated, boosted, and done. Tweets are personal. Proud globalist. Team Reality",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 231855,
+        "follow_request_sent": false,
+        "followers_count": 1531,
+        "following": false,
+        "friends_count": 1353,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 82241627,
+        "id_str": "82241627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "Fort Frances, Ontario, Canada",
+        "name": "Kevin Stewart",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494930032/Shadell.Franklin1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494930032/Shadell.Franklin1_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stewak2",
+        "statuses_count": 84537,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

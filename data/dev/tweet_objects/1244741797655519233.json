@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 30 21:42:25 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 128455197,
+                "id_str": "128455197",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "shelds",
+                "screen_name": "sheldonwarren13"
+            },
+            {
+                "id": 339755472,
+                "id_str": "339755472",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "\ud83d\udda4ANNE-MARIE\ud83d\udda4",
+                "screen_name": "AnneMarie"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1244741797655519233,
+    "id_str": "1244741797655519233",
+    "in_reply_to_screen_name": "sheldonwarren13",
+    "in_reply_to_status_id": 1244741571469119488,
+    "in_reply_to_status_id_str": "1244741571469119488",
+    "in_reply_to_user_id": 128455197,
+    "in_reply_to_user_id_str": "128455197",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sheldonwarren13 @AnneMarie HAHAHAHAHA SAME i just didnt want to expose myself",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 22:26:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "she/her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 78657,
+        "follow_request_sent": false,
+        "followers_count": 1394,
+        "following": false,
+        "friends_count": 880,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31542806,
+        "id_str": "31542806",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 65,
+        "location": "Chile",
+        "name": "pauli",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31542806/1648786949",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1487488723751038980/BWB0Yk8j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487488723751038980/BWB0Yk8j_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "worstinmachine",
+        "statuses_count": 91530,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

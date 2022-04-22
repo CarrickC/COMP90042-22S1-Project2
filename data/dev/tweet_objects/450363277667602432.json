@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 30 20:05:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "snopes.com/inboxer/hoaxes\u2026",
+                "expanded_url": "http://www.snopes.com/inboxer/hoaxes/dinosaurclone.asp",
+                "indices": [
+                    56,
+                    78
+                ],
+                "url": "http://t.co/N0ufUszi1h"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            },
+            {
+                "id": 366415076,
+                "id_str": "366415076",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "DB",
+                "screen_name": "DangerBurgundy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 450363277667602432,
+    "id_str": "450363277667602432",
+    "in_reply_to_screen_name": "joerogan",
+    "in_reply_to_status_id": 450341615979069440,
+    "in_reply_to_status_id_str": "450341615979069440",
+    "in_reply_to_user_id": 18208354,
+    "in_reply_to_user_id_str": "18208354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@joerogan @DangerBurgundy False, check snopes, brother: http://t.co/N0ufUszi1h",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 01:08:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Multiple business owner, father of three. #harmreduction advocate. Living with the coolest dog, ever. #LLAP",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14243,
+        "follow_request_sent": false,
+        "followers_count": 1339,
+        "following": false,
+        "friends_count": 1383,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27145245,
+        "id_str": "27145245",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Houghton, MI",
+        "name": "The Pirate",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27145245/1439499140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312905990304608256/vbVIL2uz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312905990304608256/vbVIL2uz_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SeismicPirate",
+        "statuses_count": 22975,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

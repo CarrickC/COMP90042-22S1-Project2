@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 10 01:21:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "st.news/3cHOKBO",
+                "expanded_url": "https://st.news/3cHOKBO",
+                "indices": [
+                    86,
+                    109
+                ],
+                "url": "https://t.co/rvxgBsHsHf"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "geo": null,
+    "id": 1270526546189705218,
+    "id_str": "1270526546189705218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+    "text": "What is herd immunity, and could it work with COVID-19? Here's what you need to know. https://t.co/rvxgBsHsHf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 10 16:15:09 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest. Subscribe here: https://t.co/sm48xeS8Ko",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "st.news/subscribe",
+                        "expanded_url": "http://st.news/subscribe",
+                        "indices": [
+                            142,
+                            165
+                        ],
+                        "url": "https://t.co/sm48xeS8Ko"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "SeattleTimes.com",
+                        "expanded_url": "http://SeattleTimes.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hVRvUcOJ8o"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1782,
+        "follow_request_sent": false,
+        "followers_count": 702061,
+        "following": false,
+        "friends_count": 12278,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14352556,
+        "id_str": "14352556",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7442,
+        "location": "Seattle, WA",
+        "name": "The Seattle Times",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14352556/1522086791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163913052355362816/hZR3qQB7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163913052355362816/hZR3qQB7_normal.jpg",
+        "profile_link_color": "003355",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D8DFE8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "seattletimes",
+        "statuses_count": 224440,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/hVRvUcOJ8o",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

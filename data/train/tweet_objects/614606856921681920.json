@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:31:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4861868667,
+                "id_str": "4861868667",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "AWN",
+                "screen_name": "WNTonight"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614606856921681920,
+    "id_str": "614606856921681920",
+    "in_reply_to_screen_name": "ABCWorldNews",
+    "in_reply_to_status_id": 614601139422633984,
+    "in_reply_to_status_id_str": "614601139422633984",
+    "in_reply_to_user_id": 86141342,
+    "in_reply_to_user_id_str": "86141342",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WNTonight Are you kidding me? lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 01 04:52:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8695,
+        "follow_request_sent": false,
+        "followers_count": 392,
+        "following": false,
+        "friends_count": 3194,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 365873852,
+        "id_str": "365873852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "NY USA",
+        "name": "Justin T. Pisciotta",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/365873852/1644255632",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1445673732387782656/5kf0k0vB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445673732387782656/5kf0k0vB_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AutumnInNY1",
+        "statuses_count": 4234,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 18 21:06:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501475128236978176,
+    "id_str": "501475128236978176",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 501474962935648256,
+    "in_reply_to_status_id_str": "501474962935648256",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@realDonaldTrump does it really shock u.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 03 04:03:42 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Devil Dog, Proud parent, Husband,",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marines.com",
+                        "expanded_url": "http://marines.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3hNz9m5ELw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5363,
+        "follow_request_sent": false,
+        "followers_count": 124,
+        "following": false,
+        "friends_count": 885,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 292120212,
+        "id_str": "292120212",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Salinas, USA",
+        "name": "Bigbully22",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292120212/1496195664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140055539323297792/fjAPiVWQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140055539323297792/fjAPiVWQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JCPINON22",
+        "statuses_count": 5095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3hNz9m5ELw",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

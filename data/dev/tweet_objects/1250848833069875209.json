@@ -1,0 +1,216 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 18:09:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/DrEricDing/sta\u2026",
+                "expanded_url": "https://twitter.com/DrEricDing/status/1250438307047038979",
+                "indices": [
+                    37,
+                    60
+                ],
+                "url": "https://t.co/SfqjwPUfI0"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 209,
+    "favorited": false,
+    "geo": null,
+    "id": 1250848833069875209,
+    "id_str": "1250848833069875209",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Apr 15 14:58:19 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1250438307047038979",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/PYrxeAAc1J"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1296,
+        "favorited": false,
+        "geo": null,
+        "id": 1250438307047038979,
+        "id_str": "1250438307047038979",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1147,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Not just lung damage. \u201cBut clinicians around the world are seeing evidence that suggests the virus also may be caus\u2026 https://t.co/PYrxeAAc1J",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 10 11:01:33 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Epidemiologist & health economist. Global health security. Co-founder @TheWHN. COVID updates since Jan \u201820 https://t.co/eNp7gjyhC0",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "nym.ag/3olszuo",
+                            "expanded_url": "http://nym.ag/3olszuo",
+                            "indices": [
+                                107,
+                                130
+                            ],
+                            "url": "https://t.co/eNp7gjyhC0"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "scholar.harvard.edu/ericfeiglding",
+                            "expanded_url": "http://scholar.harvard.edu/ericfeiglding",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/RCgkorULxy"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 250111,
+            "follow_request_sent": false,
+            "followers_count": 723129,
+            "following": false,
+            "friends_count": 10749,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 18831926,
+            "id_str": "18831926",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 8425,
+            "location": "Washington DC & Virginia",
+            "name": "Eric Feigl-Ding",
+            "notifications": false,
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18831926/1634610256",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1516900105613422592/VflZHQ1Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516900105613422592/VflZHQ1Y_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DrEricDing",
+            "statuses_count": 63581,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/RCgkorULxy",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1250438307047038979,
+    "quoted_status_id_str": "1250438307047038979",
+    "retweet_count": 70,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Yeah, Covid-19 is just like the flu. https://t.co/SfqjwPUfI0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 13 02:45:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Columnist, @bopinion. Political Analyst, @MSNBC. Priors: New York Times, Wall Street Journal, HP. Author: \u201cTrumpNation.\u201d",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "timothylobrien.com",
+                        "expanded_url": "https://timothylobrien.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/t15KzcF9cY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2408,
+        "follow_request_sent": false,
+        "followers_count": 203519,
+        "following": false,
+        "friends_count": 1585,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 20742461,
+        "id_str": "20742461",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3819,
+        "location": "New York",
+        "name": "Tim O'Brien",
+        "notifications": false,
+        "profile_background_color": "303314",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20742461/1565443702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872199156399460352/3jSVbu08_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872199156399460352/3jSVbu08_normal.jpg",
+        "profile_link_color": "B24436",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CBA993",
+        "profile_text_color": "4B1218",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimOBrien",
+        "statuses_count": 59923,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/t15KzcF9cY",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

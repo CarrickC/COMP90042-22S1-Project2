@@ -1,0 +1,227 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 11:19:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1260892481165701120",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/wiffqgev1j"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 303972660,
+                "id_str": "303972660",
+                "indices": [
+                    68,
+                    80
+                ],
+                "name": "Jamie Timmons",
+                "screen_name": "metapredict"
+            }
+        ]
+    },
+    "favorite_count": 17,
+    "favorited": false,
+    "geo": null,
+    "id": 1260892481165701120,
+    "id_str": "1260892481165701120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue May 12 19:31:58 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1260291646438113280",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/X3ECBKmvmY"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 271,
+        "favorited": false,
+        "geo": null,
+        "id": 1260291646438113280,
+        "id_str": "1260291646438113280",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 58,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "My GWAS on dietary intake, almost 5 years in the making, is finally out! We had an insane R&amp;R  with 8 reviewers (no\u2026 https://t.co/X3ECBKmvmY",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Dec 02 11:17:29 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Behavior geneticist working on inequality of opportunity & GWAS. MarieSk\u0142odowskaCurie fellow at @OxfordDemSci & @NuffieldCollege.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "scholar.google.com/citations?user\u2026",
+                            "expanded_url": "https://scholar.google.com/citations?user=00FnsoEAAAAJ",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/p6t42Hshak"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 30693,
+            "follow_request_sent": false,
+            "followers_count": 1341,
+            "following": false,
+            "friends_count": 1873,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 4350016234,
+            "id_str": "4350016234",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6,
+            "location": "Oxford, England",
+            "name": "Dr Fleur Meddens",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4350016234/1625133164",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1379823149156536324/rHjYbj4x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379823149156536324/rHjYbj4x_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fleurmeddens",
+            "statuses_count": 952,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/p6t42Hshak",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1260291646438113280,
+    "quoted_status_id_str": "1260291646438113280",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Protein linked - through genes - to what ails us. Any last thoughts @metapredict? I am about to flush my career dow\u2026 https://t.co/wiffqgev1j",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 13:59:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad, Husband, Leafs fan, Professor, Tier 1 CRC, @McMasterU, Opinions mine. RT are not endorsements. Google Scholar: https://t.co/9FZmrkltUw",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/mackinprof",
+                        "expanded_url": "http://bit.ly/mackinprof",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "url": "https://t.co/9FZmrkltUw"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Phillips_McMas\u2026",
+                        "expanded_url": "https://bit.ly/Phillips_McMaster",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iyreLguYU7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36520,
+        "follow_request_sent": false,
+        "followers_count": 41509,
+        "following": false,
+        "friends_count": 4327,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23950468,
+        "id_str": "23950468",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 608,
+        "location": "Hamilton, Ontario",
+        "name": "Stuart Phillips",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23950468/1646768320",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1461397376929775616/Q07yITvb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461397376929775616/Q07yITvb_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mackinprof",
+        "statuses_count": 35599,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/iyreLguYU7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

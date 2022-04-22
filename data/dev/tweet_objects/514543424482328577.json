@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 22:34:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 106514999,
+                "id_str": "106514999",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joshy",
+                "screen_name": "AskJoshy"
+            },
+            {
+                "id": 746804190,
+                "id_str": "746804190",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "Nikki Smith",
+                "screen_name": "Quorraa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514543424482328577,
+    "id_str": "514543424482328577",
+    "in_reply_to_screen_name": "AskJoshy",
+    "in_reply_to_status_id": 514483762566922240,
+    "in_reply_to_status_id_str": "514483762566922240",
+    "in_reply_to_user_id": 106514999,
+    "in_reply_to_user_id_str": "106514999",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskJoshy @Quorraa They probably stuck it in the microwave... just not for 1.30",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 13 21:12:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Huge MTG lover, I *love* Slivers. Fantasy/Sci-Fi. I'm into all kinds of music.\n\nI'm a pro at imperfections\nAnd I'm best friends with my doubt",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12586,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 1456,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 18953634,
+        "id_str": "18953634",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "JaySki",
+        "notifications": false,
+        "profile_background_color": "4F0F80",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1490705808/475px-The_Scream_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490705808/475px-The_Scream_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JayWski",
+        "statuses_count": 12488,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

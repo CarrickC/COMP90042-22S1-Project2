@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 23:02:02 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    121,
+                    140
+                ],
+                "text": "stopradicalization"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525059534109163522,
+    "id_str": "525059534109163522",
+    "in_reply_to_screen_name": "CBCNews",
+    "in_reply_to_status_id": 525040836757958657,
+    "in_reply_to_status_id_str": "525040836757958657",
+    "in_reply_to_user_id": 6433472,
+    "in_reply_to_user_id_str": "6433472",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CBCNews horrific event, that a person felt justified to take this young mans life, is  sad and a terrible day globally. #stopradicalization",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 27 20:50:00 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Long time shoe creator and manufacturer (shoe dog) and best job- Grandpa!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jabulayo.com",
+                        "expanded_url": "http://www.jabulayo.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3Tz841Dsvl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 190,
+        "follow_request_sent": false,
+        "followers_count": 193,
+        "following": false,
+        "friends_count": 441,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1226007498,
+        "id_str": "1226007498",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Canada/HK/Nigeria/Thailand",
+        "name": "Douglas Sheridan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226007498/1617838508",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294312093450035201/sYgH711S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294312093450035201/sYgH711S_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DougS888",
+        "statuses_count": 5150,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3Tz841Dsvl",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

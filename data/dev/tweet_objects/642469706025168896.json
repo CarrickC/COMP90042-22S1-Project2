@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 22:48:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 192833883,
+                "id_str": "192833883",
+                "indices": [
+                    20,
+                    30
+                ],
+                "name": "Mike F",
+                "screen_name": "XMedGuy81"
+            },
+            {
+                "id": 1348043689763905536,
+                "id_str": "1348043689763905536",
+                "indices": [
+                    32,
+                    42
+                ],
+                "name": "LORI LEMMING",
+                "screen_name": "Lrihendry"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 642469706025168896,
+    "id_str": "642469706025168896",
+    "in_reply_to_screen_name": "XMedGuy81",
+    "in_reply_to_status_id": 642469107808501761,
+    "in_reply_to_status_id_str": "642469107808501761",
+    "in_reply_to_user_id": 192833883,
+    "in_reply_to_user_id_str": "192833883",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/RedScareBot\" rel=\"nofollow\">RedScareBot</a>",
+    "text": "Don't Smoke Hope RT @xmedguy81: @Lrihendry | why is anyone surprised? Socialist POTUS IS Muslim!!! That's Islam!! Fight parents, FIGHT!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 11:37:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Joseph McCarthy claimed there were large numbers of Communists and Soviet spies and sympathizers inside the United States federal government and elsewhere.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/RdUCUi",
+                        "expanded_url": "http://bit.ly/RdUCUi",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PiQZ8cvNsS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2623,
+        "follow_request_sent": false,
+        "followers_count": 11133,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 68956490,
+        "id_str": "68956490",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 845,
+        "location": "Wisconsin",
+        "name": "Robot J. McCarthy",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68956490/1397719213",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/382754962/mccarthy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/382754962/mccarthy_normal.jpg",
+        "profile_link_color": "7C009E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A199A3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RedScareBot",
+        "statuses_count": 2497973,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/PiQZ8cvNsS",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

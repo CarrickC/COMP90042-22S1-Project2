@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 01:00:23 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 742143,
+                "id_str": "742143",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "BBC News (World)",
+                "screen_name": "BBCWorld"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544295872515686400,
+    "id_str": "544295872515686400",
+    "in_reply_to_screen_name": "iMau5x",
+    "in_reply_to_status_id": 544275371257233408,
+    "in_reply_to_status_id_str": "544275371257233408",
+    "in_reply_to_user_id": 149635489,
+    "in_reply_to_user_id_str": "149635489",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@iSpiideyyy @BBCWorld yeah it's not",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 03 14:35:44 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "have a look at the headlock here",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 349483,
+        "follow_request_sent": false,
+        "followers_count": 2078,
+        "following": false,
+        "friends_count": 1315,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 347883924,
+        "id_str": "347883924",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Sydney, New South Wales",
+        "name": "Succulent Chinese Meal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347883924/1614248703",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1365031814499196928/9G5Kc_7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365031814499196928/9G5Kc_7b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JuIia_0",
+        "statuses_count": 284473,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

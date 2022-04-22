@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 28 18:25:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 92101575,
+                "id_str": "92101575",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Sydney",
+                "screen_name": "sydneygordon97"
+            },
+            {
+                "id": 95023423,
+                "id_str": "95023423",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "UberFacts",
+                "screen_name": "UberFacts"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527164364256604160,
+    "id_str": "527164364256604160",
+    "in_reply_to_screen_name": "sydneygordon97",
+    "in_reply_to_status_id": 527162742482817025,
+    "in_reply_to_status_id_str": "527162742482817025",
+    "in_reply_to_user_id": 92101575,
+    "in_reply_to_user_id_str": "92101575",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sydneygordon97 @UberFacts \ud83d\ude30 nope can't be true... Nope...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 23 20:00:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 235,
+        "follow_request_sent": false,
+        "followers_count": 234,
+        "following": false,
+        "friends_count": 202,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 378777705,
+        "id_str": "378777705",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "kelowna",
+        "name": "Taylor Gordon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/378777705/1427066708",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611746433348206592/S1WDWrPW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611746433348206592/S1WDWrPW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taylorggordon",
+        "statuses_count": 422,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

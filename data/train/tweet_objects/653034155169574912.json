@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 02:27:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    5,
+                    21
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653034155169574912,
+    "id_str": "653034155169574912",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 652882609219833856,
+    "in_reply_to_status_id_str": "652882609219833856",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "nl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNN @realDonaldTrump hahahaha funney drop jaw! Lolz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 06 15:20:33 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My \u2764 for u is like a wind!\nSometimes u feel it,sometimes u don't\nNevertheless I \u2764 u! Just don't ask me how much I \u2764 thee\nFor I can never quantify my \u2764 for u! :)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 39309,
+        "follow_request_sent": false,
+        "followers_count": 187,
+        "following": false,
+        "friends_count": 118,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3471802934,
+        "id_str": "3471802934",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "In Your Heart and Life \ud83d\ude18\ud83d\ude18\ud83d\ude18",
+        "name": "RainDear",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3471802934/1471697446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/767383230047584256/LjhW8TV5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/767383230047584256/LjhW8TV5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "raindanz12",
+        "statuses_count": 25566,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

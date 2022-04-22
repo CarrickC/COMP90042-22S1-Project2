@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 02 19:03:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 270064609,
+                "id_str": "270064609",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "\ud83c\uddfa\ud83c\udde6\ud83c\udf0eAnimal Watch\ud83c\udf0d\ud83c\uddfa\ud83c\udde6",
+                "screen_name": "Animal_Watch"
+            },
+            {
+                "id": 138862380,
+                "id_str": "138862380",
+                "indices": [
+                    14,
+                    21
+                ],
+                "name": "Samantha Berg",
+                "screen_name": "Sam10k"
+            },
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            },
+            {
+                "id": 317187060,
+                "id_str": "317187060",
+                "indices": [
+                    35,
+                    42
+                ],
+                "name": "WCS",
+                "screen_name": "TheWCS"
+            },
+            {
+                "id": 78905469,
+                "id_str": "78905469",
+                "indices": [
+                    43,
+                    57
+                ],
+                "name": "Chris Packham",
+                "screen_name": "ChrisGPackham"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 528985660552536064,
+    "id_str": "528985660552536064",
+    "in_reply_to_screen_name": "Animal_Watch",
+    "in_reply_to_status_id": 528822281972498432,
+    "in_reply_to_status_id_str": "528822281972498432",
+    "in_reply_to_user_id": 270064609,
+    "in_reply_to_user_id_str": "270064609",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Animal_Watch @Sam10k @Independent @TheWCS @ChrisGPackham Wow. She is so adorable!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 25 14:45:09 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 41,
+        "follow_request_sent": false,
+        "followers_count": 6,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2843732769,
+        "id_str": "2843732769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Lakewood, Colorado",
+        "name": "Amanda Hughes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2843732769/1414673044",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527803130088419328/Hg8Zoa11_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527803130088419328/Hg8Zoa11_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StarShadow197",
+        "statuses_count": 48,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

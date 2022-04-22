@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 17:55:46 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239973717880406018",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/C19NLW9oCK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 717529891680313345,
+                "id_str": "717529891680313345",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "IMAGINER",
+                "screen_name": "Imaginer77"
+            },
+            {
+                "id": 2589338451,
+                "id_str": "2589338451",
+                "indices": [
+                    12,
+                    28
+                ],
+                "name": "Moondogg Sikes",
+                "screen_name": "moondoggsikes80"
+            },
+            {
+                "id": 821644302,
+                "id_str": "821644302",
+                "indices": [
+                    44,
+                    60
+                ],
+                "name": "The Wanted Emcees",
+                "screen_name": "TheWantedEmcees"
+            },
+            {
+                "id": 1013884873390612480,
+                "id_str": "1013884873390612480",
+                "indices": [
+                    61,
+                    74
+                ],
+                "name": "FREED.M\ud83c\udf3b",
+                "screen_name": "Me2189251618"
+            },
+            {
+                "id": 806307077903814656,
+                "id_str": "806307077903814656",
+                "indices": [
+                    89,
+                    102
+                ],
+                "name": "Peace and Love",
+                "screen_name": "LoveHasOnly1"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1239973717880406018,
+    "id_str": "1239973717880406018",
+    "in_reply_to_screen_name": "Imaginer77",
+    "in_reply_to_status_id": 1239958742386409472,
+    "in_reply_to_status_id_str": "1239958742386409472",
+    "in_reply_to_user_id": 717529891680313345,
+    "in_reply_to_user_id_str": "717529891680313345",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.690729,
+                        51.7179989
+                    ],
+                    [
+                        5.8000074,
+                        51.7179989
+                    ],
+                    [
+                        5.8000074,
+                        51.7749745
+                    ],
+                    [
+                        5.690729,
+                        51.7749745
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Grave, Nederland",
+        "id": "a78ffa557404ae52",
+        "name": "Grave",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a78ffa557404ae52.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Imaginer77 @moondoggsikes80 @Quall44249005 @TheWantedEmcees @Me2189251618 @skybluecanoe @LoveHasOnly1 @hollylandes\u2026 https://t.co/C19NLW9oCK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 30 06:38:27 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "International YouTubers / Sci-Fi Nut / Solar Physicist / Autist / IT Freelancer. Parler:FrankGeurts3 Qteam #DutchMAGA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42167,
+        "follow_request_sent": false,
+        "followers_count": 1251,
+        "following": false,
+        "friends_count": 401,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1012948460050550784,
+        "id_str": "1012948460050550784",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "North Brabant, The Netherlands",
+        "name": "Frank Geurts PhD \ud83c\uddf3\ud83c\uddf1\ud83c\udf1e",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012948460050550784/1532413733",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1021643269850234880/Kyv68801_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021643269850234880/Kyv68801_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FrankGeurts3",
+        "statuses_count": 43142,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

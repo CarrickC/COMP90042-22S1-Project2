@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 19:21:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1257689418888089600,
+                "id_str": "1257689418888089600",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Pete Souza",
+                "screen_name": "PeteSouza"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614876312604426240,
+    "id_str": "614876312604426240",
+    "in_reply_to_screen_name": "PeteSouza44",
+    "in_reply_to_status_id": 614610920782888960,
+    "in_reply_to_status_id_str": "614610920782888960",
+    "in_reply_to_user_id": 18215973,
+    "in_reply_to_user_id_str": "18215973",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@petesouza incredible shot\u2026thx 4 sharing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 30 16:00:37 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "AR~KEY~TEK\u2026 \u00abMemory, when it juts, retreats, recovers, shows us how to hold the darkness, how to breathe.\u00bb \u2013- Drew Myron, from 'Thin Skin'",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 448,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 183,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2269063968,
+        "id_str": "2269063968",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "philly in tha USofA",
+        "name": "Johann von Brittbrau",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269063968/1398435962",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459699092931629058/gTLvkXDu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459699092931629058/gTLvkXDu_normal.jpeg",
+        "profile_link_color": "E8F0DF",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "triplescorp1",
+        "statuses_count": 363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

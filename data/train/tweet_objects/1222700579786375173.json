@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 30 01:58:29 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    42
+                ],
+                "text": "antibiotics"
+            },
+            {
+                "indices": [
+                    88,
+                    100
+                ],
+                "text": "coronavirus"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1222700579786375173",
+                "indices": [
+                    121,
+                    144
+                ],
+                "url": "https://t.co/KNpPVONHTg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1222700579786375173,
+    "id_str": "1222700579786375173",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Q&amp;A with the WHO. \nQ: Are #antibiotics effective in preventing and treating the new #coronavirus?\nA: No, antibiotic\u2026 https://t.co/KNpPVONHTg",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 03 23:37:58 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We provide free medical and dental care to those residing in underserved and impoverished areas around the world!\ud83c\udf0d",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "volunteers4humanity.org",
+                        "expanded_url": "http://www.volunteers4humanity.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lZbmXJmCDz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 171,
+        "follow_request_sent": false,
+        "followers_count": 10051,
+        "following": false,
+        "friends_count": 7840,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1643887826,
+        "id_str": "1643887826",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 42,
+        "location": "EARTH",
+        "name": "Volunteers4Humanity",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643887826/1650300395",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1493325986389188609/PCXf7wOT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493325986389188609/PCXf7wOT_normal.png",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CCE4FA",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Volunteers4U",
+        "statuses_count": 3970,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lZbmXJmCDz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

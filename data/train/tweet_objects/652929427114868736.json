@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 19:31:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 165566295,
+                "id_str": "165566295",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "First of Seven",
+                "screen_name": "amarah31"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 652929427114868736,
+    "id_str": "652929427114868736",
+    "in_reply_to_screen_name": "amarah31",
+    "in_reply_to_status_id": 652923686866001920,
+    "in_reply_to_status_id_str": "652923686866001920",
+    "in_reply_to_user_id": 165566295,
+    "in_reply_to_user_id_str": "165566295",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amarah31 most old people?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 14 02:55:59 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "made this account so i could keep track of news and politics. and so my friends dont think im crazy",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 175,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3314607438,
+        "id_str": "3314607438",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Rowdyzunker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3314607438/1439950649",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633826175266062336/Q3b7cAVP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633826175266062336/Q3b7cAVP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rowdyzunker1",
+        "statuses_count": 618,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

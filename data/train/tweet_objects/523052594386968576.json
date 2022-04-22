@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 10:07:11 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1641722420,
+                "id_str": "1641722420",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sweating Donkeys",
+                "screen_name": "D_Collopy"
+            },
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    11,
+                    20
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523052594386968576,
+    "id_str": "523052594386968576",
+    "in_reply_to_screen_name": "D_Collopy",
+    "in_reply_to_status_id": 523032200703246337,
+    "in_reply_to_status_id_str": "523032200703246337",
+    "in_reply_to_user_id": 1641722420,
+    "in_reply_to_user_id_str": "1641722420",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "@D_Collopy @joerogan \ud83d\ude02\ud83d\ude02 in Brooklyn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 10 02:23:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reality & science\ud83d\udc4d\ud83c\udffc Atheist. Disney4Life. Humor lover. Tweets vary.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32179,
+        "follow_request_sent": false,
+        "followers_count": 441,
+        "following": false,
+        "friends_count": 1297,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 64315250,
+        "id_str": "64315250",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "USA-NJ",
+        "name": "Ris",
+        "notifications": false,
+        "profile_background_color": "F7EFF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64315250/1533560956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1258519397574021121/0v1srSQX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258519397574021121/0v1srSQX_normal.jpg",
+        "profile_link_color": "5511D4",
+        "profile_sidebar_border_color": "42523D",
+        "profile_sidebar_fill_color": "F0E5D8",
+        "profile_text_color": "0F171A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Cocoanilla",
+        "statuses_count": 19945,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 31 02:40:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            },
+            {
+                "id": 304089779,
+                "id_str": "304089779",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "Jeff Bridges",
+                "screen_name": "TheJeffBridges"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 561353201820393474,
+    "id_str": "561353201820393474",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Squarespace @TheJeffBridges That man has been truly blessed with by far the best head of hair.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 10 08:14:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "DYSFASHIONAL. A discerner of those who are just a fashion faux pas. Oh and a proud voyeur of voguish looks.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dysfashional.tumblr.com",
+                        "expanded_url": "http://www.dysfashional.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fxSbZBsq1U"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7498,
+        "follow_request_sent": false,
+        "followers_count": 962,
+        "following": false,
+        "friends_count": 145,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 176728285,
+        "id_str": "176728285",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 70,
+        "location": "Where Fashion Faux Pas lurk",
+        "name": "Tilda Donner",
+        "notifications": false,
+        "profile_background_color": "D4E4E6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1421324345415196674/mpHh1i4L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1421324345415196674/mpHh1i4L_normal.jpg",
+        "profile_link_color": "401107",
+        "profile_sidebar_border_color": "AD391C",
+        "profile_sidebar_fill_color": "9CC5E0",
+        "profile_text_color": "3F23DB",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dysfashional",
+        "statuses_count": 81810,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/fxSbZBsq1U",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

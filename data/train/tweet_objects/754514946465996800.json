@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 17 03:15:56 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    16,
+                    32
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 754514946465996800,
+    "id_str": "754514946465996800",
+    "in_reply_to_screen_name": "PolynesianWar",
+    "in_reply_to_status_id": 754514194796388352,
+    "in_reply_to_status_id_str": "754514194796388352",
+    "in_reply_to_user_id": 1214411563,
+    "in_reply_to_user_id_str": "1214411563",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@elkins_preston @TheValleyReport tru",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 10 06:20:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udf3bTreat People With Kindness\ud83c\udf3b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 75379,
+        "follow_request_sent": false,
+        "followers_count": 2239,
+        "following": false,
+        "friends_count": 3145,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 279886170,
+        "id_str": "279886170",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Kait.",
+        "notifications": false,
+        "profile_background_color": "0A0A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/279886170/1644812794",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514661494046273542/JTdWkVi0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514661494046273542/JTdWkVi0_normal.jpg",
+        "profile_link_color": "FFCCDD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0093F5",
+        "profile_text_color": "F705C7",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bonerlisa",
+        "statuses_count": 32363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 18:22:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238168601699528704",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/UmG3B3Wgq8"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1238168601699528704,
+    "id_str": "1238168601699528704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "La OMS informa: \"FACT: Taking a hot bath does not prevent the new coronavirus disease.\nTaking a hot bath with extre\u2026 https://t.co/UmG3B3Wgq8",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 03 12:39:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Context is everything. And music, that too. La lumi\u00e8re c'est la vie. PhD en las cosas del pensar, sentir y hacer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3849,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 167,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18578483,
+        "id_str": "18578483",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Madrid, Comunidad de Madrid",
+        "name": "Ms Ripley",
+        "notifications": false,
+        "profile_background_color": "C10133",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18578483/1514133474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361396600455782400/yE6rGa0C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361396600455782400/yE6rGa0C_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BBC2B7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ba_ionic",
+        "statuses_count": 6237,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

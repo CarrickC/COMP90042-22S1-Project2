@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 15:59:08 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278357477881450496",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/xi3bPHDcg2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 46747249,
+                "id_str": "46747249",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Michael Gormley",
+                "screen_name": "GormleyAlbany"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1278357477881450496,
+    "id_str": "1278357477881450496",
+    "in_reply_to_screen_name": "GormleyAlbany",
+    "in_reply_to_status_id": 1278356511140519936,
+    "in_reply_to_status_id_str": "1278356511140519936",
+    "in_reply_to_user_id": 46747249,
+    "in_reply_to_user_id_str": "46747249",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GormleyAlbany What is the purpose other than to increase case count?\n\nIf this is to get an understanding of popula\u2026 https://t.co/xi3bPHDcg2",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 19 17:28:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "building a direct indexing solution for financial advisors and RIAs | #wealthtech | @stockgeneralist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "stockgen.carrd.co",
+                        "expanded_url": "https://stockgen.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9scn92hpBD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7076,
+        "follow_request_sent": false,
+        "followers_count": 1835,
+        "following": false,
+        "friends_count": 106,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21318780,
+        "id_str": "21318780",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 30,
+        "location": "",
+        "name": "Ryan Lampkin \u2604\ufe0f\u2601\ufe0f",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21318780/1642566278",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1502426246742953985/GNt9D26I_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1502426246742953985/GNt9D26I_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryanlampkin",
+        "statuses_count": 8998,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9scn92hpBD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

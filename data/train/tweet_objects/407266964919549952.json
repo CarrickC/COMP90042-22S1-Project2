@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 21:56:25 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1cg5o8u",
+                "expanded_url": "http://huff.to/1cg5o8u",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/EfS5enjwqP"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407266964919549952,
+    "id_str": "407266964919549952",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 407262869152358400,
+    "in_reply_to_status_id_str": "407262869152358400",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@HuffingtonPost: Paul Walker was \"so happy\" hours before his tragic death http://t.co/EfS5enjwqP\u201d Vean el gran ser humano que era.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 12 17:59:46 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "half way home",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20928,
+        "follow_request_sent": false,
+        "followers_count": 389,
+        "following": false,
+        "friends_count": 234,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1347409627,
+        "id_str": "1347409627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "joyc\u00e9 \ud83c\udfe0",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347409627/1650586323",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517249219526107136/wLyFNbRK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517249219526107136/wLyFNbRK_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tbsjoy",
+        "statuses_count": 49046,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

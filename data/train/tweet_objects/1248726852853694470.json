@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 10 21:37:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1248726852853694470",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/bKETos1T2T"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 54355075,
+                "id_str": "54355075",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Estrada511",
+                "screen_name": "Q_Estrada"
+            },
+            {
+                "id": 370157198,
+                "id_str": "370157198",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "\ud83c\uddfa\ud83c\udde6 Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+                "screen_name": "RepublicanRehab"
+            },
+            {
+                "id": 872782286,
+                "id_str": "872782286",
+                "indices": [
+                    28,
+                    39
+                ],
+                "name": "\ud83d\udc68\u200d\ud83d\udc66\u200d\ud83d\udc66\ud83c\uddfa\ud83c\uddf2SumatraSue\ud83c\uddfa\ud83c\uddf8\ud83c\udfdb\ud83c\udf1e",
+                "screen_name": "SumatraSue"
+            },
+            {
+                "id": 223565922,
+                "id_str": "223565922",
+                "indices": [
+                    40,
+                    53
+                ],
+                "name": "The Best Is Yet to Come SoPhilly Fred \ud83c\uddfa\ud83c\uddf8\ud83c\udfc7",
+                "screen_name": "SoPhillyFred"
+            },
+            {
+                "id": 2492168197,
+                "id_str": "2492168197",
+                "indices": [
+                    54,
+                    65
+                ],
+                "name": "Trolls Say 'What?'",
+                "screen_name": "WHurensohn"
+            },
+            {
+                "id": 1201372801179037696,
+                "id_str": "1201372801179037696",
+                "indices": [
+                    66,
+                    80
+                ],
+                "name": "P.T. Barnum",
+                "screen_name": "Budleo_Morgan"
+            },
+            {
+                "id": 269806195,
+                "id_str": "269806195",
+                "indices": [
+                    98,
+                    111
+                ],
+                "name": "H. C. C.",
+                "screen_name": "MollySam1986"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1248726852853694470,
+    "id_str": "1248726852853694470",
+    "in_reply_to_screen_name": "Q_Estrada",
+    "in_reply_to_status_id": 1248683183106936832,
+    "in_reply_to_status_id_str": "1248683183106936832",
+    "in_reply_to_user_id": 54355075,
+    "in_reply_to_user_id_str": "54355075",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Q_Estrada @RepublicanRehab @SumatraSue @SoPhillyFred @WHurensohn @Budleo_Morgan @KirschenmanReid @MollySam1986\u2026 https://t.co/bKETos1T2T",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 24 00:50:53 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "100% unfiltered and getting ready for a lifetime of bad decisions with @nottherealdavey",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18569,
+        "follow_request_sent": false,
+        "followers_count": 373,
+        "following": false,
+        "friends_count": 908,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 256754176,
+        "id_str": "256754176",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Bawlmer, hon!",
+        "name": "Jen - Unabashed Union Thug",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256754176/1591198620",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508970402512617476/uuSg1StZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508970402512617476/uuSg1StZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BMoreDefiant",
+        "statuses_count": 27317,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

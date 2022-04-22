@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -2.90711042,
+            55.97214558
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 18:37:04 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 601440124,
+                "id_str": "601440124",
+                "indices": [
+                    128,
+                    137
+                ],
+                "name": "Ryan A Brown",
+                "screen_name": "rybrownx"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            55.97214558,
+            -2.90711042
+        ],
+        "type": "Point"
+    },
+    "id": 407216794714537984,
+    "id_str": "407216794714537984",
+    "in_reply_to_screen_name": "defiverson",
+    "in_reply_to_status_id": 407213772328022016,
+    "in_reply_to_status_id_str": "407213772328022016",
+    "in_reply_to_user_id": 157627966,
+    "in_reply_to_user_id_str": "157627966",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.089125,
+                        55.817319
+                    ],
+                    [
+                        -2.362646,
+                        55.817319
+                    ],
+                    [
+                        -2.362646,
+                        56.081188
+                    ],
+                    [
+                        -3.089125,
+                        56.081188
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East Lothian, Scotland",
+        "id": "cac3fc57d6e26ae4",
+        "name": "East Lothian",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/cac3fc57d6e26ae4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@sickipediabot: Fast and Furious star Paul Walker dead in car crash. What next, Samuel L jackson killed by snakes on a plane?\u201d @rybrownx \ud83d\ude09",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 14 18:13:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34001,
+        "follow_request_sent": false,
+        "followers_count": 1102,
+        "following": false,
+        "friends_count": 775,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 580106488,
+        "id_str": "580106488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Longniddry, Scotland",
+        "name": "Finlay Hughes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/580106488/1638122164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1465016653633273856/Xp--2H3k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465016653633273856/Xp--2H3k_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Finlaaaaay",
+        "statuses_count": 24546,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

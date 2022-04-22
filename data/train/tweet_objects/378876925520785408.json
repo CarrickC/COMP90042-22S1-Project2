@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 14 13:44:32 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 778154046,
+                "id_str": "778154046",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Nadzrin Fauzi",
+                "screen_name": "NadzrinFauzi"
+            },
+            {
+                "id": 377385959,
+                "id_str": "377385959",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "Unrevealed Facts",
+                "screen_name": "unrevealedfacts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 378876925520785408,
+    "id_str": "378876925520785408",
+    "in_reply_to_screen_name": "NadzrinFauzi",
+    "in_reply_to_status_id": 378876394857451523,
+    "in_reply_to_status_id_str": "378876394857451523",
+    "in_reply_to_user_id": 778154046,
+    "in_reply_to_user_id_str": "778154046",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NadzrinFauzi @UnrevealedFacts yesssss!!!! X)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 30 18:02:22 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "pernah menjadi penulis @lejenpress @bukupojok @terfaktab",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/azwarkamaruzam\u2026",
+                        "expanded_url": "http://Instagram.com/azwarkamaruzaman",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/T9AQP7PomG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2555,
+        "follow_request_sent": false,
+        "followers_count": 2079,
+        "following": false,
+        "friends_count": 975,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 915159330,
+        "id_str": "915159330",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Baling | Bandar Utama",
+        "name": "azwar kamaruzaman",
+        "notifications": false,
+        "profile_background_color": "ACDED7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915159330/1510921361",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512859272421736448/p_DOto0N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512859272421736448/p_DOto0N_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mohamad_azwar",
+        "statuses_count": 99233,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/T9AQP7PomG",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

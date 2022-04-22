@@ -1,0 +1,203 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 26 13:56:32 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1265280661868425216",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/ltjIWsCz41"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 29,
+    "favorited": false,
+    "geo": null,
+    "id": 1265280661868425216,
+    "id_str": "1265280661868425216",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon May 25 15:56:05 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1264948360076820482",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/MEIrsfagIz"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "indices": [
+                        1,
+                        5
+                    ],
+                    "name": "World Health Organization (WHO)",
+                    "screen_name": "WHO"
+                }
+            ]
+        },
+        "favorite_count": 310,
+        "favorited": false,
+        "geo": null,
+        "id": 1264948360076820482,
+        "id_str": "1264948360076820482",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 167,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": ".@WHO is temporarily pausing the hydroxychloroquine arms of the SOLIDARITY trial as it reviews the safety &amp; efficac\u2026 https://t.co/MEIrsfagIz",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 04 18:00:23 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Sr writer infectious diseases @statnews. 2020 Polk winner. Nieman '11. Conspiracy theory free zone; I block rude, racist. She/her #Covid #Ebola #flu #polio \ud83c\udde8\ud83c\udde6",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "statnews.com",
+                            "expanded_url": "http://www.statnews.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nhSyb63kRF"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 14886,
+            "follow_request_sent": false,
+            "followers_count": 228635,
+            "following": false,
+            "friends_count": 2050,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 28838219,
+            "id_str": "28838219",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6971,
+            "location": "Boston, MA",
+            "name": "Helen Branswell \ud83c\uddfa\ud83c\udde6",
+            "notifications": false,
+            "profile_background_color": "0056B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28838219/1360759841",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/478637253481086977/aE2OOz5k_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/478637253481086977/aE2OOz5k_normal.jpeg",
+            "profile_link_color": "1200B9",
+            "profile_sidebar_border_color": "F3F91A",
+            "profile_sidebar_fill_color": "4F85F3",
+            "profile_text_color": "0A080D",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HelenBranswell",
+            "statuses_count": 47309,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/nhSyb63kRF",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1264948360076820482,
+    "quoted_status_id_str": "1264948360076820482",
+    "retweet_count": 16,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "That very publication concluded \"Randomised clinical trials will be required before any conclusion can be reached r\u2026 https://t.co/ltjIWsCz41",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 01 13:38:47 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Professor of emerging infectious diseases, \nDirector, Pandemic Sciences Institute,\nUniversity of Oxford, UK.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 667,
+        "follow_request_sent": false,
+        "followers_count": 13264,
+        "following": false,
+        "friends_count": 194,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2322345709,
+        "id_str": "2322345709",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 227,
+        "location": "",
+        "name": "Peter Horby",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2322345709/1608927539",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402245598145826816/-tc36ZCz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402245598145826816/-tc36ZCz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PeterHorby",
+        "statuses_count": 1141,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

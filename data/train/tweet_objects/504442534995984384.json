@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 01:37:27 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    24
+                ],
+                "text": "YES"
+            },
+            {
+                "indices": [
+                    25,
+                    89
+                ],
+                "text": "westandonguardFOORRRTHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22292529,
+                "id_str": "22292529",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Jay Onrait",
+                "screen_name": "JayOnrait"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504442534995984384,
+    "id_str": "504442534995984384",
+    "in_reply_to_screen_name": "JayOnrait",
+    "in_reply_to_status_id": 504441156575297536,
+    "in_reply_to_status_id_str": "504441156575297536",
+    "in_reply_to_user_id": 22292529,
+    "in_reply_to_user_id_str": "22292529",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "@JayOnrait !!!!!!!! #YES #westandonguardFOORRRTHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 23:43:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "you may have seen me in a twitch chat with a sword, idk. I stream sometimes. #BCLions #Gohawks #weow #preds #twitch I tweet a lot during hockey szn lol",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Twitch.tv/bunktuzzi44",
+                        "expanded_url": "https://Twitch.tv/bunktuzzi44",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kmpg7oTHmz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 123600,
+        "follow_request_sent": false,
+        "followers_count": 1740,
+        "following": false,
+        "friends_count": 4693,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 53228188,
+        "id_str": "53228188",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "Port Moody :)",
+        "name": "Brian",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53228188/1485498965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/897200186539233280/cfervU3w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/897200186539233280/cfervU3w_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bunktuzzi44",
+        "statuses_count": 100624,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/kmpg7oTHmz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

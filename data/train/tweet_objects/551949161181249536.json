@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 05 03:51:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1zNhyhD",
+                "expanded_url": "http://bit.ly/1zNhyhD",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/78yrJ9HsEG"
+            },
+            {
+                "display_url": "pic.twitter.com/3654D6twv5",
+                "expanded_url": "https://twitter.com/KarenCivil/status/551942365901250560/photo/1",
+                "indices": [
+                    112,
+                    134
+                ],
+                "url": "http://t.co/3654D6twv5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16490974,
+                "id_str": "16490974",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "Karen Civil",
+                "screen_name": "KarenCivil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551949161181249536,
+    "id_str": "551949161181249536",
+    "in_reply_to_screen_name": "KarenCivil",
+    "in_reply_to_status_id": 551942365901250560,
+    "in_reply_to_status_id_str": "551942365901250560",
+    "in_reply_to_user_id": 16490974,
+    "in_reply_to_user_id_str": "16490974",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "This is news? RT @KarenCivil: President's Daughter Malia Obama Wearing A Pro Era T-Shirt http://t.co/78yrJ9HsEG http://t.co/3654D6twv5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 13 00:34:45 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Laker fan BEFORE Lebron came. Born to lose built to win. You ain't got no wins in mi casa",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "insragram.com/thediam0ndlife_",
+                        "expanded_url": "http://insragram.com/thediam0ndlife_",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iF5CDGDH1N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5624,
+        "follow_request_sent": false,
+        "followers_count": 1619,
+        "following": false,
+        "friends_count": 1092,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 215101887,
+        "id_str": "215101887",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "United States",
+        "name": "\ud835\udcfc\ud835\udcea\ud835\udcf7\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcea",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215101887/1628102151",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1417668347060232195/B2Fgwzgd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417668347060232195/B2Fgwzgd_normal.jpg",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DMND21",
+        "statuses_count": 178764,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/iF5CDGDH1N",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

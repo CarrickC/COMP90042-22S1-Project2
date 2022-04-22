@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 13 13:38:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1249693332797820932",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/TxtXOCJ6p1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 40954616,
+                "id_str": "40954616",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Jamaica Gleaner",
+                "screen_name": "JamaicaGleaner"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1249693332797820932,
+    "id_str": "1249693332797820932",
+    "in_reply_to_screen_name": "JamaicaGleaner",
+    "in_reply_to_status_id": 1249692635780038657,
+    "in_reply_to_status_id_str": "1249692635780038657",
+    "in_reply_to_user_id": 40954616,
+    "in_reply_to_user_id_str": "40954616",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JamaicaGleaner Brah, you shouldn\u2019t be out here giving myth busters. You have been called out so many times for you\u2026 https://t.co/TxtXOCJ6p1",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 11 17:31:48 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Avid Manchester United fan. Fortis Forever. Dotard at my worst",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 416,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 127,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1216049999445925899,
+        "id_str": "1216049999445925899",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "SweetMusicMan",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216049999445925899/1587493767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1300029293255417859/lTcMNk7p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300029293255417859/lTcMNk7p_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SweetMusicManCS",
+        "statuses_count": 3442,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

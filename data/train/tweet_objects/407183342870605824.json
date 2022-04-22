@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 16:24:08 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    41
+                ],
+                "text": "RIPPaulWalker"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 407183342870605824,
+    "id_str": "407183342870605824",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 407181813174788096,
+    "in_reply_to_status_id_str": "407181813174788096",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@HuffingtonPost  So Sad... #RIPPaulWalker",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 28 21:15:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Creative and Geeky laid-back type #pursuitofhappiness \nRT does NOT = Endorsement",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/pub/lana-walke\u2026",
+                        "expanded_url": "http://www.linkedin.com/pub/lana-walker/7/989/a8b",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ghlcvLKm5w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 71695,
+        "follow_request_sent": false,
+        "followers_count": 3605,
+        "following": false,
+        "friends_count": 4997,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2161616876,
+        "id_str": "2161616876",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35,
+        "location": "Beverly Hills, CA",
+        "name": "Lana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2161616876/1640570398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/856665879664148480/OWWUMHD4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/856665879664148480/OWWUMHD4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CommChickLana",
+        "statuses_count": 41824,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ghlcvLKm5w",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

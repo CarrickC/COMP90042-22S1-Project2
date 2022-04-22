@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 21:03:07 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407253550155452416,
+    "id_str": "407253550155452416",
+    "in_reply_to_screen_name": "enews",
+    "in_reply_to_status_id": 407248574099894272,
+    "in_reply_to_status_id_str": "407248574099894272",
+    "in_reply_to_user_id": 2883841,
+    "in_reply_to_user_id_str": "2883841",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "text": "@eonline how is this an issue. The guy is dead!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 06 08:27:58 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MaturitY",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 104,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1487226542,
+        "id_str": "1487226542",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "TerryBERRY",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487226542/1434347079",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610322027556290560/ZP8hEqck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610322027556290560/ZP8hEqck_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Wterriann",
+        "statuses_count": 436,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

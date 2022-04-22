@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 06:01:14 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531688009805340672,
+    "id_str": "531688009805340672",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@IGN \"to induce vomiting drink this\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 25 22:49:03 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a lover of philosophy, cigars, and firearms.\n\nMarried to @20lynns \n\nPart of the @76Operators Stream Team\nhttps://t.co/5XM2neyFVW\n\nAge: 36\n\nHe / Him",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/team/8bitsalute",
+                        "expanded_url": "http://twitch.tv/team/8bitsalute",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/5XM2neyFVW"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/omgwhatthefox",
+                        "expanded_url": "http://www.twitch.tv/omgwhatthefox",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Zxyrve5UAU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37473,
+        "follow_request_sent": false,
+        "followers_count": 483,
+        "following": false,
+        "friends_count": 727,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2261990982,
+        "id_str": "2261990982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "The Mortal Realm",
+        "name": "Fox von Fluffenstein",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2261990982/1398301895",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745746646307323904/vosEDg2w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745746646307323904/vosEDg2w_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OMGWhatTheFox",
+        "statuses_count": 44215,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Zxyrve5UAU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

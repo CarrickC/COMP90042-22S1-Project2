@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 08 15:39:07 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64643056,
+                "id_str": "64643056",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "RT",
+                "screen_name": "RT_com"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 365497409985445889,
+    "id_str": "365497409985445889",
+    "in_reply_to_screen_name": "RT_com",
+    "in_reply_to_status_id": 365497016098369536,
+    "in_reply_to_status_id_str": "365497016098369536",
+    "in_reply_to_user_id": 64643056,
+    "in_reply_to_user_id_str": "64643056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@RT_com BIG surprise!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 15 18:24:06 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201eIn Zeiten allgemeiner T\u00e4uschung die Wahrheit zu sagen ist eine revolution\u00e4re Tat.\u201c\n George Orwell",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2196,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1183414735,
+        "id_str": "1183414735",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "",
+        "name": "Tut nich: Mammon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183414735/1490605579",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000241302608/c75ca623da7f66e3ba1f1aedc8195247_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000241302608/c75ca623da7f66e3ba1f1aedc8195247_normal.jpeg",
+        "profile_link_color": "0600B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarcCuja",
+        "statuses_count": 17792,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

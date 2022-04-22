@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 09 15:53:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2546562188,
+                "id_str": "2546562188",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Walter Cronkite",
+                "screen_name": "CronkiteSays"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 542346308892512256,
+    "id_str": "542346308892512256",
+    "in_reply_to_screen_name": "CronkiteSays",
+    "in_reply_to_status_id": 542320823915536384,
+    "in_reply_to_status_id_str": "542320823915536384",
+    "in_reply_to_user_id": 2546562188,
+    "in_reply_to_user_id_str": "2546562188",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@CronkiteSays OMG!!! What an idiot! ?Think he might have been \"impaired\"????!!!LMAO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 23 19:04:17 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative, God & country, Pro-life, Independent. No lists or links, will block. 0 porn! #CCOT #Covfefe #TrumpPence #COS #Lockthemup #BacktheBlue Not a bot",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 131384,
+        "follow_request_sent": false,
+        "followers_count": 5686,
+        "following": false,
+        "friends_count": 6473,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1213293126,
+        "id_str": "1213293126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "USA",
+        "name": "Truth seeker \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #MAGA",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213293126/1521414920",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368759039941877761/lUrp879z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368759039941877761/lUrp879z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MaddoxMags",
+        "statuses_count": 203563,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 10 01:54:12 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    128
+                ],
+                "text": "DonaldTrumpIsAPathologicalLiar"
+            },
+            {
+                "indices": [
+                    129,
+                    135
+                ],
+                "text": "Trump"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 520391817166999554,
+    "id_str": "520391817166999554",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@realDonaldTrump that is an absolute lie Trump. How in the hell do u not get called out on this? #DonaldTrumpIsAPathologicalLiar #Trump",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 14 06:03:50 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#KillPutin school teacher, linguist, vegan, humanist #BLM. The wristwatch above, in Persian says This Too Shall Pass.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13280,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 442,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1592692573,
+        "id_str": "1592692573",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": " Denver,summers in Chorlton UK",
+        "name": "Kenneth MacTavish",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592692573/1549442666",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402138284868857862/rBUmgcsB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402138284868857862/rBUmgcsB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NakedSuits",
+        "statuses_count": 2803,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 04:00:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4861868667,
+                "id_str": "4861868667",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "AWN",
+                "screen_name": "WNTonight"
+            },
+            {
+                "id": 111141045,
+                "id_str": "111141045",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "Brad Woodhouse",
+                "screen_name": "woodhouseb"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614644476909330432,
+    "id_str": "614644476909330432",
+    "in_reply_to_screen_name": "ABCWorldNews",
+    "in_reply_to_status_id": 614601139422633984,
+    "in_reply_to_status_id_str": "614601139422633984",
+    "in_reply_to_user_id": 86141342,
+    "in_reply_to_user_id_str": "86141342",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WNTonight @woodhouseb Amazing sight to see President Obama singing Amazing Grace today. And singing very well.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 13:13:06 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "singer,moviegoer,sportsfan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14572,
+        "follow_request_sent": false,
+        "followers_count": 172,
+        "following": false,
+        "friends_count": 326,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 276486392,
+        "id_str": "276486392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "USA",
+        "name": "rrlse",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "priusport",
+        "statuses_count": 148410,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

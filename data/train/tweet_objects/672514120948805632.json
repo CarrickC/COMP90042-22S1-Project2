@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:33:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672514120948805632,
+    "id_str": "672514120948805632",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672513234419638273,
+    "in_reply_to_status_id_str": "672513234419638273",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC Obama doesn't give a F about America! He has done everything to weaken our Country! He needs to be Impeached for Treason!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 01 22:14:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I will explicitly talk about any subject that is newsworthy or give a running commentary on anything that aggravates me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "themadmarkshow.com",
+                        "expanded_url": "http://themadmarkshow.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/0jhAVaL38w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 106,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 1415,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62130664,
+        "id_str": "62130664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Mid Maryland",
+        "name": "Mad Mark",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/343337280/16202_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/343337280/16202_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheMadMarkShow",
+        "statuses_count": 8495,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/0jhAVaL38w",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

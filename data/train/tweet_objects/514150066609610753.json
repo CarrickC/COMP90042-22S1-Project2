@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 20:31:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514150066609610753,
+    "id_str": "514150066609610753",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 514148279601606656,
+    "in_reply_to_status_id_str": "514148279601606656",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Gamechanger! RT: @mashable: Starbucks is experimenting with a beer-flavored latte that reportedly tastes like Guinness",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 30 03:20:27 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Urban Beat Cop. OIF Vet. Mental Health Consultant. Thoughts and opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1373,
+        "follow_request_sent": false,
+        "followers_count": 232,
+        "following": false,
+        "friends_count": 953,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 61376770,
+        "id_str": "61376770",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "San Antonio, TX",
+        "name": "Cliff Burns",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61376770/1429979752",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1071467537949315072/tM9UzYcx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071467537949315072/tM9UzYcx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CliffLBurns",
+        "statuses_count": 1516,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

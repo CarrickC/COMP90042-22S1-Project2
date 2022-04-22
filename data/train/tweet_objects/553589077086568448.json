@@ -1,0 +1,141 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 16:28:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    49
+                ],
+                "text": "Boston"
+            },
+            {
+                "indices": [
+                    70,
+                    77
+                ],
+                "text": "France"
+            },
+            {
+                "indices": [
+                    79,
+                    92
+                ],
+                "text": "FranceStrong"
+            },
+            {
+                "indices": [
+                    93,
+                    99
+                ],
+                "text": "hooah"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2948856917,
+                "id_str": "2948856917",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Tyranny or Liberty",
+                "screen_name": "ConservativeLi2"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    17,
+                    24
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 553589077086568448,
+    "id_str": "553589077086568448",
+    "in_reply_to_screen_name": "ConservativeLi2",
+    "in_reply_to_status_id": 553588700408717312,
+    "in_reply_to_status_id_str": "553588700408717312",
+    "in_reply_to_user_id": 2948856917,
+    "in_reply_to_user_id_str": "2948856917",
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ConservativeLi2 @cnnbrk Les habitants de #Boston se tiennent avec la #France. #FranceStrong #hooah",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 15 18:48:41 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Word wizard\ud83d\udd8a\ufe0f, content composer & message magnifier. Verified Journalist @muckrack; @USArmy Veteran Owned Business.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "the-hired-pen.com",
+                        "expanded_url": "http://www.the-hired-pen.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1VDWuohRqZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 96915,
+        "follow_request_sent": false,
+        "followers_count": 3069,
+        "following": false,
+        "friends_count": 2449,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18142983,
+        "id_str": "18142983",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 334,
+        "location": "Worcester County, MA",
+        "name": "Bruce Mendelsohn (The Hired Pen)",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18142983/1649945944",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1493352334621089796/w1CKq9o6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493352334621089796/w1CKq9o6_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brm90",
+        "statuses_count": 35502,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1VDWuohRqZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

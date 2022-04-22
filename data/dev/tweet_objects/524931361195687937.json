@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:32:43 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/ZGz1gu",
+                "expanded_url": "http://cnn.it/ZGz1gu",
+                "indices": [
+                    54,
+                    76
+                ],
+                "url": "http://t.co/P4PNvIDxt6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524931361195687937,
+    "id_str": "524931361195687937",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 524930365400821761,
+    "in_reply_to_status_id_str": "524930365400821761",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: 1 shot at war memorial in Canada's capital. http://t.co/P4PNvIDxt6\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 02:38:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "photographer road warrior",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1835,
+        "follow_request_sent": false,
+        "followers_count": 274,
+        "following": false,
+        "friends_count": 2519,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27160856,
+        "id_str": "27160856",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Toronto, Ontario, Canada",
+        "name": "Mike Hughes",
+        "notifications": false,
+        "profile_background_color": "1605FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27160856/1452259013",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1279226749201637377/2paCrbwM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279226749201637377/2paCrbwM_normal.jpg",
+        "profile_link_color": "523BFF",
+        "profile_sidebar_border_color": "FF0D5E",
+        "profile_sidebar_fill_color": "9AFF03",
+        "profile_text_color": "661234",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MikeyP385",
+        "statuses_count": 5156,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

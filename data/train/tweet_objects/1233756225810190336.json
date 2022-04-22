@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 29 14:09:40 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.com/2020/02/29/hea\u2026",
+                "expanded_url": "https://www.cnn.com/2020/02/29/health/us-coronavirus-saturday/index.html",
+                "indices": [
+                    93,
+                    116
+                ],
+                "url": "https://t.co/VKLgqaT9OQ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 790,
+    "favorited": false,
+    "geo": null,
+    "id": 1233756225810190336,
+    "id_str": "1233756225810190336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 331,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "There are at least 4 coronavirus cases in the US that are not travel-related, officials say\n\nhttps://t.co/VKLgqaT9OQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 25 17:23:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad; husband; anchor of @TheLeadCNN & @CNNSOTU, plus coming on @CNNplus @TapperBookClub; Author of @TheOutpostbook, @TheHellfireClub, and The @Devil_May_Dance",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jaketapper.com",
+                        "expanded_url": "https://jaketapper.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kjRzE2MxgT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37374,
+        "follow_request_sent": false,
+        "followers_count": 3359449,
+        "following": false,
+        "friends_count": 10435,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14529929,
+        "id_str": "14529929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25560,
+        "location": "Washington, D.C.",
+        "name": "Jake Tapper",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14529929/1613952863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514705132763684874/NiHQDzNq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514705132763684874/NiHQDzNq_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jaketapper",
+        "statuses_count": 256611,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/kjRzE2MxgT",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 04 03:53:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1BqPmDh",
+                "expanded_url": "http://fxn.ws/1BqPmDh",
+                "indices": [
+                    88,
+                    110
+                ],
+                "url": "http://t.co/yViFKDjoyO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            },
+            {
+                "id": 262326533,
+                "id_str": "262326533",
+                "indices": [
+                    115,
+                    129
+                ],
+                "name": "Fox News Health",
+                "screen_name": "foxnewshealth"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551587190980235264,
+    "id_str": "551587190980235264",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 551575491430211584,
+    "in_reply_to_status_id_str": "551575491430211584",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@FoxNews: 19yr. old girl wakes up during brain surgery, asks doctors \u2018How\u2019s it going?\u2019 http://t.co/yViFKDjoyO via @foxnewshealth\u201d - Insane!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 03:36:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201cI can do ALL things through Christ who strengthens me.\u201d Phil. 4:13  | \u201cWhatever your mind can conceive & believe, you can & will achieve!\u201d Norman Vincent Peale",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 348,
+        "follow_request_sent": false,
+        "followers_count": 759,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 85001858,
+        "id_str": "85001858",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 48,
+        "location": "Atlanta, GA",
+        "name": "Greg Jackson",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85001858/1591449282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1269256397448978432/cYX_FP4Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269256397448978432/cYX_FP4Q_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GregJackson1",
+        "statuses_count": 24926,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

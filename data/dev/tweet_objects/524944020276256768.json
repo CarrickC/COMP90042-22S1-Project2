@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:23:02 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    99,
+                    106
+                ],
+                "text": "cbcOTT"
+            },
+            {
+                "indices": [
+                    107,
+                    115
+                ],
+                "text": "OTTnews"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18999969,
+                "id_str": "18999969",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "CBC Ottawa",
+                "screen_name": "CBCOttawa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524944020276256768,
+    "id_str": "524944020276256768",
+    "in_reply_to_screen_name": "CBCOttawa",
+    "in_reply_to_status_id": 524943490887991296,
+    "in_reply_to_status_id_str": "524943490887991296",
+    "in_reply_to_user_id": 18999969,
+    "in_reply_to_user_id_str": "18999969",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@CBCOttawa: CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. #cbcOTT #OTTnews\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 09 03:33:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "In-the-know comms pro | News, beauty and fashion junkie \u270c\ud83c\udffb",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13207,
+        "follow_request_sent": false,
+        "followers_count": 940,
+        "following": false,
+        "friends_count": 2401,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 72753700,
+        "id_str": "72753700",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "Winnipeg, Manitoba, Canada",
+        "name": "Camille Banks (Dupas)",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72753700/1474905420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877023813279633408/cRTcwaLt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877023813279633408/cRTcwaLt_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CDupas",
+        "statuses_count": 9595,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

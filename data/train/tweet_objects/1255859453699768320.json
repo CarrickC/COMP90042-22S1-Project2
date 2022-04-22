@@ -1,0 +1,218 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 14:00:01 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    54,
+                    66
+                ],
+                "text": "coronavirus"
+            },
+            {
+                "indices": [
+                    70,
+                    79
+                ],
+                "text": "COVID\u30fc19"
+            },
+            {
+                "indices": [
+                    80,
+                    88
+                ],
+                "text": "SamaaTV"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/RyS3LFEp7y",
+                "expanded_url": "https://twitter.com/HealthSamaa/status/1255859453699768320/video/1",
+                "id": 1255801655037231106,
+                "id_str": "1255801655037231106",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255801655037231106/pu/img/GqxrS3RprmGHM-Ua.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255801655037231106/pu/img/GqxrS3RprmGHM-Ua.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/RyS3LFEp7y"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "display_url": "pic.twitter.com/RyS3LFEp7y",
+                "expanded_url": "https://twitter.com/HealthSamaa/status/1255859453699768320/video/1",
+                "id": 1255801655037231106,
+                "id_str": "1255801655037231106",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255801655037231106/pu/img/GqxrS3RprmGHM-Ua.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255801655037231106/pu/img/GqxrS3RprmGHM-Ua.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 360,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/RyS3LFEp7y",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 36000,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1255801655037231106/pu/pl/jVW-CbFZMUoaPrrp.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1255801655037231106/pu/vid/640x360/wrMbmTJAkpmadpSz.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1255801655037231106/pu/vid/480x270/zaYGkbCWmlUlV-7k.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 14,
+    "favorited": false,
+    "geo": null,
+    "id": 1255859453699768320,
+    "id_str": "1255859453699768320",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Can eating garlic help prevent infection with the new #coronavirus? \n\n#COVID\u30fc19 #SamaaTV https://t.co/RyS3LFEp7y",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 03 06:41:20 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@SAMAATV's updates, reporting & fact-checks on health stories & news from Pakistan | Spreading info, not virals...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "samaa.tv/health/",
+                        "expanded_url": "https://www.samaa.tv/health/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CASTIDJbPx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 125,
+        "follow_request_sent": false,
+        "followers_count": 4805,
+        "following": false,
+        "friends_count": 65,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1224221277243748356,
+        "id_str": "1224221277243748356",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Karachi, Pakistan",
+        "name": "Samaa Health",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224221277243748356/1600865011",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238061519646187525/fuD4BMBQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238061519646187525/fuD4BMBQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HealthSamaa",
+        "statuses_count": 3004,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CASTIDJbPx",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

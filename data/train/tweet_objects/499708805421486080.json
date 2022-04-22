@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 00:07:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15249499,
+                "id_str": "15249499",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Neal Carter he/him",
+                "screen_name": "nealcarter"
+            },
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            },
+            {
+                "id": 812408430,
+                "id_str": "812408430",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Private Account",
+                "screen_name": "MsBlackhart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499708805421486080,
+    "id_str": "499708805421486080",
+    "in_reply_to_screen_name": "nealcarter",
+    "in_reply_to_status_id": 499683602452717569,
+    "in_reply_to_status_id_str": "499683602452717569",
+    "in_reply_to_user_id": 15249499,
+    "in_reply_to_user_id_str": "15249499",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@nealcarter @ksdknews @MsBlackhart whether or not he had a criminal record, what happened is still completely disgusting and insane.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 02 02:40:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I still don't like this website, but oh well. She/her, 1990, EN/ES/JP.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32743,
+        "follow_request_sent": false,
+        "followers_count": 252,
+        "following": false,
+        "friends_count": 404,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 128747003,
+        "id_str": "128747003",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "",
+        "name": "retrocombine",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128747003/1526167449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409870683086147596/O7lKwCGd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409870683086147596/O7lKwCGd_normal.png",
+        "profile_link_color": "1F78B4",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "retrocombine",
+        "statuses_count": 54818,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

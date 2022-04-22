@@ -1,0 +1,196 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 22:21:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BOap5yiBj0",
+                "expanded_url": "https://twitter.com/wsfa12news/status/436157398269849602/photo/1",
+                "id": 436157398139826177,
+                "id_str": "436157398139826177",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bg2K175IcAEv2tu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bg2K175IcAEv2tu.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 436157398269849602,
+                "source_status_id_str": "436157398269849602",
+                "source_user_id": 21845346,
+                "source_user_id_str": "21845346",
+                "type": "photo",
+                "url": "http://t.co/BOap5yiBj0"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/O9Hy6P",
+                "expanded_url": "http://bit.ly/O9Hy6P",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/7I4R6XousI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 27512222,
+                "id_str": "27512222",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "pimpgangstar",
+                "screen_name": "kimthugga"
+            },
+            {
+                "id": 21845346,
+                "id_str": "21845346",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "WSFA 12 News",
+                "screen_name": "wsfa12news"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BOap5yiBj0",
+                "expanded_url": "https://twitter.com/wsfa12news/status/436157398269849602/photo/1",
+                "id": 436157398139826177,
+                "id_str": "436157398139826177",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/Bg2K175IcAEv2tu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Bg2K175IcAEv2tu.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 359,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 436157398269849602,
+                "source_status_id_str": "436157398269849602",
+                "source_user_id": 21845346,
+                "source_user_id_str": "21845346",
+                "type": "photo",
+                "url": "http://t.co/BOap5yiBj0"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436264184951894017,
+    "id_str": "436264184951894017",
+    "in_reply_to_screen_name": "wsfa12news",
+    "in_reply_to_status_id": 436157398269849602,
+    "in_reply_to_status_id_str": "436157398269849602",
+    "in_reply_to_user_id": 21845346,
+    "in_reply_to_user_id_str": "21845346",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kimthugga \ud83d\udc40 \u201c@wsfa12news: Hot Pockets. FDA says \"processed diseased and unsound animals. http://t.co/7I4R6XousI http://t.co/BOap5yiBj0\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 24 02:30:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "please don't put me under pressure to follow back. #GGSHair #LinaLaidIt #GirlGoneStyle",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 832,
+        "follow_request_sent": false,
+        "followers_count": 560,
+        "following": false,
+        "friends_count": 48,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 76832617,
+        "id_str": "76832617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "",
+        "name": "lina.",
+        "notifications": false,
+        "profile_background_color": "B0A9B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76832617/1591741454",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1491365920073261056/g1Y8ALlZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491365920073261056/g1Y8ALlZ_normal.jpg",
+        "profile_link_color": "A31B3D",
+        "profile_sidebar_border_color": "0F0E0F",
+        "profile_sidebar_fill_color": "524C52",
+        "profile_text_color": "0F0D0E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "girlgoneSTYLE_",
+        "statuses_count": 67487,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

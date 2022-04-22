@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 19:37:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238187437299576832",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/X7CypfGV2J"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1360279600903905285,
+                "id_str": "1360279600903905285",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "ChrisRantin",
+                "screen_name": "ChrisRantin"
+            },
+            {
+                "id": 18434102,
+                "id_str": "18434102",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "levando renan",
+                "screen_name": "secondtea"
+            },
+            {
+                "id": 2343934152,
+                "id_str": "2343934152",
+                "indices": [
+                    62,
+                    73
+                ],
+                "name": "Giulia Fontes",
+                "screen_name": "giusfontes"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1238187437299576832,
+    "id_str": "1238187437299576832",
+    "in_reply_to_screen_name": "Chris_Rantin",
+    "in_reply_to_status_id": 1238184597671882754,
+    "in_reply_to_status_id_str": "1238184597671882754",
+    "in_reply_to_user_id": 840385741087735809,
+    "in_reply_to_user_id_str": "840385741087735809",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@ChrisRantin @secondtea Informa\u00e7\u00f5es da OMS, segundo me passou @giusfontes:\nCan I catch COVID-19 from my pet?\nNo. Th\u2026 https://t.co/X7CypfGV2J",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 13 19:53:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ex-atriz, ex-aluna, ex-cat\u00f3lica, ex-tecladista. Palmeirense, sagitariana, escolhi a profiss\u00e3o errada tr\u00eas vezes e c\u00e1 estou.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10494,
+        "follow_request_sent": false,
+        "followers_count": 330,
+        "following": false,
+        "friends_count": 221,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 73959923,
+        "id_str": "73959923",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Curitiba, Brasil",
+        "name": "Carolina Werneck",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73959923/1380166861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137893409992118273/1bGF34LP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137893409992118273/1bGF34LP_normal.jpg",
+        "profile_link_color": "C2B4ED",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FCFCFC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cahwerneck",
+        "statuses_count": 10714,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

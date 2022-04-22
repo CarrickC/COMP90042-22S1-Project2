@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 19 17:52:34 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    8
+                ],
+                "text": "COVID19"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/yV0Cplt6xi",
+                "expanded_url": "https://twitter.com/UNICEFJamaica/status/1240697688384929792/photo/1",
+                "id": 1240697683318358018,
+                "id_str": "1240697683318358018",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/ETfX-C_XQAI-2f7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ETfX-C_XQAI-2f7.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/yV0Cplt6xi"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/yV0Cplt6xi",
+                "expanded_url": "https://twitter.com/UNICEFJamaica/status/1240697688384929792/photo/1",
+                "id": 1240697683318358018,
+                "id_str": "1240697683318358018",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/ETfX-C_XQAI-2f7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ETfX-C_XQAI-2f7.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 512,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/yV0Cplt6xi"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1240697688384929792,
+    "id_str": "1240697688384929792",
+    "in_reply_to_screen_name": "UNICEFJamaica",
+    "in_reply_to_status_id": 1240697680856145920,
+    "in_reply_to_status_id_str": "1240697680856145920",
+    "in_reply_to_user_id": 586462114,
+    "in_reply_to_user_id_str": "586462114",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "#COVID19 myth buster: The new coronavirus CANNOT be transmitted through mosquito bites. https://t.co/yV0Cplt6xi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 21 11:14:02 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We support government & non-governmental partners to promote & fulfill the rights of children. #foreverychild",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "unicef.org/jamaica",
+                        "expanded_url": "http://unicef.org/jamaica",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J8UpxRE1Op"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5357,
+        "follow_request_sent": false,
+        "followers_count": 17330,
+        "following": false,
+        "friends_count": 773,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 586462114,
+        "id_str": "586462114",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 157,
+        "location": "Kingston, Jamaica",
+        "name": "UNICEF Jamaica",
+        "notifications": false,
+        "profile_background_color": "1B465C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/586462114/1635197535",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981139942423367680/tZpxD2J1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981139942423367680/tZpxD2J1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UNICEFJamaica",
+        "statuses_count": 19953,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/J8UpxRE1Op",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

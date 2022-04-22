@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 19:20:56 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17446621,
+                "id_str": "17446621",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "The Hollywood Reporter",
+                "screen_name": "THR"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407227833522876416,
+    "id_str": "407227833522876416",
+    "in_reply_to_screen_name": "THR",
+    "in_reply_to_status_id": 407223928084766721,
+    "in_reply_to_status_id_str": "407223928084766721",
+    "in_reply_to_user_id": 17446621,
+    "in_reply_to_user_id_str": "17446621",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@THR come on people! Yes it may be 2 soon, but it's not like people weren't asking about it! It's just a quick quote...not a big article!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 20 02:56:25 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Artistic temperament sometimes seems a battleground...Madeleine L'Engle. On Instagram as @south_by_south_art",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4897,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 1998,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2188269011,
+        "id_str": "2188269011",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Nashville, TN",
+        "name": "Candice",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188269011/1484495623",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/675795436217761792/4jKDIMh2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/675795436217761792/4jKDIMh2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "smARTsbeMe",
+        "statuses_count": 2704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

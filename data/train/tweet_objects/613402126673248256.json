@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 17:43:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16374678,
+                "id_str": "16374678",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "ABC7 Eyewitness News",
+                "screen_name": "ABC7"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613402126673248256,
+    "id_str": "613402126673248256",
+    "in_reply_to_screen_name": "ABC7",
+    "in_reply_to_status_id": 613393657161510913,
+    "in_reply_to_status_id_str": "613393657161510913",
+    "in_reply_to_user_id": 16374678,
+    "in_reply_to_user_id_str": "16374678",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ABC7 you can't starve people that in-custody!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 05 01:35:26 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 51729,
+        "follow_request_sent": false,
+        "followers_count": 300,
+        "following": false,
+        "friends_count": 638,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1483757936,
+        "id_str": "1483757936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "SoCal",
+        "name": "Leroy Jenkins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483757936/1404602062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775013969819938816/luKElSOq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775013969819938816/luKElSOq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rolncode2892",
+        "statuses_count": 5568,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

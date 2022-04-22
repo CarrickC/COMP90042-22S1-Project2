@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 14:53:52 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    123
+                ],
+                "text": "BringBackOurGirls"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523124741893537792,
+    "id_str": "523124741893537792",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BBCBreaking How many of our boys have been sacrificed for inordinate ambition of a drunken sailor? Just #BringBackOurGirls. God dey",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 10 23:11:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nigerian, #CheveningScholar, Journalist, PR, Writer, Broadcaster, Critic, Analyst, Human, Mentor.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "asimoko.weebly.com",
+                        "expanded_url": "http://asimoko.weebly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7EJA7k6lTF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10953,
+        "follow_request_sent": false,
+        "followers_count": 1074,
+        "following": false,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 236590362,
+        "id_str": "236590362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Ottawa",
+        "name": "\ud83c\udd63\ud83c\udd64\ud83c\udd5d\ud83c\udd53\ud83c\udd54 \ud83c\udd50\ud83c\udd62\ud83c\udd50\ud83c\udd59\ud83c\udd64",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236590362/1522229319",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237227599321071617/4_iR7xLl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237227599321071617/4_iR7xLl_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tundeokeagi",
+        "statuses_count": 10646,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7EJA7k6lTF",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

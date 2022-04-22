@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 21:16:38 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    117,
+                    127
+                ],
+                "text": "Priceless"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514161371391725570,
+    "id_str": "514161371391725570",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 514142113601437696,
+    "in_reply_to_status_id_str": "514142113601437696",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon (Classic)</a>",
+    "text": "@CNN The delivery was arguably inappropriate, but I admire her zeal. The response of the Anchorwoman was absolutely  #Priceless.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 18 11:26:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "USMC Veteran. Firearms Instructor. Second Amendment Advocate. Average American Patriot.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3780,
+        "follow_request_sent": false,
+        "followers_count": 224,
+        "following": false,
+        "friends_count": 471,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 90849823,
+        "id_str": "90849823",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Brooksville FL",
+        "name": "Robert Alexandre \ud83c\uddfa\ud83c\uddf2",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90849823/1544662612",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072577762886643712/gBSs-0X7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072577762886643712/gBSs-0X7_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yralexandre",
+        "statuses_count": 24181,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

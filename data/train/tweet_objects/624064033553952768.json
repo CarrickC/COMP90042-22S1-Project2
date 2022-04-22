@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 03:50:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 11616202,
+                "id_str": "11616202",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Jay Caruso",
+                "screen_name": "JayCaruso"
+            },
+            {
+                "id": 1440046924422209544,
+                "id_str": "1440046924422209544",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "Shack General",
+                "screen_name": "ShackGeneral"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 624064033553952768,
+    "id_str": "624064033553952768",
+    "in_reply_to_screen_name": "JayCaruso",
+    "in_reply_to_status_id": 623533663947517952,
+    "in_reply_to_status_id_str": "623533663947517952",
+    "in_reply_to_user_id": 11616202,
+    "in_reply_to_user_id_str": "11616202",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@JayCaruso @ShackGeneral WH saw rainbow lights as an affront to America they hate. Have no interest in memorializing fallen patriots.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 27 00:20:30 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Christian. Conservative! II Chron 7:14 Author of \"Rules for Defeating Radicals. Available at Amazon. GETTR @CGAdamo Gab @CGAdamo2",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amazon.com/Rules-Defeatin\u2026",
+                        "expanded_url": "https://www.amazon.com/Rules-Defeating-Radicals-Countering-Strategy/dp/1733218203/ref=sr_1_3?keyword",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cDGF7MY8Gw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88782,
+        "follow_request_sent": false,
+        "followers_count": 8020,
+        "following": false,
+        "friends_count": 3224,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 60435440,
+        "id_str": "60435440",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "",
+        "name": "Christopher G. Adamo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60435440/1357512865",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2492923635/ycepcqc5zl6fd4giwals_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2492923635/ycepcqc5zl6fd4giwals_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CGAdamo",
+        "statuses_count": 191776,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cDGF7MY8Gw",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

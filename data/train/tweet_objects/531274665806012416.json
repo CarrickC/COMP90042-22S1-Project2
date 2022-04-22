@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 09 02:38:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15464697,
+                "id_str": "15464697",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Judd Legum",
+                "screen_name": "JuddLegum"
+            },
+            {
+                "id": 38890831,
+                "id_str": "38890831",
+                "indices": [
+                    20,
+                    29
+                ],
+                "name": "KingCornflake",
+                "screen_name": "Zero0912"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531274665806012416,
+    "id_str": "531274665806012416",
+    "in_reply_to_screen_name": "JuddLegum",
+    "in_reply_to_status_id": 531161914689482752,
+    "in_reply_to_status_id_str": "531161914689482752",
+    "in_reply_to_user_id": 15464697,
+    "in_reply_to_user_id_str": "15464697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@JuddLegum check it @Zero0912",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 22 06:17:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I\u2019m something of a @BuffaloBills videographer myself. Support Trans Futures. Guitar in The Plagiarists. blm. | ex: @gogriffs @wivb. Fredonia alum.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andrew-edits.com",
+                        "expanded_url": "http://www.andrew-edits.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kOQvRwVwdF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50908,
+        "follow_request_sent": false,
+        "followers_count": 2339,
+        "following": false,
+        "friends_count": 1397,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 98566557,
+        "id_str": "98566557",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 61,
+        "location": "Buffalo, New York",
+        "name": "Andrew Meyer",
+        "notifications": false,
+        "profile_background_color": "000033",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98566557/1610292179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1431118622404091904/e65RBaI9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431118622404091904/e65RBaI9_normal.jpg",
+        "profile_link_color": "30307D",
+        "profile_sidebar_border_color": "0000CC",
+        "profile_sidebar_fill_color": "FFCC00",
+        "profile_text_color": "000033",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndrewEdits",
+        "statuses_count": 53392,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/kOQvRwVwdF",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

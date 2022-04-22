@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 00:36:46 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    89,
+                    95
+                ],
+                "text": "bogus"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            },
+            {
+                "id": 94844786,
+                "id_str": "94844786",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "Los PopaVitch",
+                "screen_name": "KarlousM"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    24,
+                    28
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659529271283593216,
+    "id_str": "659529271283593216",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@FiNeSSeHaVeN @KarlousM @kfc they do this yet they still always running out drumsticks!? #bogus",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 09 07:21:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Instagram: gann_o | Snapchat: gannonmiller",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1573,
+        "follow_request_sent": false,
+        "followers_count": 323,
+        "following": false,
+        "friends_count": 231,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 153708985,
+        "id_str": "153708985",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Nederland, Texas",
+        "name": "Gannon Miller",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153708985/1452144668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684970500464877569/NTx04mNZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684970500464877569/NTx04mNZ_normal.jpg",
+        "profile_link_color": "E3C712",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gann_o_",
+        "statuses_count": 1527,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

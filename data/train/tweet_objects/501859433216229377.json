@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 22:33:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 48956231,
+                "id_str": "48956231",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Zaid Benjamin",
+                "screen_name": "zaidbenjamin"
+            },
+            {
+                "id": 2336830657,
+                "id_str": "2336830657",
+                "indices": [
+                    14,
+                    30
+                ],
+                "name": "New Currency News",
+                "screen_name": "NewCurrencyNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 501859433216229377,
+    "id_str": "501859433216229377",
+    "in_reply_to_screen_name": "zaidbenjamin",
+    "in_reply_to_status_id": 501827465032237056,
+    "in_reply_to_status_id_str": "501827465032237056",
+    "in_reply_to_user_id": 48956231,
+    "in_reply_to_user_id_str": "48956231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@zaidbenjamin @NewCurrencyNews Murder, genocide, war, famine, division, barbarity. All form 'Peaceful Religions' Lets just fucking BAN them.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 24 16:36:43 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Bitcoin  IS Politics.\n#Ethereum is just funny.\n#MATIC kicks Eth.\n\nSupport these campaigns;\n#FreeRoss\n#FreeAssange\n#FreePalestine\n#BDS",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "badbitcoin.org",
+                        "expanded_url": "https://badbitcoin.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/i3yPcFqm30"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15540,
+        "follow_request_sent": false,
+        "followers_count": 4357,
+        "following": false,
+        "friends_count": 1941,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2359751150,
+        "id_str": "2359751150",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 172,
+        "location": "",
+        "name": "MyBrainHz",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2359751150/1487008876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1437519310424055813/gjY3sNRq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1437519310424055813/gjY3sNRq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Badbitcoinorg",
+        "statuses_count": 17485,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/i3yPcFqm30",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

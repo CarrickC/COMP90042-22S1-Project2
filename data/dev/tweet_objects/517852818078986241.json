@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 03 01:45:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 517852818078986241,
+    "id_str": "517852818078986241",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517850508380618752,
+    "in_reply_to_status_id_str": "517850508380618752",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@megynkelly he deserves a beheading of his little head and then finish off with his big head",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 11 00:46:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 276,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 263927588,
+        "id_str": "263927588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Rocklin, CA",
+        "name": "fusilijer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263927588/1522503575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/518066535806828546/_N4u13uL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/518066535806828546/_N4u13uL_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "fusilijer",
+        "statuses_count": 514,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

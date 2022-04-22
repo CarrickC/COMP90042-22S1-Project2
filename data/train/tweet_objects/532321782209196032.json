@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 23:59:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1456207072178081793,
+                "id_str": "1456207072178081793",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "cake franco oficial Franco",
+                "screen_name": "CakeFranco"
+            },
+            {
+                "id": 14787713,
+                "id_str": "14787713",
+                "indices": [
+                    12,
+                    24
+                ],
+                "name": "FOX 29",
+                "screen_name": "FOX29philly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532321782209196032,
+    "id_str": "532321782209196032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CakeFranco @FOX29philly I'm crying!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 30 20:52:24 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT Professional | Music aficionado | Bone Thugs Supporter| \"I'm alive so I'm blessed\" Forever grateful, even when the path is rough.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 81743,
+        "follow_request_sent": false,
+        "followers_count": 1195,
+        "following": false,
+        "friends_count": 1053,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 327001169,
+        "id_str": "327001169",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Memphis to Indy ",
+        "name": "Jett Jackson \ud83c\uddf3\ud83c\uddec",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/327001169/1650286055",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517084112313622529/RFgVRexB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517084112313622529/RFgVRexB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AJthemusical",
+        "statuses_count": 112448,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

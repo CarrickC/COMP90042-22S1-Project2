@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 02:39:42 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16303106,
+                "id_str": "16303106",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Stephen Colbert",
+                "screen_name": "StephenAtHome"
+            },
+            {
+                "id": 21373560,
+                "id_str": "21373560",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Jonathan LaPook, M.D",
+                "screen_name": "DrLaPook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250252429200781312,
+    "id_str": "1250252429200781312",
+    "in_reply_to_screen_name": "StephenAtHome",
+    "in_reply_to_status_id": 1250246021629849602,
+    "in_reply_to_status_id_str": "1250246021629849602",
+    "in_reply_to_user_id": 16303106,
+    "in_reply_to_user_id_str": "16303106",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@StephenAtHome @DrLaPook Just watched last night\u2019s on utube. Yer getting the hang of it. Better this week",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 28 21:18:05 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Artist, song writer,poet, seeker, psychic and traveler. Buddhist. Many lifetimes in 78 years . https://t.co/ZZbYrVs1zq. YouTube channel as Mitzi Linn",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "mitzilinn.blogspot.com",
+                        "expanded_url": "http://mitzilinn.blogspot.com",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "url": "https://t.co/ZZbYrVs1zq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mitzilinn.blogspot.com",
+                        "expanded_url": "http://mitzilinn.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZZbYrVs1zq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48471,
+        "follow_request_sent": false,
+        "followers_count": 224,
+        "following": false,
+        "friends_count": 355,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1034550710598168577,
+        "id_str": "1034550710598168577",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Oregon, USA",
+        "name": "Mitzi Linn\ud83d\udcaf\u270c\ufe0f\ud83e\udd17\u2764\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034550710598168577/1648864023",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068641010949865472/4wNX2QXd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068641010949865472/4wNX2QXd_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "theMitziLinn",
+        "statuses_count": 25716,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ZZbYrVs1zq",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

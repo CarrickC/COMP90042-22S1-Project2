@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 18:13:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            },
+            {
+                "id": 1084891549,
+                "id_str": "1084891549",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "DavidDunn",
+                "screen_name": "ImDavidDunn"
+            },
+            {
+                "id": 8695932,
+                "id_str": "8695932",
+                "indices": [
+                    21,
+                    33
+                ],
+                "name": "The Charlotte Observer",
+                "screen_name": "theobserver"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 612684744661299200,
+    "id_str": "612684744661299200",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ajplus @ImDavidDunn @theobserver To be fair, Burger King is where serial killers eat--just look at their mascot",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 07 03:55:43 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mostly Redskin related tweets. PhotoShopper. RT's & Likes don't always = endorsements. HTTR. Comedian (so I can say anything)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19695,
+        "follow_request_sent": false,
+        "followers_count": 3098,
+        "following": false,
+        "friends_count": 169,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1247841516,
+        "id_str": "1247841516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 96,
+        "location": "Ashburn, VA",
+        "name": "Jay",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247841516/1527739271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216109905209413634/ZAVbone4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216109905209413634/ZAVbone4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RedskinsCult",
+        "statuses_count": 89965,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

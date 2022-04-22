@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 14 12:51:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14940354,
+                "id_str": "14940354",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Jim Roberts",
+                "screen_name": "nycjim"
+            },
+            {
+                "id": 130617778,
+                "id_str": "130617778",
+                "indices": [
+                    8,
+                    23
+                ],
+                "name": "Keith Olbermann",
+                "screen_name": "KeithOlbermann"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 676384058654507008,
+    "id_str": "676384058654507008",
+    "in_reply_to_screen_name": "nycjim",
+    "in_reply_to_status_id": 676367888543031296,
+    "in_reply_to_status_id_str": "676367888543031296",
+    "in_reply_to_user_id": 14940354,
+    "in_reply_to_user_id_str": "14940354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@nycjim @KeithOlbermann Damn that Mr. Burns!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 26 22:52:43 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, filmmaker, composer, waffle enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 649,
+        "follow_request_sent": false,
+        "followers_count": 1418,
+        "following": false,
+        "friends_count": 2761,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 15615152,
+        "id_str": "15615152",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 102,
+        "location": "Jersey",
+        "name": "Erik Smith",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15615152/1398213888",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152728133/erik_shades_crop2_sdcc10_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152728133/erik_shades_crop2_sdcc10_normal.jpg",
+        "profile_link_color": "134080",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F5CC00",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ebrown2112",
+        "statuses_count": 200149,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

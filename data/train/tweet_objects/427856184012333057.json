@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 17:30:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427856184012333057,
+    "id_str": "427856184012333057",
+    "in_reply_to_screen_name": "CBCNews",
+    "in_reply_to_status_id": 427846006600777729,
+    "in_reply_to_status_id_str": "427846006600777729",
+    "in_reply_to_user_id": 6433472,
+    "in_reply_to_user_id_str": "6433472",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CBCNews 72.....he had a good run...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 01 02:05:44 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i like sick shit",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 83,
+        "follow_request_sent": false,
+        "followers_count": 52,
+        "following": false,
+        "friends_count": 426,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1473575222,
+        "id_str": "1473575222",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "miss blak",
+        "notifications": false,
+        "profile_background_color": "1C130E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473575222/1371691836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512148619265179650/5M20uKba_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512148619265179650/5M20uKba_normal.png",
+        "profile_link_color": "4F3F38",
+        "profile_sidebar_border_color": "9DB98C",
+        "profile_sidebar_fill_color": "140E0A",
+        "profile_text_color": "838978",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "missblak2",
+        "statuses_count": 1656,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

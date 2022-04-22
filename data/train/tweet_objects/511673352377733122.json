@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 16 00:30:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 342737639,
+                "id_str": "342737639",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jen from Texas",
+                "screen_name": "jensan1332"
+            },
+            {
+                "id": 20435808,
+                "id_str": "20435808",
+                "indices": [
+                    12,
+                    23
+                ],
+                "name": "Anna Teresa Arnold",
+                "screen_name": "HomerWhite"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 511673352377733122,
+    "id_str": "511673352377733122",
+    "in_reply_to_screen_name": "jensan1332",
+    "in_reply_to_status_id": 509084603617792001,
+    "in_reply_to_status_id_str": "509084603617792001",
+    "in_reply_to_user_id": 342737639,
+    "in_reply_to_user_id_str": "342737639",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@jensan1332 @HomerWhite Yup that was the guy spotted at the Jason's Deli earlier (compare the shoes in both photos).",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 13 21:59:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "There is no Left or Right. There is only Tyranny or Freedom!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gab.ai/Buffmuff",
+                        "expanded_url": "http://gab.ai/Buffmuff",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/L9kP6tIGPr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 987,
+        "follow_request_sent": false,
+        "followers_count": 493,
+        "following": false,
+        "friends_count": 690,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 390380183,
+        "id_str": "390380183",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Made in Texas",
+        "name": "#GenerationX",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390380183/1363070003",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2250579230/Tyranny_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2250579230/Tyranny_normal.jpg",
+        "profile_link_color": "212F3C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Buffmuff69",
+        "statuses_count": 11001,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/L9kP6tIGPr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

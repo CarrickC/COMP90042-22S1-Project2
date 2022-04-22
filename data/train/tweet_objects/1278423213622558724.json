@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 20:20:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 68797952,
+                "id_str": "68797952",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Santiago Justel",
+                "screen_name": "sjustel"
+            },
+            {
+                "id": 86240588,
+                "id_str": "86240588",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "Jos\u00e9 D\u00edaz Brise\u00f1o",
+                "screen_name": "diazbriseno"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1278423213622558724,
+    "id_str": "1278423213622558724",
+    "in_reply_to_screen_name": "sjustel",
+    "in_reply_to_status_id": 1278422943102623745,
+    "in_reply_to_status_id_str": "1278422943102623745",
+    "in_reply_to_user_id": 68797952,
+    "in_reply_to_user_id_str": "68797952",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@sjustel @diazbriseno Thank you for the info.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 05 19:16:45 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "journalist / periodista\nNews Director at KGNU\nmis opiniones son propias",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7741,
+        "follow_request_sent": false,
+        "followers_count": 5108,
+        "following": false,
+        "friends_count": 1378,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 140538777,
+        "id_str": "140538777",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 183,
+        "location": "Texas - Oaxaca - Colorado",
+        "name": "Shannon Young",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140538777/1416123635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000302451822/46ca554edbc71f453bf7e9d718e513b5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000302451822/46ca554edbc71f453bf7e9d718e513b5_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SYoungReports",
+        "statuses_count": 31627,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

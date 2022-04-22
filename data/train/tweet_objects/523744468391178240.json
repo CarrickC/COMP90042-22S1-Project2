@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 07:56:26 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    62
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 635745335,
+                "id_str": "635745335",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Viva La Revoluci\u00f3n\ud83c\udff4",
+                "screen_name": "70torinoman"
+            },
+            {
+                "id": 410489408,
+                "id_str": "410489408",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Air Sign",
+                "screen_name": "BlkLightDisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523744468391178240,
+    "id_str": "523744468391178240",
+    "in_reply_to_screen_name": "70torinoman",
+    "in_reply_to_status_id": 523555724807262208,
+    "in_reply_to_status_id_str": "523555724807262208",
+    "in_reply_to_user_id": 635745335,
+    "in_reply_to_user_id_str": "635745335",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@70torinoman @BlkLightDisco Did THEY donate $$$$$ to #Ferguson Citizens for LEGAL Defense  against \"CONSTITUTION\" Rights SUPPRESSION? --GBJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 17:06:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "December Capricorn. Typical and A-Typical. Go figure... Outside The Box!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18666,
+        "follow_request_sent": false,
+        "followers_count": 1365,
+        "following": false,
+        "friends_count": 2050,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27912912,
+        "id_str": "27912912",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 66,
+        "location": "Silver Spring, MD",
+        "name": "G. Bjay",
+        "notifications": false,
+        "profile_background_color": "535482",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27912912/1578521417",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/220779424/NCC1701w06__Kirk___Spock_years__Original_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/220779424/NCC1701w06__Kirk___Spock_years__Original_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gbjay",
+        "statuses_count": 6889,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

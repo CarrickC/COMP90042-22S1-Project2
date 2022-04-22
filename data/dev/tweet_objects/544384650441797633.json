@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 06:53:09 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 766658,
+                "id_str": "766658",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "aptronym\ud83d\ude37 \u00ae",
+                "screen_name": "aptronym"
+            },
+            {
+                "id": 22724717,
+                "id_str": "22724717",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "Caroline Marcus",
+                "screen_name": "carolinemarcus"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544384650441797633,
+    "id_str": "544384650441797633",
+    "in_reply_to_screen_name": "aptronym",
+    "in_reply_to_status_id": 544383207420866560,
+    "in_reply_to_status_id_str": "544383207420866560",
+    "in_reply_to_user_id": 766658,
+    "in_reply_to_user_id_str": "766658",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@aptronym @carolinemarcus I understand what you're saying but that would kind of defeat the purpose, apt.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 04 04:06:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Greek Italian Australian football fan (Juve/ Sydney FC), foodie, father of 2 (husband of 1), Mac-loving advertising creative @Monkeys_AU #wearefootball",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dkfc.net",
+                        "expanded_url": "http://dkfc.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kKHkdOpA4s"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10560,
+        "follow_request_sent": false,
+        "followers_count": 1575,
+        "following": false,
+        "friends_count": 2680,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17859460,
+        "id_str": "17859460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 62,
+        "location": "Sydney",
+        "name": "Dennis Koutoulogenis",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17859460/1602303110",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1511528597361954816/HjkUhxtM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1511528597361954816/HjkUhxtM_normal.jpg",
+        "profile_link_color": "009AB9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "F0F5F5",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dkfcdotnet",
+        "statuses_count": 30314,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/kKHkdOpA4s",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

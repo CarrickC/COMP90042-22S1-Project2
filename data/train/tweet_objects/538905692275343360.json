@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 04:01:44 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538905692275343360,
+    "id_str": "538905692275343360",
+    "in_reply_to_screen_name": "WesleyLowery",
+    "in_reply_to_status_id": 538854664586797057,
+    "in_reply_to_status_id_str": "538854664586797057",
+    "in_reply_to_user_id": 14849562,
+    "in_reply_to_user_id_str": "14849562",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WesleyLowery Yeah that source has definitely lost credibility.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 05 22:40:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#God, #Education, #News #SpecialEducation  #PhysicalHealth and #MentalHealth are my thing.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lgtogether.org",
+                        "expanded_url": "https://lgtogether.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/G0QiqI2f6W"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1373,
+        "follow_request_sent": false,
+        "followers_count": 486,
+        "following": false,
+        "friends_count": 1065,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 29084455,
+        "id_str": "29084455",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Texas",
+        "name": "Gladys A. W",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29084455/1587770876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1335723405220384770/PCoXNfRt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335723405220384770/PCoXNfRt_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ohthesweet",
+        "statuses_count": 34657,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/G0QiqI2f6W",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

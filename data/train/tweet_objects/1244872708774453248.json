@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 31 06:22:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1244872708774453248",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/GkSbtHbUTm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 278030569,
+                "id_str": "278030569",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Baby can you dig your man? \u8eba\u5e73\u4e3b\u4e49",
+                "screen_name": "misosusanowa"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1244872708774453248,
+    "id_str": "1244872708774453248",
+    "in_reply_to_screen_name": "misosusanowa",
+    "in_reply_to_status_id": 1244870181106716672,
+    "in_reply_to_status_id_str": "1244870181106716672",
+    "in_reply_to_user_id": 278030569,
+    "in_reply_to_user_id_str": "278030569",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@misosusanowa And because he keeps saying things like that, there are still a lot of people that think that COVID-1\u2026 https://t.co/GkSbtHbUTm",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 07 18:10:28 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Microcontroller firmware, FPGAs, SW Defined Radio, Retrocomputing. CHM PDP-1 Restoration Team.\nDamned dirty ape\nCall sign N2ES\nhe/him\nNot a tame programmer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "whats.all.this.brouhaha.com",
+                        "expanded_url": "http://whats.all.this.brouhaha.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lD0bapzyVp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 60353,
+        "follow_request_sent": false,
+        "followers_count": 3018,
+        "following": false,
+        "friends_count": 2775,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 9296352,
+        "id_str": "9296352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 103,
+        "location": "Denver metro",
+        "name": "\ud83c\uddfa\ud83c\udde6 I stand with Ukraine",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9296352/1409280524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/220244086/photo_5_reversed_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/220244086/photo_5_reversed_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brouhaha",
+        "statuses_count": 117704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lD0bapzyVp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

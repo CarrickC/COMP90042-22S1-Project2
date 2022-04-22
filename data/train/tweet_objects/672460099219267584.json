@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:59:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 715044396,
+                "id_str": "715044396",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Lisa",
+                "screen_name": "Rockprincess818"
+            },
+            {
+                "id": 70883367,
+                "id_str": "70883367",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "hautedamn",
+                "screen_name": "hautedamn"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 672460099219267584,
+    "id_str": "672460099219267584",
+    "in_reply_to_screen_name": "Rockprincess818",
+    "in_reply_to_status_id": 672433211604013057,
+    "in_reply_to_status_id_str": "672433211604013057",
+    "in_reply_to_user_id": 715044396,
+    "in_reply_to_user_id_str": "715044396",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Rockprincess818 @hautedamn Boy this info is enlightening. The most divisive president in US history has quite a legacy with this stat.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 30 18:16:36 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#1 and #2 Amend. Some cause happiness wherever they go; others whenever they go. -Oscar Wilde #Bitcoin",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 69116,
+        "follow_request_sent": false,
+        "followers_count": 571,
+        "following": false,
+        "friends_count": 1732,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3395186658,
+        "id_str": "3395186658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Belly of the Beast, USA",
+        "name": "Thunderstruck",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3395186658/1450635696",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679254701406318592/HAHKF3kG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679254701406318592/HAHKF3kG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RaynhamPatriot",
+        "statuses_count": 28754,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

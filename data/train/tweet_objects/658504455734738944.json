@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 26 04:44:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 33347217,
+                "id_str": "33347217",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Scott Horton",
+                "screen_name": "scotthortonshow"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 658504455734738944,
+    "id_str": "658504455734738944",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@scotthortonshow  @EconBizFin Steve Jobs, refugee, Happy moderate children waiving flags symbolizing what conflict? There's at least two ...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 10 03:30:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Individual Discretion Required. //\r\nIf you want to converse with me, first define your terms.-Voltaire",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 844,
+        "follow_request_sent": false,
+        "followers_count": 21,
+        "following": false,
+        "friends_count": 49,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 371053698,
+        "id_str": "371053698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "David Leontyev",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000513063971/1ecccde7925bd9f111bbc19a95f4935a_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000513063971/1ecccde7925bd9f111bbc19a95f4935a_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidLeontyev",
+        "statuses_count": 4195,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

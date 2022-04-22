@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 06:08:09 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15976697,
+                "id_str": "15976697",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Michelle Malkin",
+                "screen_name": "michellemalkin"
+            },
+            {
+                "id": 630654887,
+                "id_str": "630654887",
+                "indices": [
+                    16,
+                    25
+                ],
+                "name": "Rachel Burns",
+                "screen_name": "rbcl1120"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387096991840235520,
+    "id_str": "387096991840235520",
+    "in_reply_to_screen_name": "michellemalkin",
+    "in_reply_to_status_id": 387009577763360768,
+    "in_reply_to_status_id_str": "387009577763360768",
+    "in_reply_to_user_id": 15976697,
+    "in_reply_to_user_id_str": "15976697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\">Tweetlogix</a>",
+    "text": "@michellemalkin @rbcl1120 not really. Just the DoJ website explaining how system works is down.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 03 01:56:00 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "She/Her ~ Disabled gamer trying to game the best she can. I don\u2019t march to the beat of a different drum\u2026 I dance! #EhlersDanlosSyndrome #AutoImmuneDisease",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wlo.link/@MeriLizzie",
+                        "expanded_url": "https://wlo.link/@MeriLizzie",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Chd8ibQlH3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9672,
+        "follow_request_sent": false,
+        "followers_count": 1598,
+        "following": false,
+        "friends_count": 1415,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 7217902,
+        "id_str": "7217902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 152,
+        "location": "Cedar Rapids, IA",
+        "name": "Gamer Kitteh",
+        "notifications": false,
+        "profile_background_color": "B7359D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7217902/1598765992",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137023185268936704/QhIARZhT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137023185268936704/QhIARZhT_normal.jpg",
+        "profile_link_color": "712D7F",
+        "profile_sidebar_border_color": "8B4D93",
+        "profile_sidebar_fill_color": "AE288D",
+        "profile_text_color": "6F0B8B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MeriLizzie",
+        "statuses_count": 92373,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Chd8ibQlH3",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

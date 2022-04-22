@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 18:11:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427866373390204928,
+    "id_str": "427866373390204928",
+    "in_reply_to_screen_name": "CBCNews",
+    "in_reply_to_status_id": 427846006600777729,
+    "in_reply_to_status_id_str": "427846006600777729",
+    "in_reply_to_user_id": 6433472,
+    "in_reply_to_user_id_str": "6433472",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBCNews Seems fitting...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 29 05:25:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Living the cycling life on an Ebike these days.Saskatchewan https://t.co/M0zsgiYOer is golden - Retrievers.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "export.Life",
+                        "expanded_url": "http://export.Life",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "url": "https://t.co/M0zsgiYOer"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 158047,
+        "follow_request_sent": false,
+        "followers_count": 2637,
+        "following": false,
+        "friends_count": 1448,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 244383310,
+        "id_str": "244383310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 46,
+        "location": "Sylvan Lake, AB, Canada\ud83c\udde8\ud83c\udde6",
+        "name": "Coreen S\ud83c\udde8\ud83c\udde6\ud83e\udde1\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "D9BFBF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244383310/1613275763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/983550605539946497/-5ALZiwE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/983550605539946497/-5ALZiwE_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E2EAEF",
+        "profile_text_color": "6C961C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ClairesOwner",
+        "statuses_count": 102550,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 15:28:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dl4pFKRonh",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/531085761521528834/photo/1",
+                "id": 530879486368034816,
+                "id_str": "530879486368034816",
+                "indices": [
+                    90,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/B14QFIOCMAAyOD6.png",
+                "media_url_https": "https://pbs.twimg.com/media/B14QFIOCMAAyOD6.png",
+                "sizes": {
+                    "large": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531085761521528834,
+                "source_status_id_str": "531085761521528834",
+                "source_user_id": 5695632,
+                "source_user_id_str": "5695632",
+                "type": "photo",
+                "url": "http://t.co/dl4pFKRonh"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bzfd.it/1xiSdyk",
+                "expanded_url": "http://bzfd.it/1xiSdyk",
+                "indices": [
+                    67,
+                    89
+                ],
+                "url": "http://t.co/opMuwch8Vu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 1418220864,
+                "id_str": "1418220864",
+                "indices": [
+                    123,
+                    138
+                ],
+                "name": "Coach Johnson",
+                "screen_name": "Coach_Johnson9"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dl4pFKRonh",
+                "expanded_url": "https://twitter.com/BuzzFeed/status/531085761521528834/photo/1",
+                "id": 530879486368034816,
+                "id_str": "530879486368034816",
+                "indices": [
+                    90,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/B14QFIOCMAAyOD6.png",
+                "media_url_https": "https://pbs.twimg.com/media/B14QFIOCMAAyOD6.png",
+                "sizes": {
+                    "large": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 592,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531085761521528834,
+                "source_status_id_str": "531085761521528834",
+                "source_user_id": 5695632,
+                "source_user_id_str": "5695632",
+                "type": "photo",
+                "url": "http://t.co/dl4pFKRonh"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 531105931632078849,
+    "id_str": "531105931632078849",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 531085761521528834,
+    "in_reply_to_status_id_str": "531085761521528834",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BuzzFeed Pepsi Is Actually Testing Doritos-Flavored Mountain Dew\nhttp://t.co/opMuwch8Vu http://t.co/dl4pFKRonh\u201d good god @Coach_Johnson9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 12 19:36:11 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I tweet too much about this & that. Mostly use this space for political venting. This is Twitter. Don\u2019t take it too seriously. #WeAreUD #CanIGetAWhatWhat",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18219,
+        "follow_request_sent": false,
+        "followers_count": 259,
+        "following": false,
+        "friends_count": 416,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 315993266,
+        "id_str": "315993266",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Columbus, OH",
+        "name": "Justin Smith",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/315993266/1363989234",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229257364215390209/FADiQ0BV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229257364215390209/FADiQ0BV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JASmith0099",
+        "statuses_count": 17339,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

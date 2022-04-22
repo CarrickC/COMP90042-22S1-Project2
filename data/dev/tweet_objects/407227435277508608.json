@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 19:19:21 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 148779151,
+                "id_str": "148779151",
+                "indices": [
+                    1,
+                    15
+                ],
+                "name": "Teenager Notes",
+                "screen_name": "teenagernotes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407227435277508608,
+    "id_str": "407227435277508608",
+    "in_reply_to_screen_name": "teenagernotes",
+    "in_reply_to_status_id": 407177474788057088,
+    "in_reply_to_status_id_str": "407177474788057088",
+    "in_reply_to_user_id": 148779151,
+    "in_reply_to_user_id_str": "148779151",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@teenagernotes: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.\u201d It was Roger Rodas.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 06 00:12:08 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "a ha ha u crazy",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7504,
+        "follow_request_sent": false,
+        "followers_count": 256,
+        "following": false,
+        "friends_count": 227,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1406372082,
+        "id_str": "1406372082",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Los Angeles, CA",
+        "name": "joe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406372082/1585422413",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330663955904094208/jVYop3PG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330663955904094208/jVYop3PG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_joverdose_",
+        "statuses_count": 2786,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

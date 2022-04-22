@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -78.86987497,
+            43.94466654
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 22 19:53:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18999969,
+                "id_str": "18999969",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC Ottawa",
+                "screen_name": "CBCOttawa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            43.94466654,
+            -78.86987497
+        ],
+        "type": "Point"
+    },
+    "id": 525012116869480448,
+    "id_str": "525012116869480448",
+    "in_reply_to_screen_name": "CBCOttawa",
+    "in_reply_to_status_id": 525005886272843776,
+    "in_reply_to_status_id_str": "525005886272843776",
+    "in_reply_to_user_id": 18999969,
+    "in_reply_to_user_id_str": "18999969",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.959206,
+                        43.614586
+                    ],
+                    [
+                        -78.68523,
+                        43.614586
+                    ],
+                    [
+                        -78.68523,
+                        44.047385
+                    ],
+                    [
+                        -78.959206,
+                        44.047385
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Oshawa, Ontario",
+        "id": "2615344c84ed87ee",
+        "name": "Oshawa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2615344c84ed87ee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBCOttawa Sgt at Arms is actually armed? Thought it a more ceremonial title than anything",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 01 05:02:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Canadian that is all",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 64120,
+        "follow_request_sent": false,
+        "followers_count": 1448,
+        "following": false,
+        "friends_count": 1675,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 118595390,
+        "id_str": "118595390",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 58,
+        "location": "Everywhere... but mostly here",
+        "name": "Monkey 74 \ud83d\udc35",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118595390/1350738288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1114744414092455936/s2C4jGwv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114744414092455936/s2C4jGwv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mnky74",
+        "statuses_count": 84015,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

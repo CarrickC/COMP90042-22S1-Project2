@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 09 18:15:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "toi.in/9ZuoPY",
+                "expanded_url": "http://toi.in/9ZuoPY",
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/GjiTy9cp3F"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 28,
+    "favorited": false,
+    "geo": null,
+    "id": 1270419141355159553,
+    "id_str": "1270419141355159553",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "source": "<a href=\"http://www.toi.in\" rel=\"nofollow\">cmssocialservice</a>",
+    "text": "What is herd immunity and could it work with COVID-19? https://t.co/GjiTy9cp3F",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 10:36:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Latest news from all over the country brought to by India\u2019s No.1 digital news destination https://t.co/VSKi1mkZBr",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "timesofindia.com",
+                        "expanded_url": "http://timesofindia.com",
+                        "indices": [
+                            90,
+                            113
+                        ],
+                        "url": "https://t.co/VSKi1mkZBr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "timesofindia.indiatimes.com/india",
+                        "expanded_url": "http://timesofindia.indiatimes.com/india",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QFj5DYXovt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1867043,
+        "following": false,
+        "friends_count": 22,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 29958928,
+        "id_str": "29958928",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2996,
+        "location": "New Delhi, India",
+        "name": "TOI India",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29958928/1401007898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1282407636/icon_512_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282407636/icon_512_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TOIIndiaNews",
+        "statuses_count": 305471,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/QFj5DYXovt",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

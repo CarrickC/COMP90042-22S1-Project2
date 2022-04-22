@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 06:21:11 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    100,
+                    104
+                ],
+                "text": "nhl"
+            },
+            {
+                "indices": [
+                    105,
+                    112
+                ],
+                "text": "rogers"
+            },
+            {
+                "indices": [
+                    113,
+                    117
+                ],
+                "text": "msm"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21660529,
+                "id_str": "21660529",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sportsnet",
+                "screen_name": "Sportsnet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504513941729705984,
+    "id_str": "504513941729705984",
+    "in_reply_to_screen_name": "Sportsnet",
+    "in_reply_to_status_id": 504453071041482753,
+    "in_reply_to_status_id_str": "504453071041482753",
+    "in_reply_to_user_id": 21660529,
+    "in_reply_to_user_id_str": "21660529",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Sportsnet once again reports it early in case if it ever happens they can say 'we told you first'  #nhl #rogers #msm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 21 22:16:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 143,
+        "follow_request_sent": false,
+        "followers_count": 61,
+        "following": false,
+        "friends_count": 128,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 116285886,
+        "id_str": "116285886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Saskatoon",
+        "name": "Dustin Halvorson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116285886/1432099715",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DHSask",
+        "statuses_count": 2315,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

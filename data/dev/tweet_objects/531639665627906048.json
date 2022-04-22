@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 02:49:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    14,
+                    18
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 531639665627906048,
+    "id_str": "531639665627906048",
+    "in_reply_to_screen_name": "Stink_Meat",
+    "in_reply_to_status_id": 531635072055914496,
+    "in_reply_to_status_id_str": "531635072055914496",
+    "in_reply_to_user_id": 16583554,
+    "in_reply_to_user_id_str": "16583554",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@HayleeQuinnn @IGN 15 comments yo catch that typo lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 12 19:18:11 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Unofficial Division Podcast is done. \nBut we have a new show called Geeksquatch!\nFollow us @Geeksquatchpod",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "geeksquatch.com",
+                        "expanded_url": "http://www.geeksquatch.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GWFgcDbixc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2198,
+        "follow_request_sent": false,
+        "followers_count": 1514,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2242807196,
+        "id_str": "2242807196",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "The 80's & 90's",
+        "name": "TheUODivisionPodcast",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2242807196/1402689558",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658831553414303744/gqzOQtGC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658831553414303744/gqzOQtGC_normal.png",
+        "profile_link_color": "1500B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SmartWatchPod",
+        "statuses_count": 1322,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GWFgcDbixc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

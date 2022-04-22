@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:12:38 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13461662,
+                "id_str": "13461662",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Klepek",
+                "screen_name": "patrickklepek"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 509464421735731201,
+    "id_str": "509464421735731201",
+    "in_reply_to_screen_name": "patrickklepek",
+    "in_reply_to_status_id": 509463933564891137,
+    "in_reply_to_status_id_str": "509463933564891137",
+    "in_reply_to_user_id": 13461662,
+    "in_reply_to_user_id_str": "13461662",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@patrickklepek Facebook is no good, but Microsoft is fine? I guess when that much money is involved, who cares.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 19 16:40:02 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 204862778,
+        "id_str": "204862778",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Cam Cieslak",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341586814/15397e804d6cba37306d72eea8ae_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341586814/15397e804d6cba37306d72eea8ae_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CamPCieslak",
+        "statuses_count": 355,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

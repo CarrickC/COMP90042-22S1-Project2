@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 04:35:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/ALe1Z",
+                "expanded_url": "http://ow.ly/ALe1Z",
+                "indices": [
+                    87,
+                    109
+                ],
+                "url": "http://t.co/zqW028wc8f"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 119482229,
+                "id_str": "119482229",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "No Context Blinn",
+                "screen_name": "NHLBlinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504487326241030144,
+    "id_str": "504487326241030144",
+    "in_reply_to_screen_name": "NHLBlinn",
+    "in_reply_to_status_id": 504478567062056962,
+    "in_reply_to_status_id_str": "504478567062056962",
+    "in_reply_to_user_id": 119482229,
+    "in_reply_to_user_id_str": "119482229",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NHLBlinn: Report: Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion: http://t.co/zqW028wc8f\u201d smh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 26 00:45:10 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "No dress rehearsal, this is our life (she/her) \ud83d\udc99\ud83d\udc9a #blacklivesmatter  opinions here are all mine",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 81438,
+        "follow_request_sent": false,
+        "followers_count": 406,
+        "following": false,
+        "friends_count": 1285,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1035959701,
+        "id_str": "1035959701",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "604",
+        "name": "Tiffany \ud83c\udde8\ud83c\udde6\u2764\ufe0f\ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035959701/1616722483",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381836774280888322/W6BGN8Ub_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381836774280888322/W6BGN8Ub_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ynaffit79",
+        "statuses_count": 22103,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

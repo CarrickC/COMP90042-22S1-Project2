@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 04 17:32:36 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507582010353672193,
+    "id_str": "507582010353672193",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 507454543169617920,
+    "in_reply_to_status_id_str": "507454543169617920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HuffingtonPost Is this for real?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 06 18:04:30 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Loves business, traveller, nature lover, Pan-Africanist, Jamaican..",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 181,
+        "follow_request_sent": false,
+        "followers_count": 313,
+        "following": false,
+        "friends_count": 561,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1736008598,
+        "id_str": "1736008598",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Jamaica",
+        "name": "Tami",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736008598/1497616209",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/894222085597351937/QjCz1GuE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/894222085597351937/QjCz1GuE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bb_tami",
+        "statuses_count": 1829,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 06:13:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15754281,
+                "id_str": "15754281",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "USA TODAY",
+                "screen_name": "USATODAY"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 666499430854492161,
+    "id_str": "666499430854492161",
+    "in_reply_to_screen_name": "USATODAY",
+    "in_reply_to_status_id": 666497286663503872,
+    "in_reply_to_status_id_str": "666497286663503872",
+    "in_reply_to_user_id": 15754281,
+    "in_reply_to_user_id_str": "15754281",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@USATODAY who abandoned him? And who he chose not to see before death",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 18 05:17:04 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "THEMARKETINGGODDESS.CO",
+                        "expanded_url": "http://www.THEMARKETINGGODDESS.CO",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ti1fqE6oFL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11500,
+        "follow_request_sent": false,
+        "followers_count": 390,
+        "following": false,
+        "friends_count": 766,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18209525,
+        "id_str": "18209525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Boise, ID",
+        "name": "TheMarketingGoddess",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18209525/1496682737",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871777350500970497/pF0KN2FB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871777350500970497/pF0KN2FB_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarketingGoddes",
+        "statuses_count": 5813,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Ti1fqE6oFL",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

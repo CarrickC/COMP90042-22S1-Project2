@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 04:08:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/ALe1Z",
+                "expanded_url": "http://ow.ly/ALe1Z",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/I9uLfANbEA"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 119482229,
+                "id_str": "119482229",
+                "indices": [
+                    22,
+                    31
+                ],
+                "name": "No Context Blinn",
+                "screen_name": "NHLBlinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504480442536296448,
+    "id_str": "504480442536296448",
+    "in_reply_to_screen_name": "NHLBlinn",
+    "in_reply_to_status_id": 504478567062056962,
+    "in_reply_to_status_id_str": "504478567062056962",
+    "in_reply_to_user_id": 119482229,
+    "in_reply_to_user_id_str": "119482229",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "Still three years\u2026.. \u201c@NHLBlinn: Report: Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion: http://t.co/I9uLfANbEA\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 24 03:05:12 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "HR dude, Blackhawks/Swans/White Sox/Illini/Aviation. That's generally what you get here. my bad takes are my own. CHI\u2014SEA\u2014DEN\u2014CHI",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3830,
+        "follow_request_sent": false,
+        "followers_count": 277,
+        "following": false,
+        "friends_count": 1165,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34826987,
+        "id_str": "34826987",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Chicago, IL",
+        "name": "Owen Marsden",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/797688949099659264/jpBgD-0h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/797688949099659264/jpBgD-0h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "owenmarsden",
+        "statuses_count": 6517,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

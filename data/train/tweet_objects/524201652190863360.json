@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 14:13:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19219323,
+                "id_str": "19219323",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Jen",
+                "screen_name": "sugarfreesweety"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524201652190863360,
+    "id_str": "524201652190863360",
+    "in_reply_to_screen_name": "sugarfreesweety",
+    "in_reply_to_status_id": 524197859063631873,
+    "in_reply_to_status_id_str": "524197859063631873",
+    "in_reply_to_user_id": 19219323,
+    "in_reply_to_user_id_str": "19219323",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "@sugarfreesweety Maybe he's playing, less fetch, more stitch?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 04 19:45:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'll pluralize Legoen however I like.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2765,
+        "follow_request_sent": false,
+        "followers_count": 779,
+        "following": false,
+        "friends_count": 211,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15009385,
+        "id_str": "15009385",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 59,
+        "location": "Albuquerque, NM",
+        "name": "brian bosh \ud83d\udd7a",
+        "notifications": false,
+        "profile_background_color": "0E243C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581149556793962496/jl9ZFdEy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581149556793962496/jl9ZFdEy_normal.jpg",
+        "profile_link_color": "1770EE",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E2E7F5",
+        "profile_text_color": "212121",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bosh",
+        "statuses_count": 39640,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

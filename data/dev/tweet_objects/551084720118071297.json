@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 18:36:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6017542,
+                "id_str": "6017542",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Breaking News",
+                "screen_name": "BreakingNews"
+            },
+            {
+                "id": 19151000,
+                "id_str": "19151000",
+                "indices": [
+                    14,
+                    20
+                ],
+                "name": "NBC12 WWBT Richmond",
+                "screen_name": "NBC12"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551084720118071297,
+    "id_str": "551084720118071297",
+    "in_reply_to_screen_name": "BreakingNews",
+    "in_reply_to_status_id": 551082055883563008,
+    "in_reply_to_status_id_str": "551082055883563008",
+    "in_reply_to_user_id": 6017542,
+    "in_reply_to_user_id_str": "6017542",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BreakingNews @NBC12 Elly May Clampett has joined her ancestors Jed and Granny in the beyond.  Shall she RIP.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 23 15:13:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Home of The Black History Video Calendar. TO KNOW THERE IS TO GO THERE",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "febone1960.com/blog/",
+                        "expanded_url": "http://febone1960.com/blog/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/U6aGDJCBQM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1554,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 435,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21659133,
+        "id_str": "21659133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 39,
+        "location": " World Wide ",
+        "name": "Sam Curtis",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21659133/1421071677",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/126835996/nia_purpose_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/126835996/nia_purpose_normal.gif",
+        "profile_link_color": "2609B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3BA16",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "febone1960net",
+        "statuses_count": 29605,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/U6aGDJCBQM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

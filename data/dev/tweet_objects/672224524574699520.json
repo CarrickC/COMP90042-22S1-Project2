@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 01:23:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672224524574699520,
+    "id_str": "672224524574699520",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672219174463275008,
+    "in_reply_to_status_id_str": "672219174463275008",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC We have a pattern now of politicians &amp; a president that uses tragedy as a public relations advocacy for gun control. SHAME SHAME",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 22 16:57:21 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "One Voice in the Wilderness. Expose imposters. Throw light on the truth. Fear no evil. Do unto others as they do unto others. We only need each other.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3739,
+        "follow_request_sent": false,
+        "followers_count": 190,
+        "following": false,
+        "friends_count": 744,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 964596644,
+        "id_str": "964596644",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "One Voice",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/964596644/1514883298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948120209029718016/iPdECQkO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948120209029718016/iPdECQkO_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NewzGuru",
+        "statuses_count": 8677,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

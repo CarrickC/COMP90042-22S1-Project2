@@ -1,0 +1,150 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 06 08:57:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1225342773055950850",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/NyhUz7TVV6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    86,
+                    90
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 37,
+    "favorited": false,
+    "geo": null,
+    "id": 1225342773055950850,
+    "id_str": "1225342773055950850",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 19,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus?\n\nNO.\n\nHere are @who myth-busters on the\u2026 https://t.co/NyhUz7TVV6",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 08 12:55:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\uddfa\ud83c\uddf3 Working for peace, rights and wellbeing.\nhttps://t.co/VuvBq5PDLE \nhttps://t.co/NZLKiN3kHe \nhttps://t.co/kNvbpoMRe1\u2026\nhttps://t.co/cWPZ5ASKXc",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/UNGeneva",
+                        "expanded_url": "http://facebook.com/UNGeneva",
+                        "indices": [
+                            44,
+                            67
+                        ],
+                        "url": "https://t.co/VuvBq5PDLE"
+                    },
+                    {
+                        "display_url": "instagram.com/ungeneva",
+                        "expanded_url": "http://instagram.com/ungeneva",
+                        "indices": [
+                            69,
+                            92
+                        ],
+                        "url": "https://t.co/NZLKiN3kHe"
+                    },
+                    {
+                        "display_url": "linkedin.com/company/ungene",
+                        "expanded_url": "http://linkedin.com/company/ungene",
+                        "indices": [
+                            94,
+                            117
+                        ],
+                        "url": "https://t.co/kNvbpoMRe1"
+                    },
+                    {
+                        "display_url": "twitter.com/ONUGeneve",
+                        "expanded_url": "https://twitter.com/ONUGeneve",
+                        "indices": [
+                            119,
+                            142
+                        ],
+                        "url": "https://t.co/cWPZ5ASKXc"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ungeneva.org",
+                        "expanded_url": "http://ungeneva.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/R50mchyWGa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21823,
+        "follow_request_sent": false,
+        "followers_count": 770372,
+        "following": false,
+        "friends_count": 1918,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 164263382,
+        "id_str": "164263382",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3305,
+        "location": "Geneva, Switzerland",
+        "name": "UN Geneva",
+        "notifications": false,
+        "profile_background_color": "C6DDF7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164263382/1603703369",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/946007309700026369/irHahUwS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/946007309700026369/irHahUwS_normal.jpg",
+        "profile_link_color": "1E0DA1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UNGeneva",
+        "statuses_count": 65962,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/R50mchyWGa",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

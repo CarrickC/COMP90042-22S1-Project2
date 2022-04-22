@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 19 16:45:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17469289,
+                "id_str": "17469289",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "New York Post",
+                "screen_name": "nypost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 535111599154266112,
+    "id_str": "535111599154266112",
+    "in_reply_to_screen_name": "nypost",
+    "in_reply_to_status_id": 532284831783460864,
+    "in_reply_to_status_id_str": "532284831783460864",
+    "in_reply_to_user_id": 17469289,
+    "in_reply_to_user_id_str": "17469289",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nypost \"about a week ago\" is how ADULTS here talk sometimes, and not all teens talk like that.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 27 22:49:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "30/bi-pan/\ud83c\udf1f\u2744(they/she nb)\u2605Laid back, wanderlusting adventurer obsessed with life\u2605\nGOAT: @magikestral\nXIV: Absenthine Starfrost (Faerie)\nIcon: @fauvora",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "na.finalfantasyxiv.com/lodestone/char\u2026",
+                        "expanded_url": "http://na.finalfantasyxiv.com/lodestone/character/16322046/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Rpzu6Gxffp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21495,
+        "follow_request_sent": false,
+        "followers_count": 1153,
+        "following": false,
+        "friends_count": 1803,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 69429602,
+        "id_str": "69429602",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35,
+        "location": "Inbetween the universes",
+        "name": "Torrie Starfrost (Birthday Variant)",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69429602/1648363123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510623291811241999/snvmU8F__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510623291811241999/snvmU8F__normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Infindox",
+        "statuses_count": 150348,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Rpzu6Gxffp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

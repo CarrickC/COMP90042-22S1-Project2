@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 25 16:41:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1201990563106611200,
+                "id_str": "1201990563106611200",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Le Marquis",
+                "screen_name": "marquis1757"
+            },
+            {
+                "id": 60783724,
+                "id_str": "60783724",
+                "indices": [
+                    25,
+                    36
+                ],
+                "name": "ian bremmer",
+                "screen_name": "ianbremmer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1242854094706008064,
+    "id_str": "1242854094706008064",
+    "in_reply_to_screen_name": "marquis1757",
+    "in_reply_to_status_id": 1242838450971254784,
+    "in_reply_to_status_id_str": "1242838450971254784",
+    "in_reply_to_user_id": 1201990563106611200,
+    "in_reply_to_user_id_str": "1201990563106611200",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@marquis1757 @Golden_Dow @ianbremmer what are the symptoms of covid-19? Do you feel hard to breathe?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 12 19:15:26 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 101,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1062061322756591616,
+        "id_str": "1062061322756591616",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "peterD",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peterD51740688",
+        "statuses_count": 373,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

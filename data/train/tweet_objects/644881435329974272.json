@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 18 14:31:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 644881435329974272,
+    "id_str": "644881435329974272",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TheValleyReport it's a fake (but funny) story",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 20 17:50:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is my Twitter. There are many like it, but this one is mine.\n\nMy Twitter is my best friend. It is my life. I must master it as I must master my life.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amzn.to/33a4sTG",
+                        "expanded_url": "https://amzn.to/33a4sTG",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EtZIHgCngB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 73579,
+        "follow_request_sent": false,
+        "followers_count": 6819,
+        "following": false,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 33598073,
+        "id_str": "33598073",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 50,
+        "location": "In your head",
+        "name": "Nunya Dambiz",
+        "notifications": false,
+        "profile_background_color": "00205B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33598073/1561867971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328577661342507008/6usEY6_R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328577661342507008/6usEY6_R_normal.jpg",
+        "profile_link_color": "00205B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "doubledouble416",
+        "statuses_count": 24790,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/EtZIHgCngB",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

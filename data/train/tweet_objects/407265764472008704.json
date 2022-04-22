@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 21:51:39 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1cg5o8u",
+                "expanded_url": "http://huff.to/1cg5o8u",
+                "indices": [
+                    77,
+                    99
+                ],
+                "url": "http://t.co/oYh3D4jp36"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407265764472008704,
+    "id_str": "407265764472008704",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 407262869152358400,
+    "in_reply_to_status_id_str": "407262869152358400",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "RT @HuffingtonPost: Paul Walker was \"so happy\" hours before his tragic death http://t.co/oYh3D4jp36",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 21 01:52:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Kia Kaha! Experience life your way! Never give up!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1132,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 417,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41504264,
+        "id_str": "41504264",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 34,
+        "location": "Dallas/Fort Worth, TX",
+        "name": "Garfield Fabricius",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41504264/1453662284",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/221736320/home_009crop_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/221736320/home_009crop_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KiwiGarfield",
+        "statuses_count": 1974,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

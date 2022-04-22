@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 03 05:02:03 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 529136400189636608,
+    "id_str": "529136400189636608",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fluffyguy fluffy will never die!! He will live on within his fans hearts forever!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 01:16:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Panda, Sone, Insomnia, Wiz*one always and forever \nNewbie streamer @ https://t.co/5BXKPypZiz",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/drethemoose",
+                        "expanded_url": "http://twitch.tv/drethemoose",
+                        "indices": [
+                            69,
+                            92
+                        ],
+                        "url": "https://t.co/5BXKPypZiz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 170803,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 630,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 27146662,
+        "id_str": "27146662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Canada",
+        "name": "Andr\u00e9",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27146662/1615635872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1473759268893458433/ljZCnxKb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473759268893458433/ljZCnxKb_normal.jpg",
+        "profile_link_color": "2B575E",
+        "profile_sidebar_border_color": "B5B5B5",
+        "profile_sidebar_fill_color": "1A1A1A",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AYoung2814",
+        "statuses_count": 33853,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

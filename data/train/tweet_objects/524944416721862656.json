@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:24:36 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36730252,
+                "id_str": "36730252",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Affan Chowdhry\u0639\u0641\u0627\u0646",
+                "screen_name": "affanchowdhry"
+            },
+            {
+                "id": 164075542,
+                "id_str": "164075542",
+                "indices": [
+                    15,
+                    29
+                ],
+                "name": "Josh Wingrove",
+                "screen_name": "josh_wingrove"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524944416721862656,
+    "id_str": "524944416721862656",
+    "in_reply_to_screen_name": "affanchowdhry",
+    "in_reply_to_status_id": 524941132237910016,
+    "in_reply_to_status_id_str": "524941132237910016",
+    "in_reply_to_user_id": 36730252,
+    "in_reply_to_user_id_str": "36730252",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@affanchowdhry @josh_wingrove why does this idiot think it's ok to follow the police during a armed man hunt?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 25 22:24:12 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "whiskey \ud83e\udd43 drinker, here to laugh, enjoy the #Oilers hockey tweets, lover of nerdy things like Star Wars. Crazy Rec goalie!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14430,
+        "follow_request_sent": false,
+        "followers_count": 189,
+        "following": false,
+        "friends_count": 526,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1546762968,
+        "id_str": "1546762968",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Edmonton, Alberta",
+        "name": "whiskey please \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546762968/1560608496",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1465730748283961346/zxqbrwIi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465730748283961346/zxqbrwIi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pilkey77",
+        "statuses_count": 5970,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

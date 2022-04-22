@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 07 17:00:45 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 706887323020087296,
+    "id_str": "706887323020087296",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 706879692872134659,
+    "in_reply_to_status_id_str": "706879692872134659",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Gotham3 Hahahahahaha This is too cute",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 13 12:36:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hi.I love to discuss key issues affecting our nation.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1737,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 295,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104469478,
+        "id_str": "104469478",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Mumbai",
+        "name": "Kala Suresh",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104469478/1437105681",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621893618475794432/-rETwZWL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621893618475794432/-rETwZWL_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bestwishesall",
+        "statuses_count": 2576,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

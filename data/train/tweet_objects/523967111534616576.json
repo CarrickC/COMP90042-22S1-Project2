@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 22:41:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 73011620,
+                "id_str": "73011620",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Ritzy\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728",
+                "screen_name": "ritzyfoxx"
+            },
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    26,
+                    39
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523967111534616576,
+    "id_str": "523967111534616576",
+    "in_reply_to_screen_name": "ritzyfoxx",
+    "in_reply_to_status_id": 523591000850432001,
+    "in_reply_to_status_id_str": "523591000850432001",
+    "in_reply_to_user_id": 73011620,
+    "in_reply_to_user_id_str": "73011620",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ritzyfoxx @PatrickWeekes @pourmecoffee Different because it comes scuttling on 8 hellish legs, probably silently.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 08 09:10:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I make food and maybe at some point I\u2019ll write again. Sous chef at KBC in Dothan, AL.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sweetcrabbody.com",
+                        "expanded_url": "http://sweetcrabbody.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XBehe6xTtc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13188,
+        "follow_request_sent": false,
+        "followers_count": 2357,
+        "following": false,
+        "friends_count": 210,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 54845467,
+        "id_str": "54845467",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 69,
+        "location": "Newville, Alabama",
+        "name": "Leia Weathington",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54845467/1571449729",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1495778536841527298/r2vBecrv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495778536841527298/r2vBecrv_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "LeiaWeathington",
+        "statuses_count": 52788,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/XBehe6xTtc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

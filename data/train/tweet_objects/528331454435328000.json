@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 31 23:43:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 210226021,
+                "id_str": "210226021",
+                "indices": [
+                    16,
+                    32
+                ],
+                "name": "Emily Deans MD",
+                "screen_name": "evolutionarypsy"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 528331454435328000,
+    "id_str": "528331454435328000",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528312406498635777,
+    "in_reply_to_status_id_str": "528312406498635777",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@washingtonpost @evolutionarypsy even the humble deer dresses up as vampire for halloween",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 21 11:59:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PhD Nutritional Biochemistry & Circadian Biology. Allergic to green kryptonite. For personalized health consulting services: drlagakos@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "patreon.com/caloriesproper",
+                        "expanded_url": "http://www.patreon.com/caloriesproper",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cHB8cxxIWX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9569,
+        "follow_request_sent": false,
+        "followers_count": 21487,
+        "following": false,
+        "friends_count": 587,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 559472452,
+        "id_str": "559472452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 568,
+        "location": "",
+        "name": "Bill Lagakos",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/559472452/1470958772",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986309754560458752/4XCwG1Gb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986309754560458752/4XCwG1Gb_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CaloriesProper",
+        "statuses_count": 104367,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cHB8cxxIWX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

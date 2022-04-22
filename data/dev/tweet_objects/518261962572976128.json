@@ -1,0 +1,96 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 04 04:50:55 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    22
+                ],
+                "text": "KellyFile"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 518261962572976128,
+    "id_str": "518261962572976128",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517850508380618752,
+    "in_reply_to_status_id_str": "517850508380618752",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00a0for\u00a0Android</a>",
+    "text": "@megynkelly #KellyFile U have to be the most beautiful woman, at least 50% of that beauty comes from your mind you're incredibly intelligent",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 22:18:11 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 87,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 59606440,
+        "id_str": "59606440",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Looking for a one plus phone",
+        "name": "Chris Harper",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/425898709164261376/kF8rD9XV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/425898709164261376/kF8rD9XV_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Almost_Einstein",
+        "statuses_count": 692,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

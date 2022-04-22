@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 16:11:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39542769,
+                "id_str": "39542769",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "fleming",
+                "screen_name": "flightrisker"
+            },
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    29,
+                    36
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            },
+            {
+                "id": 797674317261709312,
+                "id_str": "797674317261709312",
+                "indices": [
+                    37,
+                    51
+                ],
+                "name": "lightskinzayn",
+                "screen_name": "lightskinzayn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612654080431775744,
+    "id_str": "612654080431775744",
+    "in_reply_to_screen_name": "flightrisker",
+    "in_reply_to_status_id": 612651634817171456,
+    "in_reply_to_status_id_str": "612651634817171456",
+    "in_reply_to_user_id": 39542769,
+    "in_reply_to_user_id_str": "39542769",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@flightrisker @winterxlarrys @ajplus @lightskinzayn pretty sure that the stale bread is fucked up and unacceptable but not relevant.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 15 23:02:17 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38291,
+        "follow_request_sent": false,
+        "followers_count": 136,
+        "following": false,
+        "friends_count": 813,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 525830271,
+        "id_str": "525830271",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "",
+        "name": "I\u2019ll hold here.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859233929043349504/ad0s8uEc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859233929043349504/ad0s8uEc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "calling_hours",
+        "statuses_count": 15532,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

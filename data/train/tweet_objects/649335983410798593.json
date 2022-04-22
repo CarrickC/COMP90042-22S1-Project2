@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 21:32:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2319494544,
+                "id_str": "2319494544",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sarcasm",
+                "screen_name": "WorstFact"
+            },
+            {
+                "id": 3264448770,
+                "id_str": "3264448770",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Bad Decisions",
+                "screen_name": "rBadDecisions"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 649335983410798593,
+    "id_str": "649335983410798593",
+    "in_reply_to_screen_name": "WorstFact",
+    "in_reply_to_status_id": 640644123339431936,
+    "in_reply_to_status_id_str": "640644123339431936",
+    "in_reply_to_user_id": 2319494544,
+    "in_reply_to_user_id_str": "2319494544",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@WorstFact @rBadDecisions Holy. That\u2019s a lot of incorrect company matching.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 19 16:45:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Truck Driver/gamer/movies/Writer/Traveler",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 131,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 23,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 217476390,
+        "id_str": "217476390",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Canada",
+        "name": "Steve Richardson \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217476390/1524930187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515038332509638665/jNwJRHZk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515038332509638665/jNwJRHZk_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "8C8C8C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fps_Steve",
+        "statuses_count": 2610,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

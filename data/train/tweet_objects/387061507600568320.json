@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -96.93315859,
+            32.89042636
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 07 03:47:09 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2589068443,
+                "id_str": "2589068443",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "honudreamer",
+                "screen_name": "honudreamer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            32.89042636,
+            -96.93315859
+        ],
+        "type": "Point"
+    },
+    "id": 387061507600568320,
+    "id_str": "387061507600568320",
+    "in_reply_to_screen_name": "sweetpikake1",
+    "in_reply_to_status_id": 387011613938556928,
+    "in_reply_to_status_id_str": "387011613938556928",
+    "in_reply_to_user_id": 417560421,
+    "in_reply_to_user_id_str": "417560421",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.034184,
+                        32.771786
+                    ],
+                    [
+                        -96.888782,
+                        32.771786
+                    ],
+                    [
+                        -96.888782,
+                        32.956048
+                    ],
+                    [
+                        -97.034184,
+                        32.956048
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Irving, TX",
+        "id": "dce44ec49eb788f5",
+        "name": "Irving",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dce44ec49eb788f5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@honudreamer: Once again...WHY ARE YOU SURPRISED???...ppl this is OBAMASS' MO..he DOESN'T CARE about AMERICANS/AMERICA..WAKE UP..HELLO\u201d\ud83d\udc40\ud83d\udc4f\ud83d\udc4f\ud83d\udc94",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 02:20:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Taking it moment by moment! Love My Country! #periscope",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2568,
+        "follow_request_sent": false,
+        "followers_count": 2288,
+        "following": false,
+        "friends_count": 1827,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31605987,
+        "id_str": "31605987",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 78,
+        "location": "USA",
+        "name": "Deborah",
+        "notifications": false,
+        "profile_background_color": "3A1E13",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31605987/1449651587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719078275725676545/4kqEdLXP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719078275725676545/4kqEdLXP_normal.jpg",
+        "profile_link_color": "EBB369",
+        "profile_sidebar_border_color": "B9240E",
+        "profile_sidebar_fill_color": "B9240E",
+        "profile_text_color": "3A1E13",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LasColinas",
+        "statuses_count": 25066,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

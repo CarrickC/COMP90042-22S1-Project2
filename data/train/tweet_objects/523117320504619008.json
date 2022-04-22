@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 17 14:24:22 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    32
+                ],
+                "text": "Ebola"
+            },
+            {
+                "indices": [
+                    33,
+                    51
+                ],
+                "text": "BringBackOurGirls"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bbc.in/1sQi8M9",
+                "expanded_url": "http://bbc.in/1sQi8M9",
+                "indices": [
+                    122,
+                    144
+                ],
+                "url": "http://t.co/DUdkPhXcDX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    53,
+                    65
+                ],
+                "name": "BBC Breaking News",
+                "screen_name": "BBCBreaking"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 523117320504619008,
+    "id_str": "523117320504619008",
+    "in_reply_to_screen_name": "BBCBreaking",
+    "in_reply_to_status_id": 523115432736460802,
+    "in_reply_to_status_id_str": "523115432736460802",
+    "in_reply_to_user_id": 5402612,
+    "in_reply_to_user_id_str": "5402612",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "&amp; they're controlling #Ebola #BringBackOurGirls. @BBCBreaking Nigeria truce w Boko Haram schoolgirls will be released http://t.co/DUdkPhXcDX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 20 15:25:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fun-lanthropist @MendingKids Saving the world 1 glass of wine at a time. Parent. Professor. Paddle-boarder, Podcaster. #okLA https://t.co/lPTVN5lSZP",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/Dorothy_Lucey",
+                        "expanded_url": "http://Instagram.com/Dorothy_Lucey",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "url": "https://t.co/lPTVN5lSZP"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2SkQto0",
+                        "expanded_url": "https://bit.ly/2SkQto0",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FvsTWamUGG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 345,
+        "follow_request_sent": false,
+        "followers_count": 47577,
+        "following": false,
+        "friends_count": 2963,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41379801,
+        "id_str": "41379801",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 461,
+        "location": "Malibu CA",
+        "name": "Dorothy Lucey",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41379801/1432004713",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679717230251126785/TpBJKBHw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679717230251126785/TpBJKBHw_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DorothyLucey",
+        "statuses_count": 26196,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/FvsTWamUGG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

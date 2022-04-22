@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 20:26:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.mash.to/1r1fBz4",
+                "expanded_url": "http://on.mash.to/1r1fBz4",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/1qPJvPB07A"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 972651,
+                "id_str": "972651",
+                "indices": [
+                    27,
+                    36
+                ],
+                "name": "Mashable",
+                "screen_name": "mashable"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 514148698801328128,
+    "id_str": "514148698801328128",
+    "in_reply_to_screen_name": "mashable",
+    "in_reply_to_status_id": 514148279601606656,
+    "in_reply_to_status_id_str": "514148279601606656",
+    "in_reply_to_user_id": 972651,
+    "in_reply_to_user_id_str": "972651",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Spoiler alert: It doesn't \"@mashable: Starbucks is experimenting with a beer-flavored latte than tastes like Guinness http://t.co/1qPJvPB07A",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 27 15:46:47 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Admission @hiramcollege. Ops is the gift that keeps on giving.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hiram.edu",
+                        "expanded_url": "http://www.hiram.edu",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uzZPsjE75m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3312,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 974123520,
+        "id_str": "974123520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Ohio, USA",
+        "name": "Jana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974123520/1398260528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1446251288476389377/f23QDHaK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446251288476389377/f23QDHaK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JanaWillan",
+        "statuses_count": 769,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uzZPsjE75m",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

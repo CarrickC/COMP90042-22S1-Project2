@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 15 02:22:32 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239014086022586368",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jCQVWl9Mun"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1022101,
+                "id_str": "1022101",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Mark Nutter",
+                "screen_name": "marknutter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1239014086022586368,
+    "id_str": "1239014086022586368",
+    "in_reply_to_screen_name": "marknutter",
+    "in_reply_to_status_id": 1239013202865852417,
+    "in_reply_to_status_id_str": "1239013202865852417",
+    "in_reply_to_user_id": 1022101,
+    "in_reply_to_user_id_str": "1022101",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marknutter Yuh huh. And nobody\u2019s saying go for a cough. I\u2019m saying your \u201cnothing they can do except in the most se\u2026 https://t.co/jCQVWl9Mun",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 01 04:02:40 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48140,
+        "follow_request_sent": false,
+        "followers_count": 394,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 980294346908999680,
+        "id_str": "980294346908999680",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Australia",
+        "name": "Cheomit II",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980958953688375296/ktru-r9r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980958953688375296/ktru-r9r_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cheomitII",
+        "statuses_count": 62236,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

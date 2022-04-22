@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 19 09:36:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1121783662486310912,
+                "id_str": "1121783662486310912",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Himanshi",
+                "screen_name": "Himanshi1223"
+            },
+            {
+                "id": 30417501,
+                "id_str": "30417501",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "Manish Sisodia",
+                "screen_name": "msisodia"
+            },
+            {
+                "id": 3281356988,
+                "id_str": "3281356988",
+                "indices": [
+                    24,
+                    37
+                ],
+                "name": "Education Minister",
+                "screen_name": "Minister_Edu"
+            },
+            {
+                "id": 405427035,
+                "id_str": "405427035",
+                "indices": [
+                    38,
+                    53
+                ],
+                "name": "Arvind Kejriwal",
+                "screen_name": "ArvindKejriwal"
+            },
+            {
+                "id": 1121783662486310912,
+                "id_str": "1121783662486310912",
+                "indices": [
+                    58,
+                    71
+                ],
+                "name": "Himanshi",
+                "screen_name": "Himanshi1223"
+            }
+        ]
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "geo": null,
+    "id": 1273912482545848320,
+    "id_str": "1273912482545848320",
+    "in_reply_to_screen_name": "Himanshi1223",
+    "in_reply_to_status_id": 1273909896312913926,
+    "in_reply_to_status_id_str": "1273909896312913926",
+    "in_reply_to_user_id": 1121783662486310912,
+    "in_reply_to_user_id_str": "1121783662486310912",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Himanshi1223 @msisodia @Minister_Edu @ArvindKejriwal Hey @Himanshi1223 results should be out in a day or two. Good luck \ud83d\udc4d\ud83c\udffc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 08:28:47 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "This is the Official Twitter Account of Guru Gobind Singh Indraprastha University, New Delhi, India.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ipu.ac.in",
+                        "expanded_url": "http://www.ipu.ac.in",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/P9XOigxys2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 333,
+        "follow_request_sent": false,
+        "followers_count": 4587,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1184748027455557632,
+        "id_str": "1184748027455557632",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "New Delhi, India",
+        "name": "Guru Gobind Singh Indraprastha University",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184748027455557632/1572591113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190159497312002050/k6TYMRB0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190159497312002050/k6TYMRB0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GGSIPUIndia",
+        "statuses_count": 575,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/P9XOigxys2",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

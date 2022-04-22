@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 23 13:12:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3973656389,
+                "id_str": "3973656389",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Kolombia werambo",
+                "screen_name": "KWerambo"
+            },
+            {
+                "id": 1229346923573841920,
+                "id_str": "1229346923573841920",
+                "indices": [
+                    10,
+                    19
+                ],
+                "name": "errycar12",
+                "screen_name": "ErrycarM"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1253310873621409792,
+    "id_str": "1253310873621409792",
+    "in_reply_to_screen_name": "KWerambo",
+    "in_reply_to_status_id": 1253268813287735296,
+    "in_reply_to_status_id_str": "1253268813287735296",
+    "in_reply_to_user_id": 3973656389,
+    "in_reply_to_user_id_str": "3973656389",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@KWerambo @ErrycarM Is Covid - 19 airborne?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 23 05:30:46 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Crazy is a compliment",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3994,
+        "follow_request_sent": false,
+        "followers_count": 195,
+        "following": false,
+        "friends_count": 275,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1076711693550530560,
+        "id_str": "1076711693550530560",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "zEDUcus",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076711693550530560/1545544883",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318639353338470402/zkzPwTUM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318639353338470402/zkzPwTUM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zEDUnho",
+        "statuses_count": 4524,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

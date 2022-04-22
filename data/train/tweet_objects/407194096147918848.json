@@ -1,0 +1,231 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -81.86747527,
+            26.64050866
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 17:06:52 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bgL8sfnFXc",
+                "expanded_url": "https://twitter.com/ELLEmagazine/status/407192370040803329/photo/1",
+                "id": 407192369831084032,
+                "id_str": "407192369831084032",
+                "indices": [
+                    64,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/BaajTY8IAAATvkM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BaajTY8IAAATvkM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "medium": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "small": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 407192370040803329,
+                "source_status_id_str": "407192370040803329",
+                "source_user_id": 20177423,
+                "source_user_id_str": "20177423",
+                "type": "photo",
+                "url": "http://t.co/bgL8sfnFXc"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.elle.com/1jY9HGi",
+                "expanded_url": "http://on.elle.com/1jY9HGi",
+                "indices": [
+                    41,
+                    63
+                ],
+                "url": "http://t.co/KElllk4Er4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20177423,
+                "id_str": "20177423",
+                "indices": [
+                    1,
+                    14
+                ],
+                "name": "ELLE Magazine (US)",
+                "screen_name": "ELLEmagazine"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bgL8sfnFXc",
+                "expanded_url": "https://twitter.com/ELLEmagazine/status/407192370040803329/photo/1",
+                "id": 407192369831084032,
+                "id_str": "407192369831084032",
+                "indices": [
+                    64,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/BaajTY8IAAATvkM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BaajTY8IAAATvkM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "medium": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "small": {
+                        "h": 490,
+                        "resize": "fit",
+                        "w": 376
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 407192370040803329,
+                "source_status_id_str": "407192370040803329",
+                "source_user_id": 20177423,
+                "source_user_id_str": "20177423",
+                "type": "photo",
+                "url": "http://t.co/bgL8sfnFXc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            26.64050866,
+            -81.86747527
+        ],
+        "type": "Point"
+    },
+    "id": 407194096147918848,
+    "id_str": "407194096147918848",
+    "in_reply_to_screen_name": "ELLEmagazine",
+    "in_reply_to_status_id": 407192370040803329,
+    "in_reply_to_status_id_str": "407192370040803329",
+    "in_reply_to_user_id": 20177423,
+    "in_reply_to_user_id_str": "20177423",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.913778,
+                        26.570475
+                    ],
+                    [
+                        -81.75504,
+                        26.570475
+                    ],
+                    [
+                        -81.75504,
+                        26.689448
+                    ],
+                    [
+                        -81.913778,
+                        26.689448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Myers, FL",
+        "id": "08971d2dda09c15a",
+        "name": "Fort Myers",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/08971d2dda09c15a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ELLEmagazine: Remembering Paul Walker: http://t.co/KElllk4Er4 http://t.co/bgL8sfnFXc\u201d very upsetting.. RIP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 24 19:37:16 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "People with the highest IQ stay up late because their brains have increased mental stimulation.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1185,
+        "follow_request_sent": false,
+        "followers_count": 78,
+        "following": false,
+        "friends_count": 307,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1543941642,
+        "id_str": "1543941642",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Marie",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543941642/1430685002",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292003223000223745/xTDm6MTZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292003223000223745/xTDm6MTZ_normal.jpg",
+        "profile_link_color": "29DB7F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ambyr34",
+        "statuses_count": 2997,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

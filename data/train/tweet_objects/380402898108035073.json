@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 18 18:48:13 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1635754086,
+                "id_str": "1635754086",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "Life Pro News",
+                "screen_name": "BestProNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 380402898108035073,
+    "id_str": "380402898108035073",
+    "in_reply_to_screen_name": "BestProNews",
+    "in_reply_to_status_id": 380055172896272384,
+    "in_reply_to_status_id_str": "380055172896272384",
+    "in_reply_to_user_id": 1635754086,
+    "in_reply_to_user_id_str": "1635754086",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BestProNews: A city in Louisiana has made \"twerking\" illegal, imposing a punishment of 30 days in jail for a first offense\u201d Idiots",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 26 20:02:03 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "subtle & gradual\u2014you never know",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/WRL9v3In6g4",
+                        "expanded_url": "https://youtu.be/WRL9v3In6g4",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/p64zqlcUEx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4738,
+        "follow_request_sent": false,
+        "followers_count": 369,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 972617768,
+        "id_str": "972617768",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Louisiana",
+        "name": "Chance Johnson",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972617768/1533089192",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024476430632214528/2Eax25LO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024476430632214528/2Eax25LO_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chancejohnsn",
+        "statuses_count": 8332,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/p64zqlcUEx",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

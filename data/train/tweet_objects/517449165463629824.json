@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 01 23:01:09 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893966122109853696,
+                "id_str": "893966122109853696",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Placeholder",
+                "screen_name": "DavidJo52951945"
+            },
+            {
+                "id": 2178882809,
+                "id_str": "2178882809",
+                "indices": [
+                    17,
+                    31
+                ],
+                "name": "Lynn\u2b50\u2b50\u2b50",
+                "screen_name": "lynnhackett50"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517449165463629824,
+    "id_str": "517449165463629824",
+    "in_reply_to_screen_name": "DavidJoBrexit",
+    "in_reply_to_status_id": 516636338679197697,
+    "in_reply_to_status_id_str": "516636338679197697",
+    "in_reply_to_user_id": 1125937411,
+    "in_reply_to_user_id_str": "1125937411",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DavidJo52951945 @lynnhackett50 If the Muslims are idiotic enough to suck on the wipes, it's THEIR problem, not KFC's.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 07 21:57:02 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reversion to the meme.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 1789,
+        "following": false,
+        "friends_count": 1610,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1250117214,
+        "id_str": "1250117214",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Here ... with me.",
+        "name": "Gumlegs",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250117214/1553374041",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000230777046/f890f7fe3b9ea8b75949067c0eb5f294_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000230777046/f890f7fe3b9ea8b75949067c0eb5f294_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Gumlegs",
+        "statuses_count": 47504,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 06 07:40:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1132844059876241408,
+                "id_str": "1132844059876241408",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CoalKing",
+                "screen_name": "CoalKing2"
+            },
+            {
+                "id": 16675569,
+                "id_str": "16675569",
+                "indices": [
+                    11,
+                    15
+                ],
+                "name": "The Sydney Morning Herald",
+                "screen_name": "smh"
+            },
+            {
+                "id": 118942188,
+                "id_str": "118942188",
+                "indices": [
+                    16,
+                    24
+                ],
+                "name": "David Crowe",
+                "screen_name": "CroweDM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1247066655559020544,
+    "id_str": "1247066655559020544",
+    "in_reply_to_screen_name": "CoalKing2",
+    "in_reply_to_status_id": 1247059608985686017,
+    "in_reply_to_status_id_str": "1247059608985686017",
+    "in_reply_to_user_id": 1132844059876241408,
+    "in_reply_to_user_id_str": "1132844059876241408",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@CoalKing2 @smh @CroweDM simplistic stupid argument a mask will not stop the spread",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 10:45:58 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Survivor of child abuse and DV. Mother; 3 beautiful children. Student. Rebuilding my life, 1 day at a time. .",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 59451,
+        "follow_request_sent": false,
+        "followers_count": 1346,
+        "following": false,
+        "friends_count": 1173,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3162249408,
+        "id_str": "3162249408",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 44,
+        "location": "Sydney",
+        "name": "Liz Brown",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3162249408/1455422297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665863027426615297/mPKva9R6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665863027426615297/mPKva9R6_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lizoluwi",
+        "statuses_count": 109442,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

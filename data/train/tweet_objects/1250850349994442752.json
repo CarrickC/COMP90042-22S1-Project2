@@ -1,0 +1,87 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 18:15:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250850349994442752",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/eaprkEAIwg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250850349994442752,
+    "id_str": "1250850349994442752",
+    "in_reply_to_screen_name": "MSaiaung",
+    "in_reply_to_status_id": 1250816431576485894,
+    "in_reply_to_status_id_str": "1250816431576485894",
+    "in_reply_to_user_id": 1128320871876177920,
+    "in_reply_to_user_id_str": "1128320871876177920",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Please give me an understanding. Does coronavirus can ultimately kill a person or just can only kill a person who i\u2026 https://t.co/eaprkEAIwg",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 14 15:27:13 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follower of Christ, translator, husband, dad, grandpa, brother, blogger, messenger to Tai & Nations for Jesus. By grace we're blessed, thank God in Jesus' name.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6073,
+        "follow_request_sent": false,
+        "followers_count": 100,
+        "following": false,
+        "friends_count": 245,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1128320871876177920,
+        "id_str": "1128320871876177920",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bronx, NY",
+        "name": "Saiaung M Teekham",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128330240718192640/ogiZqaKI_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128330240718192640/ogiZqaKI_normal.png",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MSaiaung",
+        "statuses_count": 1442,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

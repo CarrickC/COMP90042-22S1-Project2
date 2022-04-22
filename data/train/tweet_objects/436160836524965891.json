@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 15:30:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1c2EpuB",
+                "expanded_url": "http://cnn.it/1c2EpuB",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/9f7Y0pdrOR"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 47,
+    "favorited": false,
+    "geo": null,
+    "id": 436160836524965891,
+    "id_str": "436160836524965891",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 218,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Nestl\u00e9 USA has issued a recall of Hot Pockets. See the varieties affected: http://t.co/9f7Y0pdrOR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It\u2019s our job to #GoThere & tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6\n\n@CNNPlus - Streaming 3/29",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "cnn.com/apps",
+                        "expanded_url": "http://cnn.com/apps",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "url": "https://t.co/ceNBoNi8y6"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cnn.com",
+                        "expanded_url": "http://www.cnn.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/imGp4Ieixi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1401,
+        "follow_request_sent": false,
+        "followers_count": 57761149,
+        "following": false,
+        "friends_count": 1104,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 759251,
+        "id_str": "759251",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 154312,
+        "location": "",
+        "name": "CNN",
+        "notifications": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1646233344",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CNN",
+        "statuses_count": 371705,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/imGp4Ieixi",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

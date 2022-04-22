@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 31 11:38:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    37,
+                    47
+                ],
+                "text": "SkipToids"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1122192223,
+                "id_str": "1122192223",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Florida Man",
+                "screen_name": "_FloridaMan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 604975147590615040,
+    "id_str": "604975147590615040",
+    "in_reply_to_screen_name": "_FloridaMan",
+    "in_reply_to_status_id": 604642913188872192,
+    "in_reply_to_status_id_str": "604642913188872192",
+    "in_reply_to_user_id": 1122192223,
+    "in_reply_to_user_id_str": "1122192223",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.348441,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.631677
+                    ],
+                    [
+                        -85.937404,
+                        39.927448
+                    ],
+                    [
+                        -86.348441,
+                        39.927448
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indianapolis, IN",
+        "id": "018929347840059e",
+        "name": "Indianapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@_FloridaMan I think I know that guy #SkipToids",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 03:13:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "moved to Florida 11/05/14. Loving it!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 31,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32756797,
+        "id_str": "32756797",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "West Melbourne, Fl",
+        "name": "jeff salyers",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/526010569514819584/SgojLpmY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/526010569514819584/SgojLpmY_normal.jpeg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeffsalyers",
+        "statuses_count": 78,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

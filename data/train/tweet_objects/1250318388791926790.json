@@ -1,0 +1,96 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 07:01:48 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    55
+                ],
+                "text": "5GKILLS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25088746,
+                "id_str": "25088746",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "SABC News",
+                "screen_name": "SABCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250318388791926790,
+    "id_str": "1250318388791926790",
+    "in_reply_to_screen_name": "SABCNews",
+    "in_reply_to_status_id": 1250302907389333504,
+    "in_reply_to_status_id_str": "1250302907389333504",
+    "in_reply_to_user_id": 25088746,
+    "in_reply_to_user_id_str": "25088746",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@SABCNews Yeah, but they destroy human health! #5GKILLS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 13 10:33:18 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3265,
+        "follow_request_sent": false,
+        "followers_count": 21,
+        "following": false,
+        "friends_count": 265,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 82062752,
+        "id_str": "82062752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Deb C",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "deannchapte",
+        "statuses_count": 1166,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 20:56:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    77,
+                    91
+                ],
+                "text": "WalklikeJesus"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 650051749592432645,
+    "id_str": "650051749592432645",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 650046859537448960,
+    "in_reply_to_status_id_str": "650046859537448960",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nytimes pretty sure his boss once met with tax collectors and prostitutes.  #WalklikeJesus",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 26 13:16:37 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Natural Law Liberation, Papist, Anti Progressive, Marine. On the level.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 313,
+        "follow_request_sent": false,
+        "followers_count": 20,
+        "following": false,
+        "friends_count": 185,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15243768,
+        "id_str": "15243768",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Iowa",
+        "name": "helper_bill",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/55931163/bubblelevel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/55931163/bubblelevel_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "helper_bill",
+        "statuses_count": 1546,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

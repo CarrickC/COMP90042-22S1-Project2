@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 17:02:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 279390084,
+                "id_str": "279390084",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Anonymous",
+                "screen_name": "YourAnonNews"
+            },
+            {
+                "id": 1376334719281991682,
+                "id_str": "1376334719281991682",
+                "indices": [
+                    14,
+                    28
+                ],
+                "name": "Unity Ferguson",
+                "screen_name": "FergusonUnity"
+            },
+            {
+                "id": 2549520571,
+                "id_str": "2549520571",
+                "indices": [
+                    29,
+                    43
+                ],
+                "name": "Your Vs You\u2019re",
+                "screen_name": "_your_grammar"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501776270481317889,
+    "id_str": "501776270481317889",
+    "in_reply_to_screen_name": "YourAnonNews",
+    "in_reply_to_status_id": 501774615837163521,
+    "in_reply_to_status_id_str": "501774615837163521",
+    "in_reply_to_user_id": 279390084,
+    "in_reply_to_user_id_str": "279390084",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@YourAnonNews @FergusonUnity @_your_grammar you're the only reason I have any idea what's going on... Thx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 06 06:46:56 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "///this is really fucking dumb\rBut that's what I'm all about\r Sitting on a dusty balcony couch  dipped out the house\rCan't stand indoors/// snap: whatplans ///",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 439,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 343,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2327566103,
+        "id_str": "2327566103",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "/mady",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2327566103/1409603603",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512827223326208001/dBayFQlv_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512827223326208001/dBayFQlv_normal.jpeg",
+        "profile_link_color": "998294",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "boldanditalic",
+        "statuses_count": 349,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

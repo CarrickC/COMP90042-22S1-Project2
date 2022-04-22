@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 21:04:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 8839632,
+                "id_str": "8839632",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "NBC Nightly News with Lester Holt",
+                "screen_name": "NBCNightlyNews"
+            },
+            {
+                "id": 1131444184794193921,
+                "id_str": "1131444184794193921",
+                "indices": [
+                    16,
+                    28
+                ],
+                "name": "Katty Kay",
+                "screen_name": "KattyKayBBC"
+            },
+            {
+                "id": 803694179079458816,
+                "id_str": "803694179079458816",
+                "indices": [
+                    29,
+                    32
+                ],
+                "name": "Vice President Kamala Harris",
+                "screen_name": "VP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489878256175169536,
+    "id_str": "489878256175169536",
+    "in_reply_to_screen_name": "NBCNightlyNews",
+    "in_reply_to_status_id": 489874311143260160,
+    "in_reply_to_status_id_str": "489874311143260160",
+    "in_reply_to_user_id": 8839632,
+    "in_reply_to_user_id_str": "8839632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NBCNightlyNews @KattyKayBBC @VP The US has nothing to do with this. Stay out of it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 13:13:06 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "singer,moviegoer,sportsfan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14572,
+        "follow_request_sent": false,
+        "followers_count": 172,
+        "following": false,
+        "friends_count": 326,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 276486392,
+        "id_str": "276486392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "USA",
+        "name": "rrlse",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "priusport",
+        "statuses_count": 148410,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

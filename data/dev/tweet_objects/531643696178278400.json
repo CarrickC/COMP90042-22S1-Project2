@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 03:05:09 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    13
+                ],
+                "text": "mlg"
+            },
+            {
+                "indices": [
+                    14,
+                    32
+                ],
+                "text": "smokeweedeveryday"
+            },
+            {
+                "indices": [
+                    33,
+                    44
+                ],
+                "text": "quickscope"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 154738988,
+                "id_str": "154738988",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Tommy Kickflip",
+                "screen_name": "Kryger_"
+            },
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    46,
+                    50
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 531643696178278400,
+    "id_str": "531643696178278400",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Kryger_ #mlg #smokeweedeveryday #quickscope \u201c@IGN: Pepsi is currently taste-testing Doritos flavored Mountrain Dew. Would you try it?\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 00:06:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ACAB BLM He/Him Guitarist in @SwingLowHC @BlackseerIA and @Greg_the_Hero",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tampon.horse",
+                        "expanded_url": "http://tampon.horse",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aJGiNebI6J"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25774,
+        "follow_request_sent": false,
+        "followers_count": 341,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 54049271,
+        "id_str": "54049271",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Pizza Zone 9",
+        "name": "Egregious Philbin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54049271/1599960361",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1464043832375496707/7G4G-OqV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464043832375496707/7G4G-OqV_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ARBITERofFILTH",
+        "statuses_count": 19711,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aJGiNebI6J",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 02 00:28:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pdf.usaid.gov/pdf_docs/PCAAB\u2026",
+                "expanded_url": "http://pdf.usaid.gov/pdf_docs/PCAAB500.pdf",
+                "indices": [
+                    57,
+                    79
+                ],
+                "url": "http://t.co/ARJh5bDATD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15739391,
+                "id_str": "15739391",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Conn Carroll",
+                "screen_name": "conncarroll"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528705291349934082,
+    "id_str": "528705291349934082",
+    "in_reply_to_screen_name": "conncarroll",
+    "in_reply_to_status_id": 528240834660298753,
+    "in_reply_to_status_id_str": "528240834660298753",
+    "in_reply_to_user_id": 15739391,
+    "in_reply_to_user_id_str": "15739391",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@conncarroll look at page 11... (d)...third point down.\n\nhttp://t.co/ARJh5bDATD\u00a0\n\nAll planned and executed(appropriate word) to. a. T.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 28 20:01:03 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2688258032,
+        "id_str": "2688258032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Sunny",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sunnyshine1969",
+        "statuses_count": 9,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

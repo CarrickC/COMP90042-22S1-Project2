@@ -1,0 +1,140 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 19 19:35:24 +0000 2016",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    54
+                ],
+                "text": "exposed"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2319494544,
+                "id_str": "2319494544",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sarcasm",
+                "screen_name": "WorstFact"
+            },
+            {
+                "id": 3436684095,
+                "id_str": "3436684095",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "WowSoPunny",
+                "screen_name": "WowSoPunny"
+            },
+            {
+                "id": 762522504,
+                "id_str": "762522504",
+                "indices": [
+                    23,
+                    34
+                ],
+                "name": "Barnacules Nerdgasm \u2122\ufe0f \ud83d\udda5",
+                "screen_name": "Barnacules"
+            },
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    35,
+                    45
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 689531625017839617,
+    "id_str": "689531625017839617",
+    "in_reply_to_screen_name": "WorstFact",
+    "in_reply_to_status_id": 640644123339431936,
+    "in_reply_to_status_id_str": "640644123339431936",
+    "in_reply_to_user_id": 2319494544,
+    "in_reply_to_user_id_str": "2319494544",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WorstFact @WowSoPunny @Barnacules @Microsoft #exposed \ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 15 08:22:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "22yo Dutchie \ud83c\uddf3\ud83c\uddf1 | DevOps + InfoSec | Electronics & IOT | 42 Student at @CodamCollege | Creator @112_Centraal | \ud83d\udee9\ud83d\ude81\ud83d\udee5\ud83d\ude91 @DeSpotgaaien | Not your helpdesk | \u2764G",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jkctech.nl",
+                        "expanded_url": "https://jkctech.nl/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uUKKdiYU3B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 52047,
+        "follow_request_sent": false,
+        "followers_count": 1250,
+        "following": false,
+        "friends_count": 688,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 437327776,
+        "id_str": "437327776",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26,
+        "location": "Den Helder, Nederland",
+        "name": "Jeffrey | JKCTech",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437327776/1561646845",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388807545746296832/-d_AueYe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388807545746296832/-d_AueYe_normal.jpg",
+        "profile_link_color": "22FF00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JKCTech",
+        "statuses_count": 90114,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uUKKdiYU3B",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

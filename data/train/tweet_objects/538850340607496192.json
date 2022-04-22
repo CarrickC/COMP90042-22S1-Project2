@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:21:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "alternet.org/abc-reportedly\u2026",
+                "expanded_url": "http://www.alternet.org/abc-reportedly-paid-darren-wilson-six-figure-fee-interview",
+                "indices": [
+                    63,
+                    85
+                ],
+                "url": "http://t.co/vgUpPzK9wA"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 24258355,
+                "id_str": "24258355",
+                "indices": [
+                    86,
+                    97
+                ],
+                "name": "Abby Martin",
+                "screen_name": "AbbyMartin"
+            },
+            {
+                "id": 813961831,
+                "id_str": "813961831",
+                "indices": [
+                    98,
+                    113
+                ],
+                "name": "BreakingTheSet",
+                "screen_name": "BreakingTheSet"
+            },
+            {
+                "id": 119519642,
+                "id_str": "119519642",
+                "indices": [
+                    114,
+                    129
+                ],
+                "name": "Media Roots",
+                "screen_name": "MediaRootsNews"
+            },
+            {
+                "id": 19580890,
+                "id_str": "19580890",
+                "indices": [
+                    130,
+                    138
+                ],
+                "name": "Lee Camp [Redacted]",
+                "screen_name": "LeeCamp"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 538850340607496192,
+    "id_str": "538850340607496192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "text": "ABC Reportedly Paid Darren Wilson Six-Figure Fee for Interview http://t.co/vgUpPzK9wA @AbbyMartin @BreakingTheSet @MediaRootsNews @LeeCamp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 15 20:09:59 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Twitter's decreed that I can only follow 5k accounts; so, don't take it personally if I don't follow you back.\n\nRTs/follow(er)s/favs don't = endorsement, etc.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35621,
+        "follow_request_sent": false,
+        "followers_count": 950,
+        "following": false,
+        "friends_count": 4823,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1596679669,
+        "id_str": "1596679669",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 117,
+        "location": "",
+        "name": "Se\u00f1or Chompers",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/434854730066444289/3YUwXaRs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/434854730066444289/3YUwXaRs_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "senorchompers",
+        "statuses_count": 55478,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

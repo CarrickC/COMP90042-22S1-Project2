@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 07:37:51 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544395898907013120,
+    "id_str": "544395898907013120",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 544391176137089024,
+    "in_reply_to_status_id_str": "544391176137089024",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@cnni he couldn't make his own eh? he needs some diapers and wet napkins as well I'd say.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 04 18:20:50 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "areligious,mother,fighting for equality,human,tree hugger, news junkie, depressed af. I FOLLOW IF I'M INTERESTED! B",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16024,
+        "follow_request_sent": false,
+        "followers_count": 298,
+        "following": false,
+        "friends_count": 345,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 211944197,
+        "id_str": "211944197",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "Valhalla ",
+        "name": "FlawedReality",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211944197/1428388489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615911800513658881/CwS6_sNE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615911800513658881/CwS6_sNE_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BiancaWolf79",
+        "statuses_count": 28357,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

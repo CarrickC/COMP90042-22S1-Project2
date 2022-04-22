@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 15:58:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436167837527203840,
+    "id_str": "436167837527203840",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 436160836524965891,
+    "in_reply_to_status_id_str": "436160836524965891",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNN hotpockets:when I absolutely want to have diarriha",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 13 05:53:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Independent health coach at Optavia",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 97,
+        "follow_request_sent": false,
+        "followers_count": 174,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 24136080,
+        "id_str": "24136080",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Washington MO",
+        "name": "Michael Russo",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24136080/1644258530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1490754443511541760/Oz8vKP2X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490754443511541760/Oz8vKP2X_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Redrocker1970",
+        "statuses_count": 18624,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

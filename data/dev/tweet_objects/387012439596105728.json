@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -80.29422851,
+            36.01616425
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Oct 07 00:32:10 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15976697,
+                "id_str": "15976697",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Michelle Malkin",
+                "screen_name": "michellemalkin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            36.01616425,
+            -80.29422851
+        ],
+        "type": "Point"
+    },
+    "id": 387012439596105728,
+    "id_str": "387012439596105728",
+    "in_reply_to_screen_name": "michellemalkin",
+    "in_reply_to_status_id": 387009577763360768,
+    "in_reply_to_status_id_str": "387009577763360768",
+    "in_reply_to_user_id": 15976697,
+    "in_reply_to_user_id_str": "15976697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.372655,
+                        35.990688
+                    ],
+                    [
+                        -80.247946,
+                        35.990688
+                    ],
+                    [
+                        -80.247946,
+                        36.08613
+                    ],
+                    [
+                        -80.372655,
+                        36.08613
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Fork, NC",
+        "id": "797ad239f687cf39",
+        "name": "South Fork",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/797ad239f687cf39.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@michellemalkin Obama and all his liberal worshipers are a bad joke!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 19:14:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love photography and drawing all my life and been building professional websites for less since 1999. The views expressed here are mine and mine alone.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "raypublishing.org",
+                        "expanded_url": "http://raypublishing.org/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jDdIdHvpxw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2218,
+        "follow_request_sent": false,
+        "followers_count": 265,
+        "following": false,
+        "friends_count": 253,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 28398741,
+        "id_str": "28398741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Winston-Salem, NC",
+        "name": "Scott Ray \uf8ff",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28398741/1400335887",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508487898617860104/wh2jps8G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508487898617860104/wh2jps8G_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ray_Publishing",
+        "statuses_count": 24519,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jDdIdHvpxw",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

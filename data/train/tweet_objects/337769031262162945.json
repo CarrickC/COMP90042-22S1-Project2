@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 24 03:16:27 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 337769031262162945,
+    "id_str": "337769031262162945",
+    "in_reply_to_screen_name": "AllenWest",
+    "in_reply_to_status_id": 336873759271157760,
+    "in_reply_to_status_id_str": "336873759271157760",
+    "in_reply_to_user_id": 237403203,
+    "in_reply_to_user_id_str": "237403203",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AllenWest That will make a tidy little sum for restitution to his victims.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 05 19:47:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Somewhere, out there, lies a dead horse. I say, Let's beat it!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "divineinnerbitchin.com",
+                        "expanded_url": "http://divineinnerbitchin.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KveCgcKmTt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13420,
+        "follow_request_sent": false,
+        "followers_count": 2516,
+        "following": false,
+        "friends_count": 1935,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 53987594,
+        "id_str": "53987594",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 124,
+        "location": "Jacksonville, FL",
+        "name": "Niedermeyer's Dead Horse",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53987594/1401558660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876595701618057217/WDTdbfOO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876595701618057217/WDTdbfOO_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NDH_j_m_f",
+        "statuses_count": 253939,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/KveCgcKmTt",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

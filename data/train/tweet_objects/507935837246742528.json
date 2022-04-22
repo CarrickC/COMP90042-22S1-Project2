@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 05 16:58:35 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1qkVcnk",
+                "expanded_url": "http://cnn.it/1qkVcnk",
+                "indices": [
+                    107,
+                    129
+                ],
+                "url": "http://t.co/JPW0IOUav6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 507935837246742528,
+    "id_str": "507935837246742528",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 507918114567499776,
+    "in_reply_to_status_id_str": "507918114567499776",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: Al-Shabaab leader Ahmed Abdi Godane killed in Monday's U.S. airstrike in Somalia, Pentagon says. http://t.co/JPW0IOUav6\u201d Murica!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 10 21:05:52 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Any opinions expressed are my own. Any discussion of entities I may work for or be affiliated with does not imply official endorsement of my statements.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8896,
+        "follow_request_sent": false,
+        "followers_count": 106,
+        "following": false,
+        "friends_count": 223,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2696303993,
+        "id_str": "2696303993",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Scribe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696303993/1556591733",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175440481766928384/ptEIQtcx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175440481766928384/ptEIQtcx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "spartan1908",
+        "statuses_count": 8053,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

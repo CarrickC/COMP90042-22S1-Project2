@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 01:40:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642150722407137281,
+    "id_str": "642150722407137281",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 642027433693171712,
+    "in_reply_to_status_id_str": "642027433693171712",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNNPolitics @emilycrackweldr Bernie sanders is my father",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 28 20:44:16 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "artist\u2665\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "etsy.com/shop/marianare\u2026",
+                        "expanded_url": "https://www.etsy.com/shop/marianarestrepo?ref=profile_header",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hJrVOnMGLE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50423,
+        "follow_request_sent": false,
+        "followers_count": 10138,
+        "following": false,
+        "friends_count": 881,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2999774756,
+        "id_str": "2999774756",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 32,
+        "location": "",
+        "name": "mari\ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2999774756/1610233822",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508617344549113861/rr4DW-2W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508617344549113861/rr4DW-2W_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "leom0on",
+        "statuses_count": 25646,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/hJrVOnMGLE",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

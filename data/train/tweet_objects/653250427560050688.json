@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 16:46:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 653250427560050688,
+    "id_str": "653250427560050688",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 653250169752977408,
+    "in_reply_to_status_id_str": "653250169752977408",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNN @HillaryClinton @BernieSanders Sure she is. LOL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 24 16:49:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "OIF Vet\r\nSGT-US Army Retired;\n Amateur Internet Troll",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1382,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 711,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19452984,
+        "id_str": "19452984",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Corinth, NY",
+        "name": "Matt \ud83d\udc49 Legendary \ud83d\udc48",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19452984/1539221787",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1050198406919057414/slmYzb9z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050198406919057414/slmYzb9z_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "matt1502",
+        "statuses_count": 2566,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

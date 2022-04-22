@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 00:26:38 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 161896622,
+                "id_str": "161896622",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Matt Stewart",
+                "screen_name": "torontostewart"
+            },
+            {
+                "id": 40471897,
+                "id_str": "40471897",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "John P. Hussman, Ph.D.",
+                "screen_name": "hussmanjp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251306107953393664,
+    "id_str": "1251306107953393664",
+    "in_reply_to_screen_name": "torontostewart",
+    "in_reply_to_status_id": 1251183250044788743,
+    "in_reply_to_status_id_str": "1251183250044788743",
+    "in_reply_to_user_id": 161896622,
+    "in_reply_to_user_id_str": "161896622",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@torontostewart @hussmanjp Once all cases are taken into account, my best guess is somewhere between 0.5% and 0.75%.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 01:24:30 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 2,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1245522400743170048,
+        "id_str": "1245522400743170048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Andrew Baker",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndrewB48762557",
+        "statuses_count": 32,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

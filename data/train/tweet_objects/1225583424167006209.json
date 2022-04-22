@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 00:53:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1223845496948588544,
+                "id_str": "1223845496948588544",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "COVID-19 Coronavirus Update",
+                "screen_name": "coronavirusup"
+            },
+            {
+                "id": 43477325,
+                "id_str": "43477325",
+                "indices": [
+                    15,
+                    23
+                ],
+                "name": "Nom de plume #IstandWithUkraine \ud83c\uddfa\ud83c\udde6",
+                "screen_name": "ecobard"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1225583424167006209,
+    "id_str": "1225583424167006209",
+    "in_reply_to_screen_name": "COVID19Update",
+    "in_reply_to_status_id": 1225471897116315652,
+    "in_reply_to_status_id_str": "1225471897116315652",
+    "in_reply_to_user_id": 1081972159860359170,
+    "in_reply_to_user_id_str": "1081972159860359170",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CoronaVirusUp @ecobard Cancer causing of course.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 04 12:14:12 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I'm just here for the comments.\n\n\u2764 B",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 24540,
+        "follow_request_sent": false,
+        "followers_count": 387,
+        "following": false,
+        "friends_count": 386,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 749939365984350209,
+        "id_str": "749939365984350209",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Dr. Swizzlestick",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/749939365984350209/1629916673",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1155969056467369984/RZgFB9KH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155969056467369984/RZgFB9KH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Swizzlestick8",
+        "statuses_count": 25524,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 21 19:38:45 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1252683209390739456",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/BWFmGVw8FJ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 1252683209390739456,
+    "id_str": "1252683209390739456",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "ONS weekly deaths in London, UK, updated for wk 15; the trend continues unabated. A visual aid for those who contin\u2026 https://t.co/BWFmGVw8FJ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 04 05:40:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Engineer. Foul-mouth advocate. Bullshit intolerant. Neurodivergent. Maker of things. Not that kind of Dr. \ud83c\uddec\ud83c\uddf7\ud83c\udde8\ud83c\udde6 \ud83d\ude37\ud83d\udc89\ud83d\udc89\ud83d\udc89\ud83d\udc89  #gigavaxxed (https://t.co/EaRrpzjy80)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "chng.it/CP4BjLND",
+                        "expanded_url": "http://chng.it/CP4BjLND",
+                        "indices": [
+                            131,
+                            154
+                        ],
+                        "url": "https://t.co/EaRrpzjy80"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lenapatsa.com",
+                        "expanded_url": "http://www.lenapatsa.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3bWXgyihTq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22835,
+        "follow_request_sent": false,
+        "followers_count": 711,
+        "following": false,
+        "friends_count": 748,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 111224533,
+        "id_str": "111224533",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Vancouver, BC",
+        "name": "lenapatsa",
+        "notifications": false,
+        "profile_background_color": "1C1C1C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111224533/1530347226",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343494962638331904/3JDdlFDZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343494962638331904/3JDdlFDZ_normal.jpg",
+        "profile_link_color": "F5DADF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFAC0",
+        "profile_text_color": "666362",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lenapatsa",
+        "statuses_count": 11300,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3bWXgyihTq",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

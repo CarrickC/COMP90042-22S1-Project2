@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 23:18:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2433017725,
+                "id_str": "2433017725",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jerry Pinard",
+                "screen_name": "jerry98649"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551155503393673216,
+    "id_str": "551155503393673216",
+    "in_reply_to_screen_name": "jerry98649",
+    "in_reply_to_status_id": 551109930137419777,
+    "in_reply_to_status_id_str": "551109930137419777",
+    "in_reply_to_user_id": 2433017725,
+    "in_reply_to_user_id_str": "2433017725",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jerry98649 @FoxNews well said!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 09 11:33:52 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "Love God, Love Others",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11910,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2613410354,
+        "id_str": "2613410354",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "clyde burlard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BurlardC",
+        "statuses_count": 3418,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

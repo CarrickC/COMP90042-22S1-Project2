@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 18:43:57 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 872169050771787776,
+                "id_str": "872169050771787776",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Bieber",
+                "screen_name": "ourkidrauhlside"
+            },
+            {
+                "id": 272859636,
+                "id_str": "272859636",
+                "indices": [
+                    17,
+                    29
+                ],
+                "name": "Char. \u10e6",
+                "screen_name": "eatingrande"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436209557216305152,
+    "id_str": "436209557216305152",
+    "in_reply_to_screen_name": "BieberGalaxyz",
+    "in_reply_to_status_id": 436074888638763008,
+    "in_reply_to_status_id_str": "436074888638763008",
+    "in_reply_to_user_id": 603558099,
+    "in_reply_to_user_id_str": "603558099",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for  Android</a>",
+    "text": "@OurKidrauhlSide @eatingrande",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 18 03:48:36 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2349875554,
+        "id_str": "2349875554",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Cherokee Hettinget",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/435623239574773760/vyVdGlSu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/435623239574773760/vyVdGlSu_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cherokeemay17",
+        "statuses_count": 13,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

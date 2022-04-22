@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 26 20:32:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 316535085,
+                "id_str": "316535085",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "\ud83c\udd78\ud83c\udd70\ud83c\udd7d\ud83c\uddec\ud83c\udde7",
+                "screen_name": "iantighe"
+            },
+            {
+                "id": 12233422,
+                "id_str": "12233422",
+                "indices": [
+                    10,
+                    23
+                ],
+                "name": "John Stevens",
+                "screen_name": "johnestevens"
+            },
+            {
+                "id": 4876915965,
+                "id_str": "4876915965",
+                "indices": [
+                    24,
+                    38
+                ],
+                "name": "Justice Today 3.5% #FBPE #REJOIN",
+                "screen_name": "justiceToday_"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1243274608108855297,
+    "id_str": "1243274608108855297",
+    "in_reply_to_screen_name": "iantighe",
+    "in_reply_to_status_id": 1243264554114703360,
+    "in_reply_to_status_id_str": "1243264554114703360",
+    "in_reply_to_user_id": 316535085,
+    "in_reply_to_user_id_str": "316535085",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@iantighe @johnestevens @justiceToday_ i hope you dont need one any time soon \ud83d\ude37",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 05 12:34:25 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 913,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 49,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 871706773517987842,
+        "id_str": "871706773517987842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Uk",
+        "name": "Tanis",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "scuba_pirate",
+        "statuses_count": 1993,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

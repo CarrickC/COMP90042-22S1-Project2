@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 06:48:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1e99ikQ",
+                "expanded_url": "http://huff.to/1e99ikQ",
+                "indices": [
+                    100,
+                    122
+                ],
+                "url": "http://t.co/iVrsNHAQLZ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427694504737386496,
+    "id_str": "427694504737386496",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 427690961280696320,
+    "in_reply_to_status_id_str": "427690961280696320",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@HuffingtonPost: Man who portrayed the Marlboro Man in the 1970s dies from smoking-related disease http://t.co/iVrsNHAQLZ\u201d happy to be free",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 23 00:51:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Teenage angst has paid off well. Now I'm bored and old.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1844,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 590,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 500307929,
+        "id_str": "500307929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Lompico, CA",
+        "name": "Casey Cochran",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500307929/1539391329",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/926353250902671360/ImEOCxFu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/926353250902671360/ImEOCxFu_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OmnibusAnalysis",
+        "statuses_count": 4213,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

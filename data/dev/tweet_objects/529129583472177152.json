@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 03 04:34:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            },
+            {
+                "id": 42958829,
+                "id_str": "42958829",
+                "indices": [
+                    23,
+                    38
+                ],
+                "name": "CBS Evening News",
+                "screen_name": "CBSEveningNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 529129583472177152,
+    "id_str": "529129583472177152",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fluffyguy i watch the @CBSEveningNews all the time &amp; those aren't even their banners/graphics/fonts so i knew it was fake.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 21 18:17:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Faith, Family, Friends, Food, Fashion & Cars",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2314,
+        "follow_request_sent": false,
+        "followers_count": 871,
+        "following": false,
+        "friends_count": 2142,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19299139,
+        "id_str": "19299139",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Dallas, TX",
+        "name": "David Martinez",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19299139/1641937592",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392228148582957059/NPudoAGM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392228148582957059/NPudoAGM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "poppymartinez",
+        "statuses_count": 15238,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

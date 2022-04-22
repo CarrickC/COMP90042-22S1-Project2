@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:53:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672171719616937985,
+    "id_str": "672171719616937985",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672169954016403456,
+    "in_reply_to_status_id_str": "672169954016403456",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC it's gonna get to a point where future Presidents will just say, \"well, this shit happens.\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 04 15:18:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Older, and somewhat wiser. Thirsty for knowledge, hungry for pancakes, and thankful for friendship. Former sports anchor and news producer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1769,
+        "follow_request_sent": false,
+        "followers_count": 474,
+        "following": false,
+        "friends_count": 596,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 348514757,
+        "id_str": "348514757",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "New Orleans, La.",
+        "name": "D-burg",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348514757/1638122479",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1470358598110883844/15gnqqF0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470358598110883844/15gnqqF0_normal.jpg",
+        "profile_link_color": "00B371",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shaolin_Milk",
+        "statuses_count": 3101,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

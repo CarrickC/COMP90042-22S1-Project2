@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 16:34:39 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "eonli.ne/IxgJG8",
+                "expanded_url": "http://eonli.ne/IxgJG8",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/zcSwqGGxSk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407185986846609409,
+    "id_str": "407185986846609409",
+    "in_reply_to_screen_name": "enews",
+    "in_reply_to_status_id": 407184707118309376,
+    "in_reply_to_status_id_str": "407184707118309376",
+    "in_reply_to_user_id": 2883841,
+    "in_reply_to_user_id_str": "2883841",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@eonline: Remembering Paul Walker: Fast and Furious Star Was \"So Happy\" Hours Before His Tragic Death http://t.co/zcSwqGGxSk\u201d \ud83d\udc94\ud83d\ude29 oh baby.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 31 00:46:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5693,
+        "follow_request_sent": false,
+        "followers_count": 361,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 274774016,
+        "id_str": "274774016",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "MGK",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/274774016/1568320313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172246468830334977/zq5JYWWG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172246468830334977/zq5JYWWG_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "madisonkampert",
+        "statuses_count": 10945,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

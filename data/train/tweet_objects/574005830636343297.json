@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -93.1299101,
+            45.1830668
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Mar 07 00:37:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.1830668,
+            -93.1299101
+        ],
+        "type": "Point"
+    },
+    "id": 574005830636343297,
+    "id_str": "574005830636343297",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 574004164570841088,
+    "in_reply_to_status_id_str": "574004164570841088",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.143239,
+                        45.123812
+                    ],
+                    [
+                        -93.018355,
+                        45.123812
+                    ],
+                    [
+                        -93.018355,
+                        45.210994
+                    ],
+                    [
+                        -93.143239,
+                        45.210994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lino Lakes, MN",
+        "id": "15c5018deaa4b663",
+        "name": "Lino Lakes",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/15c5018deaa4b663.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC If someone did this to my kids I would kick some ass. This is ridiculous and schools think they have a free pass to do anything.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 24 14:25:57 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Disc golf and sports fanatic! Father of two beautiful girls!!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 92,
+        "following": false,
+        "friends_count": 752,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 182401359,
+        "id_str": "182401359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Twin Cities, USA",
+        "name": "Craig Trottier",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/511699317112188930/Z6POrR8H_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/511699317112188930/Z6POrR8H_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "discgolfaces",
+        "statuses_count": 1327,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

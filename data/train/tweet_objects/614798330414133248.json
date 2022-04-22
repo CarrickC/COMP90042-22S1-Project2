@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 14:11:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783001052434067457,
+                "id_str": "783001052434067457",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CNN Wire",
+                "screen_name": "cnnwire"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    9,
+                    13
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614798330414133248,
+    "id_str": "614798330414133248",
+    "in_reply_to_screen_name": "CNNNSdigital",
+    "in_reply_to_status_id": 614604054552018944,
+    "in_reply_to_status_id_str": "614604054552018944",
+    "in_reply_to_user_id": 844364659,
+    "in_reply_to_user_id_str": "844364659",
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@CNNWire @CNN  ridiculous",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 14 03:39:57 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Business owner, classic automobile collector, conservative, Trump supporter,Patriot. Pro 2nd amendment, Pro Life. I Do not respond to Direct messages",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 77494,
+        "follow_request_sent": false,
+        "followers_count": 3599,
+        "following": false,
+        "friends_count": 3444,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2898934338,
+        "id_str": "2898934338",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "\ud83e\udd2a\ud83d\udd2b",
+        "name": "Deplorable David",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2898934338/1485137315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/860109531443073024/EulwndyL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/860109531443073024/EulwndyL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "potbellycat",
+        "statuses_count": 43986,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

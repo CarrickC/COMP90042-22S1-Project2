@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 20:12:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 52146755,
+                "id_str": "52146755",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "MythBusters",
+                "screen_name": "MythBusters"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524291996303642624,
+    "id_str": "524291996303642624",
+    "in_reply_to_screen_name": "MythBusters",
+    "in_reply_to_status_id": 524291188422356993,
+    "in_reply_to_status_id_str": "524291188422356993",
+    "in_reply_to_user_id": 52146755,
+    "in_reply_to_user_id_str": "52146755",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MythBusters No. Just no. Because NO!!! Does my vote count?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 01 19:17:37 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Lover of good books, good music, animals and naps, not necessarily in that order.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13345,
+        "follow_request_sent": false,
+        "followers_count": 543,
+        "following": false,
+        "friends_count": 1690,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 128645506,
+        "id_str": "128645506",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "",
+        "name": "MsMe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128645506/1400458253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/815904661702119426/aRpv1DVp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/815904661702119426/aRpv1DVp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "groovygoddess81",
+        "statuses_count": 10882,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 18:28:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "mashable.com/2014/10/09/pen\u2026",
+                "expanded_url": "http://mashable.com/2014/10/09/penis-bugatti-spray-paint-prank/",
+                "indices": [
+                    14,
+                    36
+                ],
+                "url": "http://t.co/V9vlTT3BGA"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 221452291,
+                "id_str": "221452291",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "Did You Know?",
+                "screen_name": "Know"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521729203117780992,
+    "id_str": "521729203117780992",
+    "in_reply_to_screen_name": "Know",
+    "in_reply_to_status_id": 521727831307722753,
+    "in_reply_to_status_id_str": "521727831307722753",
+    "in_reply_to_user_id": 221452291,
+    "in_reply_to_user_id_str": "221452291",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@Know Prank? http://t.co/V9vlTT3BGA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 23:32:09 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, father, Supervisor of Instructional Technology, EdTech adjunct professor.  Eater of mostly mediocre foods, and some good food.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8198,
+        "follow_request_sent": false,
+        "followers_count": 632,
+        "following": false,
+        "friends_count": 1631,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 112563061,
+        "id_str": "112563061",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 116,
+        "location": "Louisiana, USA",
+        "name": "J. Steele",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112563061/1421462448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489573568333627395/2SVk3X_h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489573568333627395/2SVk3X_h_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "26ABA4",
+        "profile_text_color": "0D0A0A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteeleTeaching",
+        "statuses_count": 7951,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

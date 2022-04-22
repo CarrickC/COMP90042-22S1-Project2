@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 21:01:05 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    79,
+                    87
+                ],
+                "text": "WarWand"
+            },
+            {
+                "indices": [
+                    88,
+                    93
+                ],
+                "text": "PTSD"
+            },
+            {
+                "indices": [
+                    94,
+                    106
+                ],
+                "text": "Afghanistan"
+            },
+            {
+                "indices": [
+                    108,
+                    117
+                ],
+                "text": "soldiers"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514157460094214144,
+    "id_str": "514157460094214144",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 514106273852174337,
+    "in_reply_to_status_id_str": "514106273852174337",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.255641,
+                        40.495865
+                    ],
+                    [
+                        -73.699793,
+                        40.495865
+                    ],
+                    [
+                        -73.699793,
+                        40.91533
+                    ],
+                    [
+                        -74.255641,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, NY",
+        "id": "27485069891a7938",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NBCNews  War destroys a generation of men, now emboldened to avoid hell again #WarWand #PTSD #Afghanistan  #soldiers",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 19 16:24:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "writer, observer, thought generator, video editor",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "weeksediting.com",
+                        "expanded_url": "https://www.weeksediting.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NYLvikn1dU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3621,
+        "follow_request_sent": false,
+        "followers_count": 453,
+        "following": false,
+        "friends_count": 1646,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 204856651,
+        "id_str": "204856651",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "New York City",
+        "name": "Charlie Weeks",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204856651/1566172132",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139979812867641344/z5icQa0Q_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139979812867641344/z5icQa0Q_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "charleswykes",
+        "statuses_count": 12387,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NYLvikn1dU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

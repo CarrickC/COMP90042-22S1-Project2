@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 03:20:47 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    123,
+                    137
+                ],
+                "text": "passthebudget"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1077446982,
+                "id_str": "1077446982",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Rep. Roger Williams",
+                "screen_name": "RepRWilliams"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387054874212319232,
+    "id_str": "387054874212319232",
+    "in_reply_to_screen_name": "RepRWilliams",
+    "in_reply_to_status_id": 386998038004113409,
+    "in_reply_to_status_id_str": "386998038004113409",
+    "in_reply_to_user_id": 1077446982,
+    "in_reply_to_user_id_str": "1077446982",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@RepRWilliams  Not passing a budget is the real low. No Budget No $ for All our Obligations. Every single one is important #passthebudget",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 28 23:34:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cancer Survivor! Sports fan: NASCAR (Smoke Fan Forever), Baseball (Angels), Hockey (LA Kings), LA Lakers, Football (Broncos). Liberal Arts AA. class A Smarta*s",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17008,
+        "follow_request_sent": false,
+        "followers_count": 168,
+        "following": false,
+        "friends_count": 654,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51883210,
+        "id_str": "51883210",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Earth 3rd Rock from the Sun",
+        "name": "Try to be good human",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51883210/1595223221",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450865512427237386/atUMiNDT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450865512427237386/atUMiNDT_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dkariel",
+        "statuses_count": 14493,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

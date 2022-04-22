@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 04 10:13:43 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1235146394769518594",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/Gs7CldsiMg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 61,
+    "favorited": false,
+    "geo": null,
+    "id": 1235146394769518594,
+    "id_str": "1235146394769518594",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "damn, every single store I've been to is out or rubbing alcohol and hand sanitizer\n\nseems like people are stacking\u2026 https://t.co/Gs7CldsiMg",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 29 06:34:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\uddf5\ud83c\uddf9 Art Generalist || Animation lover \u2665\ud83c\udfac || The unofficial voice of Celestia || Photoshop, Blender, 2D/3D Animator and shitposter || https://t.co/hBk8Xapapz",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "patreon.com/alumx",
+                        "expanded_url": "http://patreon.com/alumx",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "url": "https://t.co/hBk8Xapapz"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/c/Alumx",
+                        "expanded_url": "http://www.youtube.com/c/Alumx",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/79dQ0GwwLV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31591,
+        "follow_request_sent": false,
+        "followers_count": 18473,
+        "following": false,
+        "friends_count": 1405,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 449534338,
+        "id_str": "449534338",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 54,
+        "location": "Portugal",
+        "name": "Alum",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449534338/1547745326",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371050595990310914/L1_mEZBP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371050595990310914/L1_mEZBP_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Alumx_mlp",
+        "statuses_count": 14684,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/79dQ0GwwLV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

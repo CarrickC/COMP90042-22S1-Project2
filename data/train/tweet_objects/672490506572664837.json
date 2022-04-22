@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:00:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 715044396,
+                "id_str": "715044396",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Lisa",
+                "screen_name": "Rockprincess818"
+            },
+            {
+                "id": 347627434,
+                "id_str": "347627434",
+                "indices": [
+                    17,
+                    29
+                ],
+                "name": "Linda Suhler, PhD",
+                "screen_name": "LindaSuhler"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672490506572664837,
+    "id_str": "672490506572664837",
+    "in_reply_to_screen_name": "Rockprincess818",
+    "in_reply_to_status_id": 672433211604013057,
+    "in_reply_to_status_id_str": "672433211604013057",
+    "in_reply_to_user_id": 715044396,
+    "in_reply_to_user_id_str": "715044396",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Rockprincess818 @LindaSuhler interesting since reagans time, the numbers have unfortunately increase, why?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 27 18:18:36 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Combat #Veteran, #OEF, Retired #servicedog: @ECADServiceDogs & @PAALSinSC \nRT's are not endorsements.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "combatyid.wordpress.com",
+                        "expanded_url": "http://combatyid.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/16oFcNu4VO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7725,
+        "follow_request_sent": false,
+        "followers_count": 324,
+        "following": false,
+        "friends_count": 48,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2414736038,
+        "id_str": "2414736038",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 42,
+        "location": "",
+        "name": "leslie perl wohlfeld",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2414736038/1398364679",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/449253187686387712/uHratmr__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/449253187686387712/uHratmr__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "combatyid",
+        "statuses_count": 9471,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/16oFcNu4VO",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

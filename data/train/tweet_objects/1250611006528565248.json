@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 02:24:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250611006528565248",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/zh3YKj7YJ0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16303106,
+                "id_str": "16303106",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Stephen Colbert",
+                "screen_name": "StephenAtHome"
+            },
+            {
+                "id": 21373560,
+                "id_str": "21373560",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Jonathan LaPook, M.D",
+                "screen_name": "DrLaPook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250611006528565248,
+    "id_str": "1250611006528565248",
+    "in_reply_to_screen_name": "StephenAtHome",
+    "in_reply_to_status_id": 1250246021629849602,
+    "in_reply_to_status_id_str": "1250246021629849602",
+    "in_reply_to_user_id": 16303106,
+    "in_reply_to_user_id_str": "16303106",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@StephenAtHome @DrLaPook Dear Doctor, would it make Stephen and some first responders happier if he would invite th\u2026 https://t.co/zh3YKj7YJ0",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 05 03:06:33 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 568,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 82,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 483506331,
+        "id_str": "483506331",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Beautiful Pacific Northwest",
+        "name": "M Pearson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483506331/1512799713",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/939376205735673856/WDppL6ip_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/939376205735673856/WDppL6ip_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Oh_No_Not_That",
+        "statuses_count": 104,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

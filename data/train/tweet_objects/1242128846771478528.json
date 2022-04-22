@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 23 16:39:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1242128846771478528",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/4U7b1GPiUP"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1242128846771478528,
+    "id_str": "1242128846771478528",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        117.998322,
+                        27.14303
+                    ],
+                    [
+                        122.65458,
+                        27.14303
+                    ],
+                    [
+                        122.65458,
+                        31.176662
+                    ],
+                    [
+                        117.998322,
+                        31.176662
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+        "country_code": "CN",
+        "full_name": "\u6d59\u6c5f, \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+        "id": "0121ebb05543d440",
+        "name": "\u6d59\u6c5f",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0121ebb05543d440.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "What Are the Symptoms of COVID-19?\n\nEarly symptoms include:\n\nFever\nDry Cough\nFatigue\n\nThe virus can lead to pneumon\u2026 https://t.co/4U7b1GPiUP",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 15 23:04:03 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@fcbarcelona & @chelseafc",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "barcelona.com",
+                        "expanded_url": "http://barcelona.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/h2fRYFnzFg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 121652,
+        "follow_request_sent": false,
+        "followers_count": 8051,
+        "following": false,
+        "friends_count": 8115,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1106692565187727360,
+        "id_str": "1106692565187727360",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "United States",
+        "name": "No man is an island",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106692565187727360/1589884092",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272203003303428097/TvPoTjdq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272203003303428097/TvPoTjdq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CTM14541840",
+        "statuses_count": 50622,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/h2fRYFnzFg",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

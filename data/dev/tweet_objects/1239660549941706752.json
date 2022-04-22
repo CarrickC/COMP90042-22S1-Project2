@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 21:11:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239660549941706752",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/pyrzv86bN2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 112323166,
+                "id_str": "112323166",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "TrU3Ta1ent @UK",
+                "screen_name": "TrU3Ta1ent"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1239660549941706752,
+    "id_str": "1239660549941706752",
+    "in_reply_to_screen_name": "TrU3Ta1ent",
+    "in_reply_to_status_id": 1239658232831979521,
+    "in_reply_to_status_id_str": "1239658232831979521",
+    "in_reply_to_user_id": 112323166,
+    "in_reply_to_user_id_str": "112323166",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TrU3Ta1ent i understand that but you dont know if it's swf before a match so said knowledge wouldnt make a differe\u2026 https://t.co/pyrzv86bN2",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 30 18:49:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow me at https://t.co/5QrLy7ma3F to stay updated on games and giveaways \ud83d\ude09\ud83d\udc4d\ud83c\udffb or enjoy clips here if you missed it \ud83d\ude4c\ud83c\udffb",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/mamiwolfie",
+                        "expanded_url": "http://twitch.tv/mamiwolfie",
+                        "indices": [
+                            13,
+                            36
+                        ],
+                        "url": "https://t.co/5QrLy7ma3F"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 628,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 34,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 450850603,
+        "id_str": "450850603",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Pennsylvania",
+        "name": "MamiWolfie",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/450850603/1504369395",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/904016874383527936/CR7hw4V4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/904016874383527936/CR7hw4V4_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MudbloodWolfie",
+        "statuses_count": 1820,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

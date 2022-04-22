@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 09:48:32 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    95
+                ],
+                "text": "Careless"
+            },
+            {
+                "indices": [
+                    96,
+                    101
+                ],
+                "text": "dumb"
+            },
+            {
+                "indices": [
+                    102,
+                    117
+                ],
+                "text": "cantmakethisup"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 329908303,
+                "id_str": "329908303",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Corey Campbell",
+                "screen_name": "CCarlCampbell"
+            },
+            {
+                "id": 245006449,
+                "id_str": "245006449",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "commish joe",
+                "screen_name": "commishjoe"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527396558409859072,
+    "id_str": "527396558409859072",
+    "in_reply_to_screen_name": "CCarlCampbell",
+    "in_reply_to_status_id": 527296042304565249,
+    "in_reply_to_status_id_str": "527296042304565249",
+    "in_reply_to_user_id": 329908303,
+    "in_reply_to_user_id_str": "329908303",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CCarlCampbell @commishjoe So, is this more embarrassing than the homer off his head? #Careless #dumb #cantmakethisup",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 16 02:34:59 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The price of ridding society of bad is always high. - CIA Director Richard Helms   #Cubs #Blackhawks #DaBears #BradleyBraves #Ponies",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9656,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 564,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2346081396,
+        "id_str": "2346081396",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "",
+        "name": "D. RustyCabbage",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2346081396/1484100957",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1502762026023591936/f2tX57JM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1502762026023591936/f2tX57JM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DRustyCabbage",
+        "statuses_count": 15760,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

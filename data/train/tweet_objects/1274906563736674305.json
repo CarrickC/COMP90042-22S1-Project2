@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 03:26:26 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1274906563736674305",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/ywzr1rAlFU"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1175959416975364096,
+                "id_str": "1175959416975364096",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Firthermor",
+                "screen_name": "firthermor"
+            },
+            {
+                "id": 606729696,
+                "id_str": "606729696",
+                "indices": [
+                    12,
+                    26
+                ],
+                "name": "Banjooie",
+                "screen_name": "CocoaEyebrows"
+            },
+            {
+                "id": 132029493,
+                "id_str": "132029493",
+                "indices": [
+                    27,
+                    41
+                ],
+                "name": "T. Greg Doucette",
+                "screen_name": "greg_doucette"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1274906563736674305,
+    "id_str": "1274906563736674305",
+    "in_reply_to_screen_name": "firthermor",
+    "in_reply_to_status_id": 1274903581695467520,
+    "in_reply_to_status_id_str": "1274903581695467520",
+    "in_reply_to_user_id": 1175959416975364096,
+    "in_reply_to_user_id_str": "1175959416975364096",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@firthermor @CocoaEyebrows @greg_doucette What the hell kind of situation do you even consider needing to take some\u2026 https://t.co/ywzr1rAlFU",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 15 00:32:38 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 251,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 239,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 524874876,
+        "id_str": "524874876",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Skylar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1334174267769049089/MGTIg222_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334174267769049089/MGTIg222_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "frostburner",
+        "statuses_count": 897,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

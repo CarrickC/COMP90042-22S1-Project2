@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 29 16:08:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    7,
+                    11
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538726217403219968,
+    "id_str": "538726217403219968",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 538724882461097986,
+    "in_reply_to_status_id_str": "538724882461097986",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@deray @ABC proceeds of crime need to be redistributed to family of Mike Brown",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 13:14:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83d\udca7Socialist, unionist: Vote [1] @vic_socialists! \u270a\nFreedom, equality & save the planet! \ud83c\udf0d \u262d [-o-]",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "redflag.org.au",
+                        "expanded_url": "http://redflag.org.au",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EqXilxZPJM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13591,
+        "follow_request_sent": false,
+        "followers_count": 4384,
+        "following": false,
+        "friends_count": 5010,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49003070,
+        "id_str": "49003070",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 64,
+        "location": "Wurundjeri Land (Melbourne AU)",
+        "name": "Tomtom",
+        "notifications": false,
+        "profile_background_color": "030103",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49003070/1437054640",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064485794780393474/6QOmvCNU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064485794780393474/6QOmvCNU_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "ADF1FC",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "FA8459",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "forevertoremain",
+        "statuses_count": 15731,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EqXilxZPJM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

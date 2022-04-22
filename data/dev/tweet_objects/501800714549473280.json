@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 18:39:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 156743986,
+                "id_str": "156743986",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Emmanuelle Saliba \ud83e\uddd0",
+                "screen_name": "_esaliba"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501800714549473280,
+    "id_str": "501800714549473280",
+    "in_reply_to_screen_name": "_esaliba",
+    "in_reply_to_status_id": 501760566160289794,
+    "in_reply_to_status_id_str": "501760566160289794",
+    "in_reply_to_user_id": 156743986,
+    "in_reply_to_user_id_str": "156743986",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@_esaliba how do u know 78 was the total arrests?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 14 17:50:06 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Animal L\u2661ver, vegetarian, NASCAR hoosier, conservative.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2732386459,
+        "id_str": "2732386459",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Alton, Il",
+        "name": "Amanda Oulson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2732386459/1412391350",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776069262838562816/7fqCRPP__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776069262838562816/7fqCRPP__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Amandaoulson",
+        "statuses_count": 246,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

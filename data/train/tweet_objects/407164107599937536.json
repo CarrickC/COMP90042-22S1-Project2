@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 15:07:42 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "usm.ag/Iyf3fg",
+                "expanded_url": "http://usm.ag/Iyf3fg",
+                "indices": [
+                    101,
+                    123
+                ],
+                "url": "http://t.co/5MzACdOdca"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20012204,
+                "id_str": "20012204",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "Us Weekly",
+                "screen_name": "usweekly"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 407164107599937536,
+    "id_str": "407164107599937536",
+    "in_reply_to_screen_name": "usweekly",
+    "in_reply_to_status_id": 407162181059612672,
+    "in_reply_to_status_id_str": "407162181059612672",
+    "in_reply_to_user_id": 20012204,
+    "in_reply_to_user_id_str": "20012204",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@usweekly: Paul Walker died at the age of 40 Saturday. Our hearts go out to his family and friends: http://t.co/5MzACdOdca\u201d I am so, so sad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 08:54:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mom... Entertainment/ Features Reporter * Can be seen every morning on News 12 Long Island",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "elisadistefano.com",
+                        "expanded_url": "http://www.elisadistefano.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tWDK9OGOLm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11365,
+        "follow_request_sent": false,
+        "followers_count": 16189,
+        "following": false,
+        "friends_count": 1339,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49578063,
+        "id_str": "49578063",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 145,
+        "location": "NY",
+        "name": "Elisa DiStefano",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49578063/1548355857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088619905937743872/A2jV5jiX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088619905937743872/A2jV5jiX_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ElisaDiStefano",
+        "statuses_count": 12267,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tWDK9OGOLm",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

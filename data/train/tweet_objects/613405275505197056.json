@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 17:56:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1Lzupvk",
+                "expanded_url": "http://huff.to/1Lzupvk",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/Ay8JJmmgIy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613405275505197056,
+    "id_str": "613405275505197056",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 613404935003217920,
+    "in_reply_to_status_id_str": "613404935003217920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "\u201c@HuffingtonPost: Cops bought the alleged church shooter Burger King hours after killings http://t.co/Ay8JJmmgIy\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 12 14:38:06 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\uf8ff\ud83e\udd19\ud83c\udfff",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2917,
+        "follow_request_sent": false,
+        "followers_count": 965,
+        "following": false,
+        "friends_count": 1501,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15097115,
+        "id_str": "15097115",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Everywhere",
+        "name": "Seremani",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15097115/1610638717",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484354750774603780/CHr116nW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484354750774603780/CHr116nW_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jazzyl",
+        "statuses_count": 5136,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

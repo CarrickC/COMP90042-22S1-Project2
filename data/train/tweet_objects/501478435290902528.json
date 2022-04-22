@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 18 21:19:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501478435290902528,
+    "id_str": "501478435290902528",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 501474962935648256,
+    "in_reply_to_status_id_str": "501474962935648256",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@realDonaldTrump if you felt so strongly about it, why did you attend?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 20:03:18 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Adventurer",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 190,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 97,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31210668,
+        "id_str": "31210668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Santa Monica,CA-DelrayBeach,FL",
+        "name": "Lonnie",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31210668/1356870125",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2960957508/c1f6572d58a145ab2087b677ec47f44f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2960957508/c1f6572d58a145ab2087b677ec47f44f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lrattner",
+        "statuses_count": 7731,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

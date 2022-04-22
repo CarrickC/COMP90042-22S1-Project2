@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 20:49:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            },
+            {
+                "id": 19003664,
+                "id_str": "19003664",
+                "indices": [
+                    11,
+                    23
+                ],
+                "name": "CBC Montreal",
+                "screen_name": "CBCMontreal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525026271760490496,
+    "id_str": "525026271760490496",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 525024066152169473,
+    "in_reply_to_status_id_str": "525024066152169473",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.972965,
+                        45.410095
+                    ],
+                    [
+                        -73.473085,
+                        45.410095
+                    ],
+                    [
+                        -73.473085,
+                        45.705566
+                    ],
+                    [
+                        -73.972965,
+                        45.705566
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Montr\u00e9al, Qu\u00e9bec",
+        "id": "36775d842cbec509",
+        "name": "Montr\u00e9al",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/36775d842cbec509.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CBCAlerts @CBCMontreal \nJust tragic.  His family must be devastated.  RIP.  To think that this man was killed at home and not in battle.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 08 08:00:13 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 104,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 67,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2846586258,
+        "id_str": "2846586258",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Montreal",
+        "name": "Bev Noel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bnoel31",
+        "statuses_count": 985,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

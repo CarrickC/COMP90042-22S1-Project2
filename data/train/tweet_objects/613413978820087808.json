@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 18:31:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    34
+                ],
+                "text": "freddie"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613413978820087808,
+    "id_str": "613413978820087808",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 613404935003217920,
+    "in_reply_to_status_id_str": "613404935003217920",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HuffingtonPost You think #freddie gray got any Burger King? Ridiculous.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 30 13:00:26 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Is this America? #DCStatehood #HTTC   \u201cA riot is a rhyme of the unheard\u201d",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10454,
+        "follow_request_sent": false,
+        "followers_count": 144,
+        "following": false,
+        "friends_count": 752,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2794577969,
+        "id_str": "2794577969",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "DMV\u27a1\ufe0fNM\u27a1\ufe0fDMV\u27a1\ufe0fATX",
+        "name": "dCGrimeKid",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2794577969/1611163701",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1016868795745435648/igCKOKSi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016868795745435648/igCKOKSi_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MdSnakeheadz",
+        "statuses_count": 35659,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

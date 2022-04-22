@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 02:41:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/jLmufhkRQm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527289049074380800,
+    "id_str": "527289049074380800",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/jLmufhkRQm\u201d jackass",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 14 20:48:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Shut y'all ass up and laugh, it's Twitter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35296,
+        "follow_request_sent": false,
+        "followers_count": 897,
+        "following": false,
+        "friends_count": 679,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 238292383,
+        "id_str": "238292383",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "CHI \u2708\ufe0f Los Angeles",
+        "name": "D Mac",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238292383/1628222941",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226710549183885312/kA2_5mC-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226710549183885312/kA2_5mC-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "D_Mac_City",
+        "statuses_count": 109607,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

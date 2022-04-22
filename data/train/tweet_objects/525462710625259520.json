@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -70.26215083,
+            43.763512
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Oct 24 01:44:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 375721095,
+                "id_str": "375721095",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Breaking911",
+                "screen_name": "Breaking911"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            43.763512,
+            -70.26215083
+        ],
+        "type": "Point"
+    },
+    "id": 525462710625259520,
+    "id_str": "525462710625259520",
+    "in_reply_to_screen_name": "Breaking911",
+    "in_reply_to_status_id": 525411618231169025,
+    "in_reply_to_status_id_str": "525411618231169025",
+    "in_reply_to_user_id": 375721095,
+    "in_reply_to_user_id_str": "375721095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.084335,
+                        42.917127
+                    ],
+                    [
+                        -66.885075,
+                        42.917127
+                    ],
+                    [
+                        -66.885075,
+                        47.459687
+                    ],
+                    [
+                        -71.084335,
+                        47.459687
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maine, USA",
+        "id": "463f5d9615d7d1be",
+        "name": "Maine",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Breaking911 @ianhenny777 heart is breaking.  Prayers from your neighbors to the south.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 08 03:34:58 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mom, wife and nerd at heart. Love The Walking Dead, Seattle Seahawks, and laughing till you cry.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 482,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 444,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 867366073,
+        "id_str": "867366073",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Scottsdale, AZ",
+        "name": "Danielle Allen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/867366073/1484794077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1016546923673628673/KGOHTPmH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016546923673628673/KGOHTPmH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Danie1974allen",
+        "statuses_count": 1187,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

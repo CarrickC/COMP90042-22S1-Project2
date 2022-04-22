@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 19:33:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15464697,
+                "id_str": "15464697",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Judd Legum",
+                "screen_name": "JuddLegum"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531167649963581440,
+    "id_str": "531167649963581440",
+    "in_reply_to_screen_name": "JuddLegum",
+    "in_reply_to_status_id": 531161914689482752,
+    "in_reply_to_status_id_str": "531161914689482752",
+    "in_reply_to_user_id": 15464697,
+    "in_reply_to_user_id_str": "15464697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@JuddLegum not only did I just throw up a little in my mouth, but I'm guessing that it tastes better than Dewitos.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 11 19:58:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Communications Officer, Greater St. Louis, Inc. Tweets about St. Louis stuff, #geospatial technology & sports. #STLMade #GoDeacs #STLCardinals",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "GreaterSTLInc.com",
+                        "expanded_url": "http://www.GreaterSTLInc.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/n19PevYsLg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13650,
+        "follow_request_sent": false,
+        "followers_count": 1316,
+        "following": false,
+        "friends_count": 1126,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 46475021,
+        "id_str": "46475021",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 53,
+        "location": "St. Louis, Missouri",
+        "name": "Tony Wyche",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46475021/1606237562",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1480780404009447427/Z4gfbXW2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480780404009447427/Z4gfbXW2_normal.jpg",
+        "profile_link_color": "C20027",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TonyWyche",
+        "statuses_count": 13668,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/n19PevYsLg",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

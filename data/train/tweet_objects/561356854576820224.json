@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 31 02:54:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            },
+            {
+                "id": 720226879,
+                "id_str": "720226879",
+                "indices": [
+                    98,
+                    108
+                ],
+                "name": "NiCoLe",
+                "screen_name": "nicoletMg"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 561356854576820224,
+    "id_str": "561356854576820224",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 559863517151784960,
+    "in_reply_to_status_id_str": "559863517151784960",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BurgerKing: A good relationship:\n\u2611 calls you to just say hi\n\u2611 wants to see you\n\u2611 brings you BK\u201d @nicoletMg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 30 21:36:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fate loves the fearless. sc: brianna_soule",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9099,
+        "follow_request_sent": false,
+        "followers_count": 467,
+        "following": false,
+        "friends_count": 430,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 345601562,
+        "id_str": "345601562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Brianna Soule",
+        "notifications": false,
+        "profile_background_color": "EB0303",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345601562/1509678584",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1302411044858494976/XjMHbCD8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302411044858494976/XjMHbCD8_normal.jpg",
+        "profile_link_color": "ABACAD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "brianna_soule",
+        "statuses_count": 24867,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 16:14:09 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    10,
+                    21
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 4062820637,
+                "id_str": "4062820637",
+                "indices": [
+                    22,
+                    37
+                ],
+                "name": "Kris Williams",
+                "screen_name": "KrisWilliams81"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    38,
+                    50
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524232110727385088,
+    "id_str": "524232110727385088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@casajudd @fxnscitech @KrisWilliams81 @LiveScience yay",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 29 14:41:48 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "PV2. Joel Judd. United States Army ( or U.S.A for short).",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9461,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2778625597,
+        "id_str": "2778625597",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Boulevard of Broken Dreams",
+        "name": "judge joel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2778625597/1507218105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960922965809532928/xS0G83CZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960922965809532928/xS0G83CZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoelJudd5867",
+        "statuses_count": 7256,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

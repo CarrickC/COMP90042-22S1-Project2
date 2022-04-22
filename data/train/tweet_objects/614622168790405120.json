@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:31:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "favstar.fm/t/614610102927\u2026",
+                "expanded_url": "http://favstar.fm/t/614610102927147008",
+                "indices": [
+                    46,
+                    68
+                ],
+                "url": "http://t.co/eIs1Ypc9EI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 249293918,
+                "id_str": "249293918",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Trevor S",
+                "screen_name": "trevso_electric"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614622168790405120,
+    "id_str": "614622168790405120",
+    "in_reply_to_screen_name": "trevso_electric",
+    "in_reply_to_status_id": 614610102927147008,
+    "in_reply_to_status_id_str": "614610102927147008",
+    "in_reply_to_user_id": 249293918,
+    "in_reply_to_user_id_str": "249293918",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://favstar.fm\" rel=\"nofollow\">Favstar.FM</a>",
+    "text": "@trevso_electric Congrats on your 250\u2605 tweet! http://t.co/eIs1Ypc9EI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 03 23:30:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sign in to favstar.fm to have it collect your favs and retweets instantly.  Ask @favstar if you have questions.  Enjoy!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "favstar.fm",
+                        "expanded_url": "http://favstar.fm",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ht9Ek28LJ2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 9023,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 404460410,
+        "id_str": "404460410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 415,
+        "location": "",
+        "name": "Favstar.fm 250\u2605's",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2610821608/ou5xrev3n3mcru4dx0fj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2610821608/ou5xrev3n3mcru4dx0fj_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Favstar250",
+        "statuses_count": 1640040,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ht9Ek28LJ2",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

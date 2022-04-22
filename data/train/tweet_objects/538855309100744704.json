@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 30 00:41:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14849562,
+                "id_str": "14849562",
+                "indices": [
+                    1,
+                    14
+                ],
+                "name": "Wesley",
+                "screen_name": "WesleyLowery"
+            },
+            {
+                "id": 1716581,
+                "id_str": "1716581",
+                "indices": [
+                    46,
+                    56
+                ],
+                "name": "Elon James White",
+                "screen_name": "elonjames"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538855309100744704,
+    "id_str": "538855309100744704",
+    "in_reply_to_screen_name": "WesleyLowery",
+    "in_reply_to_status_id": 538854366199820288,
+    "in_reply_to_status_id_str": "538854366199820288",
+    "in_reply_to_user_id": 14849562,
+    "in_reply_to_user_id_str": "14849562",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@WesleyLowery wow. Missed that along the way @elonjames",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 18 21:08:39 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I (he/him) work in software but twitter is for: (\u256f\u0ca0.\u0ca0)\u256f\ufe35 \u253b\u2501\u253b",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "obelenus.com",
+                        "expanded_url": "http://obelenus.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/879q2X0utJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 71770,
+        "follow_request_sent": false,
+        "followers_count": 520,
+        "following": false,
+        "friends_count": 924,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 18225367,
+        "id_str": "18225367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 77,
+        "location": "Somerville, MA",
+        "name": "NoKings",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18225367/1510192820",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2394396250/a6ij7j43xtnoniii58fr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2394396250/a6ij7j43xtnoniii58fr_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jobelenus",
+        "statuses_count": 135082,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/879q2X0utJ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

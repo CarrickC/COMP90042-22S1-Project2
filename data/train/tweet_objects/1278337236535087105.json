@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 14:38:42 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 789274485073600513,
+                "id_str": "789274485073600513",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Gigi",
+                "screen_name": "5sandytoes"
+            },
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1278337236535087105,
+    "id_str": "1278337236535087105",
+    "in_reply_to_screen_name": "5sandytoes",
+    "in_reply_to_status_id": 1278183509195014145,
+    "in_reply_to_status_id_str": "1278183509195014145",
+    "in_reply_to_user_id": 789274485073600513,
+    "in_reply_to_user_id_str": "789274485073600513",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@5sandytoes @AlexBerenson Hundo p",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 01 14:08:14 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Aspiring to be a knight of faith. The particular over the universal. Everyday mystic. Romantic and analytical.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8019,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1278329519246503938,
+        "id_str": "1278329519246503938",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Johanna de Silencio",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278329519246503938/1597482511",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294561592349061120/Zn6b8mn1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294561592349061120/Zn6b8mn1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AcademicFerral",
+        "statuses_count": 1701,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

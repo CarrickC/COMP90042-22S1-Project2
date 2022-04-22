@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 17:11:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nhs.uk/coronavirus",
+                "expanded_url": "http://www.nhs.uk/coronavirus",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/AohRykiy5U"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 392733881,
+                "id_str": "392733881",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Caroline kurzeja",
+                "screen_name": "ClkManchEster"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240324987938058241,
+    "id_str": "1240324987938058241",
+    "in_reply_to_screen_name": "ClkManchEster",
+    "in_reply_to_status_id": 1240282291697586177,
+    "in_reply_to_status_id_str": "1240282291697586177",
+    "in_reply_to_user_id": 392733881,
+    "in_reply_to_user_id_str": "392733881",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ClkManchEster The symptoms are a high temperature and a new, continuous cough. See https://t.co/AohRykiy5U for more information.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 11 09:58:30 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Led by GPs working in partnership with local people and organisations, we commission health services for Warrington.  Tweets monitored 9-5, Mon-Fri.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "warringtonccg.nhs.uk",
+                        "expanded_url": "http://www.warringtonccg.nhs.uk/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3X1QYibexS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1952,
+        "follow_request_sent": false,
+        "followers_count": 8844,
+        "following": false,
+        "friends_count": 886,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 264101295,
+        "id_str": "264101295",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 134,
+        "location": "Warrington",
+        "name": "NHS Warrington Clinical Commissioning Group",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264101295/1626790980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1463431379312599046/S2RGeIjj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1463431379312599046/S2RGeIjj_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WarringtonCCG",
+        "statuses_count": 13106,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3X1QYibexS",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

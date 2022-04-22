@@ -1,0 +1,206 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 13:58:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iWuNRmDAf2",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/iWuNRmDAf2"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1t2ePlj",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "indices": [
+                    82,
+                    104
+                ],
+                "url": "http://t.co/9tY7STBu8l"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    67,
+                    79
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iWuNRmDAf2",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    105,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/iWuNRmDAf2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524197949040238592,
+    "id_str": "524197949040238592",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@fxnscitech: Puppy-sized spider surprises scientist in rainforest @LiveScience | http://t.co/9tY7STBu8l http://t.co/iWuNRmDAf2\u201d OH MY GOD \ud83d\ude33",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 20 14:21:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud Retired 22 yr Air Force 1st Sgt, former cop, juvenile socialworker,photos/video\u2019s and classic cars, Paramedic, https://t.co/7UslxlhIi6 trek,photography,guns",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "counselor.star",
+                        "expanded_url": "http://counselor.star",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/7UslxlhIi6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2448,
+        "follow_request_sent": false,
+        "followers_count": 2049,
+        "following": false,
+        "friends_count": 4019,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 41367395,
+        "id_str": "41367395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Georgia, USA",
+        "name": "Gene Caporale",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41367395/1366506611",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000413219982/24f53149d4c9d43b69c04cb13c3032c1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000413219982/24f53149d4c9d43b69c04cb13c3032c1_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1Minddoctor",
+        "statuses_count": 16647,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

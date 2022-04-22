@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 04 14:17:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43182702,
+                "id_str": "43182702",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Defund NPR PBS & NEA",
+                "screen_name": "Jarjarbug"
+            },
+            {
+                "id": 1716086210,
+                "id_str": "1716086210",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "\ud83c\udf37Slone Chapman\ud83c\udf37",
+                "screen_name": "jessnatmom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 518404496360472577,
+    "id_str": "518404496360472577",
+    "in_reply_to_screen_name": "Jarjarbug",
+    "in_reply_to_status_id": 517051126466625536,
+    "in_reply_to_status_id_str": "517051126466625536",
+    "in_reply_to_user_id": 43182702,
+    "in_reply_to_user_id_str": "43182702",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Jarjarbug @jessnatmom an absolutely disgraceful situation WE THE PEOPLE extend our apology  because our Adm has failed their duty",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 14 20:34:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LAUGHTER IS THE BEST MEDICINE-The World is turned upside down, up to us to flip it over RT the wrongs",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1304,
+        "follow_request_sent": false,
+        "followers_count": 1393,
+        "following": false,
+        "friends_count": 2000,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 133024127,
+        "id_str": "133024127",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": "",
+        "name": "Doctor B",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133024127/1363030829",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3429985696/913bdffa1077060ed692c91f2480be1e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3429985696/913bdffa1077060ed692c91f2480be1e_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chirofrenzy",
+        "statuses_count": 118450,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 13:15:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251862016790343682",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/SjVpB7fDxu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251862016790343682,
+    "id_str": "1251862016790343682",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrZweliMkhize I have a question. Yesterday someone with a mask was sneezing at the shop and l had one too. What ar\u2026 https://t.co/SjVpB7fDxu",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 11 12:23:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Israel I stand with you.#ISupportIsrael .Am a child of God ,a daughter of Prophet Phillip Banda and Prophet TB Joshua",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1482,
+        "follow_request_sent": false,
+        "followers_count": 211,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 142660491,
+        "id_str": "142660491",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Johannesburg",
+        "name": "NobesuthuNgcongo",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/142660491/1418217956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905495416325767169/IQnOHW47_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905495416325767169/IQnOHW47_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Noppsy88",
+        "statuses_count": 3912,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

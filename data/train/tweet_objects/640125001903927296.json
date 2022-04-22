@@ -1,0 +1,290 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 05 11:31:08 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    67,
+                    76
+                ],
+                "text": "RedCross"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MuQw2o4HSg",
+                "expanded_url": "https://twitter.com/griffwitte/status/640107106943766528/video/1",
+                "id": 640106936411799552,
+                "id_str": "640106936411799552",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/640106936411799552/pu/img/oW3lLAQTsDdcojT1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/640106936411799552/pu/img/oW3lLAQTsDdcojT1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 640107106943766528,
+                "source_status_id_str": "640107106943766528",
+                "source_user_id": 166002047,
+                "source_user_id_str": "166002047",
+                "type": "photo",
+                "url": "http://t.co/MuQw2o4HSg"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 166002047,
+                "id_str": "166002047",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "Griff Witte",
+                "screen_name": "griffwitte"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "contributors_enabled": false,
+                        "created_at": "Tue Jul 13 02:32:19 +0000 2010",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "Democracy Editor at The Washington Post. Recovering foreign correspondent: Berlin, London, Jerusalem, Islamabad, Kabul.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "washingtonpost.com/2011/03/02/ABD\u2026",
+                                        "expanded_url": "http://www.washingtonpost.com/2011/03/02/ABD0vmP_page.html",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ],
+                                        "url": "https://t.co/RO1PTqHv25"
+                                    }
+                                ]
+                            }
+                        },
+                        "favourites_count": 2647,
+                        "follow_request_sent": false,
+                        "followers_count": 5028,
+                        "following": false,
+                        "friends_count": 1084,
+                        "geo_enabled": true,
+                        "has_extended_profile": false,
+                        "id": 166002047,
+                        "id_str": "166002047",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": null,
+                        "listed_count": 216,
+                        "location": "Washington, DC",
+                        "name": "Griff Witte",
+                        "notifications": false,
+                        "profile_background_color": "ACDED6",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166002047/1582645136",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1449730710265339907/n0hR2PHF_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449730710265339907/n0hR2PHF_normal.jpg",
+                        "profile_link_color": "038543",
+                        "profile_sidebar_border_color": "EEEEEE",
+                        "profile_sidebar_fill_color": "F6F6F6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "protected": false,
+                        "screen_name": "griffwitte",
+                        "statuses_count": 1256,
+                        "time_zone": null,
+                        "translator_type": "none",
+                        "url": "https://t.co/RO1PTqHv25",
+                        "utc_offset": null,
+                        "verified": true,
+                        "withheld_in_countries": []
+                    }
+                },
+                "display_url": "pic.twitter.com/MuQw2o4HSg",
+                "expanded_url": "https://twitter.com/griffwitte/status/640107106943766528/video/1",
+                "id": 640106936411799552,
+                "id_str": "640106936411799552",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/640106936411799552/pu/img/oW3lLAQTsDdcojT1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/640106936411799552/pu/img/oW3lLAQTsDdcojT1.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 640107106943766528,
+                "source_status_id_str": "640107106943766528",
+                "source_user_id": 166002047,
+                "source_user_id_str": "166002047",
+                "type": "video",
+                "url": "http://t.co/MuQw2o4HSg",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 30010,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/640106936411799552/pu/vid/640x360/kRlHH4pUZwbxzeqX.mp4"
+                        },
+                        {
+                            "bitrate": 320000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/640106936411799552/pu/vid/320x180/YPLCbea6Z5ri9XWm.mp4"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/640106936411799552/pu/vid/1280x720/L7Bn7xbjYlnpuTeb.mp4"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/640106936411799552/pu/pl/jeqD4Rr_4Ry-IzGy.m3u8"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 640125001903927296,
+    "id_str": "640125001903927296",
+    "in_reply_to_screen_name": "griffwitte",
+    "in_reply_to_status_id": 640107106943766528,
+    "in_reply_to_status_id_str": "640107106943766528",
+    "in_reply_to_user_id": 166002047,
+    "in_reply_to_user_id_str": "166002047",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @griffwitte: 10,000 refugees expected in Austria today, per the #RedCross. About 20 percent are sick or injured. http://t.co/MuQw2o4HSg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 14 10:31:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Broadcaster \u2022 Keynote Speaker \u2022 MC \u2022 Award-winning Social Entrepreneur \u2022 Australia Day Ambassador \u2022 Neighbour Day founder \u2022 Insta: Andrew.Heslop #BeInspired",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andrewheslop.com",
+                        "expanded_url": "http://www.andrewheslop.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zc8OuCRIBG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 46435,
+        "follow_request_sent": false,
+        "followers_count": 14681,
+        "following": false,
+        "friends_count": 8493,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 65607720,
+        "id_str": "65607720",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 348,
+        "location": "Melbourne, Australia",
+        "name": "Andrew Heslop",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65607720/1623829236",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405263499765288961/BRsuwzmJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405263499765288961/BRsuwzmJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndrewHeslop",
+        "statuses_count": 145881,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zc8OuCRIBG",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

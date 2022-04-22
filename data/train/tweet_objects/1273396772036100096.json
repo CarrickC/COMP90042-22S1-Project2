@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 23:27:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1273396772036100096",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/TktzA1GKig"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 496508829,
+                "id_str": "496508829",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Samantha Craggs",
+                "screen_name": "SamCraggsCBC"
+            }
+        ]
+    },
+    "favorite_count": 14,
+    "favorited": false,
+    "geo": null,
+    "id": 1273396772036100096,
+    "id_str": "1273396772036100096",
+    "in_reply_to_screen_name": "SamCraggsCBC",
+    "in_reply_to_status_id": 1273375238408069121,
+    "in_reply_to_status_id_str": "1273375238408069121",
+    "in_reply_to_user_id": 496508829,
+    "in_reply_to_user_id_str": "496508829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SamCraggsCBC So..... Now we have documentation that Main St, a oneway 5 LANE freeway, results in a higher rate of\u2026 https://t.co/TktzA1GKig",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 25 18:02:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Steel industry, sports, music, animals, and always love for #HamOnt",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1800,
+        "follow_request_sent": false,
+        "followers_count": 366,
+        "following": false,
+        "friends_count": 880,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 117481077,
+        "id_str": "117481077",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Hamilton, Ontario",
+        "name": "Tom Shepherd",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117481077/1527877509",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601894770886254593/r1yr2DYF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601894770886254593/r1yr2DYF_normal.jpg",
+        "profile_link_color": "4842FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TomShphrd",
+        "statuses_count": 2157,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

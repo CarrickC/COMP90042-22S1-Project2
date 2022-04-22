@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -122.0326393,
+            37.3234435
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Sep 09 22:14:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13461662,
+                "id_str": "13461662",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Patrick Klepek",
+                "screen_name": "patrickklepek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.3234435,
+            -122.0326393
+        ],
+        "type": "Point"
+    },
+    "id": 509464842290225152,
+    "id_str": "509464842290225152",
+    "in_reply_to_screen_name": "patrickklepek",
+    "in_reply_to_status_id": 509463933564891137,
+    "in_reply_to_status_id_str": "509463933564891137",
+    "in_reply_to_user_id": 13461662,
+    "in_reply_to_user_id_str": "13461662",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.091151,
+                        37.285786
+                    ],
+                    [
+                        -121.995595,
+                        37.285786
+                    ],
+                    [
+                        -121.995595,
+                        37.3403795
+                    ],
+                    [
+                        -122.091151,
+                        37.3403795
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cupertino, CA",
+        "id": "36237ab3643ff2be",
+        "name": "Cupertino",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@patrickklepek I hope it works out better for them than my old company. We got bought by Microsoft and then utterly destroyed.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 14 17:35:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "More Testing Than Testing",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42756,
+        "follow_request_sent": false,
+        "followers_count": 132,
+        "following": false,
+        "friends_count": 666,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40042529,
+        "id_str": "40042529",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "San Jose, CA",
+        "name": "Only Built 4 Hyperlinks",
+        "notifications": false,
+        "profile_background_color": "F47B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40042529/1527286818",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/270044291/160by160Icon_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/270044291/160by160Icon_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tovardy",
+        "statuses_count": 4750,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

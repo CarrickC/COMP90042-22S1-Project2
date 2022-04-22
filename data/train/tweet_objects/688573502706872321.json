@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 17 04:08:10 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 170886667,
+                "id_str": "170886667",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Eddie Lacy",
+                "screen_name": "Lil_Eazy_Ana_42"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 688573502706872321,
+    "id_str": "688573502706872321",
+    "in_reply_to_screen_name": "Lil_Eazy_Ana_42",
+    "in_reply_to_status_id": 91728807081426944,
+    "in_reply_to_status_id_str": "91728807081426944",
+    "in_reply_to_user_id": 170886667,
+    "in_reply_to_user_id_str": "170886667",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Lil_Eazy_Ana_42 wtf lmao",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 25 22:58:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83d\udcc8\ud83d\udc5f\ud83d\udd0c #LakeShow",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12825,
+        "follow_request_sent": false,
+        "followers_count": 2913,
+        "following": false,
+        "friends_count": 1333,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 159633434,
+        "id_str": "159633434",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "\ud83c\uddf2\ud83c\uddfd",
+        "name": "frank",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159633434/1642421817",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505278791500840962/sb-5CR72_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505278791500840962/sb-5CR72_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sosa__f",
+        "statuses_count": 140296,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

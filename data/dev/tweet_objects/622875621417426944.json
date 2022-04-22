@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 19 21:08:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1354818992930611200,
+                "id_str": "1354818992930611200",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "sammy rhodes",
+                "screen_name": "sammyrhodes"
+            },
+            {
+                "id": 144992204,
+                "id_str": "144992204",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Laura",
+                "screen_name": "oh_LauraDarling"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 622875621417426944,
+    "id_str": "622875621417426944",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sammyrhodes @oh_LauraDarling In heaven, Chick-Fil-A is all you can eat.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 18 19:14:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "29 | Jesus and my people keep me going | \ud83e\udde1 is louder | I like making friends, but I\u2019m not here to win a popularity contest | she/her #BlackLivesMatter\u270c\ud83c\udffb",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 491,
+        "follow_request_sent": false,
+        "followers_count": 203,
+        "following": false,
+        "friends_count": 114,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 40943193,
+        "id_str": "40943193",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "North Carolina ",
+        "name": "Mallory Jones",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40943193/1592711292",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506149644975362056/C995M_st_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506149644975362056/C995M_st_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_callmemal",
+        "statuses_count": 64625,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 00:23:31 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    101
+                ],
+                "text": "ImpeachObama"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15976697,
+                "id_str": "15976697",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Michelle Malkin",
+                "screen_name": "michellemalkin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 387010264228302848,
+    "id_str": "387010264228302848",
+    "in_reply_to_screen_name": "michellemalkin",
+    "in_reply_to_status_id": 387009577763360768,
+    "in_reply_to_status_id_str": "387009577763360768",
+    "in_reply_to_user_id": 15976697,
+    "in_reply_to_user_id_str": "15976697",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@michellemalkin obama likely wishing for the worst to advance his anti-American agenda. #ImpeachObama",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 16 13:09:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Married to the lovely Mrs. Phillips. Extremism in the defense of Liberty is no vice. Moderation in the pursuit of Justice is no virtue. - BG",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15052,
+        "follow_request_sent": false,
+        "followers_count": 560,
+        "following": false,
+        "friends_count": 825,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20983355,
+        "id_str": "20983355",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Montgomery, Al.",
+        "name": "Soylent Greg",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20983355/1399083712",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551356104123236352/sl44zjHX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551356104123236352/sl44zjHX_normal.jpeg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Greg2412",
+        "statuses_count": 49127,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

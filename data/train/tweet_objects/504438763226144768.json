@@ -1,0 +1,239 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            22.04247091,
+            62.33912943
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Aug 27 01:22:27 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    15
+                ],
+                "text": "nhlfi"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iB1DWt7FcU",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    107,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/iB1DWt7FcU"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thesco.re/XQDehK",
+                "expanded_url": "http://thesco.re/XQDehK",
+                "indices": [
+                    84,
+                    106
+                ],
+                "url": "http://t.co/9JbBUpZP6d"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15256225,
+                "id_str": "15256225",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "theScore",
+                "screen_name": "theScore"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/iB1DWt7FcU",
+                "expanded_url": "https://twitter.com/theScore/status/504419526998360064/photo/1",
+                "id": 504419526193074176,
+                "id_str": "504419526193074176",
+                "indices": [
+                    107,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BwAO4vSCUAAfCnr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 504419526998360064,
+                "source_status_id_str": "504419526998360064",
+                "source_user_id": 15256225,
+                "source_user_id_str": "15256225",
+                "type": "photo",
+                "url": "http://t.co/iB1DWt7FcU"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            62.33912943,
+            22.04247091
+        ],
+        "type": "Point"
+    },
+    "id": 504438763226144768,
+    "id_str": "504438763226144768",
+    "in_reply_to_screen_name": "theScore",
+    "in_reply_to_status_id": 504419526998360064,
+    "in_reply_to_status_id_str": "504419526998360064",
+    "in_reply_to_user_id": 15256225,
+    "in_reply_to_user_id_str": "15256225",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        21.868751,
+                        62.1014486
+                    ],
+                    [
+                        22.663064,
+                        62.1014486
+                    ],
+                    [
+                        22.663064,
+                        62.551017
+                    ],
+                    [
+                        21.868751,
+                        62.551017
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Suomi",
+        "country_code": "FI",
+        "full_name": "Kauhajoki, Suomi",
+        "id": "f5c81a5218c5c4b0",
+        "name": "Kauhajoki",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f5c81a5218c5c4b0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Game on..#nhlfi \u201c@theScore: NHL expansion to Las Vegas is reportedly 'a done deal.' http://t.co/9JbBUpZP6d http://t.co/iB1DWt7FcU\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 15 19:17:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tweets/reads in FIN, DE, SE & ENG. Opinions own. Citizen of the World. No political party affiliation but pro #europeanunion. Sports: #redwings #nhlfi #fcbayern",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4410,
+        "follow_request_sent": false,
+        "followers_count": 475,
+        "following": false,
+        "friends_count": 1152,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82690254,
+        "id_str": "82690254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Berlin, Germany",
+        "name": "Matias Tuuri",
+        "notifications": false,
+        "profile_background_color": "872328",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82690254/1405379025",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488820614073810945/L-DtBmO3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488820614073810945/L-DtBmO3_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TuuriMatias",
+        "statuses_count": 23784,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

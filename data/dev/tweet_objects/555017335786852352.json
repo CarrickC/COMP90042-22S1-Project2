@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -97.03772432,
+            32.89512995
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 13 15:03:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            32.89512995,
+            -97.03772432
+        ],
+        "type": "Point"
+    },
+    "id": 555017335786852352,
+    "id_str": "555017335786852352",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 555003887753494528,
+    "in_reply_to_status_id_str": "555003887753494528",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.129669,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.8785707
+                    ],
+                    [
+                        -97.029639,
+                        32.985097
+                    ],
+                    [
+                        -97.129669,
+                        32.985097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grapevine, TX",
+        "id": "352cf4e7314da0b4",
+        "name": "Grapevine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FoxNews did he say anything about Charlie?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 31 14:25:43 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Two Likes I am most proud of: Ringo Starr (drums, Beatles) and John Campbell (Distillery Manager, Laphroiag) #LetsGoBrandon",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23982,
+        "follow_request_sent": false,
+        "followers_count": 214,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 275039791,
+        "id_str": "275039791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Scott Campbell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275039791/1614304220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393966341821018113/rGbpUpPS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393966341821018113/rGbpUpPS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "untcampbell",
+        "statuses_count": 11679,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

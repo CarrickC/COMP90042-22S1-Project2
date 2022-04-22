@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 28 03:27:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21426342,
+                "id_str": "21426342",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "\u274c Donald Broom \ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "donaldbroom"
+            },
+            {
+                "id": 1918161866,
+                "id_str": "1918161866",
+                "indices": [
+                    13,
+                    22
+                ],
+                "name": "Jesse James Wilson",
+                "screen_name": "jjwills2"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 538172219068006400,
+    "id_str": "538172219068006400",
+    "in_reply_to_screen_name": "donaldbroom",
+    "in_reply_to_status_id": 538166788484509696,
+    "in_reply_to_status_id_str": "538166788484509696",
+    "in_reply_to_user_id": 21426342,
+    "in_reply_to_user_id_str": "21426342",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@donaldbroom @jjwills2 good for him.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 07 02:54:52 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Love animals, food, and my friends. Conservative.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 53,
+        "follow_request_sent": false,
+        "followers_count": 568,
+        "following": false,
+        "friends_count": 763,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 350026841,
+        "id_str": "350026841",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "",
+        "name": "Patricia Philipp",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000372415411/7001df2691431469296615996cf4dc68_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000372415411/7001df2691431469296615996cf4dc68_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PatriciaPhilip1",
+        "statuses_count": 30097,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

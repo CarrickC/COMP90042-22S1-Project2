@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 23 19:51:30 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1253411194200715264",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/L3wLrSCUG7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1026463049354555395,
+                "id_str": "1026463049354555395",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Physics Boyt",
+                "screen_name": "PhysicsBoyt"
+            },
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1253411194200715264,
+    "id_str": "1253411194200715264",
+    "in_reply_to_screen_name": "PhysicsBoyt",
+    "in_reply_to_status_id": 1253409965194113025,
+    "in_reply_to_status_id_str": "1253409965194113025",
+    "in_reply_to_user_id": 1026463049354555395,
+    "in_reply_to_user_id_str": "1026463049354555395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@PhysicsBoyt @washingtonpost So I take it you are glad Trump took measures even before this article came out? Or ar\u2026 https://t.co/L3wLrSCUG7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 20 22:05:01 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 69349,
+        "follow_request_sent": false,
+        "followers_count": 467,
+        "following": false,
+        "friends_count": 1943,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 302266765,
+        "id_str": "302266765",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "California, USA",
+        "name": "Chris",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/302266765/1612345862",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353811630778245125/Bss8SD_X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353811630778245125/Bss8SD_X_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Chrisp1776",
+        "statuses_count": 24375,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

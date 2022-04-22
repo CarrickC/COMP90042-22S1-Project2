@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 15:36:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 589181927,
+                "id_str": "589181927",
+                "indices": [
+                    63,
+                    76
+                ],
+                "name": "Thought Criminal #1",
+                "screen_name": "Revenant0202"
+            },
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    86,
+                    97
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519874032930664448,
+    "id_str": "519874032930664448",
+    "in_reply_to_screen_name": "Revenant0202",
+    "in_reply_to_status_id": 519872356681273344,
+    "in_reply_to_status_id_str": "519872356681273344",
+    "in_reply_to_user_id": 589181927,
+    "in_reply_to_user_id_str": "589181927",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Disclaimer: My RT doesn't necessarily indicate an endorsement. @Revenant0202 @vinzska @ComplexMag",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 19:13:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cigar Smoking, Bourbon Drinking American. Immune to Scamdemics.\nGab - Same @",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 259936,
+        "follow_request_sent": false,
+        "followers_count": 2535,
+        "following": false,
+        "friends_count": 2263,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24010239,
+        "id_str": "24010239",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 36,
+        "location": "1984",
+        "name": "Reprogrammed & Now Fortified MFC",
+        "notifications": false,
+        "profile_background_color": "BDBDBD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24010239/1624548768",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395382646662995975/YJa17bQd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395382646662995975/YJa17bQd_normal.jpg",
+        "profile_link_color": "182952",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "AB173E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheMitch182",
+        "statuses_count": 61814,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

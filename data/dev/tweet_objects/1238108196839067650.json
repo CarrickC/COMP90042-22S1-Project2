@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 14:22:51 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238108196839067650",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/uZVTkUGXqY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 466953226,
+                "id_str": "466953226",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "KrisS \ud83d\udd25 Your Vote, Your Voice \ud83d\udd25",
+                "screen_name": "MplsMe"
+            },
+            {
+                "id": 2836421,
+                "id_str": "2836421",
+                "indices": [
+                    8,
+                    14
+                ],
+                "name": "MSNBC",
+                "screen_name": "MSNBC"
+            },
+            {
+                "id": 52070270,
+                "id_str": "52070270",
+                "indices": [
+                    15,
+                    31
+                ],
+                "name": "Savannah Guthrie",
+                "screen_name": "SavannahGuthrie"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1238108196839067650,
+    "id_str": "1238108196839067650",
+    "in_reply_to_screen_name": "MplsMe",
+    "in_reply_to_status_id": 1238089317802795008,
+    "in_reply_to_status_id_str": "1238089317802795008",
+    "in_reply_to_user_id": 466953226,
+    "in_reply_to_user_id_str": "466953226",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@MplsMe @MSNBC @SavannahGuthrie Well, yeah. Trump and Pence remarks ARE irresponsible rhetoric. Pretty much along w\u2026 https://t.co/uZVTkUGXqY",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 28 23:51:16 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 264636,
+        "follow_request_sent": false,
+        "followers_count": 431,
+        "following": false,
+        "friends_count": 50,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 93284684,
+        "id_str": "93284684",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Burbank CA",
+        "name": "D-Web \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092897014331789312/IvxGh47Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092897014331789312/IvxGh47Y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dhart2001",
+        "statuses_count": 47102,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

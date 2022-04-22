@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 15:50:50 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 499946254642606082,
+    "id_str": "499946254642606082",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "text": "So @ksdknews, if he had had would that have justified his execution? Has any1 checked if his executioner has any reprimands in *his* file?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 09 04:27:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Political neophyte with Texas connection; tone deaf parent of a M.FA (composer/clarinetist); former book lover & scrabble buff, now a Nintendo DS  addict",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2634,
+        "follow_request_sent": false,
+        "followers_count": 829,
+        "following": false,
+        "friends_count": 664,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 370511015,
+        "id_str": "370511015",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "North America",
+        "name": "Vick C.",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370511015/1437017872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828802308884545536/TBmdRIzJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828802308884545536/TBmdRIzJ_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sonamie",
+        "statuses_count": 36161,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

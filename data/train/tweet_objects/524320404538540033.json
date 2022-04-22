@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:05:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19743731,
+                "id_str": "19743731",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Alfredo Flores",
+                "screen_name": "AlfredoFlores"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524320404538540033,
+    "id_str": "524320404538540033",
+    "in_reply_to_screen_name": "AlfredoFlores",
+    "in_reply_to_status_id": 524320261667950592,
+    "in_reply_to_status_id_str": "524320261667950592",
+    "in_reply_to_user_id": 19743731,
+    "in_reply_to_user_id_str": "19743731",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AlfredoFlores follow me Alfredo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 07 22:44:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Never say Never \u2665 \nBelieber \u2665 Selenator\u2665\nLovatic\u2665 MendesArmy\u2665  Armys\n\u2665JB 18.10.17 \u00e0s 21:29 \u2665",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10982,
+        "follow_request_sent": false,
+        "followers_count": 8082,
+        "following": false,
+        "friends_count": 5719,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 262369966,
+        "id_str": "262369966",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "Ias",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/262369966/1645414802",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1494474986869907459/e1cTdOcZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494474986869907459/e1cTdOcZ_normal.jpg",
+        "profile_link_color": "F00E21",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Iasmiinmarins",
+        "statuses_count": 6853,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

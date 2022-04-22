@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 06:00:17 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    9
+                ],
+                "text": "SABCNews"
+            },
+            {
+                "indices": [
+                    71,
+                    83
+                ],
+                "text": "COVID19inSA"
+            },
+            {
+                "indices": [
+                    84,
+                    100
+                ],
+                "text": "Day20ofLockdown"
+            },
+            {
+                "indices": [
+                    101,
+                    110
+                ],
+                "text": "SABCNews"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3BuUdhGJ0I",
+                "expanded_url": "https://twitter.com/SABCNews/status/1250302907389333504/photo/1",
+                "id": 1250302622659039234,
+                "id_str": "1250302622659039234",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVn3nGVU0AIIWLF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVn3nGVU0AIIWLF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 725,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 385,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/3BuUdhGJ0I"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3BuUdhGJ0I",
+                "expanded_url": "https://twitter.com/SABCNews/status/1250302907389333504/photo/1",
+                "id": 1250302622659039234,
+                "id_str": "1250302622659039234",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVn3nGVU0AIIWLF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVn3nGVU0AIIWLF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 725,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 385,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/3BuUdhGJ0I"
+            }
+        ]
+    },
+    "favorite_count": 273,
+    "favorited": false,
+    "geo": null,
+    "id": 1250302907389333504,
+    "id_str": "1250302907389333504",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 101,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "#SABCNews Fact of the Day: \n5G mobile networks DO NOT spread COVID-19.\n#COVID19inSA #Day20ofLockdown #SABCNews https://t.co/3BuUdhGJ0I",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 15:16:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The digital news portal of the South African Broadcasting Corporation.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sabcnews.com",
+                        "expanded_url": "http://www.sabcnews.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4v5Vy3dqfi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 169,
+        "follow_request_sent": false,
+        "followers_count": 2319748,
+        "following": false,
+        "friends_count": 579,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25088746,
+        "id_str": "25088746",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2990,
+        "location": "South Africa",
+        "name": "SABC News",
+        "notifications": false,
+        "profile_background_color": "000C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25088746/1637137148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003486786520313857/GFvO5TTB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003486786520313857/GFvO5TTB_normal.jpg",
+        "profile_link_color": "7C7F7E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A8C8E1",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SABCNews",
+        "statuses_count": 644418,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4v5Vy3dqfi",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

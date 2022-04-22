@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 19:24:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8UN41779Ys",
+                "expanded_url": "https://twitter.com/ajplus/status/612646796355960832/photo/1",
+                "id": 612646795722665984,
+                "id_str": "612646795722665984",
+                "indices": [
+                    112,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CICPA8fUsAAYv4i.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CICPA8fUsAAYv4i.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1205,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 956
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 542
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 612646796355960832,
+                "source_status_id_str": "612646796355960832",
+                "source_user_id": 110396781,
+                "source_user_id_str": "110396781",
+                "type": "photo",
+                "url": "http://t.co/8UN41779Ys"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ajplus.co/OAHrf",
+                "expanded_url": "http://ajplus.co/OAHrf",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/4a1B3AR8Vx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8UN41779Ys",
+                "expanded_url": "https://twitter.com/ajplus/status/612646796355960832/photo/1",
+                "id": 612646795722665984,
+                "id_str": "612646795722665984",
+                "indices": [
+                    112,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CICPA8fUsAAYv4i.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CICPA8fUsAAYv4i.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1205,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 956
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 542
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 612646796355960832,
+                "source_status_id_str": "612646796355960832",
+                "source_user_id": 110396781,
+                "source_user_id_str": "110396781",
+                "type": "photo",
+                "url": "http://t.co/8UN41779Ys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612702658852429824,
+    "id_str": "612702658852429824",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ajplus: After arrest, Dylann Roof was hungry. Police bought him food from Burger King. http://t.co/4a1B3AR8Vx http://t.co/8UN41779Ys\u201d FFS\ud83d\ude12",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 14 09:21:20 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "she/her.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 712,
+        "follow_request_sent": false,
+        "followers_count": 2170,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 579714424,
+        "id_str": "579714424",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 24,
+        "location": "",
+        "name": "orla",
+        "notifications": false,
+        "profile_background_color": "DEB4FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/579714424/1642024452",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481383891806138369/-iqnBmHQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481383891806138369/-iqnBmHQ_normal.jpg",
+        "profile_link_color": "8C0BBF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "prismaticperry",
+        "statuses_count": 156245,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

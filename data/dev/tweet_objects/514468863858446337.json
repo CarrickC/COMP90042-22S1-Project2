@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 17:38:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "macrumors.com/2014/09/23/iph\u2026",
+                "expanded_url": "http://www.macrumors.com/2014/09/23/iphone-6-plus-bending-pockets/",
+                "indices": [
+                    118,
+                    140
+                ],
+                "url": "http://t.co/ZmkpLECgJ5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14861285,
+                "id_str": "14861285",
+                "indices": [
+                    34,
+                    44
+                ],
+                "name": "MacRumors.com",
+                "screen_name": "MacRumors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514468863858446337,
+    "id_str": "514468863858446337",
+    "in_reply_to_screen_name": "MacRumors",
+    "in_reply_to_status_id": 514429381737852929,
+    "in_reply_to_status_id_str": "514429381737852929",
+    "in_reply_to_user_id": 14861285,
+    "in_reply_to_user_id_str": "14861285",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Thinner + bigger = no surprise RT @MacRumors: Some iPhone 6 Plus Owners Accidentally Bending Their iPhones in Pockets http://t.co/ZmkpLECgJ5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 05:42:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad, market follower, golfer, hockey player, runner",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4989,
+        "follow_request_sent": false,
+        "followers_count": 475,
+        "following": false,
+        "friends_count": 311,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33142295,
+        "id_str": "33142295",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Fargo, ND",
+        "name": "Jarrett Galbreath",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33142295/1648470187",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670627163469672449/uwoahkHn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670627163469672449/uwoahkHn_normal.jpg",
+        "profile_link_color": "1955C4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jarrgal",
+        "statuses_count": 5752,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

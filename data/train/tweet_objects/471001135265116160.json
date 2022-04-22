@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 26 18:53:16 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    130,
+                    139
+                ],
+                "text": "NNigeria"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 50434933,
+                "id_str": "50434933",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "LifeNews.com",
+                "screen_name": "LifeNewsHQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 471001135265116160,
+    "id_str": "471001135265116160",
+    "in_reply_to_screen_name": "LifeNewsHQ",
+    "in_reply_to_status_id": 470025166760980483,
+    "in_reply_to_status_id_str": "470025166760980483",
+    "in_reply_to_user_id": 50434933,
+    "in_reply_to_user_id_str": "50434933",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LifeNewsHQ And nothing about the school boys who had their throats cut by Boko Harem prior to the kidnapping of the school girls.#NNigeria",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 03 15:46:15 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Roman Catholic. Conservative. Pro-life. Lover of melodic music. Current affairs. Reading. Travelling. Retweets, etc. not endorsement. born August 14",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36951,
+        "follow_request_sent": false,
+        "followers_count": 6314,
+        "following": false,
+        "friends_count": 6198,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 246842298,
+        "id_str": "246842298",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 69,
+        "location": "Ireland",
+        "name": "Philip Murrell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246842298/1429576159",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1446592619551789058/V6q-4Pzm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1446592619551789058/V6q-4Pzm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FelipeMurrelli",
+        "statuses_count": 121649,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 02 17:38:53 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 705084978934259712,
+    "id_str": "705084978934259712",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 705084574833864704,
+    "in_reply_to_status_id_str": "705084574833864704",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        70.062759,
+                        31.218052
+                    ],
+                    [
+                        74.134729,
+                        31.218052
+                    ],
+                    [
+                        74.134729,
+                        36.907585
+                    ],
+                    [
+                        70.062759,
+                        36.907585
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "country_code": "PK",
+        "full_name": "\u0634\u0645\u0627\u0644 \u0645\u063a\u0631\u0628\u06cc \u0633\u0631\u062d\u062f, \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "id": "01ded2e53f4eedb1",
+        "name": "\u0634\u0645\u0627\u0644 \u0645\u063a\u0631\u0628\u06cc \u0633\u0631\u062d\u062f",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01ded2e53f4eedb1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Gotham3 now imagine ,any other country ,where a person ,with similar characteristics like trump is that close to become president ,by now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 23 11:35:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": ", mufc supporter in football , now a doctor finally :)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48940,
+        "follow_request_sent": false,
+        "followers_count": 1916,
+        "following": false,
+        "friends_count": 2851,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 206637018,
+        "id_str": "206637018",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Peshawar, Pakistan",
+        "name": "Muneeb",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206637018/1450938907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405484217836974088/guiRmOZt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405484217836974088/guiRmOZt_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "manutd91",
+        "statuses_count": 106180,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

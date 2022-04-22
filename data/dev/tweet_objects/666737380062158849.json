@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 21:59:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 742143,
+                "id_str": "742143",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BBC News (World)",
+                "screen_name": "BBCWorld"
+            },
+            {
+                "id": 818430674868707328,
+                "id_str": "818430674868707328",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "Edward Nelson",
+                "screen_name": "mflynny"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666737380062158849,
+    "id_str": "666737380062158849",
+    "in_reply_to_screen_name": "BBCWorld",
+    "in_reply_to_status_id": 666633171325353989,
+    "in_reply_to_status_id_str": "666633171325353989",
+    "in_reply_to_user_id": 742143,
+    "in_reply_to_user_id_str": "742143",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BBCWorld @mflynny When you've lost BBC...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 09 02:02:53 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Right Wing Geek and Academic (Endangered Species) One of the guys @cutjibnews",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cutjibnewsletter.com",
+                        "expanded_url": "http://www.cutjibnewsletter.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fMtxlgM5Lj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 944,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 121293604,
+        "id_str": "121293604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "",
+        "name": "tsrblke",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121293604/1493907294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1304479478/QRcode_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304479478/QRcode_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tsrblke",
+        "statuses_count": 116100,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fMtxlgM5Lj",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

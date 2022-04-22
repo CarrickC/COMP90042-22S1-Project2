@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 20 15:13:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1274359732036403202",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/3K4r8IS2xU"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 431,
+    "favorited": false,
+    "geo": null,
+    "id": 1274359732036403202,
+    "id_str": "1274359732036403202",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 110,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I do not understand, massive protests and riots in NYC starting in late May, now 3 weeks later and no increase in C\u2026 https://t.co/3K4r8IS2xU",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 31 15:30:38 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2x Board-Certified Physician | My mission is to end obesity & type 2 diabetes |\ud83d\udcbcDirector @theSMHP |\ud83c\udfa5Co-Host @LCMDPodcast |\u2764\ufe0fMarried to @rosettesmix |\ud83d\ude07NiRL",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DoctorTro.com",
+                        "expanded_url": "http://DoctorTro.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sIokHqfuLB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 48460,
+        "following": false,
+        "friends_count": 330,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 232578837,
+        "id_str": "232578837",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 689,
+        "location": "Tappan, NY",
+        "name": "\u201cDoctor Tro\u201d app on iOS/Android",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/232578837/1595719855",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288836812752982016/dVyG8X--_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288836812752982016/dVyG8X--_normal.jpg",
+        "profile_link_color": "ED1C24",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DoctorTro",
+        "statuses_count": 57794,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/sIokHqfuLB",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

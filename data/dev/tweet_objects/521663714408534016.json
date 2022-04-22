@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 14:08:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521663714408534016,
+    "id_str": "521663714408534016",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@lilduval: So Ebola was found in hair extensions? All my bitches wear weave \ud83d\ude33\u201d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 16:40:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mother of three \ud83d\udc76\ud83c\udffd\ud83d\udc67\ud83c\udffd\ud83d\udc66\ud83c\udffd Future Esthetician\ud83e\uddd6\ud83c\udffe\u200d\u2640\ufe0f\ud83d\udc86\ud83c\udffe\u200d\u2640\ufe0f Kyree\u2019s Wife \ud83d\udc8d",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/eddishab90",
+                        "expanded_url": "https://youtube.com/user/eddishab90",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/20qx9v2Ysp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3176,
+        "follow_request_sent": false,
+        "followers_count": 2502,
+        "following": false,
+        "friends_count": 1561,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 25333403,
+        "id_str": "25333403",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "philadelphia ",
+        "name": "Mrs Mink",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25333403/1563569619",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504982425914511364/tF96630P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504982425914511364/tF96630P_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bite_Sizzee",
+        "statuses_count": 253885,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/20qx9v2Ysp",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

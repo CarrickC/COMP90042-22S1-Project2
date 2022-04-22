@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 03:17:23 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 596556967,
+                "id_str": "596556967",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Arryn",
+                "screen_name": "ArrynZech"
+            },
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    11,
+                    15
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531646775082622976,
+    "id_str": "531646775082622976",
+    "in_reply_to_screen_name": "ArrynZech",
+    "in_reply_to_status_id": 531641158435631104,
+    "in_reply_to_status_id_str": "531641158435631104",
+    "in_reply_to_user_id": 596556967,
+    "in_reply_to_user_id_str": "596556967",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ArrynZech @IGN Their scientists were too busy wondering if they could that they didn't stop to wonder if they should",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 18 05:19:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sum 41 saved my life // student athlete // video game champion",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "meatspin.com",
+                        "expanded_url": "http://meatspin.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ai4cnlihph"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 60181,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 1380,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 528176507,
+        "id_str": "528176507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 16,
+        "location": "Plymouth, Ohio",
+        "name": "Scarlet Thot",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/528176507/1466448171",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1449205083476987906/m2pazQYS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449205083476987906/m2pazQYS_normal.jpg",
+        "profile_link_color": "064A63",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jolteoff",
+        "statuses_count": 63853,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ai4cnlihph",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 23 13:14:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1068121346,
+                "id_str": "1068121346",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "BuzzFeed UK",
+                "screen_name": "BuzzFeedUK"
+            },
+            {
+                "id": 67725191,
+                "id_str": "67725191",
+                "indices": [
+                    12,
+                    24
+                ],
+                "name": "Damien Owens",
+                "screen_name": "OwensDamien"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 536508046936387584,
+    "id_str": "536508046936387584",
+    "in_reply_to_screen_name": "BuzzFeedUK",
+    "in_reply_to_status_id": 536504515843727361,
+    "in_reply_to_status_id_str": "536504515843727361",
+    "in_reply_to_user_id": 1068121346,
+    "in_reply_to_user_id_str": "1068121346",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BuzzFeedUK @OwensDamien Either Lego were a bunch of amateurs in the 70s of this is a fake.  My money's on fake.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 18 11:20:34 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Remember that anything you post online could one day be exhibit 'A'.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18427,
+        "follow_request_sent": false,
+        "followers_count": 984,
+        "following": false,
+        "friends_count": 1336,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1100702065,
+        "id_str": "1100702065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Northern Ireland",
+        "name": "Philip Taylor",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100702065/1426381857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3124317767/56c1538f0e7eea0660db2e2431aca30f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3124317767/56c1538f0e7eea0660db2e2431aca30f_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pstni",
+        "statuses_count": 49046,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

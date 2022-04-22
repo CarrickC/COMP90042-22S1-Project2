@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:28:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            },
+            {
+                "id": 3434502015,
+                "id_str": "3434502015",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "meh",
+                "screen_name": "sinkintheguilt"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514496640057884674,
+    "id_str": "514496640057884674",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 514478918636535808,
+    "in_reply_to_status_id_str": "514478918636535808",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NBCNews @SinkInTheGuilt \"here's your pizza, driver died. Don't worry it's on us.\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 24 02:28:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "in the shadowplay actin' out my own death.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lordofthe0nionrings.tumblr.com",
+                        "expanded_url": "http://lordofthe0nionrings.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fgCsxTUrpu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4646,
+        "follow_request_sent": false,
+        "followers_count": 79,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 396989507,
+        "id_str": "396989507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "houstalantavegas",
+        "name": "Fairly Local",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/396989507/1447247305",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702729259207380993/aDO6xnuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702729259207380993/aDO6xnuJ_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "3nt3r_th3_v0id",
+        "statuses_count": 24664,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fgCsxTUrpu",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

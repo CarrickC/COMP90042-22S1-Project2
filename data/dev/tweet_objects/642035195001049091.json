@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 10 18:01:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    36,
+                    52
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642035195001049091,
+    "id_str": "642035195001049091",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 642027433693171712,
+    "in_reply_to_status_id_str": "642027433693171712",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump ass blister, forever the apologist. But but but...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 26 01:49:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Based on a true story. I contain multitudes. You know the song. \"Crack open your myth & see what emerges.\" he/him",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soulamonglions.com",
+                        "expanded_url": "https://www.soulamonglions.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CpXQHEZgOS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 211055,
+        "follow_request_sent": false,
+        "followers_count": 1494,
+        "following": false,
+        "friends_count": 1109,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 219847298,
+        "id_str": "219847298",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 46,
+        "location": "Kickin round this tin can",
+        "name": "(Noel) Soul Prophet",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219847298/1630034037",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1435747005230469120/u7rZyAuw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435747005230469120/u7rZyAuw_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "soul_prophet",
+        "statuses_count": 34070,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CpXQHEZgOS",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

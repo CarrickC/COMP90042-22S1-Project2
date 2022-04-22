@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 09 02:06:38 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    117,
+                    125
+                ],
+                "text": "Jawjack"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25368960,
+                "id_str": "25368960",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joanne Robrahn",
+                "screen_name": "abynorml"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    10,
+                    26
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 520032560697454592,
+    "id_str": "520032560697454592",
+    "in_reply_to_screen_name": "abynorml",
+    "in_reply_to_status_id": 520024652676993024,
+    "in_reply_to_status_id_str": "520024652676993024",
+    "in_reply_to_user_id": 25368960,
+    "in_reply_to_user_id_str": "25368960",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@abynorml @realDonaldTrump Mr. Trump is indeed a DNA drone who inherited a ton of dough. Run for office, Mr.Trump !  #Jawjack",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 25 01:31:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "~ News photographer, editor, & historian - Our family has been in Nevada since 1864. Lucky to be a Fullerton Daily News Tribune photographer at 17.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55570,
+        "follow_request_sent": false,
+        "followers_count": 1341,
+        "following": false,
+        "friends_count": 4999,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 379476932,
+        "id_str": "379476932",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 44,
+        "location": "Reno, Nevada.",
+        "name": "General Bob Custer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/379476932/1616433179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/932135447290974213/MYHbrYOv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932135447290974213/MYHbrYOv_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GeneralGCuster",
+        "statuses_count": 33391,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

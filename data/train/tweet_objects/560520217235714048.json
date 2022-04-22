@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -82.68743244,
+            28.27142725
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Jan 28 19:30:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            28.27142725,
+            -82.68743244
+        ],
+        "type": "Point"
+    },
+    "id": 560520217235714048,
+    "id_str": "560520217235714048",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 559863517151784960,
+    "in_reply_to_status_id_str": "559863517151784960",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.764606,
+                        28.216424
+                    ],
+                    [
+                        -82.66958,
+                        28.216424
+                    ],
+                    [
+                        -82.66958,
+                        28.2806359
+                    ],
+                    [
+                        -82.764606,
+                        28.2806359
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Port Richey, FL",
+        "id": "79dc2655046fbc40",
+        "name": "New Port Richey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/79dc2655046fbc40.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BurgerKing: A good relationship:\n\u2611 calls you to just say hi\n\u2611 wants to see you\n\u2611 brings you star bucks\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 04 14:53:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Being cool ain\u2019t cool",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2087,
+        "follow_request_sent": false,
+        "followers_count": 145,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 367769174,
+        "id_str": "367769174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Ocala, FL",
+        "name": "\u0394ngelit[\u00f3]",
+        "notifications": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/367769174/1524868873",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981663232040538113/VQ4BqwYE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981663232040538113/VQ4BqwYE_normal.jpg",
+        "profile_link_color": "004358",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "448668",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cortesboxer",
+        "statuses_count": 22843,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

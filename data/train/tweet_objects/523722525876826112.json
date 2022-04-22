@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 06:29:15 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523722525876826112,
+    "id_str": "523722525876826112",
+    "in_reply_to_screen_name": "pourmecoffee",
+    "in_reply_to_status_id": 523581212175392768,
+    "in_reply_to_status_id_str": "523581212175392768",
+    "in_reply_to_user_id": 16906137,
+    "in_reply_to_user_id_str": "16906137",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@pourmecoffee Eeeks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 18 21:03:40 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PR pro. Hardcore recreational runner. Allegedly a foodie.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/joshrhodes",
+                        "expanded_url": "https://www.linkedin.com/in/joshrhodes",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/r9EnFne1C4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1569,
+        "follow_request_sent": false,
+        "followers_count": 1267,
+        "following": false,
+        "friends_count": 806,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 17471407,
+        "id_str": "17471407",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 141,
+        "location": "Portland, Oregon",
+        "name": "Josh Rhodes",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17471407/1446068133",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553027691264225281/Q957dze3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553027691264225281/Q957dze3_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FDFCFD",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rhodesjpdx",
+        "statuses_count": 16947,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/r9EnFne1C4",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

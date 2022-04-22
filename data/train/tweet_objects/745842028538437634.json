@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 23 04:52:51 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 224349882,
+                "id_str": "224349882",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "some guy",
+                "screen_name": "justsomeguyinco"
+            },
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    28,
+                    36
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 745842028538437634,
+    "id_str": "745842028538437634",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@robinashe @justsomeguyinco @Gotham3 if Hitler had won, paeans would have been sung for HIM. It's winner takes all",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 21 05:04:51 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "IIT Delhi Alumnus. Interest current affairs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "page.is/kailash-kaushik",
+                        "expanded_url": "http://page.is/kailash-kaushik",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xYJApV0ROq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8145,
+        "follow_request_sent": false,
+        "followers_count": 26680,
+        "following": false,
+        "friends_count": 1564,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2206428378,
+        "id_str": "2206428378",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 238,
+        "location": "",
+        "name": "Kailash Kaushik",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/818494955744153600/3VDJfJ5u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/818494955744153600/3VDJfJ5u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kailashkaushik8",
+        "statuses_count": 616829,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xYJApV0ROq",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

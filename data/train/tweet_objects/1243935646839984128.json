@@ -1,0 +1,423 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 16:19:04 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1243935646839984128",
+                "indices": [
+                    107,
+                    130
+                ],
+                "url": "https://t.co/LJNA4365dh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 846724193345527808,
+                "id_str": "846724193345527808",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "WHO Nigeria",
+                "screen_name": "WHONigeria"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    12,
+                    16
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    17,
+                    25
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            },
+            {
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    26,
+                    34
+                ],
+                "name": "NCDC",
+                "screen_name": "NCDCgov"
+            },
+            {
+                "id": 2969631215,
+                "id_str": "2969631215",
+                "indices": [
+                    35,
+                    46
+                ],
+                "name": "UN in Nigeria",
+                "screen_name": "UN_Nigeria"
+            },
+            {
+                "id": 3256129510,
+                "id_str": "3256129510",
+                "indices": [
+                    47,
+                    58
+                ],
+                "name": "Fiona Braka",
+                "screen_name": "BrakaFiona"
+            },
+            {
+                "id": 39782896,
+                "id_str": "39782896",
+                "indices": [
+                    59,
+                    70
+                ],
+                "name": "Ibrahim N. Mamadu",
+                "screen_name": "ibrodoc_03"
+            },
+            {
+                "id": 2816035335,
+                "id_str": "2816035335",
+                "indices": [
+                    71,
+                    80
+                ],
+                "name": "Charity Warigon",
+                "screen_name": "CWarigon"
+            },
+            {
+                "id": 916308509209300992,
+                "id_str": "916308509209300992",
+                "indices": [
+                    81,
+                    90
+                ],
+                "name": "Ifeanyi Okudo",
+                "screen_name": "Dr_Okudo"
+            },
+            {
+                "id": 2945911689,
+                "id_str": "2945911689",
+                "indices": [
+                    91,
+                    105
+                ],
+                "name": "Dhamari",
+                "screen_name": "DhamariNaidoo"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1243935646839984128,
+    "id_str": "1243935646839984128",
+    "in_reply_to_screen_name": "WHONigeria",
+    "in_reply_to_status_id": 1243922149842325504,
+    "in_reply_to_status_id_str": "1243922149842325504",
+    "in_reply_to_user_id": 846724193345527808,
+    "in_reply_to_user_id_str": "846724193345527808",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        3.198942,
+                        6.4826762
+                    ],
+                    [
+                        3.43719,
+                        6.4826762
+                    ],
+                    [
+                        3.43719,
+                        6.6985461
+                    ],
+                    [
+                        3.198942,
+                        6.6985461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Ikeja, Nigeria",
+        "id": "01eddd9d0dbec2c8",
+        "name": "Ikeja",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Mar 28 09:24:46 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        51,
+                        59
+                    ],
+                    "text": "COVID19"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ZfPWs7ra8s",
+                    "expanded_url": "https://twitter.com/Elroyz_/status/1243831388689895424/photo/1",
+                    "id": 1243831374156611584,
+                    "id_str": "1243831374156611584",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EUL6C3EXQAA0WCn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUL6C3EXQAA0WCn.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ZfPWs7ra8s"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ZfPWs7ra8s",
+                    "expanded_url": "https://twitter.com/Elroyz_/status/1243831388689895424/photo/1",
+                    "id": 1243831374156611584,
+                    "id_str": "1243831374156611584",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EUL6C3EXQAA0WCn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUL6C3EXQAA0WCn.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ZfPWs7ra8s"
+                }
+            ]
+        },
+        "favorite_count": 9461,
+        "favorited": false,
+        "geo": null,
+        "id": 1243831388689895424,
+        "id_str": "1243831388689895424",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Nigeria",
+            "country_code": "NG",
+            "full_name": "Ikeja, Nigeria",
+            "id": "01eddd9d0dbec2c8",
+            "name": "Ikeja",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 3250,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I made a drawing to help you stay safe this period #COVID19 https://t.co/ZfPWs7ra8s",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 30 11:02:58 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "The MEdiator \ud83c\udf13. lFreespirited|Mindwanderer|Ambidextrous. A little bit of art, a little bit of sarcasm = Sarc-art-sm.Stay tunedhttp://www.Instagram.com/elroyz_E",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 962,
+            "follow_request_sent": false,
+            "followers_count": 5517,
+            "following": false,
+            "friends_count": 4007,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 880743457924448256,
+            "id_str": "880743457924448256",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4,
+            "location": "",
+            "name": "SARC-ART-sm",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/880743457924448256/1613203601",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380503835274321921/A-Ij6A7z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380503835274321921/A-Ij6A7z_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Elroyz_",
+            "statuses_count": 20892,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1243831388689895424,
+    "quoted_status_id_str": "1243831388689895424",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHONigeria @WHO @WHOAFRO @NCDCgov @UN_Nigeria @BrakaFiona @ibrodoc_03 @CWarigon @Dr_Okudo @DhamariNaidoo\u2026 https://t.co/LJNA4365dh",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 30 11:02:58 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The MEdiator \ud83c\udf13. lFreespirited|Mindwanderer|Ambidextrous. A little bit of art, a little bit of sarcasm = Sarc-art-sm.Stay tunedhttp://www.Instagram.com/elroyz_E",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 962,
+        "follow_request_sent": false,
+        "followers_count": 5517,
+        "following": false,
+        "friends_count": 4007,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 880743457924448256,
+        "id_str": "880743457924448256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "SARC-ART-sm",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/880743457924448256/1613203601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1380503835274321921/A-Ij6A7z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380503835274321921/A-Ij6A7z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Elroyz_",
+        "statuses_count": 20892,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

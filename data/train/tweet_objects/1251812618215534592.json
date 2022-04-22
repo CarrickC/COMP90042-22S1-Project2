@@ -1,0 +1,415 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 09:59:20 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1251812618215534592",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/666P1evIS9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1251812618215534592,
+    "id_str": "1251812618215534592",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Apr 10 14:07:00 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        33,
+                        46
+                    ],
+                    "text": "MasksCOVID19"
+                },
+                {
+                    "indices": [
+                        47,
+                        61
+                    ],
+                    "text": "ClothFaceMask"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ptNsa4oUFl",
+                    "expanded_url": "https://twitter.com/DrZweliMkhize/status/1248613456934129667/photo/1",
+                    "id": 1248613445257199619,
+                    "id_str": "1248613445257199619",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVP3UCJVAAMN-Wa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVP3UCJVAAMN-Wa.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ptNsa4oUFl"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1185846951771815936,
+                    "id_str": "1185846951771815936",
+                    "indices": [
+                        62,
+                        74
+                    ],
+                    "name": "Department of Health: COVID-19",
+                    "screen_name": "COVID_19_ZA"
+                },
+                {
+                    "id": 240605588,
+                    "id_str": "240605588",
+                    "indices": [
+                        75,
+                        84
+                    ],
+                    "name": "Department of Health",
+                    "screen_name": "HealthZA"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ptNsa4oUFl",
+                    "expanded_url": "https://twitter.com/DrZweliMkhize/status/1248613456934129667/photo/1",
+                    "id": 1248613445257199619,
+                    "id_str": "1248613445257199619",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVP3UCJVAAMN-Wa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVP3UCJVAAMN-Wa.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ptNsa4oUFl"
+                },
+                {
+                    "display_url": "pic.twitter.com/ptNsa4oUFl",
+                    "expanded_url": "https://twitter.com/DrZweliMkhize/status/1248613456934129667/photo/1",
+                    "id": 1248613445265580032,
+                    "id_str": "1248613445265580032",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVP3UCLU4AATIxD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVP3UCLU4AATIxD.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ptNsa4oUFl"
+                },
+                {
+                    "display_url": "pic.twitter.com/ptNsa4oUFl",
+                    "expanded_url": "https://twitter.com/DrZweliMkhize/status/1248613456934129667/photo/1",
+                    "id": 1248613445261381633,
+                    "id_str": "1248613445261381633",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVP3UCKU0AEA5Vf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVP3UCKU0AEA5Vf.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ptNsa4oUFl"
+                },
+                {
+                    "display_url": "pic.twitter.com/ptNsa4oUFl",
+                    "expanded_url": "https://twitter.com/DrZweliMkhize/status/1248613456934129667/photo/1",
+                    "id": 1248613445915660288,
+                    "id_str": "1248613445915660288",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVP3UEmUUAAXWQ-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVP3UEmUUAAXWQ-.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ptNsa4oUFl"
+                }
+            ]
+        },
+        "favorite_count": 850,
+        "favorited": false,
+        "geo": null,
+        "id": 1248613456934129667,
+        "id_str": "1248613456934129667",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 723,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Cloth face mask recommendations: #MasksCOVID19 #ClothFaceMask @COVID_19_ZA @HealthZA https://t.co/ptNsa4oUFl",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 22 09:51:28 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Former ANC Treasurer General Current Minister of Health",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "sacoronavirus.co.za",
+                            "expanded_url": "http://www.sacoronavirus.co.za/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/irkg5UDykt"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 4983,
+            "follow_request_sent": false,
+            "followers_count": 596350,
+            "following": false,
+            "friends_count": 38060,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 844486678324658176,
+            "id_str": "844486678324658176",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 388,
+            "location": "",
+            "name": "Dr Zweli Mkhize",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/844486678324658176/1612189231",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1353661127394254849/f7e9xkgl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353661127394254849/f7e9xkgl_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "DrZweliMkhize",
+            "statuses_count": 11603,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/irkg5UDykt",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1248613456934129667,
+    "quoted_status_id_str": "1248613456934129667",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DrZweliMkhize And the most important thing is to wear a mask. Because any customer or cashier could be an asymptom\u2026 https://t.co/666P1evIS9",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 13 16:31:44 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2525,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 10,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1238502912504074241,
+        "id_str": "1238502912504074241",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "South Africa",
+        "name": "Warning",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245037759892463619/jt7_tx96_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245037759892463619/jt7_tx96_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Warning76925904",
+        "statuses_count": 1921,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

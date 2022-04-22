@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 04 11:49:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 785411705916559360,
+                "id_str": "785411705916559360",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Thierry Breton",
+                "screen_name": "ThierryBreton"
+            },
+            {
+                "id": 4241970202,
+                "id_str": "4241970202",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "Julien Hoez",
+                "screen_name": "JulienHoez"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1257276163296243715,
+    "id_str": "1257276163296243715",
+    "in_reply_to_screen_name": "ThierryBreton",
+    "in_reply_to_status_id": 1257248088537825280,
+    "in_reply_to_status_id_str": "1257248088537825280",
+    "in_reply_to_user_id": 785411705916559360,
+    "in_reply_to_user_id_str": "785411705916559360",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ThierryBreton @JulienHoez Sounds great, when can we expect results?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 21 21:25:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udde6\ud83c\uddf9 in \ud83c\uddee\ud83c\uddf9. Proudly \ud83c\uddea\ud83c\uddfa. Owner/GM of Lupaia, a country inn in the heart of Tuscany. Interested in politics, travel, airlines & hotels.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lupaia.com",
+                        "expanded_url": "http://www.lupaia.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Emu9cCQ4gN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5915,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 502,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 229226550,
+        "id_str": "229226550",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Montepulciano, Tuscany",
+        "name": "Christopher Mueller",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229226550/1558199590",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743869875442057216/1fT-wVTA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743869875442057216/1fT-wVTA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "livefromzurich",
+        "statuses_count": 1611,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Emu9cCQ4gN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

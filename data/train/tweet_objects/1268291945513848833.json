@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 21:22:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1268291945513848833",
+                "indices": [
+                    107,
+                    130
+                ],
+                "url": "https://t.co/xv1g2XNG7o"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1220281826943455232,
+                "id_str": "1220281826943455232",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Abhirup Sarkar \ud83d\udd2c\ud83e\uddea",
+                "screen_name": "AbhirupMD"
+            },
+            {
+                "id": 3322502295,
+                "id_str": "3322502295",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "Ilan Schwartz MD PhD",
+                "screen_name": "GermHunterMD"
+            },
+            {
+                "id": 1183327309224386560,
+                "id_str": "1183327309224386560",
+                "indices": [
+                    25,
+                    37
+                ],
+                "name": "David Boulware, MD MPH",
+                "screen_name": "boulware_dr"
+            },
+            {
+                "id": 1162353289608015873,
+                "id_str": "1162353289608015873",
+                "indices": [
+                    38,
+                    53
+                ],
+                "name": "Katelyn Pastick",
+                "screen_name": "KatelynPastick"
+            },
+            {
+                "id": 834772697481674752,
+                "id_str": "834772697481674752",
+                "indices": [
+                    54,
+                    68
+                ],
+                "name": "Sarah Lofgren",
+                "screen_name": "SarahLofgren1"
+            },
+            {
+                "id": 4260929247,
+                "id_str": "4260929247",
+                "indices": [
+                    69,
+                    79
+                ],
+                "name": "Todd Lee",
+                "screen_name": "DrToddLee"
+            },
+            {
+                "id": 4261197261,
+                "id_str": "4261197261",
+                "indices": [
+                    80,
+                    91
+                ],
+                "name": "Emily McDonald",
+                "screen_name": "DrEmilyMcD"
+            },
+            {
+                "id": 3164631949,
+                "id_str": "3164631949",
+                "indices": [
+                    92,
+                    105
+                ],
+                "name": "Ryan Zarychanski",
+                "screen_name": "RZarychanski"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1268291945513848833,
+    "id_str": "1268291945513848833",
+    "in_reply_to_screen_name": "AbhirupMD",
+    "in_reply_to_status_id": 1268291060519714816,
+    "in_reply_to_status_id_str": "1268291060519714816",
+    "in_reply_to_user_id": 1220281826943455232,
+    "in_reply_to_user_id_str": "1220281826943455232",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@AbhirupMD @GermHunterMD @boulware_dr @KatelynPastick @SarahLofgren1 @DrToddLee @DrEmilyMcD @RZarychanski\u2026 https://t.co/xv1g2XNG7o",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 05 15:53:45 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Assistant Professor of Infectious Diseases at the University of Minnesota \n\nNIH Fogarty Fellow (2017, Uganda)\n\nHobbyist programmer, world traveler",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "experts.umn.edu/en/persons/mat\u2026",
+                        "expanded_url": "https://experts.umn.edu/en/persons/matthew-f-pullen",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/p4AgcuGsqn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1672,
+        "follow_request_sent": false,
+        "followers_count": 370,
+        "following": false,
+        "friends_count": 428,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1180511363124338688,
+        "id_str": "1180511363124338688",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Minneapolis, Minnesota",
+        "name": "Matthew Pullen",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180511363124338688/1570293460",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180513217568792578/7GwljL4b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180513217568792578/7GwljL4b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mfpullenmd",
+        "statuses_count": 359,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/p4AgcuGsqn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

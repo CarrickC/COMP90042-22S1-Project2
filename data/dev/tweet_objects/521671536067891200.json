@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 14:39:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521671536067891200,
+    "id_str": "521671536067891200",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lilduval a lie...or all of us would be dead",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 10 14:29:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Twitter is fun \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f \ud83d\udc10 8LP",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17899,
+        "follow_request_sent": false,
+        "followers_count": 475,
+        "following": false,
+        "friends_count": 240,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 189151922,
+        "id_str": "189151922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Florida, USA",
+        "name": "OJ",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189151922/1606696351",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1480516334731636736/WIV0TRBO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480516334731636736/WIV0TRBO_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "3F5661",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "oneandonlij",
+        "statuses_count": 80312,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

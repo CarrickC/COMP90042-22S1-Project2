@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 03 03:32:15 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    102,
+                    114
+                ],
+                "text": "fluffylives"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 529113803468718081,
+    "id_str": "529113803468718081",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@fluffyguy you have no idea how scared I was when I saw that on Facebook ! Thank god for this tweet \ud83d\ude4c #fluffylives",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 25 17:44:37 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "my son is my person\ud83d\udc99 $ingridontrip11",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/ingridontrip_11",
+                        "expanded_url": "http://Instagram.com/ingridontrip_11",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PQxJhLAEjW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12050,
+        "follow_request_sent": false,
+        "followers_count": 729,
+        "following": false,
+        "friends_count": 681,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 716462144,
+        "id_str": "716462144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Chicago, IL",
+        "name": "dontripp\u25c1",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716462144/1640621160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478600056081199104/Ay99d37l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478600056081199104/Ay99d37l_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ingridontrip69",
+        "statuses_count": 24543,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PQxJhLAEjW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 27 11:47:54 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    30
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 215598844,
+                "id_str": "215598844",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "L E F T, PhD \u26ab\ufe0f",
+                "screen_name": "LeftSentThis"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537935844326535169,
+    "id_str": "537935844326535169",
+    "in_reply_to_screen_name": "LeftSentThis",
+    "in_reply_to_status_id": 537913349338435584,
+    "in_reply_to_status_id_str": "537913349338435584",
+    "in_reply_to_user_id": 215598844,
+    "in_reply_to_user_id_str": "215598844",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LeftSentThis Is the #Ferguson issue about \"police conpsiracy to coverup execution\" or \"should police be allowed to kill anyone?\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 12 09:55:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I code too much. https://t.co/9InGG2dETg | https://t.co/XA6r4TYDvC | https://t.co/QO1vxpUyeT",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "pknopf.com",
+                        "expanded_url": "http://pknopf.com",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "url": "https://t.co/9InGG2dETg"
+                    },
+                    {
+                        "display_url": "qmlnet.github.io",
+                        "expanded_url": "https://qmlnet.github.io/",
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "url": "https://t.co/XA6r4TYDvC"
+                    },
+                    {
+                        "display_url": "godarch.com",
+                        "expanded_url": "http://godarch.com",
+                        "indices": [
+                            69,
+                            92
+                        ],
+                        "url": "https://t.co/QO1vxpUyeT"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pknopf.com",
+                        "expanded_url": "http://pknopf.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9InGG1W41I"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1910,
+        "follow_request_sent": false,
+        "followers_count": 207,
+        "following": false,
+        "friends_count": 329,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 46621029,
+        "id_str": "46621029",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Bradenton, FL, USA",
+        "name": "Paul Knopf",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381800540087201793/UbqdNd5m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381800540087201793/UbqdNd5m_normal.jpg",
+        "profile_link_color": "424874",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "pauldotknopf",
+        "statuses_count": 6450,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/9InGG1W41I",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

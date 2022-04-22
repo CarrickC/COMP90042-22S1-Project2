@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 15:38:20 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 132688318,
+                "id_str": "132688318",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Jennifer Yacheson",
+                "screen_name": "JennYach"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524223094987452416,
+    "id_str": "524223094987452416",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@fxnscitech @JennYach @LiveScience SCARIEST THING EVER!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 02 01:45:21 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mom of 2 wonderful kids with ASD, wife, teacher & friend. I love scifi & fantasy, red wine, coffee, history & science.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 65335,
+        "follow_request_sent": false,
+        "followers_count": 508,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1639279320,
+        "id_str": "1639279320",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "",
+        "name": "Sue",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639279320/1423458117",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697968013132242944/NKg4dTFk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697968013132242944/NKg4dTFk_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Just_SueF",
+        "statuses_count": 31489,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

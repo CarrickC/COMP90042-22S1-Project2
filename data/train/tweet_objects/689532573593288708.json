@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 19 19:39:11 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2319494544,
+                "id_str": "2319494544",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Sarcasm",
+                "screen_name": "WorstFact"
+            },
+            {
+                "id": 3436684095,
+                "id_str": "3436684095",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "WowSoPunny",
+                "screen_name": "WowSoPunny"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 689532573593288708,
+    "id_str": "689532573593288708",
+    "in_reply_to_screen_name": "WorstFact",
+    "in_reply_to_status_id": 640644123339431936,
+    "in_reply_to_status_id_str": "640644123339431936",
+    "in_reply_to_user_id": 2319494544,
+    "in_reply_to_user_id_str": "2319494544",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WorstFact @WowSoPunny really? Cause thats a playstation controller and Nintendo makes gamecube",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 28 05:41:21 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#MUFC \u26ab\u26ab\n#VivoAzzuro \u26aa",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20850,
+        "follow_request_sent": false,
+        "followers_count": 298,
+        "following": false,
+        "friends_count": 519,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 476487910,
+        "id_str": "476487910",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "K.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/476487910/1467552156",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/899245118519226368/IG8vjq4N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/899245118519226368/IG8vjq4N_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KoLePl",
+        "statuses_count": 73246,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

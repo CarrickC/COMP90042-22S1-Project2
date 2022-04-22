@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 29 23:05:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14319981,
+                "id_str": "14319981",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Squarespace",
+                "screen_name": "squarespace"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560936720016101377,
+    "id_str": "560936720016101377",
+    "in_reply_to_screen_name": "squarespace",
+    "in_reply_to_status_id": 560442390805090307,
+    "in_reply_to_status_id_str": "560442390805090307",
+    "in_reply_to_user_id": 14319981,
+    "in_reply_to_user_id_str": "14319981",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Squarespace Drift onto my blocklist for promoting tweets.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 11 04:59:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reader, writer, photographer, cook, partner, gardener, teacher, actor, motorcycle rider, hiker, camper, linguist, spinner, student; tinker, tailor, soldier, spy",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "patreon.com/Pecunium",
+                        "expanded_url": "https://www.patreon.com/Pecunium",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sFXET43cQf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20884,
+        "follow_request_sent": false,
+        "followers_count": 4385,
+        "following": false,
+        "friends_count": 370,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 96061175,
+        "id_str": "96061175",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 237,
+        "location": "",
+        "name": "T Karney",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96061175/1492195084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2516865779/8o1qwsdyye557hkuessq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2516865779/8o1qwsdyye557hkuessq_normal.jpeg",
+        "profile_link_color": "6D7B8D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pecunium",
+        "statuses_count": 473896,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/sFXET43cQf",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

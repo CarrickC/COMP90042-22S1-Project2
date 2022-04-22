@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -114.21871226,
+            51.14245952
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Sep 23 21:26:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2890961,
+                "id_str": "2890961",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gizmodo",
+                "screen_name": "Gizmodo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.14245952,
+            -114.21871226
+        ],
+        "type": "Point"
+    },
+    "id": 514526361277321219,
+    "id_str": "514526361277321219",
+    "in_reply_to_screen_name": "Gizmodo",
+    "in_reply_to_status_id": 514517470238240768,
+    "in_reply_to_status_id_str": "514517470238240768",
+    "in_reply_to_user_id": 2890961,
+    "in_reply_to_user_id_str": "2890961",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.3160379,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        50.84278
+                    ],
+                    [
+                        -113.859664,
+                        51.212548
+                    ],
+                    [
+                        -114.3160379,
+                        51.212548
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Calgary, Alberta",
+        "id": "53504716d445dcad",
+        "name": "Calgary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Gizmodo Stop! I feel a shift in the time-space continuum",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 03 06:07:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Curator of life and living along the Salish Sea... unceded Lekwungen (Songhees & Esquimalt) First Nations territory.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 257814,
+        "follow_request_sent": false,
+        "followers_count": 803,
+        "following": false,
+        "friends_count": 654,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 246657960,
+        "id_str": "246657960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 57,
+        "location": "",
+        "name": "Curator212",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246657960/1512004526",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936040195056484352/jnf1SCLX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936040195056484352/jnf1SCLX_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ksbrooker",
+        "statuses_count": 227524,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

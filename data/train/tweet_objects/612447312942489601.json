@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 02:29:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3218894223,
+                "id_str": "3218894223",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Corazon Giorno",
+                "screen_name": "tchopstl"
+            },
+            {
+                "id": 407929406,
+                "id_str": "407929406",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "Jake Kemp",
+                "screen_name": "NotJackKemp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612447312942489601,
+    "id_str": "612447312942489601",
+    "in_reply_to_screen_name": "tchopstl_",
+    "in_reply_to_status_id": 612438528803213312,
+    "in_reply_to_status_id_str": "612438528803213312",
+    "in_reply_to_user_id": 9112032,
+    "in_reply_to_user_id_str": "9112032",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@tchopStL @NotJackKemp They did this for Wee-Bay too.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 09 03:47:53 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Solicitor of Fun. Typical Chad. Not responsible for Jason Zantjer\u2019s death.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21444,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 583,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 224484320,
+        "id_str": "224484320",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "Sideline Sones",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/224484320/1535684902",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1035363632513736705/i4fO39Sj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035363632513736705/i4fO39Sj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cmsones",
+        "statuses_count": 15657,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

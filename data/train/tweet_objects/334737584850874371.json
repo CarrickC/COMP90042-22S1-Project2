@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -4.19115935,
+            50.40476084
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed May 15 18:30:34 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            },
+            {
+                "id": 17986456,
+                "id_str": "17986456",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Ian",
+                "screen_name": "elvis717"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            50.40476084,
+            -4.19115935
+        ],
+        "type": "Point"
+    },
+    "id": 334737584850874371,
+    "id_str": "334737584850874371",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.209496,
+                        50.3320883
+                    ],
+                    [
+                        -4.019643,
+                        50.3320883
+                    ],
+                    [
+                        -4.019643,
+                        50.444179
+                    ],
+                    [
+                        -4.209496,
+                        50.444179
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Plymouth, England",
+        "id": "541fa3488b446949",
+        "name": "Plymouth",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/541fa3488b446949.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@stephenfry @elvis717 \nOh Stephen!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 22 08:14:59 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I can't think about that right now. If I do, I'll go crazy. I'll think about that tomorrow. After all, tomorrow is another day. Scarlett O'Hara,Plymouth HH\ud83c\udf40",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27827,
+        "follow_request_sent": false,
+        "followers_count": 1412,
+        "following": false,
+        "friends_count": 806,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 395799501,
+        "id_str": "395799501",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "Plymouth, England",
+        "name": "Becs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/395799501/1582740648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268152245314621440/veP5vk0g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268152245314621440/veP5vk0g_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BecsJDonnelly",
+        "statuses_count": 17478,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

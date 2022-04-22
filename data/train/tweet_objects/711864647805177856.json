@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 21 10:38:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2304239234,
+                "id_str": "2304239234",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Mealsaps\u2122",
+                "screen_name": "Mealsaps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 711864647805177856,
+    "id_str": "711864647805177856",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Mealsaps @kellyibeh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 26 18:17:22 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "RIP Gramps",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "virtuessentials.com",
+                        "expanded_url": "https://www.virtuessentials.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DJwEFQOJDN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14021,
+        "follow_request_sent": false,
+        "followers_count": 720,
+        "following": false,
+        "friends_count": 563,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 195438621,
+        "id_str": "195438621",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "PG County",
+        "name": "\ud83d\udc7a",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195438621/1636120153",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1480731158002421764/0Fajpqsg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480731158002421764/0Fajpqsg_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bfkese",
+        "statuses_count": 111992,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/DJwEFQOJDN",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 20 07:02:52 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    22
+                ],
+                "text": "OpenSA"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1252130597952258049,
+    "id_str": "1252130597952258049",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrZweliMkhize #OpenSA is the key to helping more people",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 01 05:25:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mobile system for enterprise | Internet entrepreneur | Personal development | Lifestyler",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "za.linkedin.com/pub/nico-schee\u2026",
+                        "expanded_url": "http://za.linkedin.com/pub/nico-scheepers/12/b77/52b",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9PMpy53gBo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 363,
+        "follow_request_sent": false,
+        "followers_count": 270,
+        "following": false,
+        "friends_count": 952,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 509755768,
+        "id_str": "509755768",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Aston Manor, Kemptonpark, ZA",
+        "name": "Nico Scheepers",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128659728232525824/jTwZQ35E_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128659728232525824/jTwZQ35E_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nscheepe",
+        "statuses_count": 1554,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9PMpy53gBo",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 04:18:07 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    80
+                ],
+                "text": "MikeBrown"
+            },
+            {
+                "indices": [
+                    128,
+                    137
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/Y6brK2",
+                "expanded_url": "http://bit.ly/Y6brK2",
+                "indices": [
+                    105,
+                    127
+                ],
+                "url": "http://t.co/t2pdWJcAbF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15249499,
+                "id_str": "15249499",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Neal Carter he/him",
+                "screen_name": "nealcarter"
+            },
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    48,
+                    57
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499771925938581505,
+    "id_str": "499771925938581505",
+    "in_reply_to_screen_name": "nealcarter",
+    "in_reply_to_status_id": 499683602452717569,
+    "in_reply_to_status_id_str": "499683602452717569",
+    "in_reply_to_user_id": 15249499,
+    "in_reply_to_user_id_str": "15249499",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@nealcarter: Confirmed: this is irrelevant. RT @ksdknews: Confirmed: #MikeBrown had no criminal record. http://t.co/t2pdWJcAbF #Ferguson\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 17:57:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'd rather have a life of oh wells than a life of what ifs.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 488,
+        "follow_request_sent": false,
+        "followers_count": 1090,
+        "following": false,
+        "friends_count": 215,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26285018,
+        "id_str": "26285018",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 75,
+        "location": "Washington, DC",
+        "name": "Autumn\u2728",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26285018/1462965590",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154552972778643457/rLsKPRdu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154552972778643457/rLsKPRdu_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "miss_smiley10",
+        "statuses_count": 64715,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

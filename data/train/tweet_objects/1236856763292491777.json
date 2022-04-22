@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 09 03:30:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1236856763292491777",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/pcWSTgxGPz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 44196397,
+                "id_str": "44196397",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Elon Musk",
+                "screen_name": "elonmusk"
+            }
+        ]
+    },
+    "favorite_count": 13,
+    "favorited": false,
+    "geo": null,
+    "id": 1236856763292491777,
+    "id_str": "1236856763292491777",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_status_id": 1236029449042198528,
+    "in_reply_to_status_id_str": "1236029449042198528",
+    "in_reply_to_user_id": 44196397,
+    "in_reply_to_user_id_str": "44196397",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@elonmusk OMG, I don't think I've ever been so disappointed in someone I once held in high esteem. If 40 million ge\u2026 https://t.co/pcWSTgxGPz",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 15 17:58:32 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "about wanting us to be paid a living wage, provided healthcare, affordable housing, nutritious food, clean air & water & a life free of discrimination? #Fresh",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wakingplanet.com",
+                        "expanded_url": "http://www.wakingplanet.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aVi1S0Ho6F"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 112923,
+        "follow_request_sent": false,
+        "followers_count": 9276,
+        "following": false,
+        "friends_count": 9695,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1354949786,
+        "id_str": "1354949786",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 91,
+        "location": "Hudson Valley, NY",
+        "name": "What's So Radical...",
+        "notifications": false,
+        "profile_background_color": "169FE3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354949786/1621861444",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1485722725985538049/W-Ncu6ko_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485722725985538049/W-Ncu6ko_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "upton1144",
+        "statuses_count": 93088,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aVi1S0Ho6F",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

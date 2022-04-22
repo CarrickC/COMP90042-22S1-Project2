@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 03 19:54:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 431143412,
+                "id_str": "431143412",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "kass (taylor\u2019s version)",
+                "screen_name": "kassidyboydd"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 518127040995028992,
+    "id_str": "518127040995028992",
+    "in_reply_to_screen_name": "kassidyboydd",
+    "in_reply_to_status_id": 518126570410885120,
+    "in_reply_to_status_id_str": "518126570410885120",
+    "in_reply_to_user_id": 431143412,
+    "in_reply_to_user_id_str": "431143412",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@kassidyboydd oh god i heard her on the radio the other day, she said she did it because she wants a reality tv show",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 16 22:14:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#PenguinsHockey #SteelersFootball #Soccer #DylanHolland #HarryPotter #Supernatural #DoctorWho #JKRowling",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12674,
+        "follow_request_sent": false,
+        "followers_count": 573,
+        "following": false,
+        "friends_count": 418,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 610395324,
+        "id_str": "610395324",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Canada",
+        "name": "Taylor",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/610395324/1427766021",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582879605293338625/BXhIUa20_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582879605293338625/BXhIUa20_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "87_taylorp",
+        "statuses_count": 13809,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

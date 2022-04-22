@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 22:56:13 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519984641059860480,
+    "id_str": "519984641059860480",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 519962130859429888,
+    "in_reply_to_status_id_str": "519962130859429888",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+    "text": "@realDonaldTrump please show your source!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 08 23:32:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Black Lives Matter! Pro choice! Dad and dog lover! Don't be selfish, get vaccinated!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1563,
+        "follow_request_sent": false,
+        "followers_count": 304,
+        "following": false,
+        "friends_count": 738,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 80972691,
+        "id_str": "80972691",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Hermitage, TN",
+        "name": "Phil Nelson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80972691/1630779193",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1434218002292031488/CXEBVzjZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434218002292031488/CXEBVzjZ_normal.jpg",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "4E70B7",
+        "profile_sidebar_fill_color": "4E70B7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hoylier",
+        "statuses_count": 9990,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

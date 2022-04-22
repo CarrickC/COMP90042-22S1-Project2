@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 13 14:23:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 555007302550704128,
+    "id_str": "555007302550704128",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 555003887753494528,
+    "in_reply_to_status_id_str": "555003887753494528",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@FoxNews They bring more ridicule on themselves than any newspaper or blogger ever could.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 08 15:14:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Seeker of Truth.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jkstexas.wordpress.com",
+                        "expanded_url": "http://jkstexas.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mg4L0qjp2C"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25694,
+        "follow_request_sent": false,
+        "followers_count": 607,
+        "following": false,
+        "friends_count": 1405,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 80870096,
+        "id_str": "80870096",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Forney, TX",
+        "name": "Jeffrey Stewart",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80870096/1398198182",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451380059303989249/DbtryDnP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451380059303989249/DbtryDnP_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0E0D02",
+        "profile_text_color": "39BD91",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HeatherMwangi85",
+        "statuses_count": 28986,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mg4L0qjp2C",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

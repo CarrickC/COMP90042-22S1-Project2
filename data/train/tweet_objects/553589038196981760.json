@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 16:28:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 854402779879804928,
+                "id_str": "854402779879804928",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "HuffPost",
+                "screen_name": "HuffingtonPost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553589038196981760,
+    "id_str": "553589038196981760",
+    "in_reply_to_screen_name": "HuffPost",
+    "in_reply_to_status_id": 553588178687655936,
+    "in_reply_to_status_id_str": "553588178687655936",
+    "in_reply_to_user_id": 14511951,
+    "in_reply_to_user_id_str": "14511951",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@HuffingtonPost Can you confirm the reports that those suspects were killed by French police?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 22 01:47:56 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My Official Twitter Account | Christian | Pre-theologian | Author of #ChesQuotes | Calvinist | Photographer | Reformer | Forever with God!| IT enthusiast",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/iamchestermart\u2026",
+                        "expanded_url": "http://facebook.com/iamchestermartinezdiaz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0tTKvxQgM1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10273,
+        "follow_request_sent": false,
+        "followers_count": 389,
+        "following": false,
+        "friends_count": 1965,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 107273605,
+        "id_str": "107273605",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Toronto, Ontario, Canada.",
+        "name": "Chester M. Diaz\ud83c\uddfa\ud83c\udde6 \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107273605/1645671866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506081516492840963/f2AKIqAP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506081516492840963/f2AKIqAP_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamchesterdiaz",
+        "statuses_count": 35585,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/0tTKvxQgM1",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

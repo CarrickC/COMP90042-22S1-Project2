@@ -1,0 +1,217 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 12 11:47:57 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1271408898927472640",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/GXyISsPtVs"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 29,
+    "favorited": false,
+    "geo": null,
+    "id": 1271408898927472640,
+    "id_str": "1271408898927472640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jun 12 11:15:11 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "theglobeandmail.com/opinion/editor\u2026",
+                    "expanded_url": "https://www.theglobeandmail.com/opinion/editorials/article-by-failing-to-test-and-trace-properly-canada-is-still-flying-blind-on/",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "url": "https://t.co/mPgj7ry823"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 8736882,
+                    "id_str": "8736882",
+                    "indices": [
+                        49,
+                        62
+                    ],
+                    "name": "The Globe and Mail",
+                    "screen_name": "globeandmail"
+                }
+            ]
+        },
+        "favorite_count": 46,
+        "favorited": false,
+        "geo": null,
+        "id": 1271400651101212673,
+        "id_str": "1271400651101212673",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Another terrific editorial on COVID-19 from the \u2066@globeandmail\u2069. What is our long game Canada? https://t.co/mPgj7ry823",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 05 19:31:25 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Vice-president and general internist @unityhealthto, associate prof @uoftmedicine, and very fortunate husband and father.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "unityhealth.to",
+                            "expanded_url": "https://unityhealth.to",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/feAo2QitsS"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 8488,
+            "follow_request_sent": false,
+            "followers_count": 35942,
+            "following": false,
+            "friends_count": 1937,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 102143400,
+            "id_str": "102143400",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 591,
+            "location": "Toronto",
+            "name": "Irfan Dhalla",
+            "notifications": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102143400/1605616369",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378140304516247560/GWNOK9QO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378140304516247560/GWNOK9QO_normal.jpg",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IrfanDhalla",
+            "statuses_count": 25370,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/feAo2QitsS",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1271400651101212673,
+    "quoted_status_id_str": "1271400651101212673",
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I am a little unclear how priorities are being set. Is not COVID the biggest threat to our economy? It may be worth\u2026 https://t.co/GXyISsPtVs",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 12 01:41:43 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ID physician and hospital epidemiologist, McMaster University; dad; expat from Switzerland, now proud Hamiltonian; opinions my own creation.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "experts.mcmaster.ca/display/mertzd",
+                        "expanded_url": "https://experts.mcmaster.ca/display/mertzd",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uvXgajUcMc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7563,
+        "follow_request_sent": false,
+        "followers_count": 3953,
+        "following": false,
+        "friends_count": 116,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 907418917920018433,
+        "id_str": "907418917920018433",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 72,
+        "location": "Hamilton, Ontario",
+        "name": "Dominik Mertz",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907418917920018433/1599149707",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261342578689146885/pKaDZqOW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261342578689146885/pKaDZqOW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DocDominik",
+        "statuses_count": 4432,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uvXgajUcMc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

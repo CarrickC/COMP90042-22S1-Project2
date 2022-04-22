@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 12 13:05:14 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2750467438,
+                "id_str": "2750467438",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Andre Beltempo",
+                "screen_name": "AndreBeltempo"
+            },
+            {
+                "id": 1375976088,
+                "id_str": "1375976088",
+                "indices": [
+                    15,
+                    25
+                ],
+                "name": "Pamela Libralesso",
+                "screen_name": "Plibra123"
+            },
+            {
+                "id": 768976342369071105,
+                "id_str": "768976342369071105",
+                "indices": [
+                    26,
+                    38
+                ],
+                "name": "Tara Moriarty",
+                "screen_name": "MoriartyLab"
+            },
+            {
+                "id": 1096205507348623360,
+                "id_str": "1096205507348623360",
+                "indices": [
+                    39,
+                    47
+                ],
+                "name": "David Fisman",
+                "screen_name": "DFisman"
+            },
+            {
+                "id": 1345345074,
+                "id_str": "1345345074",
+                "indices": [
+                    48,
+                    61
+                ],
+                "name": "Andrew Morris",
+                "screen_name": "ASPphysician"
+            },
+            {
+                "id": 1093695069176000512,
+                "id_str": "1093695069176000512",
+                "indices": [
+                    62,
+                    74
+                ],
+                "name": "Isaac Bogoch",
+                "screen_name": "BogochIsaac"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1271428346979721218,
+    "id_str": "1271428346979721218",
+    "in_reply_to_screen_name": "AndreBeltempo",
+    "in_reply_to_status_id": 1271427574376345600,
+    "in_reply_to_status_id_str": "1271427574376345600",
+    "in_reply_to_user_id": 2750467438,
+    "in_reply_to_user_id_str": "2750467438",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AndreBeltempo @Plibra123 @MoriartyLab @DFisman @ASPphysician @BogochIsaac \u201cYou\u2019d think\u201d. That\u2019s the problem in a nut, right there.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 19 22:25:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biomedical researcher at #LTRI: signaling, cancer metastasis & Alzheimers; Supporting Canadian researchers; He/Him #TerryFox https://t.co/ulNg7SYH8B",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tfri.ca",
+                        "expanded_url": "http://www.tfri.ca",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "url": "https://t.co/ulNg7SYH8B"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lunenfeld.ca/researchers/wo\u2026",
+                        "expanded_url": "http://www.lunenfeld.ca/researchers/woodgett",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zDtLSaqJjt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 47227,
+        "follow_request_sent": false,
+        "followers_count": 9579,
+        "following": false,
+        "friends_count": 370,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 134941111,
+        "id_str": "134941111",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 202,
+        "location": "Toronto",
+        "name": "Jim Woodgett",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134941111/1629217146",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402298659409039362/4Asq_mfl_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402298659409039362/4Asq_mfl_normal.png",
+        "profile_link_color": "3A5738",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jwoodgett",
+        "statuses_count": 70295,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zDtLSaqJjt",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

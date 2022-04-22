@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 21:11:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1165253690,
+                "id_str": "1165253690",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Boruc Jan",
+                "screen_name": "BorucJan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 643170106856636420,
+    "id_str": "643170106856636420",
+    "in_reply_to_screen_name": "BorucJan",
+    "in_reply_to_status_id": 643139873264812032,
+    "in_reply_to_status_id_str": "643139873264812032",
+    "in_reply_to_user_id": 1165253690,
+    "in_reply_to_user_id_str": "1165253690",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@BorucJan Old picture, fake news \ud83d\ude34",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 08 12:08:00 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@WestHam fan \u2692. Atheist. @LibDems supporter \ud83d\udfe1. #BreakTheStigma . Snapchat & Instagram\ud83d\udc7b\ud83d\udcf8 - sjdon16 . Gamertag\ud83c\udfae- sjdon . YouTube Channel \u25b6\ufe0f- Linked below",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCujhM\u2026",
+                        "expanded_url": "https://youtube.com/channel/UCujhM4zMMZt3vcp4ZtlhrnQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IPBYf1jcVV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 79131,
+        "follow_request_sent": false,
+        "followers_count": 1537,
+        "following": false,
+        "friends_count": 1472,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 80833420,
+        "id_str": "80833420",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "United Kingdom",
+        "name": "Samuel Reardon \ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80833420/1645716767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1286416801509904384/xcejX5wQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286416801509904384/xcejX5wQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sjdon16",
+        "statuses_count": 23960,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/IPBYf1jcVV",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 22:51:19 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528680715710234625,
+    "id_str": "528680715710234625",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Adambrimer that\u2019s awesome! Is that real?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 18 02:13:16 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm tall. I take pictures. \nig: @ozphotographs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "matthewosbornephotography.com",
+                        "expanded_url": "http://www.matthewosbornephotography.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/siwAyV6yMt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4128,
+        "follow_request_sent": false,
+        "followers_count": 193,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15152959,
+        "id_str": "15152959",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Knoxville, TN",
+        "name": "Oz",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15152959/1589465868",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981524427425894401/l-knRE7c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981524427425894401/l-knRE7c_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Oztalks",
+        "statuses_count": 7487,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/siwAyV6yMt",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 20 05:20:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1252104839531843584",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Huzk3msoab"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1252104839531843584,
+    "id_str": "1252104839531843584",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@DrZweliMkhize Dr, according to you, the inevitable outcome for us all is testing positive for COVID-19, this means\u2026 https://t.co/Huzk3msoab",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 18 20:13:47 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Jason Gumede as (De Cave Man) | De Cave Man & TonicVolts | Mommies Daddy | Spiritual Rhythms | Producer | Dj | https://t.co/cPvVUwu04y",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "platoon.lnk.to/little-things-\u2026",
+                        "expanded_url": "https://platoon.lnk.to/little-things-ep",
+                        "indices": [
+                            111,
+                            134
+                        ],
+                        "url": "https://t.co/cPvVUwu04y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2006,
+        "follow_request_sent": false,
+        "followers_count": 6249,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 612043650,
+        "id_str": "612043650",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "South Africa ",
+        "name": "#AFRICANSAGAEP",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/612043650/1649803970",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450334384813379587/mrEsvH5Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450334384813379587/mrEsvH5Y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DeCaveMan",
+        "statuses_count": 1452,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 10 19:42:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 426802833,
+                "id_str": "426802833",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "AP Politics",
+                "screen_name": "AP_Politics"
+            },
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    13,
+                    16
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 675038004650618880,
+    "id_str": "675038004650618880",
+    "in_reply_to_screen_name": "AP_Politics",
+    "in_reply_to_status_id": 675005503160901632,
+    "in_reply_to_status_id_str": "675005503160901632",
+    "in_reply_to_user_id": 426802833,
+    "in_reply_to_user_id_str": "426802833",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AP_Politics @AP  Violating constitutional rights through Exec Order. How FDR of him.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 02 06:25:09 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Just smirking my way through Zeros. Connoisseur of fine Milwaukee beers. Veteran of the 2016 meme wars. Got the China virus and made it my bitch.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 57632,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 259604307,
+        "id_str": "259604307",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Thach Weave",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259604307/1649906404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1352390727716589569/Oby0pS9D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352390727716589569/Oby0pS9D_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thatchweave",
+        "statuses_count": 19504,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

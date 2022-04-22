@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 00:30:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626550296496308225,
+    "id_str": "626550296496308225",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626546123713474560,
+    "in_reply_to_status_id_str": "626546123713474560",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BuzzFeed The lady that died on them didn't listen to the mechanic who was closing it. How about China shows courtesy and listen to people.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 13 19:39:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software Engineer in Energy Efficienct Automation, Android. Environmentalist. Humanist. Elder Millennial.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42042,
+        "follow_request_sent": false,
+        "followers_count": 290,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14763462,
+        "id_str": "14763462",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Minneapolis, MN",
+        "name": "Jesse",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14763462/1590711102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226746635272761346/WP0N7Mec_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226746635272761346/WP0N7Mec_normal.jpg",
+        "profile_link_color": "1B2F33",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jessesomething",
+        "statuses_count": 25271,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

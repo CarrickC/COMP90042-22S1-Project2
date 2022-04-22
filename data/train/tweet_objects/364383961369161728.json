@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 05 13:54:40 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    132,
+                    140
+                ],
+                "text": "NoNukes"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "reut.rs/19I9nLn",
+                "expanded_url": "http://reut.rs/19I9nLn",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/FSexuAjiBK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1652541,
+                "id_str": "1652541",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Reuters",
+                "screen_name": "Reuters"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 364383961369161728,
+    "id_str": "364383961369161728",
+    "in_reply_to_screen_name": "Reuters",
+    "in_reply_to_status_id": 364383457545162754,
+    "in_reply_to_status_id_str": "364383457545162754",
+    "in_reply_to_user_id": 1652541,
+    "in_reply_to_user_id_str": "1652541",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@Reuters: Highly radioactive water is seeping into the ocean from Japan's crippled Fukushima nuclear plant http://t.co/FSexuAjiBK\u201d #NoNukes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 12 12:58:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u7d44\u7e54\u72af\u7f6a\u51e6\u7f70\u6cd5\u6539\u6b63\u6cd5\u30fb\u5b89\u4fdd\u6cd5\u30fb\u79d8\u5bc6\u4fdd\u8b77\u6cd5\u306f\u3059\u3079\u3066\u5ec3\u6b62\u3002\u653f\u5e9c\u306f\u56fd\u6c11\u306e\u88ab\u66dd\u7dda\u91cf\u3092\u516c\u958b\u3057\u3001\u539f\u767a\u4e8b\u6545\u306e\u8cac\u4efb\u8005\u3092\u51e6\u7f70\u305b\u3088\uff01\u539f\u767a\u518d\u7a3c\u50cd\u53cd\u5bfe\uff01 \u7d30\u5ddd\u30fb\u5c0f\u6cc9\u306e\u8b00\u7565\u3068\u540c\u3058\u624b\u306b\u306f\u4e57\u3089\u306a\u3044\u3002\u4ed6\u4eba\u306e\u88ab\u9078\u6319\u6a29\u3092\u596a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u3002\u5b87\u90fd\u5bae\u5065\u5150\u6c0f\u3001\u3066\u3064\u3055\u3093\u3092\u652f\u6301\u3057\u307e\u3059\u3002 #\u61b2\u6cd5\u6539\u6b63\u53cd\u5bfe",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twilog.org/t_m_tweet",
+                        "expanded_url": "http://twilog.org/t_m_tweet",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vQX3dTwk2B"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24837,
+        "follow_request_sent": false,
+        "followers_count": 1661,
+        "following": false,
+        "friends_count": 2589,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 372258850,
+        "id_str": "372258850",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 38,
+        "location": "A Totalitarian Country",
+        "name": "t_m NoNukes\ud83d\ude37",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/372258850/1564827906",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876375254708375552/ZpvIAZ_6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876375254708375552/ZpvIAZ_6_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "t_m_tweet",
+        "statuses_count": 71528,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vQX3dTwk2B",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

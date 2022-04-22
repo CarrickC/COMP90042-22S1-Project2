@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 23:49:46 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3497382434,
+                "id_str": "3497382434",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Eron (Re-Education)",
+                "screen_name": "professordarwin"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1250209662651121664,
+    "id_str": "1250209662651121664",
+    "in_reply_to_screen_name": "professordarwin",
+    "in_reply_to_status_id": 1250199523944566785,
+    "in_reply_to_status_id_str": "1250199523944566785",
+    "in_reply_to_user_id": 3497382434,
+    "in_reply_to_user_id_str": "3497382434",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@professordarwin Some Boomer and the Boomer killer.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 29 20:03:05 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "He/him/they. Platform Lead Engineer\ud83d\udda5\ufe0f Ecomodernist\u267b\ufe0f Seattle Friends of Fission\u269b\ufe0f Twitch Politics\ud83e\udd21 Employed by a private games company\ud83c\udfae",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/yestv",
+                        "expanded_url": "https://linktr.ee/yestv",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aCOvxAMDVY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85340,
+        "follow_request_sent": false,
+        "followers_count": 1610,
+        "following": false,
+        "friends_count": 1406,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18457820,
+        "id_str": "18457820",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 57,
+        "location": "Seattle, WA",
+        "name": "Karl Alex Pauls \ud83c\udf39\u269b\ufe0f",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18457820/1527909565",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1422639007024914434/hlGOOy3Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422639007024914434/hlGOOy3Q_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KarlAlexPauls",
+        "statuses_count": 34790,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aCOvxAMDVY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 20:01:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613074309486133248,
+    "id_str": "613074309486133248",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ajplus the hell.....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 20 00:44:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "tired soul.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33108,
+        "follow_request_sent": false,
+        "followers_count": 969,
+        "following": false,
+        "friends_count": 618,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 338729091,
+        "id_str": "338729091",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "planet kos",
+        "name": "kos supremacy",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/338729091/1509820946",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1468989321013338121/pBzqrlV3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1468989321013338121/pBzqrlV3_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0D0806",
+        "profile_text_color": "544C45",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KosTheMuse",
+        "statuses_count": 32730,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

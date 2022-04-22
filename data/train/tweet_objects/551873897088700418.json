@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 04 22:52:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1BqPmDh",
+                "expanded_url": "http://fxn.ws/1BqPmDh",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/7G1wcxRZwn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            },
+            {
+                "id": 262326533,
+                "id_str": "262326533",
+                "indices": [
+                    117,
+                    131
+                ],
+                "name": "Fox News Health",
+                "screen_name": "foxnewshealth"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551873897088700418,
+    "id_str": "551873897088700418",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 551575491430211584,
+    "in_reply_to_status_id_str": "551575491430211584",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@FoxNews: 19-year-old girl wakes up during brain surgery, asks doctors \u2018How\u2019s it going?\u2019 http://t.co/7G1wcxRZwn via @foxnewshealth\u201djus God!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 25 05:25:12 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sweet Curri, Cancer Survivors with a Zest for Life! Living, Laughing and Loving! Its never a dull moment. Spiritual Healing, Healthy Guidance, Uplifting & Fun!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Sweetcurri.org",
+                        "expanded_url": "http://Sweetcurri.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aBzyxZRFS1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 338,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2891718328,
+        "id_str": "2891718328",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Richmond Va",
+        "name": "Sweet Curri",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/538455518483054592/HCDd-A8r_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/538455518483054592/HCDd-A8r_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Sweetcurri",
+        "statuses_count": 704,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/aBzyxZRFS1",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

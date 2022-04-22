@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 03 17:30:36 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1224384707812450304",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0NeUWMhGeJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    102,
+                    106
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 108,
+    "favorited": false,
+    "geo": null,
+    "id": 1224384707812450304,
+    "id_str": "1224384707812450304",
+    "in_reply_to_screen_name": "KKMPutrajaya",
+    "in_reply_to_status_id": 1224384700191428613,
+    "in_reply_to_status_id_str": "1224384700191428613",
+    "in_reply_to_user_id": 531041640,
+    "in_reply_to_user_id_str": "531041640",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 58,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "However, it is always a good idea to wash your hands with soap and water after contact with pets.\n \n* @WHO has deve\u2026 https://t.co/0NeUWMhGeJ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 20 05:59:03 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official account of Malaysia\u2019s Ministry of Health. https://t.co/PXZlYmzn6v",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "t.me/MOHMalaysia",
+                        "expanded_url": "http://t.me/MOHMalaysia",
+                        "indices": [
+                            51,
+                            74
+                        ],
+                        "url": "https://t.co/PXZlYmzn6v"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "moh.gov.my",
+                        "expanded_url": "http://moh.gov.my",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LLoe8E6Lhj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2750,
+        "follow_request_sent": false,
+        "followers_count": 1900148,
+        "following": false,
+        "friends_count": 116,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 531041640,
+        "id_str": "531041640",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 953,
+        "location": "Putrajaya",
+        "name": "KKMalaysia\ud83c\uddf2\ud83c\uddfe\ud83d\ude37",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/531041640/1647401499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1490864453151506433/EPF_K9J8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490864453151506433/EPF_K9J8_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KKMPutrajaya",
+        "statuses_count": 48037,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/LLoe8E6Lhj",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

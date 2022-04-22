@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 19 16:55:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14166714,
+                "id_str": "14166714",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "always cutting stuff with car keys",
+                "screen_name": "fart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 568453782620794881,
+    "id_str": "568453782620794881",
+    "in_reply_to_screen_name": "fart",
+    "in_reply_to_status_id": 568452856224747520,
+    "in_reply_to_status_id_str": "568452856224747520",
+    "in_reply_to_user_id": 14166714,
+    "in_reply_to_user_id_str": "14166714",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fart I was going to claim that I had joined ISIS last night as a gag but I reconsidered.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 21:41:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Large, friendly idiot and protein-guzzling buffoon. Guardian of the Green. X-Men enthusiast. Reviled co-pig of @ReportThisPost.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "reportthispost.com",
+                        "expanded_url": "http://reportthispost.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cLjlctIQMr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 121483,
+        "follow_request_sent": false,
+        "followers_count": 4096,
+        "following": false,
+        "friends_count": 1244,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 25391535,
+        "id_str": "25391535",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "A swamp, FL",
+        "name": "The Big Guy",
+        "notifications": false,
+        "profile_background_color": "70C0E1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25391535/1589573268",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447924718598766601/kFBtN-TB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447924718598766601/kFBtN-TB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A3C2E6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TSSteinbacher",
+        "statuses_count": 129237,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cLjlctIQMr",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:29:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2284276566,
+                "id_str": "2284276566",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Greg Racaun",
+                "screen_name": "GregRacaun"
+            },
+            {
+                "id": 783001052434067457,
+                "id_str": "783001052434067457",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "CNN Wire",
+                "screen_name": "cnnwire"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    21,
+                    25
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    26,
+                    37
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614621615884611584,
+    "id_str": "614621615884611584",
+    "in_reply_to_screen_name": "GregRacaun",
+    "in_reply_to_status_id": 614614456023257088,
+    "in_reply_to_status_id_str": "614614456023257088",
+    "in_reply_to_user_id": 2284276566,
+    "in_reply_to_user_id_str": "2284276566",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GregRacaun @CNNWire @CNN @WhiteHouse like you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 17 05:33:29 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "hairstylist  // IG: zchfltt // zacharyjhair",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 128444,
+        "follow_request_sent": false,
+        "followers_count": 592,
+        "following": false,
+        "friends_count": 375,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 610620000,
+        "id_str": "610620000",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Las Vegas, NV",
+        "name": "\u2728zach\u2728",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/610620000/1613117289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489446366686314497/2GyndM_F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489446366686314497/2GyndM_F_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zachquarius",
+        "statuses_count": 72996,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

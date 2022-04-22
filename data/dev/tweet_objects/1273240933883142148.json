@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 17 13:07:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 767726912659521536,
+                "id_str": "767726912659521536",
+                "indices": [
+                    15,
+                    30
+                ],
+                "name": "Sachet Neupane",
+                "screen_name": "NeupaneSuchyet"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1273240933883142148,
+    "id_str": "1273240933883142148",
+    "in_reply_to_screen_name": "__hexadecimal_",
+    "in_reply_to_status_id": 1273239075760140289,
+    "in_reply_to_status_id_str": "1273239075760140289",
+    "in_reply_to_user_id": 1354126826,
+    "in_reply_to_user_id_str": "1354126826",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BalraazKatwal @NeupaneSuchyet Will eventually happen but will take some time..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 08 15:46:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biotechnology | Public Health | Research Scientist | @advance Global Alumni '21 | Producer/Presenter @galaxyTML | Cyclist | @arsenal | https://t.co/F7d6PZhJD5",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "sameermdixit.com.np",
+                        "expanded_url": "http://sameermdixit.com.np",
+                        "indices": [
+                            135,
+                            158
+                        ],
+                        "url": "https://t.co/F7d6PZhJD5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 128154,
+        "follow_request_sent": false,
+        "followers_count": 143949,
+        "following": false,
+        "friends_count": 976,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 45593774,
+        "id_str": "45593774",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 121,
+        "location": "LALITPUR, NEPAL",
+        "name": "Sameer Mani (A) Dixit, PhD\ud83c\uddf3\ud83c\uddf5",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45593774/1630383988",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1466709843088003077/nNbDBJk8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466709843088003077/nNbDBJk8_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "smadixit",
+        "statuses_count": 121701,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

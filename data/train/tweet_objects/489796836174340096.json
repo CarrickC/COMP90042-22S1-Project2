@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 15:40:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1jBI5wx",
+                "expanded_url": "http://huff.to/1jBI5wx",
+                "indices": [
+                    94,
+                    116
+                ],
+                "url": "http://t.co/jdyM5CoawT"
+            },
+            {
+                "display_url": "pic.twitter.com/0yaCPyxGWw",
+                "expanded_url": "https://twitter.com/HuffPostUKPics/status/489794696013967360/photo/1",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/0yaCPyxGWw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 271413771,
+                "id_str": "271413771",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "HuffPost UK",
+                "screen_name": "HuffPostUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489796836174340096,
+    "id_str": "489796836174340096",
+    "in_reply_to_screen_name": "HuffPostUK",
+    "in_reply_to_status_id": 489796088338341888,
+    "in_reply_to_status_id_str": "489796088338341888",
+    "in_reply_to_user_id": 271413771,
+    "in_reply_to_user_id_str": "271413771",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Shot down? @HuffPostUK: BREAKING: Malaysia Airlines plane 'shot down' was carrying 295 people http://t.co/jdyM5CoawT http://t.co/0yaCPyxGWw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 20 02:00:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Concertgoer. Sharpie pen hoarder. Vinyl LP collector. Bookworm. Internet addict. Word nerd. Stargazer. Guarded by an angel with green feathers. \ud83d\udc9a",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23706,
+        "follow_request_sent": false,
+        "followers_count": 3785,
+        "following": false,
+        "friends_count": 3785,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18258669,
+        "id_str": "18258669",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 174,
+        "location": "Cleveland, Ohio",
+        "name": "mary e gilmore \ud83c\uddfa\ud83c\udde6\ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18258669/1358460360",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069311186120916994/Tl9fjs-d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069311186120916994/Tl9fjs-d_normal.jpg",
+        "profile_link_color": "813E09",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maryegilmore",
+        "statuses_count": 57936,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

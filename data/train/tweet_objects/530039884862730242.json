@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 05 16:52:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3253407588,
+                "id_str": "3253407588",
+                "indices": [
+                    19,
+                    26
+                ],
+                "name": "Hnan",
+                "screen_name": "hnan91"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 530039884862730242,
+    "id_str": "530039884862730242",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ArmedResearch via @hnan91",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 14 01:07:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Geopolitics as living human history, one tweet at a time. Tweeting #OSINT since '09. Polyglot Cultural Anthropologist. Former this and that.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 78059,
+        "follow_request_sent": false,
+        "followers_count": 10290,
+        "following": false,
+        "friends_count": 5753,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 39889387,
+        "id_str": "39889387",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 572,
+        "location": "Uranus?",
+        "name": "2kdei \ud83c\udf0e",
+        "notifications": false,
+        "profile_background_color": "120202",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39889387/1547882903",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369265702880698373/dn968R1x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369265702880698373/dn968R1x_normal.jpg",
+        "profile_link_color": "0E6FE6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F89830",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "2kdei",
+        "statuses_count": 127365,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

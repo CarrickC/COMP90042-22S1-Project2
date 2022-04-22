@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 31 18:49:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 709289707511750656,
+                "id_str": "709289707511750656",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Anony Aussie",
+                "screen_name": "AnonyAussie"
+            },
+            {
+                "id": 2204606340,
+                "id_str": "2204606340",
+                "indices": [
+                    13,
+                    28
+                ],
+                "name": "911littleangel",
+                "screen_name": "littleangel911"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 660529051551993856,
+    "id_str": "660529051551993856",
+    "in_reply_to_screen_name": "JoshuaClark69",
+    "in_reply_to_status_id": 660466342038867969,
+    "in_reply_to_status_id_str": "660466342038867969",
+    "in_reply_to_user_id": 3224780809,
+    "in_reply_to_user_id_str": "3224780809",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        122.6140433,
+                        9.0404895
+                    ],
+                    [
+                        124.6453181,
+                        9.0404895
+                    ],
+                    [
+                        124.6453181,
+                        11.3542107
+                    ],
+                    [
+                        122.6140433,
+                        11.3542107
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "Rehiyon ng Gitnang Visayas, Republika ng Pilipinas",
+        "id": "0a6bbec14aa9da15",
+        "name": "Rehiyon ng Gitnang Visayas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0a6bbec14aa9da15.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AnonyAussie @littleangel911 THANK GOD 4 ANON ; WIKILEAKS AND EDWARD SNOWNED , WITHOUT THEM  WE WOULD NOT KNOW A DAMN THING ! PERIOD !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 11 03:57:51 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "TRUTHER",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 3377,
+        "following": false,
+        "friends_count": 892,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 816641287,
+        "id_str": "816641287",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "AMERICA",
+        "name": "anthony russell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770237662489817088/-1KrVWoA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770237662489817088/-1KrVWoA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anthony76730120",
+        "statuses_count": 67021,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

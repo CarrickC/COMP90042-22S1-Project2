@@ -1,0 +1,216 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 21 10:47:57 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241315604218462208",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/dBDSShcFG9"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1470,
+    "favorited": false,
+    "geo": null,
+    "id": 1241315604218462208,
+    "id_str": "1241315604218462208",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Mar 21 10:43:33 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2902782894,
+                    "id_str": "2902782894",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Dr Helmy \u062d\u0644\u0645\u064a \u5e0c\u5c14\u7c73 \u0bb9\u0bc6\u0bb2\u0bcd\u0bae\u0bbf",
+                    "screen_name": "dochelmy"
+                },
+                {
+                    "id": 4870788316,
+                    "id_str": "4870788316",
+                    "indices": [
+                        10,
+                        25
+                    ],
+                    "name": "Dr. Amalina",
+                    "screen_name": "DrAmalinaBakri"
+                }
+            ]
+        },
+        "favorite_count": 130,
+        "favorited": false,
+        "geo": null,
+        "id": 1241314498608324609,
+        "id_str": "1241314498608324609",
+        "in_reply_to_screen_name": "dochelmy",
+        "in_reply_to_status_id": 1241020930702241792,
+        "in_reply_to_status_id_str": "1241020930702241792",
+        "in_reply_to_user_id": 2902782894,
+        "in_reply_to_user_id_str": "2902782894",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 32,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@dochelmy @DrAmalinaBakri Bcoz of that, my mum nagged me to drink warm water but doesnt trust her microbiologist son\ud83d\ude04",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 25 22:27:58 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Principal Scientist @DSM | #microbiome | #nutrition | PhD | @JanssenUK | @Cambridge_Uni | @mpiib_berlin | \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Views expressed are my own",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linkedin.com/in/timnmak",
+                            "expanded_url": "https://www.linkedin.com/in/timnmak",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/6UTQHYr1TT"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 8880,
+            "follow_request_sent": false,
+            "followers_count": 1087,
+            "following": false,
+            "friends_count": 1664,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2784501141,
+            "id_str": "2784501141",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 18,
+            "location": "Zurich, Switzerland",
+            "name": "Tim Mak, PhD \u6dfb",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784501141/1516565576",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/955170036993413120/wlDIXA7S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/955170036993413120/wlDIXA7S_normal.jpg",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "timnmak",
+            "statuses_count": 2407,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/6UTQHYr1TT",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1241314498608324609,
+    "quoted_status_id_str": "1241314498608324609",
+    "retweet_count": 607,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "That\u2019s ok, at least we try. As long as we follow evidence-based medicine in our management to treat patients, we ar\u2026 https://t.co/dBDSShcFG9",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 01 23:03:53 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "General Surgery @NHSuk \ud83d\ude37PhD Clinical Research Fellow @imperialcollege - @EdinburghUni \u201813 & @Cambridge_Uni \u201815 grad. BRACELET study @NIHRresearch",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DrAmalina.com",
+                        "expanded_url": "http://www.DrAmalina.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PGDwlv93E5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1996,
+        "follow_request_sent": false,
+        "followers_count": 786112,
+        "following": false,
+        "friends_count": 751,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4870788316,
+        "id_str": "4870788316",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 251,
+        "location": "London, England",
+        "name": "Dr. Amalina",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4870788316/1536281592",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1340628532796530691/HDx20NTe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340628532796530691/HDx20NTe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DrAmalinaBakri",
+        "statuses_count": 11191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PGDwlv93E5",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 19:53:06 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    65,
+                    70
+                ],
+                "text": "ISIS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514140348780912641,
+    "id_str": "514140348780912641",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 514106939173634048,
+    "in_reply_to_status_id_str": "514106939173634048",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@FoxNews So...were they trying to kill Canadians as suggested by #ISIS...or...?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 05 03:26:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a sad alien, living with a #mentalillness, who likes to cause chaos and write...sometimes. \ud83d\udc7d",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jipolar.wordpress.com",
+                        "expanded_url": "https://jipolar.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qgAZob4CDX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22504,
+        "follow_request_sent": false,
+        "followers_count": 297,
+        "following": false,
+        "friends_count": 773,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2168956690,
+        "id_str": "2168956690",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Shawshank State Prison",
+        "name": "\u26b0\ud83d\udc7d\u26b0",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2168956690/1550630946",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047552630376075265/fbhcwtqm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047552630376075265/fbhcwtqm_normal.jpg",
+        "profile_link_color": "8A0707",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "spacespincycle",
+        "statuses_count": 23426,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/qgAZob4CDX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

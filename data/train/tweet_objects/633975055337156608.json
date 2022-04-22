@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 19 12:13:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    44,
+                    60
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    73,
+                    88
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633975055337156608,
+    "id_str": "633975055337156608",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 633961125126668288,
+    "in_reply_to_status_id_str": "633961125126668288",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        101.864347,
+                        2.636199
+                    ],
+                    [
+                        101.969658,
+                        2.636199
+                    ],
+                    [
+                        101.969658,
+                        2.723689
+                    ],
+                    [
+                        101.864347,
+                        2.723689
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Malaysia",
+        "country_code": "MY",
+        "full_name": "Rasah, Negeri Sembilan",
+        "id": "451be04f15ca84a5",
+        "name": "Rasah",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/451be04f15ca84a5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNNPolitics @cnnbrk this will not be long. @realDonaldTrump  will cross @HillaryClinton in 5 weeks from now. Hope DT call me when he does.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 27 10:43:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A member of ISKCON Seremban. Business Analyst in Baba Products. Proud Chindian Malaysian. Husband of Beena; Father of Jyena Urja.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 146,
+        "follow_request_sent": false,
+        "followers_count": 86,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 243578301,
+        "id_str": "243578301",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Seremban, Negeri Sembilan",
+        "name": "sanat4you",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243578301/1433807921",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227118779/pic_2_sanat_great_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227118779/pic_2_sanat_great_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sanat4you",
+        "statuses_count": 533,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

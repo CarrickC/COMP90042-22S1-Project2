@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 05:55:03 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504144974301376513,
+    "id_str": "504144974301376513",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 504131654810877952,
+    "in_reply_to_status_id_str": "504131654810877952",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@cnnbrk Question is if tape is authentic why wait this long to come forward?Probably his tv in the background!Smells fishy!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 26 02:59:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Retired,mother of 2 proud grandmother of 2 wonderful boys!.Animal lover,big Nascar fan!Love honesty,hate fake people.2 My dismay am big fan of RHOBH&RHONJ",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 355,
+        "follow_request_sent": false,
+        "followers_count": 299,
+        "following": false,
+        "friends_count": 503,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 117621925,
+        "id_str": "117621925",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "trying to find lala land!",
+        "name": "nanaG",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117621925/1367988445",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636288358252212224/PAli3Pm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636288358252212224/PAli3Pm__normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nanagrant",
+        "statuses_count": 17606,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

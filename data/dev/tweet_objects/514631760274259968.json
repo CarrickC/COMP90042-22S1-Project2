@@ -1,0 +1,206 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 24 04:25:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pmUvZJEY9S",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "id": 514517469911072768,
+                "id_str": "514517469911072768",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "media_url_https": "https://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "sizes": {
+                    "large": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514517470238240768,
+                "source_status_id_str": "514517470238240768",
+                "source_user_id": 2890961,
+                "source_user_id_str": "2890961",
+                "type": "photo",
+                "url": "http://t.co/pmUvZJEY9S"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gizmo.do/74dBvKC",
+                "expanded_url": "http://gizmo.do/74dBvKC",
+                "indices": [
+                    93,
+                    115
+                ],
+                "url": "http://t.co/sIX2II02F8"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 389043983,
+                "id_str": "389043983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "d2i23",
+                "screen_name": "d2i23"
+            },
+            {
+                "id": 441226141,
+                "id_str": "441226141",
+                "indices": [
+                    7,
+                    18
+                ],
+                "name": "prava pot",
+                "screen_name": "gorasmarna"
+            },
+            {
+                "id": 2890961,
+                "id_str": "2890961",
+                "indices": [
+                    21,
+                    29
+                ],
+                "name": "Gizmodo",
+                "screen_name": "Gizmodo"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pmUvZJEY9S",
+                "expanded_url": "https://twitter.com/Gizmodo/status/514517470238240768/photo/1",
+                "id": 514517469911072768,
+                "id_str": "514517469911072768",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "media_url_https": "https://pbs.twimg.com/media/ByPu6bDIQAANxjS.png",
+                "sizes": {
+                    "large": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "medium": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "small": {
+                        "h": 281,
+                        "resize": "fit",
+                        "w": 585
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514517470238240768,
+                "source_status_id_str": "514517470238240768",
+                "source_user_id": 2890961,
+                "source_user_id_str": "2890961",
+                "type": "photo",
+                "url": "http://t.co/pmUvZJEY9S"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514631760274259968,
+    "id_str": "514631760274259968",
+    "in_reply_to_screen_name": "Gizmodo",
+    "in_reply_to_status_id": 514517470238240768,
+    "in_reply_to_status_id_str": "514517470238240768",
+    "in_reply_to_user_id": 2890961,
+    "in_reply_to_user_id_str": "2890961",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@d2i23 @gorasmarna \ud83d\ude33\u201c@Gizmodo: And here's a guy bending an iPhone 6 Plus with his bare hands http://t.co/sIX2II02F8 http://t.co/pmUvZJEY9S\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 15 18:39:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1545,
+        "follow_request_sent": false,
+        "followers_count": 108,
+        "following": false,
+        "friends_count": 128,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 437696517,
+        "id_str": "437696517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Slovenija",
+        "name": "JST",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437696517/1575360738",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1482818822142836741/wNxf5xh-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482818822142836741/wNxf5xh-_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jStucin",
+        "statuses_count": 3243,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

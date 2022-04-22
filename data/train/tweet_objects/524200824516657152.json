@@ -1,0 +1,218 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 14:09:50 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MZAxJebybv",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    104,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/MZAxJebybv"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1t2ePlj",
+                "expanded_url": "http://fxn.ws/1t2ePlj",
+                "indices": [
+                    81,
+                    103
+                ],
+                "url": "http://t.co/v1jsaYYtOb"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 840878926700400640,
+                "id_str": "840878926700400640",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Sheron Zuccarelli",
+                "screen_name": "fxnscitech"
+            },
+            {
+                "id": 15428397,
+                "id_str": "15428397",
+                "indices": [
+                    66,
+                    78
+                ],
+                "name": "Live Science",
+                "screen_name": "LiveScience"
+            },
+            {
+                "id": 786306083966951424,
+                "id_str": "786306083966951424",
+                "indices": [
+                    128,
+                    140
+                ],
+                "name": "Mike Poynton",
+                "screen_name": "MikePoynton"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MZAxJebybv",
+                "expanded_url": "https://twitter.com/fxnscitech/status/524185876931162112/photo/1",
+                "id": 524185876033990656,
+                "id_str": "524185876033990656",
+                "indices": [
+                    104,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0ZIRulIcAAWmPw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "medium": {
+                        "h": 493,
+                        "resize": "fit",
+                        "w": 876
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524185876931162112,
+                "source_status_id_str": "524185876931162112",
+                "source_user_id": 107114063,
+                "source_user_id_str": "107114063",
+                "type": "photo",
+                "url": "http://t.co/MZAxJebybv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524200824516657152,
+    "id_str": "524200824516657152",
+    "in_reply_to_screen_name": "FoxNewsTech",
+    "in_reply_to_status_id": 524185876931162112,
+    "in_reply_to_status_id_str": "524185876931162112",
+    "in_reply_to_user_id": 107114063,
+    "in_reply_to_user_id_str": "107114063",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@fxnscitech:Puppy-sized spider surprises scientist in rainforest @LiveScience | http://t.co/v1jsaYYtOb http://t.co/MZAxJebybv\u201d @mikepoynton",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 19:23:29 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Architect and President of Interactive Design Architects (IDEA) in Chicago",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/interactivedes\u2026",
+                        "expanded_url": "http://www.facebook.com/interactivedesignidea",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IQ8E2bL1AY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 226,
+        "follow_request_sent": false,
+        "followers_count": 435,
+        "following": false,
+        "friends_count": 271,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 40311842,
+        "id_str": "40311842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "Chicago IL",
+        "name": "Dina Griffin, FAIA, NOMA, IIDA, NCARB",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2678467100/8392c2a949d5c941ee60b6f58daa1600_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2678467100/8392c2a949d5c941ee60b6f58daa1600_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DinaGriffin161",
+        "statuses_count": 226,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/IQ8E2bL1AY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

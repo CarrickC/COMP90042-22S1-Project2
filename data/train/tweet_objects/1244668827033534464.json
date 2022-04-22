@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 30 16:52:27 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 316291124,
+                "id_str": "316291124",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Botswana Government",
+                "screen_name": "BWGovernment"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    14,
+                    18
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1244668827033534464,
+    "id_str": "1244668827033534464",
+    "in_reply_to_screen_name": "BWGovernment",
+    "in_reply_to_status_id": 1244654332009644033,
+    "in_reply_to_status_id_str": "1244654332009644033",
+    "in_reply_to_user_id": 316291124,
+    "in_reply_to_user_id_str": "316291124",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BWGovernment @WHO Any update on the corona virus tests so far ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 17 07:21:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Try harder- Computer Science #techtwitter #datascience #nightninja #coffeaddict #lifestudent",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13819,
+        "follow_request_sent": false,
+        "followers_count": 884,
+        "following": false,
+        "friends_count": 1704,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 179423719,
+        "id_str": "179423719",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Botswana \ud83c\udde7\ud83c\uddfc",
+        "name": "SHANA",
+        "notifications": false,
+        "profile_background_color": "0F060F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179423719/1439082780",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478456127209803776/hMipfHtE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478456127209803776/hMipfHtE_normal.jpg",
+        "profile_link_color": "062D8F",
+        "profile_sidebar_border_color": "D6661C",
+        "profile_sidebar_fill_color": "02070A",
+        "profile_text_color": "F0340E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShanaRamolefe",
+        "statuses_count": 5742,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

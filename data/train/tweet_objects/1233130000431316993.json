@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 27 20:41:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1233130000431316993",
+                "indices": [
+                    119,
+                    142
+                ],
+                "url": "https://t.co/DCiQpbNnqK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2287857331,
+                "id_str": "2287857331",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "NETCARE 911",
+                "screen_name": "Netcare911_sa"
+            },
+            {
+                "id": 2287857331,
+                "id_str": "2287857331",
+                "indices": [
+                    41,
+                    55
+                ],
+                "name": "NETCARE 911",
+                "screen_name": "Netcare911_sa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1233130000431316993,
+    "id_str": "1233130000431316993",
+    "in_reply_to_screen_name": "Netcare911_sa",
+    "in_reply_to_status_id": 1233011484055293954,
+    "in_reply_to_status_id_str": "1233011484055293954",
+    "in_reply_to_user_id": 2287857331,
+    "in_reply_to_user_id_str": "2287857331",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00a0for\u00a0Android</a>",
+    "text": "@Netcare911_sa ESSENTIAL READING: MT&gt; @Netcare911_sa: Are there any specific medicines to prevent or treat the new\u2026 https://t.co/DCiQpbNnqK",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 26 07:46:01 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Road Traffic Crashes do not just happen! They are caused by Fatal Moves (actions) by a driver. The message is simple - DON'T DO FATAL MOVES!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "FATALMOVES.COM",
+                        "expanded_url": "http://WWW.FATALMOVES.COM",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iDWoQJKicZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5327,
+        "follow_request_sent": false,
+        "followers_count": 19030,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 446878997,
+        "id_str": "446878997",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 200,
+        "location": "SOUTH AFRICA",
+        "name": "The Fatal Moves Team",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/446878997/1398324403",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1714940563/FM-UTUBE-LOGO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1714940563/FM-UTUBE-LOGO_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FatalMoves",
+        "statuses_count": 165687,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/iDWoQJKicZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

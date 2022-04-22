@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 17:57:41 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531143534435639296,
+    "id_str": "531143534435639296",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 531085761521528834,
+    "in_reply_to_status_id_str": "531085761521528834",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@BuzzFeed my cholesterol spiked at the very thought!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 18 21:36:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "- ruminations on the looming effect  \n- songwriter. music acc: @toashesmusic \n- https://t.co/9ZfvfSkPcS \n\nbusiness: ashestoashesjc@yahoo.com",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "patreon.com/user?u=3878620",
+                        "expanded_url": "http://patreon.com/user?u=3878620",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "url": "https://t.co/9ZfvfSkPcS"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/Ashestoas\u2026",
+                        "expanded_url": "http://www.youtube.com/user/Ashestoashesjc",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FoDysX0e2O"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85293,
+        "follow_request_sent": false,
+        "followers_count": 9037,
+        "following": false,
+        "friends_count": 1707,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 157101383,
+        "id_str": "157101383",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 37,
+        "location": "down in the cellar in the boho zone",
+        "name": "ashe",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157101383/1601596653",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315954931128569857/p9LJNgsk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315954931128569857/p9LJNgsk_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ashestoashesjc",
+        "statuses_count": 51922,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/FoDysX0e2O",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

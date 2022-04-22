@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 06:16:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bzfd.it/1wS10D6",
+                "expanded_url": "http://bzfd.it/1wS10D6",
+                "indices": [
+                    109,
+                    131
+                ],
+                "url": "http://t.co/geiCYbQwdS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    6,
+                    15
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552710347166330880,
+    "id_str": "552710347166330880",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 552706985087361025,
+    "in_reply_to_status_id_str": "552706985087361025",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\ude21\ud83d\ude22 RT @BuzzFeed: This dog was abandoned at a Scottish railway station with a suitcase full of his belongings\nhttp://t.co/geiCYbQwdS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 22 15:59:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Curiosa e imprudente, por ende completamente inocente.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "entraenelespejo.wordpress.com",
+                        "expanded_url": "http://entraenelespejo.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/bsPl3tfAYs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5242,
+        "follow_request_sent": false,
+        "followers_count": 1003,
+        "following": false,
+        "friends_count": 489,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 34310170,
+        "id_str": "34310170",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Donde habitan seres salvajes.",
+        "name": "M\u03b1ri\u03b1nge\u2113 M.",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34310170/1524707500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517263849992318977/wMkp5FFl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517263849992318977/wMkp5FFl_normal.jpg",
+        "profile_link_color": "D41E5B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "F277A4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CegataMariangel",
+        "statuses_count": 124589,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/bsPl3tfAYs",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

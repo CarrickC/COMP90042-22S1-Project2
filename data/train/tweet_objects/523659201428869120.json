@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 19 02:17:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 195828459,
+                "id_str": "195828459",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "itsmikebihh",
+                "screen_name": "iRepTeamHEAT"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 523659201428869120,
+    "id_str": "523659201428869120",
+    "in_reply_to_screen_name": "iRepTeamHEAT",
+    "in_reply_to_status_id": 523658659596083203,
+    "in_reply_to_status_id_str": "523658659596083203",
+    "in_reply_to_user_id": 195828459,
+    "in_reply_to_user_id_str": "195828459",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@iRepTeamHEAT @pourmecoffee THEY LOOK CUTE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 23 03:34:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bobcat lifer, dont fuckin @ me. Sean May is the goddamn goat, go debate yo grandma. #FuckTrump #Resist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2043,
+        "follow_request_sent": false,
+        "followers_count": 779,
+        "following": false,
+        "friends_count": 248,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 206514583,
+        "id_str": "206514583",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 32,
+        "location": "",
+        "name": "Bobcat Lifer, dont @ me",
+        "notifications": false,
+        "profile_background_color": "070D0D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206514583/1601324926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408154675489161222/4yMIl4fO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408154675489161222/4yMIl4fO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HeatForLife713",
+        "statuses_count": 228135,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

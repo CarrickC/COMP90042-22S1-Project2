@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 02:01:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 44945327,
+                "id_str": "44945327",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Franklin Graham",
+                "screen_name": "Franklin_Graham"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 615701616268849152,
+    "id_str": "615701616268849152",
+    "in_reply_to_screen_name": "Franklin_Graham",
+    "in_reply_to_status_id": 615689290706595840,
+    "in_reply_to_status_id_str": "615689290706595840",
+    "in_reply_to_user_id": 44945327,
+    "in_reply_to_user_id_str": "44945327",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Franklin_Graham @WhiteHouse I thought the rainbow was a sign of God's promise? Won't be water but fire next time....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 19 02:59:53 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Wife, mommy, teacher, sinner who struggles daily",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 607,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1881701918,
+        "id_str": "1881701918",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Ryanne Foret",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881701918/1416752382",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000476577979/0ca2adb25418a46e6e8726f5c9bdc51b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000476577979/0ca2adb25418a46e6e8726f5c9bdc51b_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryanneforet",
+        "statuses_count": 213,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

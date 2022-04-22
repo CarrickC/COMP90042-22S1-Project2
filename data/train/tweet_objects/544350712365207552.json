@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 04:38:18 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    9
+                ],
+                "text": "BREAKING"
+            },
+            {
+                "indices": [
+                    65,
+                    77
+                ],
+                "text": "SydneySiege"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1ssHzWs",
+                "expanded_url": "http://bit.ly/1ssHzWs",
+                "indices": [
+                    78,
+                    100
+                ],
+                "url": "http://t.co/fSLeobzxHh"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 46,
+    "favorited": false,
+    "geo": null,
+    "id": 544350712365207552,
+    "id_str": "544350712365207552",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 100,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#BREAKING Reports two customers and an employee have escaped the #SydneySiege http://t.co/fSLeobzxHh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 04 02:41:59 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follow for breaking news in Sydney. NRL News, Sport, Entertainment and Business. We'll retweet our journalists here too",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DailyTelegraph.com.au",
+                        "expanded_url": "http://www.DailyTelegraph.com.au",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/D2JdYi2JZS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2619,
+        "follow_request_sent": false,
+        "followers_count": 213954,
+        "following": false,
+        "friends_count": 14120,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9235982,
+        "id_str": "9235982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2641,
+        "location": "Sydney, Australia",
+        "name": "The Daily Telegraph",
+        "notifications": false,
+        "profile_background_color": "000066",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9235982/1602375784",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583137723252219904/Skzj-0RM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583137723252219904/Skzj-0RM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dailytelegraph",
+        "statuses_count": 246912,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/D2JdYi2JZS",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

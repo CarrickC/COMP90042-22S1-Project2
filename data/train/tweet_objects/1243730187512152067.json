@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 02:42:38 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 310514972,
+                "id_str": "310514972",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Zandi",
+                "screen_name": "maDube_"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1243730187512152067,
+    "id_str": "1243730187512152067",
+    "in_reply_to_screen_name": "maDube_",
+    "in_reply_to_status_id": 1243627724742242308,
+    "in_reply_to_status_id_str": "1243627724742242308",
+    "in_reply_to_user_id": 310514972,
+    "in_reply_to_user_id_str": "310514972",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@maDube_ And when is spring in Southern Africa? August/September \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 11 06:21:36 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#makeZWgreatagain",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1688,
+        "follow_request_sent": false,
+        "followers_count": 78,
+        "following": false,
+        "friends_count": 108,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 873106856,
+        "id_str": "873106856",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Harare, Zimbabwe",
+        "name": "\u0250\u0183\u0183\u1d09\u028d oq\u026f\u1d09z",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/873106856/1585290020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178166303678439424/Fhmfi9eK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178166303678439424/Fhmfi9eK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zimbowigga",
+        "statuses_count": 2695,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

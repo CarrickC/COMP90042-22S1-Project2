@@ -1,0 +1,191 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 07 06:22:32 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1269515066547806210",
+                "indices": [
+                    120,
+                    143
+                ],
+                "url": "https://t.co/TNEVMgUiGu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 931571402,
+                "id_str": "931571402",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Stefan Marciniak",
+                "screen_name": "Prof_Marciniak"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1269515066547806210,
+    "id_str": "1269515066547806210",
+    "in_reply_to_screen_name": "Prof_Marciniak",
+    "in_reply_to_status_id": 1269514072279650304,
+    "in_reply_to_status_id_str": "1269514072279650304",
+    "in_reply_to_user_id": 931571402,
+    "in_reply_to_user_id_str": "931571402",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Apr 17 19:16:36 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1251228083270664193",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/GPfwXlZ8SE"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": null,
+        "id": 1251228083270664193,
+        "id_str": "1251228083270664193",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Thank Dr. Jankelosn for replying my email about the dosage regimen used in this study: QT intervals &amp; HCQ+Azi in tr\u2026 https://t.co/GPfwXlZ8SE",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 01 16:33:08 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Pathologist PGY1| Clinical Pharmacology | #covid4md #MedTwitter | my tweets \u2260 medical advice | \ud83c\udf44\ud83c\udf40\ud83c\udf44",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 2020,
+            "follow_request_sent": false,
+            "followers_count": 460,
+            "following": false,
+            "friends_count": 748,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2225226474,
+            "id_str": "2225226474",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 12,
+            "location": "LA",
+            "name": "Hannah | Hehua Huang",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2225226474/1585505063",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248144145073332225/S9g9Xk1L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248144145073332225/S9g9Xk1L_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "88549439",
+            "statuses_count": 837,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1251228083270664193,
+    "quoted_status_id_str": "1251228083270664193",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@Prof_Marciniak There are two studies showing that more than 10% of covid19 patients developed QT prolongations&gt;50m\u2026 https://t.co/TNEVMgUiGu",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 01 16:33:08 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pathologist PGY1| Clinical Pharmacology | #covid4md #MedTwitter | my tweets \u2260 medical advice | \ud83c\udf44\ud83c\udf40\ud83c\udf44",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2020,
+        "follow_request_sent": false,
+        "followers_count": 460,
+        "following": false,
+        "friends_count": 748,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2225226474,
+        "id_str": "2225226474",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12,
+        "location": "LA",
+        "name": "Hannah | Hehua Huang",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2225226474/1585505063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248144145073332225/S9g9Xk1L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248144145073332225/S9g9Xk1L_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "88549439",
+        "statuses_count": 837,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

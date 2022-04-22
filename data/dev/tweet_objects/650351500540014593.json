@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 16:47:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16929520,
+                "id_str": "16929520",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "New York Times Video",
+                "screen_name": "nytvideo"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650351500540014593,
+    "id_str": "650351500540014593",
+    "in_reply_to_screen_name": "nytvideo",
+    "in_reply_to_status_id": 650037735579910145,
+    "in_reply_to_status_id_str": "650037735579910145",
+    "in_reply_to_user_id": 16929520,
+    "in_reply_to_user_id_str": "16929520",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@nytvideo @nytimes So then the Pope is on board with gay marriage?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 22 17:49:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "He/Him I watch a lot of tv/read a lot of Internet. Gym in between. Write irregularly on Medium https://t.co/2Y1gf80N6E",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "link.medium.com/YPP8tnU6lV",
+                        "expanded_url": "http://link.medium.com/YPP8tnU6lV",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "url": "https://t.co/2Y1gf80N6E"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/kev_jo",
+                        "expanded_url": "http://Instagram.com/kev_jo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8xqqGBW5W0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10526,
+        "follow_request_sent": false,
+        "followers_count": 649,
+        "following": false,
+        "friends_count": 567,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 19350552,
+        "id_str": "19350552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Toronto, Canada",
+        "name": "K\u00e9vjo",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19350552/1420413073",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397747390094974978/z4yHVUfE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397747390094974978/z4yHVUfE_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kevjo",
+        "statuses_count": 13317,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/8xqqGBW5W0",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

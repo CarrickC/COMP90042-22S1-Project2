@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 03 22:53:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "who.int/emergencies/di\u2026",
+                "expanded_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+                "indices": [
+                    15,
+                    38
+                ],
+                "url": "https://t.co/Dm49SUPw7W"
+            },
+            {
+                "display_url": "who.int/news-room/q-a-\u2026",
+                "expanded_url": "https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-and-masks#",
+                "indices": [
+                    43,
+                    66
+                ],
+                "url": "https://t.co/M6PCztv7v2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1249905966117781505,
+                "id_str": "1249905966117781505",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Mr.StarFish",
+                "screen_name": "AndCripple"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1257080846516924416,
+    "id_str": "1257080846516924416",
+    "in_reply_to_screen_name": "AndCripple",
+    "in_reply_to_status_id": 1257074386013769734,
+    "in_reply_to_status_id_str": "1257074386013769734",
+    "in_reply_to_user_id": 1249905966117781505,
+    "in_reply_to_user_id_str": "1249905966117781505",
+    "is_quote_status": false,
+    "lang": "ro",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@AndCripple 1) https://t.co/Dm49SUPw7W\n\n2) https://t.co/M6PCztv7v2 \n\n\u0394\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf What types of masks are used against the spread of COVID-19?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 13 18:41:46 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/qe7mXO7kay\u2026",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/radiourgos_dog",
+                        "expanded_url": "https://twitter.com/radiourgos_dog",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qe7mXO7kay"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/search?q=from%\u2026",
+                        "expanded_url": "https://twitter.com/search?q=from%3Aradiourgos_dog%20exclude%3Areplies&src=typed_query",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HoLs8HSBYL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50437,
+        "follow_request_sent": false,
+        "followers_count": 4338,
+        "following": false,
+        "friends_count": 3225,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1150113103625035776,
+        "id_str": "1150113103625035776",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "",
+        "name": "\u03b8\u03b5\u03af\u03bf\u03c2 \u03a1\u03b1\u03b4\u03b9\u03bf\u03cd\u03c1\u03b3\u03bf\u03c2",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150113103625035776/1599850685",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484904844800499713/VAGLxgpv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484904844800499713/VAGLxgpv_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "radiourgos_dog",
+        "statuses_count": 171715,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/HoLs8HSBYL",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

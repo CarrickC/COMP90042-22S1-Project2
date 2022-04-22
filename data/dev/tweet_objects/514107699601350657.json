@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 17:43:21 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 514107699601350657,
+    "id_str": "514107699601350657",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 514106273852174337,
+    "in_reply_to_status_id_str": "514106273852174337",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@NBCNews and here was I trying to think the best....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 18 01:23:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Oddball Nursing Instructor and Christian trying to make a difference. Hypocrite? yes. Sinner? yep! forgiven? thank God. But not perfect.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 39317,
+        "follow_request_sent": false,
+        "followers_count": 586,
+        "following": false,
+        "friends_count": 1693,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 216905382,
+        "id_str": "216905382",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Cleveland, Ohio:Pierogiland",
+        "name": "Colleen Nikstenas",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216905382/1468288993",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024513124509073408/wMQcKegk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024513124509073408/wMQcKegk_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "coniks2",
+        "statuses_count": 56180,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:20:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "engt.co/1wcNy1q",
+                "expanded_url": "http://engt.co/1wcNy1q",
+                "indices": [
+                    75,
+                    97
+                ],
+                "url": "http://t.co/k2MHjG6pcM"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 23,
+    "favorited": false,
+    "geo": null,
+    "id": 509466295344304129,
+    "id_str": "509466295344304129",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 85,
+    "retweeted": false,
+    "source": "<a href=\"http://www.aol.com\" rel=\"nofollow\">AOL Blogsmith</a>",
+    "text": "Microsoft is reportedly buying 'Minecraft' developer Mojang for $2 billion http://t.co/k2MHjG6pcM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 13 02:42:50 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Engadget is the original home for technology news and reviews. https://t.co/6NnXn9BWso",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/engadget",
+                        "expanded_url": "http://youtube.com/engadget",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "url": "https://t.co/6NnXn9BWso"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "engadget.com",
+                        "expanded_url": "http://www.engadget.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sPqsSwBKtx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1747,
+        "follow_request_sent": false,
+        "followers_count": 2411692,
+        "following": false,
+        "friends_count": 266,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14372486,
+        "id_str": "14372486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49147,
+        "location": "Global",
+        "name": "Engadget",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14372486/1508268919",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655059892022022144/Pq3Q_1oU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655059892022022144/Pq3Q_1oU_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "373737",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "engadget",
+        "statuses_count": 199290,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/sPqsSwBKtx",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 14:43:17 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14138785,
+                "id_str": "14138785",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Telegraph Breaking News",
+                "screen_name": "TelegraphNews"
+            },
+            {
+                "id": 16343974,
+                "id_str": "16343974",
+                "indices": [
+                    15,
+                    25
+                ],
+                "name": "The Telegraph",
+                "screen_name": "Telegraph"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524209242774192129,
+    "id_str": "524209242774192129",
+    "in_reply_to_screen_name": "TelegraphNews",
+    "in_reply_to_status_id": 524206851450486785,
+    "in_reply_to_status_id_str": "524206851450486785",
+    "in_reply_to_user_id": 14138785,
+    "in_reply_to_user_id_str": "14138785",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TelegraphNews @Telegraph too bad",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 25 22:57:39 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "my precious",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3072,
+        "follow_request_sent": false,
+        "followers_count": 671,
+        "following": false,
+        "friends_count": 1403,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2784589948,
+        "id_str": "2784589948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Brooklyn NY USA EARTH TERRA",
+        "name": "SMEAGOL GOLLUM",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784589948/1432360651",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601990326551740416/L8KA60DG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601990326551740416/L8KA60DG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "6fb0f75b4fff4a7",
+        "statuses_count": 37814,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 25 02:03:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 143145579,
+                "id_str": "143145579",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The Poke",
+                "screen_name": "ThePoke"
+            },
+            {
+                "id": 14200145,
+                "id_str": "14200145",
+                "indices": [
+                    9,
+                    17
+                ],
+                "name": "J. Daniel Sawyer",
+                "screen_name": "dsawyer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537063901935190016,
+    "id_str": "537063901935190016",
+    "in_reply_to_screen_name": "ThePoke",
+    "in_reply_to_status_id": 536808074431184896,
+    "in_reply_to_status_id_str": "536808074431184896",
+    "in_reply_to_user_id": 143145579,
+    "in_reply_to_user_id_str": "143145579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ThePoke @dsawyer Truth is they do hurt like a sonofabitch!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 28 02:34:14 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Middle-class, middle-aged, white male (yeah, privileged).  Tastes include dry humor, sharp wit, deep irony, red wine, & strong coffee (venti, black, no room)!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eclecticbreakfast.blogspot.com",
+                        "expanded_url": "http://eclecticbreakfast.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/RWPwM2HsZX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27058,
+        "follow_request_sent": false,
+        "followers_count": 209,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1126811989,
+        "id_str": "1126811989",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Prescott, AZ, USA",
+        "name": "Michael Brady",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126811989/1474741294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/957798210050736128/1EF2xVt6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/957798210050736128/1EF2xVt6_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "michaelb8309",
+        "statuses_count": 11649,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/RWPwM2HsZX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

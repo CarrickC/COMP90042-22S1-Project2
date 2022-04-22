@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 12:54:10 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1620343501,
+                "id_str": "1620343501",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Latest",
+                "screen_name": "latest_is"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524181781256630272,
+    "id_str": "524181781256630272",
+    "in_reply_to_screen_name": "latest_is",
+    "in_reply_to_status_id": 524144369235140608,
+    "in_reply_to_status_id_str": "524144369235140608",
+    "in_reply_to_user_id": 1620343501,
+    "in_reply_to_user_id_str": "1620343501",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@latest_is I am Banksy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 13:11:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-proprietor of small boutique cat hotel (according to the cats). Certificated Dull Man. Grower of cacti. #EFC Interested in all sorts of things.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25792,
+        "follow_request_sent": false,
+        "followers_count": 319,
+        "following": false,
+        "friends_count": 914,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30212310,
+        "id_str": "30212310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Margate, England",
+        "name": "Steve Alias \ud83c\uddfa\ud83c\udde6\ud83c\udde6\ud83c\uddf9\ud83c\uddea\ud83c\uddfa",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1500133255865110534/0dJIfoyR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500133255865110534/0dJIfoyR_normal.jpg",
+        "profile_link_color": "5FD3A6",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Steveresz",
+        "statuses_count": 26059,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

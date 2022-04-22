@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 20:41:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14940354,
+                "id_str": "14940354",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Jim Roberts",
+                "screen_name": "nycjim"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489872585753362432,
+    "id_str": "489872585753362432",
+    "in_reply_to_screen_name": "nycjim",
+    "in_reply_to_status_id": 489872500462190593,
+    "in_reply_to_status_id_str": "489872500462190593",
+    "in_reply_to_user_id": 14940354,
+    "in_reply_to_user_id_str": "14940354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@nycjim this is beyond insane\u2026.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 06 05:15:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sr. Manager - Communications, former reporter - My views are my own - @CCSU alum - Addicted to movies, TV, news, Disney, podcasts",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jonstankiew\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/jonstankiewicz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vaNhgKXBa4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5397,
+        "follow_request_sent": false,
+        "followers_count": 944,
+        "following": false,
+        "friends_count": 1510,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 120348855,
+        "id_str": "120348855",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 68,
+        "location": "Hartford, CT",
+        "name": "Jonathan Stankiewicz",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120348855/1608034668",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450611161951518722/C-1a6Hlv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450611161951518722/C-1a6Hlv_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jonstank",
+        "statuses_count": 133925,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vaNhgKXBa4",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 17:43:42 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    23
+                ],
+                "text": "BREAKING"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "fxn.ws/1rg7oEN",
+                "expanded_url": "http://fxn.ws/1rg7oEN",
+                "indices": [
+                    87,
+                    109
+                ],
+                "url": "http://t.co/l1hLtqTpoJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    4,
+                    12
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514107784896729089,
+    "id_str": "514107784896729089",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 514106939173634048,
+    "in_reply_to_status_id_str": "514106939173634048",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "How @FoxNews: #BREAKING: Missing Afghan soldiers reportedly found near Canadian border http://t.co/l1hLtqTpoJ\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 26 18:16:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "To be happy, you must let go of all the negative beliefs, emotions and people that are holding you back in life.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2011,
+        "follow_request_sent": false,
+        "followers_count": 3470,
+        "following": false,
+        "friends_count": 2589,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 60360872,
+        "id_str": "60360872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "England, United Kingdom",
+        "name": "ALFO",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60360872/1410593904",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624394773420507136/-DfcHMWt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624394773420507136/-DfcHMWt_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AlfieKS",
+        "statuses_count": 18966,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

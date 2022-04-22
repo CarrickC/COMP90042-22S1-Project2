@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 08:13:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1215154424772841472,
+                "id_str": "1215154424772841472",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "skkashsb",
+                "screen_name": "VesperMartini_"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    16,
+                    25
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626666794401427456,
+    "id_str": "626666794401427456",
+    "in_reply_to_screen_name": "sixyardbox_",
+    "in_reply_to_status_id": 626643635526742017,
+    "in_reply_to_status_id_str": "626643635526742017",
+    "in_reply_to_user_id": 529540526,
+    "in_reply_to_user_id_str": "529540526",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@VesperMartini_ @BuzzFeed lol seriously..wth is this?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 13 12:24:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I ship me and food. OR RATHER, I chip me and food..get it? Because like potato chips go with the food thing? yeah I am not funny..BYE. \ninsta: prachirai_",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "prachi-tech.vercel.app",
+                        "expanded_url": "http://prachi-tech.vercel.app",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pbEEOL1SYl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 812,
+        "follow_request_sent": false,
+        "followers_count": 315832,
+        "following": false,
+        "friends_count": 66212,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 177926698,
+        "id_str": "177926698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1099,
+        "location": "India",
+        "name": "asdfghjkl",
+        "notifications": false,
+        "profile_background_color": "091404",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177926698/1544346503",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1463118344685453315/9TeYvL6C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1463118344685453315/9TeYvL6C_normal.jpg",
+        "profile_link_color": "2204C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E0D496",
+        "profile_text_color": "115C05",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PrachiRai",
+        "statuses_count": 151076,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pbEEOL1SYl",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

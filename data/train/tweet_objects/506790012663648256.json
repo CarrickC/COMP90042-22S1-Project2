@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 02 13:05:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 506790012663648256,
+    "id_str": "506790012663648256",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 506784541696991232,
+    "in_reply_to_status_id_str": "506784541696991232",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@NBCNews Rest in peace",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 29 00:51:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "JM/US in SE \ud83c\uddef\ud83c\uddf2\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\uddea | Startup nerd #malmostartups | Comms Queen \ud83d\udc51 | She/her | Likkle but tallawah | All thoughts my own | #StopAsianHate | \ud83d\udc9b\ud83c\uddfa\ud83c\udde6\ud83d\udc99",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 24867,
+        "follow_request_sent": false,
+        "followers_count": 1229,
+        "following": false,
+        "friends_count": 565,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 273706943,
+        "id_str": "273706943",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Malmo, Sweden",
+        "name": "Allie Lindo | Get boosted \ud83c\udf3b",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273706943/1438391813",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330860315211423745/WKlIST41_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330860315211423745/WKlIST41_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AllieLindo",
+        "statuses_count": 23628,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

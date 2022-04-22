@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 06 23:50:54 +0000 2012",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 39364684,
+                "id_str": "39364684",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "chrissy teigen",
+                "screen_name": "chrissyteigen"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 265964505954140161,
+    "id_str": "265964505954140161",
+    "in_reply_to_screen_name": "chrissyteigen",
+    "in_reply_to_status_id": 265953285247209472,
+    "in_reply_to_status_id_str": "265953285247209472",
+    "in_reply_to_user_id": 39364684,
+    "in_reply_to_user_id_str": "39364684",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@chrissyteigen bad menu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 25 18:47:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Loving Husband and Father, wo believes that you always move forward.  Mistakes happen, the question I have is what did you learn?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 191,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 207640410,
+        "id_str": "207640410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Mechanicsburg, PA",
+        "name": "Chad Schweighart",
+        "notifications": false,
+        "profile_background_color": "DE781F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958708977876914177/yDFoUor7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958708977876914177/yDFoUor7_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IlliniAlum1997",
+        "statuses_count": 2271,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

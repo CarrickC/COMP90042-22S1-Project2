@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 05 16:46:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1439055242,
+                "id_str": "1439055242",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Justin Bieber Crew",
+                "screen_name": "JBCrewdotcom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 496698874741141504,
+    "id_str": "496698874741141504",
+    "in_reply_to_screen_name": "JBCrewposts",
+    "in_reply_to_status_id": 496698590153416704,
+    "in_reply_to_status_id_str": "496698590153416704",
+    "in_reply_to_user_id": 1239313056,
+    "in_reply_to_user_id_str": "1239313056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@JBCrewdotcom WHAT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 11 21:14:02 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "bts + gg\u2019s \u2728\u2728",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15943,
+        "follow_request_sent": false,
+        "followers_count": 2260,
+        "following": false,
+        "friends_count": 2427,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2177378783,
+        "id_str": "2177378783",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "A",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2177378783/1582396254",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231284322734419968/-pYD3Bf1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231284322734419968/-pYD3Bf1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ifwubts",
+        "statuses_count": 21582,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

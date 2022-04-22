@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 20 05:40:41 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 48956231,
+                "id_str": "48956231",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Zaid Benjamin",
+                "screen_name": "zaidbenjamin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501967034003890176,
+    "id_str": "501967034003890176",
+    "in_reply_to_screen_name": "zaidbenjamin",
+    "in_reply_to_status_id": 501827465032237056,
+    "in_reply_to_status_id_str": "501827465032237056",
+    "in_reply_to_user_id": 48956231,
+    "in_reply_to_user_id_str": "48956231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@zaidbenjamin bastards, world should be cleaned from them.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 25 01:47:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#geek, #entrepreneur, #blogger living in #germany\nMaking: \nhttps://t.co/Wbnac37DNB\nhttps://t.co/7jnH0kwdo7\nhttps://t.co/tztMEHKSqX\nhttps://t.co/lXyezqc9XW\nhttps://t.co/RoeRd9sM8P",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "pwdreset.com",
+                        "expanded_url": "http://pwdreset.com",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "url": "https://t.co/Wbnac37DNB"
+                    },
+                    {
+                        "display_url": "instock.ml",
+                        "expanded_url": "http://instock.ml",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/7jnH0kwdo7"
+                    },
+                    {
+                        "display_url": "followninja.com",
+                        "expanded_url": "http://followninja.com",
+                        "indices": [
+                            107,
+                            130
+                        ],
+                        "url": "https://t.co/tztMEHKSqX"
+                    },
+                    {
+                        "display_url": "vielenart.com",
+                        "expanded_url": "http://vielenart.com",
+                        "indices": [
+                            131,
+                            154
+                        ],
+                        "url": "https://t.co/lXyezqc9XW"
+                    },
+                    {
+                        "display_url": "random-member.empinet.info",
+                        "expanded_url": "http://random-member.empinet.info",
+                        "indices": [
+                            155,
+                            178
+                        ],
+                        "url": "https://t.co/RoeRd9sM8P"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hazaveh.net",
+                        "expanded_url": "http://www.hazaveh.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SrFPKUkHg5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 810,
+        "follow_request_sent": false,
+        "followers_count": 973,
+        "following": false,
+        "friends_count": 335,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 126172295,
+        "id_str": "126172295",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 86,
+        "location": "Germany",
+        "name": "Mahdi Hazaveh",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126172295/1406732332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1041256086102204416/Y8hQl24o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041256086102204416/Y8hQl24o_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hazaveh",
+        "statuses_count": 9443,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SrFPKUkHg5",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

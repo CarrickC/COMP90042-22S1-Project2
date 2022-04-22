@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 22:29:54 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28638191,
+                "id_str": "28638191",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Nicole Polizzi",
+                "screen_name": "snooki"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524326670426464256,
+    "id_str": "524326670426464256",
+    "in_reply_to_screen_name": "snooki",
+    "in_reply_to_status_id": 524312881823637504,
+    "in_reply_to_status_id_str": "524312881823637504",
+    "in_reply_to_user_id": 28638191,
+    "in_reply_to_user_id_str": "28638191",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@snooki all aboard the NOPE train! \ud83d\ude9d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 18 15:46:09 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 41,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1528084572,
+        "id_str": "1528084572",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "EricaJMcClam",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000034905089/6859387237901162ba2e40d93cb8d80a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000034905089/6859387237901162ba2e40d93cb8d80a_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EricaJMcClam",
+        "statuses_count": 2,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

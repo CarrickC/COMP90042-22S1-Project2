@@ -1,0 +1,214 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 10:10:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hp5qa3lEOJ",
+                "expanded_url": "https://twitter.com/JokozelaM/status/1251815372904333314/photo/1",
+                "id": 1251815361684688896,
+                "id_str": "1251815361684688896",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/EV9XcGWX0AAsK5I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EV9XcGWX0AAsK5I.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 761,
+                        "resize": "fit",
+                        "w": 1078
+                    },
+                    "medium": {
+                        "h": 761,
+                        "resize": "fit",
+                        "w": 1078
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hp5qa3lEOJ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 844486678324658176,
+                "id_str": "844486678324658176",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Zweli Mkhize",
+                "screen_name": "DrZweliMkhize"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hp5qa3lEOJ",
+                "expanded_url": "https://twitter.com/JokozelaM/status/1251815372904333314/photo/1",
+                "id": 1251815361684688896,
+                "id_str": "1251815361684688896",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/EV9XcGWX0AAsK5I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EV9XcGWX0AAsK5I.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 761,
+                        "resize": "fit",
+                        "w": 1078
+                    },
+                    "medium": {
+                        "h": 761,
+                        "resize": "fit",
+                        "w": 1078
+                    },
+                    "small": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hp5qa3lEOJ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1251815372904333314,
+    "id_str": "1251815372904333314",
+    "in_reply_to_screen_name": "DrZweliMkhize",
+    "in_reply_to_status_id": 1251809538199732227,
+    "in_reply_to_status_id_str": "1251809538199732227",
+    "in_reply_to_user_id": 844486678324658176,
+    "in_reply_to_user_id_str": "844486678324658176",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        27.92679220561393,
+                        -26.130481039178257
+                    ],
+                    [
+                        27.92679220561393,
+                        -26.130481039178257
+                    ],
+                    [
+                        27.92679220561393,
+                        -26.130481039178257
+                    ],
+                    [
+                        27.92679220561393,
+                        -26.130481039178257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Weltevreden Park",
+        "id": "07d9cb7750c85002",
+        "name": "Weltevreden Park",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9cb7750c85002.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@DrZweliMkhize Why izitolo kuthiwe zingasithengiseli ukudla okuphekiwe minister? https://t.co/hp5qa3lEOJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 26 14:31:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Aspire to inspire before you expire.\nBe consistent and stay true to yourself. Life Path number 4 (Google it)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/jokozelam/?hl=\u2026",
+                        "expanded_url": "https://www.instagram.com/jokozelam/?hl=en",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uYaExYvqtd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3155,
+        "follow_request_sent": false,
+        "followers_count": 3131,
+        "following": false,
+        "friends_count": 4967,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 398768138,
+        "id_str": "398768138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Zola North, Soweto",
+        "name": "Jokozela Mntungwa",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398768138/1548221143",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948667957038731266/BfXSe6AN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948667957038731266/BfXSe6AN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JokozelaM",
+        "statuses_count": 46351,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uYaExYvqtd",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

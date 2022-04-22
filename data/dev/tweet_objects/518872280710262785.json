@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 05 21:16:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17076385,
+                "id_str": "17076385",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Jarrid Wilson",
+                "screen_name": "JarridWilson"
+            },
+            {
+                "id": 386244525,
+                "id_str": "386244525",
+                "indices": [
+                    52,
+                    68
+                ],
+                "name": "Carrie Underwood",
+                "screen_name": "carrieunderwood"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 518872280710262785,
+    "id_str": "518872280710262785",
+    "in_reply_to_screen_name": "JarridWilson",
+    "in_reply_to_status_id": 518192429153783808,
+    "in_reply_to_status_id_str": "518192429153783808",
+    "in_reply_to_user_id": 17076385,
+    "in_reply_to_user_id_str": "17076385",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@jarridwilson Are you aware that your article about @carrieunderwood and atheists hating her song is complete fact-free?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 06 10:25:50 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fine art, landscape and travel photographer from Italy. Educator, workshop teacher, writer, blogger, geek, artist.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ucphoto.me",
+                        "expanded_url": "http://ucphoto.me",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rFYhpUHoVv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1122,
+        "follow_request_sent": false,
+        "followers_count": 3906,
+        "following": false,
+        "friends_count": 4004,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 187478912,
+        "id_str": "187478912",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 155,
+        "location": "",
+        "name": "Ugo Cei Photography",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187478912/1539465000",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090650201294073856/H8QJOq5V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090650201294073856/H8QJOq5V_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ucphoto",
+        "statuses_count": 4892,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/rFYhpUHoVv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 05:37:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1598644159,
+                "id_str": "1598644159",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Historical Pics",
+                "screen_name": "HistoricalPics"
+            },
+            {
+                "id": 17471979,
+                "id_str": "17471979",
+                "indices": [
+                    16,
+                    23
+                ],
+                "name": "National Geographic",
+                "screen_name": "NatGeo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669389482291044353,
+    "id_str": "669389482291044353",
+    "in_reply_to_screen_name": "HistoricalPics",
+    "in_reply_to_status_id": 669259395902152704,
+    "in_reply_to_status_id_str": "669259395902152704",
+    "in_reply_to_user_id": 1598644159,
+    "in_reply_to_user_id_str": "1598644159",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@HistoricalPics @NatGeo ugh.... After 40 years, methinks my love affair is over...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 02 03:47:03 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Drink espresso\nRead comics\nMake stuff",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 61930,
+        "follow_request_sent": false,
+        "followers_count": 171,
+        "following": false,
+        "friends_count": 195,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 291502598,
+        "id_str": "291502598",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "Toronto",
+        "name": "Prof Cucchi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291502598/1359517082",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579102864481632257/8v0IBwOx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579102864481632257/8v0IBwOx_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ProfessorCucchi",
+        "statuses_count": 14837,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

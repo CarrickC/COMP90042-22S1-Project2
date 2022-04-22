@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -82.07245164,
+            33.50793064
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue May 21 19:01:45 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.50793064,
+            -82.07245164
+        ],
+        "type": "Point"
+    },
+    "id": 336919761663455232,
+    "id_str": "336919761663455232",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 336913656921083904,
+    "in_reply_to_status_id_str": "336913656921083904",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.221232,
+                        33.317387
+                    ],
+                    [
+                        -81.908437,
+                        33.317387
+                    ],
+                    [
+                        -81.908437,
+                        33.544934
+                    ],
+                    [
+                        -82.221232,
+                        33.544934
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Augusta, GA",
+        "id": "97ec2e7071559f16",
+        "name": "Augusta",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/97ec2e7071559f16.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FoxNews should b donated to the families of those he murdered!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 22:55:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 64954,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 316,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27327609,
+        "id_str": "27327609",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "KBelser",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27327609/1494897923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/923361566942269440/7jJPVZDK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/923361566942269440/7jJPVZDK_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "klbelser",
+        "statuses_count": 23152,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

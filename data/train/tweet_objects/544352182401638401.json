@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 15 04:44:08 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    27
+                ],
+                "text": "BREAKING"
+            },
+            {
+                "indices": [
+                    83,
+                    95
+                ],
+                "text": "SydneySiege"
+            },
+            {
+                "indices": [
+                    119,
+                    123
+                ],
+                "text": "2GB"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1ssHzWs",
+                "expanded_url": "http://bit.ly/1ssHzWs",
+                "indices": [
+                    96,
+                    118
+                ],
+                "url": "http://t.co/tk39jmFHSL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 9235982,
+                "id_str": "9235982",
+                "indices": [
+                    1,
+                    16
+                ],
+                "name": "The Daily Telegraph",
+                "screen_name": "dailytelegraph"
+            },
+            {
+                "id": 88593058,
+                "id_str": "88593058",
+                "indices": [
+                    124,
+                    131
+                ],
+                "name": "2GB Sydney",
+                "screen_name": "2GB873"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544352182401638401,
+    "id_str": "544352182401638401",
+    "in_reply_to_screen_name": "dailytelegraph",
+    "in_reply_to_status_id": 544350712365207552,
+    "in_reply_to_status_id_str": "544350712365207552",
+    "in_reply_to_user_id": 9235982,
+    "in_reply_to_user_id_str": "9235982",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@dailytelegraph: #BREAKING Reports two customers and an employee have escaped the #SydneySiege http://t.co/tk39jmFHSL #2GB @2GB873",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 18 23:04:24 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Two Guys, Dirty Beats, Mixing Electro, Dubstep, Hip Hop, Rap and Fun Stuff Too!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/luskimze",
+                        "expanded_url": "http://facebook.com/luskimze",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/G49053rI06"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 338015532,
+        "id_str": "338015532",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Engadine, Sydney, Aus",
+        "name": "luskimze",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1520319942/just_thinkin_luskimze_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1520319942/just_thinkin_luskimze_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "luskimze",
+        "statuses_count": 47,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/G49053rI06",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

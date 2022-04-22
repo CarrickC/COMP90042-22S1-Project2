@@ -1,0 +1,117 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 21:11:04 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    42,
+                    50
+                ],
+                "text": "iPhone6"
+            },
+            {
+                "indices": [
+                    51,
+                    59
+                ],
+                "text": "bending"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2890961,
+                "id_str": "2890961",
+                "indices": [
+                    125,
+                    133
+                ],
+                "name": "Gizmodo",
+                "screen_name": "Gizmodo"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 514522359496052738,
+    "id_str": "514522359496052738",
+    "in_reply_to_screen_name": "Gizmodo",
+    "in_reply_to_status_id": 514517470238240768,
+    "in_reply_to_status_id_str": "514517470238240768",
+    "in_reply_to_user_id": 2890961,
+    "in_reply_to_user_id_str": "2890961",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Steve jobs just rolled over in his grave  #iPhone6 #bending not to mention the protruding camera. Go home Apple you're drunk @Gizmodo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 06 21:21:37 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be here now.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "danielmccall.us",
+                        "expanded_url": "http://www.danielmccall.us",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bYYHwiSL1E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 28,
+        "following": false,
+        "friends_count": 132,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 547199313,
+        "id_str": "547199313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Cary, IL",
+        "name": "Daniel McCall",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547199313/1392251406",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2053529676/aboutphoto_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2053529676/aboutphoto_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iDanielMcCall",
+        "statuses_count": 87,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/bYYHwiSL1E",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

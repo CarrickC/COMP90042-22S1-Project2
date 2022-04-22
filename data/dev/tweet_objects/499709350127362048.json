@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 00:09:27 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            },
+            {
+                "id": 617825073,
+                "id_str": "617825073",
+                "indices": [
+                    10,
+                    24
+                ],
+                "name": "Will McAvoy",
+                "screen_name": "WillMcAvoyACN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499709350127362048,
+    "id_str": "499709350127362048",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ksdknews @WillMcAvoyACN If he did, would he deserve to die?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 18 18:50:16 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor at MTR Network (nerdiness and sports) Professional podcaster. Talk real good 'cause I'm smart and stuff Nunquam obliti nunquam victi\n\nHe/Him",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mtrnetwork.net/author/dpalm/",
+                        "expanded_url": "https://www.mtrnetwork.net/author/dpalm/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mTcEs7BhqG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 109975,
+        "follow_request_sent": false,
+        "followers_count": 2448,
+        "following": false,
+        "friends_count": 731,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15894895,
+        "id_str": "15894895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 82,
+        "location": "Dungeon Family Forever",
+        "name": "dp",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15894895/1532104529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358774798864834560/SehEcRPI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358774798864834560/SehEcRPI_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dpalm66",
+        "statuses_count": 202634,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mTcEs7BhqG",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

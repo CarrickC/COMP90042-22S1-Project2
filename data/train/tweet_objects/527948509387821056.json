@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 30 22:21:48 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527948509387821056,
+    "id_str": "527948509387821056",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 527947775905103872,
+    "in_reply_to_status_id_str": "527947775905103872",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ".@IGN They're making ANOTHER Steve Jobs movie? I think it's a little too early for a reboot.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 15 03:09:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Christ Follower | JRPG Content Creator | Wanter of Project Triangle Strategy | Business: thegamingshelf@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/thegamingshelf",
+                        "expanded_url": "https://www.youtube.com/thegamingshelf",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YPi6woupiI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31880,
+        "follow_request_sent": false,
+        "followers_count": 1873,
+        "following": false,
+        "friends_count": 562,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 226799456,
+        "id_str": "226799456",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Charleston, SC",
+        "name": "Taylor Hoyt",
+        "notifications": false,
+        "profile_background_color": "E3A84F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226799456/1613671608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225474045891764230/ZnnjqTTO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225474045891764230/ZnnjqTTO_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TaylorsShelf",
+        "statuses_count": 57245,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/YPi6woupiI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

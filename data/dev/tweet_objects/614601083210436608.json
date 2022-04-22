@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:08:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18939358,
+                "id_str": "18939358",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Hunter Schwarz",
+                "screen_name": "hunterschwarz"
+            },
+            {
+                "id": 13524182,
+                "id_str": "13524182",
+                "indices": [
+                    15,
+                    26
+                ],
+                "name": "David Weigel",
+                "screen_name": "daveweigel"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 614601083210436608,
+    "id_str": "614601083210436608",
+    "in_reply_to_screen_name": "hunterschwarz",
+    "in_reply_to_status_id": 614595181845839873,
+    "in_reply_to_status_id_str": "614595181845839873",
+    "in_reply_to_user_id": 18939358,
+    "in_reply_to_user_id_str": "18939358",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@hunterschwarz @daveweigel so much conservative butthurt! Ha ha ha",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 24 04:25:58 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "5 Spot After Dark \ud83c\udfba Slowcore fan chronic chortler USAF vet",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55126,
+        "follow_request_sent": false,
+        "followers_count": 256,
+        "following": false,
+        "friends_count": 810,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 842943595,
+        "id_str": "842943595",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "California, USA",
+        "name": "Jimmy Side Eye",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842943595/1637506494",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496707590809522178/5qXx8emC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496707590809522178/5qXx8emC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rankingfullstop",
+        "statuses_count": 32790,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

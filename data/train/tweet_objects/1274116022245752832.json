@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 19 23:05:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1274116022245752832",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/HzSpjBpr8h"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1220328506548281344,
+                "id_str": "1220328506548281344",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "Dock",
+                "screen_name": "Dockster52"
+            },
+            {
+                "id": 68441962,
+                "id_str": "68441962",
+                "indices": [
+                    23,
+                    34
+                ],
+                "name": "Pete Thamel",
+                "screen_name": "PeteThamel"
+            },
+            {
+                "id": 7302282,
+                "id_str": "7302282",
+                "indices": [
+                    35,
+                    47
+                ],
+                "name": "Yahoo Sports",
+                "screen_name": "YahooSports"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1274116022245752832,
+    "id_str": "1274116022245752832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@SirChau23 @Dockster52 @PeteThamel @YahooSports What is the most likely end game of Covid 19?    Never a effective\u2026 https://t.co/HzSpjBpr8h",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 02 22:24:45 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1101,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 195,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 309929260,
+        "id_str": "309929260",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "Aaron Weeks",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401995001/Pocket_Aces_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401995001/Pocket_Aces_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rolledupAAs",
+        "statuses_count": 8261,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

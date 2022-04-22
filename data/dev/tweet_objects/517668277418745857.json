@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 02 13:31:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110445334,
+                "id_str": "110445334",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Megyn Kelly",
+                "screen_name": "megynkelly"
+            },
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 517668277418745857,
+    "id_str": "517668277418745857",
+    "in_reply_to_screen_name": "megynkelly",
+    "in_reply_to_status_id": 517487705978966016,
+    "in_reply_to_status_id_str": "517487705978966016",
+    "in_reply_to_user_id": 110445334,
+    "in_reply_to_user_id_str": "110445334",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@megynkelly @FoxNews Media should only show this\"ANIMAL\" from the shoulders down while he's falling from that 20 story bldg! Go To Allah!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 14 16:57:25 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Married once (was enough). 2 Daughters, Jane, Valerie. Recent contact with Valerie, Jane not so much! Unfortunately. \nJesus is my BEST friend. Settled for now!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "live.com",
+                        "expanded_url": "http://live.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/oHaIYHNMLZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 184,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 34,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 436837879,
+        "id_str": "436837879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Tampa, Fl.",
+        "name": "@unclejimmychuck",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/436837879/1409458354",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505934180287397889/4XHuH28J_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505934180287397889/4XHuH28J_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "unclejimmychuck",
+        "statuses_count": 618,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/oHaIYHNMLZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

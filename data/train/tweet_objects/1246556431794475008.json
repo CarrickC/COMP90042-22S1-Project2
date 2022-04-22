@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 04 21:53:07 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1246556431794475008",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/9xDLl05VVN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18997933,
+                "id_str": "18997933",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Paula Poundstone",
+                "screen_name": "paulapoundstone"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1246556431794475008,
+    "id_str": "1246556431794475008",
+    "in_reply_to_screen_name": "paulapoundstone",
+    "in_reply_to_status_id": 1246555350058151936,
+    "in_reply_to_status_id_str": "1246555350058151936",
+    "in_reply_to_user_id": 18997933,
+    "in_reply_to_user_id_str": "18997933",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@paulapoundstone Warren was my choice too.  With her organization skills, this thing would've already been over.  W\u2026 https://t.co/9xDLl05VVN",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 04 09:07:33 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I'm a gay, addiction recovering, right brained, left leaning, houseflipping, playwrighting, Star Wars loving, preacher's kid who's fed up with all the lies.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43213,
+        "follow_request_sent": false,
+        "followers_count": 383,
+        "following": false,
+        "friends_count": 1004,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1213386397219901440,
+        "id_str": "1213386397219901440",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Canton, IL",
+        "name": "Hanging Chad \ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213386397219901440/1592875198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1509353058815430658/GxLDW6sm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509353058815430658/GxLDW6sm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChadMoseley3",
+        "statuses_count": 2735,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

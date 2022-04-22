@@ -1,0 +1,120 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 10:45:31 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    49,
+                    66
+                ],
+                "text": "WuhanCoronavirus"
+            },
+            {
+                "indices": [
+                    89,
+                    104
+                ],
+                "text": "dissolutionWHO"
+            },
+            {
+                "indices": [
+                    105,
+                    114
+                ],
+                "text": "\u4e2d\u570b\u88fd\u9020\u751f\u5316\u6b66\u5668"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1231892906543206400",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/Hj4j2SoUX4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1231892906543206400,
+    "id_str": "1231892906543206400",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1231835437246926849,
+    "in_reply_to_status_id_str": "1231835437246926849",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WHO Q: What can we do to protect the world from #WuhanCoronavirus?\nA: Dissolution WHO.\n\n#dissolutionWHO #\u4e2d\u570b\u88fd\u9020\u751f\u5316\u6b66\u5668\u2026 https://t.co/Hj4j2SoUX4",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 12 16:44:43 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 173,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 556,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1227634468304801792,
+        "id_str": "1227634468304801792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "\u6751",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227641045715865600/pVY_7eRA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227641045715865600/pVY_7eRA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mura_0051",
+        "statuses_count": 15,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

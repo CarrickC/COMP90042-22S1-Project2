@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 22:51:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 287008429,
+                "id_str": "287008429",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Derek Hollan \ud83c\udde8\ud83c\udde6",
+                "screen_name": "Derek_Hollan"
+            },
+            {
+                "id": 36674187,
+                "id_str": "36674187",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "MacyNell",
+                "screen_name": "MacyNell"
+            },
+            {
+                "id": 2711602077,
+                "id_str": "2711602077",
+                "indices": [
+                    24,
+                    34
+                ],
+                "name": "PoorlyMadeWindSounds",
+                "screen_name": "MamaNeeda"
+            },
+            {
+                "id": 369586333,
+                "id_str": "369586333",
+                "indices": [
+                    35,
+                    49
+                ],
+                "name": "Patrick Weekes",
+                "screen_name": "PatrickWeekes"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    50,
+                    63
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 523607235784896512,
+    "id_str": "523607235784896512",
+    "in_reply_to_screen_name": "Derek_Hollan",
+    "in_reply_to_status_id": 523606805838979072,
+    "in_reply_to_status_id_str": "523606805838979072",
+    "in_reply_to_user_id": 287008429,
+    "in_reply_to_user_id_str": "287008429",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Derek_Hollan @MacyNell @MamaNeeda @PatrickWeekes @pourmecoffee Can I change planets? I don't want to live on the same planet as this thing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 01 15:00:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "aka some variation of alwayshungry in places.\nI still have no idea what I'm doing.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 73261,
+        "follow_request_sent": false,
+        "followers_count": 268,
+        "following": false,
+        "friends_count": 359,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1560741674,
+        "id_str": "1560741674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Athens, Greece",
+        "name": "Claire \ud83d\udc1d\ud83d\udc30",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560741674/1569789956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266476701447524352/qUo4_Lgx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266476701447524352/qUo4_Lgx_normal.jpg",
+        "profile_link_color": "7834C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ladyacomstock",
+        "statuses_count": 18826,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

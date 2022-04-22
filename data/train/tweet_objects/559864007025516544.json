@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -43.27917,
+            -22.89770042
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jan 27 00:02:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            },
+            {
+                "id": 99160346,
+                "id_str": "99160346",
+                "indices": [
+                    98,
+                    110
+                ],
+                "name": "Limp",
+                "screen_name": "GabrielLimp"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -22.89770042,
+            -43.27917
+        ],
+        "type": "Point"
+    },
+    "id": 559864007025516544,
+    "id_str": "559864007025516544",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 559863517151784960,
+    "in_reply_to_status_id_str": "559863517151784960",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -43.795449,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -22.7398234
+                    ],
+                    [
+                        -43.795449,
+                        -22.7398234
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Rio de Janeiro, Brasil",
+        "id": "97bcdfca1a2dca59",
+        "name": "Rio de Janeiro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BurgerKing: A good relationship:\n\u2611 calls you to just say hi\n\u2611 wants to see you\n\u2611 brings you BK\u201d @GabrielLimp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 17 15:28:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mars | Del Rey | Limp \u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1041,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 630,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 701249335,
+        "id_str": "701249335",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Mars",
+        "name": "Isa",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701249335/1436674777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727593221778477057/cH1WYfWM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727593221778477057/cH1WYfWM_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ICavaggioni",
+        "statuses_count": 3008,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

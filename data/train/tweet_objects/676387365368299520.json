@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 14 13:04:49 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    34
+                ],
+                "text": "dumbasses"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1FXQYunhAi",
+                "expanded_url": "https://twitter.com/jimbsez/status/676387365368299520/photo/1",
+                "id": 676387360624349184,
+                "id_str": "676387360624349184",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CWMCuIiUEAAIdZz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CWMCuIiUEAAIdZz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 695,
+                        "resize": "fit",
+                        "w": 924
+                    },
+                    "medium": {
+                        "h": 695,
+                        "resize": "fit",
+                        "w": 924
+                    },
+                    "small": {
+                        "h": 511,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1FXQYunhAi"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14940354,
+                "id_str": "14940354",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Jim Roberts",
+                "screen_name": "nycjim"
+            },
+            {
+                "id": 130617778,
+                "id_str": "130617778",
+                "indices": [
+                    8,
+                    23
+                ],
+                "name": "Keith Olbermann",
+                "screen_name": "KeithOlbermann"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/1FXQYunhAi",
+                "expanded_url": "https://twitter.com/jimbsez/status/676387365368299520/photo/1",
+                "id": 676387360624349184,
+                "id_str": "676387360624349184",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CWMCuIiUEAAIdZz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CWMCuIiUEAAIdZz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 695,
+                        "resize": "fit",
+                        "w": 924
+                    },
+                    "medium": {
+                        "h": 695,
+                        "resize": "fit",
+                        "w": 924
+                    },
+                    "small": {
+                        "h": 511,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/1FXQYunhAi"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 676387365368299520,
+    "id_str": "676387365368299520",
+    "in_reply_to_screen_name": "nycjim",
+    "in_reply_to_status_id": 676367888543031296,
+    "in_reply_to_status_id_str": "676367888543031296",
+    "in_reply_to_user_id": 14940354,
+    "in_reply_to_user_id_str": "14940354",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@nycjim @KeithOlbermann #dumbasses https://t.co/1FXQYunhAi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 11:35:10 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I pet dogs, do standup, and know things. Survives w/o a \u201cblue check mark.\u201d",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 81168,
+        "follow_request_sent": false,
+        "followers_count": 580,
+        "following": false,
+        "friends_count": 2073,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3069680545,
+        "id_str": "3069680545",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "Los Angeles, CA",
+        "name": "James Bishop",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3069680545/1514312394",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169083600295190528/lyMq6iAP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169083600295190528/lyMq6iAP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimbsez",
+        "statuses_count": 14172,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

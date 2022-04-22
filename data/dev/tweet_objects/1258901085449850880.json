@@ -1,0 +1,221 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 08 23:26:22 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/MerseyHack/sta\u2026",
+                "expanded_url": "https://twitter.com/MerseyHack/status/1258758842680254465",
+                "indices": [
+                    83,
+                    106
+                ],
+                "url": "https://t.co/pNaF9jbpOA"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "geo": null,
+    "id": 1258901085449850880,
+    "id_str": "1258901085449850880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri May 08 14:01:09 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        30,
+                        41
+                    ],
+                    "text": "Warrington"
+                },
+                {
+                    "indices": [
+                        50,
+                        62
+                    ],
+                    "text": "coronavirus"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1258758842680254465",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/IjgMUjkp1Y"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 6993,
+        "favorited": false,
+        "geo": null,
+        "id": 1258758842680254465,
+        "id_str": "1258758842680254465",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1267,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Residents in Grappenhall near #Warrington keep to #coronavirus rules by performing socially distanced conga to cele\u2026 https://t.co/IjgMUjkp1Y",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Nov 08 11:37:44 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "BBC News reporter and presenter in North West England & occasionally elsewhere. Instagram: andygillbbc",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bbc.co.uk/liverpool",
+                            "expanded_url": "http://bbc.co.uk/liverpool",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/J2LNislcX1"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 48,
+            "follow_request_sent": false,
+            "followers_count": 8632,
+            "following": false,
+            "friends_count": 329,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 213244038,
+            "id_str": "213244038",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 126,
+            "location": "Liverpool/Manchester/The North",
+            "name": "Andy Gill",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/213244038/1599859272",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1517198068642369536/KNSdSC_w_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517198068642369536/KNSdSC_w_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MerseyHack",
+            "statuses_count": 14234,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/J2LNislcX1",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1258758842680254465,
+    "quoted_status_id_str": "1258758842680254465",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "When can we expect to see a spike in cases as a result of these idiots? Two weeks? https://t.co/pNaF9jbpOA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 11 02:14:38 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "28. Liverpool. Welsh. Homosexual. Leftie. He/Him.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/dnrhds",
+                        "expanded_url": "https://linktr.ee/dnrhds",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5tht2Idm7j"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 62882,
+        "follow_request_sent": false,
+        "followers_count": 4493,
+        "following": false,
+        "friends_count": 1312,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1078252692,
+        "id_str": "1078252692",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "North Wales/Liverpool",
+        "name": "Dan",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078252692/1616848315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450273554155585540/bkeX2vpJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450273554155585540/bkeX2vpJ_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dnrhds",
+        "statuses_count": 23587,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/5tht2Idm7j",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

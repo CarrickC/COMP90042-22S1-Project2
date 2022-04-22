@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 11:41:24 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "unherd.com/2020/06/karl-f\u2026",
+                "expanded_url": "https://unherd.com/2020/06/karl-friston-up-to-80-not-even-susceptible-to-covid-19/",
+                "indices": [
+                    61,
+                    84
+                ],
+                "url": "https://t.co/3bZQReQoB6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1278292619848712193,
+    "id_str": "1278292619848712193",
+    "in_reply_to_screen_name": "AlexBerenson",
+    "in_reply_to_status_id": 1278168876027650049,
+    "in_reply_to_status_id_str": "1278168876027650049",
+    "in_reply_to_user_id": 87679233,
+    "in_reply_to_user_id_str": "87679233",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AlexBerenson Posting this again. This seems to be correct.\n\nhttps://t.co/3bZQReQoB6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 03 13:23:28 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Honk honk!\n\nMe/I/I'm",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 80681,
+        "follow_request_sent": false,
+        "followers_count": 33824,
+        "following": false,
+        "friends_count": 3738,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1246065743294332928,
+        "id_str": "1246065743294332928",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 112,
+        "location": "Toronto, ON",
+        "name": "Milhouse Van Houten \ud83c\udde8\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246065743294332928/1624970989",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1493703819011792898/bgQcsS4L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493703819011792898/bgQcsS4L_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Milhouse_Van_Ho",
+        "statuses_count": 24636,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

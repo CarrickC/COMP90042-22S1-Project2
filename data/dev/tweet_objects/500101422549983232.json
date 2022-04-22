@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 15 02:07:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 500101422549983232,
+    "id_str": "500101422549983232",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@ksdknews How is this relevant?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 21 21:45:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Say No to Stockholm Syndrome. Conservatism is a hate crime against humanity. #ResistForever DON'T VOTE FOR REPUBLICANS!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 142952,
+        "follow_request_sent": false,
+        "followers_count": 5092,
+        "following": false,
+        "friends_count": 5563,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 21519788,
+        "id_str": "21519788",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 167,
+        "location": "It's Windy Here",
+        "name": "Shelli Tweetz",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21519788/1590966950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1267233344552603648/LeJ2Mhp7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267233344552603648/LeJ2Mhp7_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ShelliTweetz",
+        "statuses_count": 356056,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

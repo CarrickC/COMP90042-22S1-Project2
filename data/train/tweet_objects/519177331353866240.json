@@ -1,0 +1,207 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 06 17:28:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dh21BVZpZ9",
+                "expanded_url": "https://twitter.com/ForbesTech/status/519131101798100992/photo/1",
+                "id": 519131101596745728,
+                "id_str": "519131101596745728",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzRS_IaIAAAVMcS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzRS_IaIAAAVMcS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 546,
+                        "resize": "fit",
+                        "w": 970
+                    },
+                    "medium": {
+                        "h": 546,
+                        "resize": "fit",
+                        "w": 970
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519131101798100992,
+                "source_status_id_str": "519131101798100992",
+                "source_user_id": 14885549,
+                "source_user_id_str": "14885549",
+                "type": "photo",
+                "url": "http://t.co/dh21BVZpZ9"
+            }
+        ],
+        "symbols": [
+            {
+                "indices": [
+                    112,
+                    115
+                ],
+                "text": "HP"
+            }
+        ],
+        "urls": [
+            {
+                "display_url": "onforb.es/Z959Ji",
+                "expanded_url": "http://onforb.es/Z959Ji",
+                "indices": [
+                    89,
+                    111
+                ],
+                "url": "http://t.co/o77mzg9ODX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14885549,
+                "id_str": "14885549",
+                "indices": [
+                    5,
+                    16
+                ],
+                "name": "Forbes Tech",
+                "screen_name": "ForbesTech"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dh21BVZpZ9",
+                "expanded_url": "https://twitter.com/ForbesTech/status/519131101798100992/photo/1",
+                "id": 519131101596745728,
+                "id_str": "519131101596745728",
+                "indices": [
+                    116,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzRS_IaIAAAVMcS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzRS_IaIAAAVMcS.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 546,
+                        "resize": "fit",
+                        "w": 970
+                    },
+                    "medium": {
+                        "h": 546,
+                        "resize": "fit",
+                        "w": 970
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519131101798100992,
+                "source_status_id_str": "519131101798100992",
+                "source_user_id": 14885549,
+                "source_user_id_str": "14885549",
+                "type": "photo",
+                "url": "http://t.co/dh21BVZpZ9"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519177331353866240,
+    "id_str": "519177331353866240",
+    "in_reply_to_screen_name": "ForbesTech",
+    "in_reply_to_status_id": 519131101798100992,
+    "in_reply_to_status_id_str": "519131101798100992",
+    "in_reply_to_user_id": 14885549,
+    "in_reply_to_user_id_str": "14885549",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT: \"@ForbesTech: HP confirms that it's splitting into 2 companies. And cutting 5k jobs. http://t.co/o77mzg9ODX $HP http://t.co/dh21BVZpZ9\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 13 21:44:10 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Man of God, @Dell Client Innovation Director helping customers achieve workforce transformation, 31 Patents, @UTexasMcCombs MBA, #DesignThinking #CES19 #CES",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/KevinTerwil\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/KevinTerwilliger",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IjPulEpx3Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1348,
+        "follow_request_sent": false,
+        "followers_count": 1790,
+        "following": false,
+        "friends_count": 2955,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 251799654,
+        "id_str": "251799654",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 217,
+        "location": "Austin, Texas",
+        "name": "Kevin Terwilliger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251799654/1394252839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765343167688257536/raQ3W7vY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765343167688257536/raQ3W7vY_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kdtwill",
+        "statuses_count": 3200,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/IjPulEpx3Y",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

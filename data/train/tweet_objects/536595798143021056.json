@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 23 19:03:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17679507,
+                "id_str": "17679507",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "(((iAmAJudean))) \ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf1",
+                "screen_name": "TeachESL"
+            },
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    10,
+                    22
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 536595798143021056,
+    "id_str": "536595798143021056",
+    "in_reply_to_screen_name": "TeachESL",
+    "in_reply_to_status_id": 536551770009247744,
+    "in_reply_to_status_id_str": "536551770009247744",
+    "in_reply_to_user_id": 17679507,
+    "in_reply_to_user_id_str": "17679507",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeachESL @Independent [citation needed].",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 14:42:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad first, then Prof and Acting Head of @NU_CISdept, author, speaker & maker of lists. I study crowds and nature-inspired computation & I speak only for myself.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "martynamos.org",
+                        "expanded_url": "http://www.martynamos.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/5llISlVNm5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43097,
+        "follow_request_sent": false,
+        "followers_count": 1542,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 20438952,
+        "id_str": "20438952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 71,
+        "location": "North-East England",
+        "name": "Martyn Amos",
+        "notifications": false,
+        "profile_background_color": "D5EDEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20438952/1415717075",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157593403061940224/-6UerqX__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157593403061940224/-6UerqX__normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A5CFE8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "martyn_amos",
+        "statuses_count": 36479,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/5llISlVNm5",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

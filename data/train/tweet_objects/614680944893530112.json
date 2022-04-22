@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 06:25:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 363069195,
+                "id_str": "363069195",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "gabby",
+                "screen_name": "sheilagabbs"
+            },
+            {
+                "id": 783001052434067457,
+                "id_str": "783001052434067457",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "CNN Wire",
+                "screen_name": "cnnwire"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    22,
+                    26
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    27,
+                    38
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614680944893530112,
+    "id_str": "614680944893530112",
+    "in_reply_to_screen_name": "sheilagabbs",
+    "in_reply_to_status_id": 614633896630747136,
+    "in_reply_to_status_id_str": "614633896630747136",
+    "in_reply_to_user_id": 363069195,
+    "in_reply_to_user_id_str": "363069195",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@sheilagabbs @CNNWire @CNN @WhiteHouse Lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 05 18:21:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I been high and I been low and I don\u2019t know which way to go. Frinkiac sniper. Go Canucks. #COYS \ud83c\udde8\ud83c\udde6 #Qatar2022",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30995,
+        "follow_request_sent": false,
+        "followers_count": 558,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 22954643,
+        "id_str": "22954643",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Vancouver & your mentions",
+        "name": "Canada is going to The World Cup",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22954643/1616312871",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1455689396376670212/as3Gqisu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455689396376670212/as3Gqisu_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davegrapes",
+        "statuses_count": 78320,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

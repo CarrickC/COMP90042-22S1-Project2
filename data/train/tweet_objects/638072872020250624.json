@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 19:36:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2159406846,
+                "id_str": "2159406846",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Heather",
+                "screen_name": "heeather_mariee"
+            },
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    17,
+                    33
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            },
+            {
+                "id": 1093651672591548416,
+                "id_str": "1093651672591548416",
+                "indices": [
+                    34,
+                    47
+                ],
+                "name": "Giselle Diaz",
+                "screen_name": "gisellexdiaz"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 638072872020250624,
+    "id_str": "638072872020250624",
+    "in_reply_to_screen_name": "heeather_mariee",
+    "in_reply_to_status_id": 638072694026571776,
+    "in_reply_to_status_id_str": "638072694026571776",
+    "in_reply_to_user_id": 2159406846,
+    "in_reply_to_user_id_str": "2159406846",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@heeather_mariee @TheValleyReport @Gisellexdiaz bro dead af",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 10 16:56:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u264c\ufe0f\ud83e\udd8bSHSU Alum\u26a1\ufe0f she/her",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 274144,
+        "follow_request_sent": false,
+        "followers_count": 2006,
+        "following": false,
+        "friends_count": 1201,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 371330043,
+        "id_str": "371330043",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Houston, TX",
+        "name": "Hales \u263e",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371330043/1649969266",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498085149409525764/feGnPMk3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498085149409525764/feGnPMk3_normal.jpg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "haleymartinezz",
+        "statuses_count": 110919,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

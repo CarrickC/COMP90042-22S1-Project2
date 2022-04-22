@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 31 01:47:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 524657792,
+                "id_str": "524657792",
+                "indices": [
+                    12,
+                    27
+                ],
+                "name": "FunnyPicsDepot",
+                "screen_name": "FunnyPicsDepot"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626932215004315649,
+    "id_str": "626932215004315649",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.202424,
+                        37.667637
+                    ],
+                    [
+                        -122.122164,
+                        37.667637
+                    ],
+                    [
+                        -122.122164,
+                        37.74245
+                    ],
+                    [
+                        -122.202424,
+                        37.74245
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Leandro, CA",
+        "id": "61f1d75eb5064808",
+        "name": "San Leandro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/61f1d75eb5064808.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SinZacLeon @FunnyPicsDepot lmfao!!! Hey is that even true tho? Still funny",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 05 17:30:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ig: arlenenahhh",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 230,
+        "follow_request_sent": false,
+        "followers_count": 158,
+        "following": false,
+        "friends_count": 302,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 277585297,
+        "id_str": "277585297",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "LA to the BAY",
+        "name": "Arlene Tejeda",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/277585297/1567812285",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170115646954196994/jS9JKaxp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170115646954196994/jS9JKaxp_normal.jpg",
+        "profile_link_color": "99000D",
+        "profile_sidebar_border_color": "78001E",
+        "profile_sidebar_fill_color": "2E2C2E",
+        "profile_text_color": "420006",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cutziebaybeh",
+        "statuses_count": 7620,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

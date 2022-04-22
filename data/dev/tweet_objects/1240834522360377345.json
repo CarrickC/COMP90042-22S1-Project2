@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 02:56:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240834522360377345",
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/vsgtYk4leJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 737362108397060096,
+                "id_str": "737362108397060096",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Alexey Kulikov",
+                "screen_name": "KulikovUNIATF"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    15,
+                    19
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 251476656,
+                "id_str": "251476656",
+                "indices": [
+                    37,
+                    50
+                ],
+                "name": "Kayode Teslim",
+                "screen_name": "kayodeteslim"
+            },
+            {
+                "id": 2683045968,
+                "id_str": "2683045968",
+                "indices": [
+                    51,
+                    61
+                ],
+                "name": "COVID-19 Pandemic Response Mode",
+                "screen_name": "EpidAlert"
+            },
+            {
+                "id": 1154104193017417729,
+                "id_str": "1154104193017417729",
+                "indices": [
+                    62,
+                    77
+                ],
+                "name": "COVID-19 Test Capacity",
+                "screen_name": "COVID2019tests"
+            },
+            {
+                "id": 2713172484,
+                "id_str": "2713172484",
+                "indices": [
+                    78,
+                    91
+                ],
+                "name": "Infectious Diseases",
+                "screen_name": "InfectiousDz"
+            },
+            {
+                "id": 1183969130585542657,
+                "id_str": "1183969130585542657",
+                "indices": [
+                    92,
+                    104
+                ],
+                "name": "Infectious Microbes & Diseases",
+                "screen_name": "IMD_Journal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240834522360377345,
+    "id_str": "1240834522360377345",
+    "in_reply_to_screen_name": "KulikovUNIATF",
+    "in_reply_to_status_id": 1240730488031109125,
+    "in_reply_to_status_id_str": "1240730488031109125",
+    "in_reply_to_user_id": 737362108397060096,
+    "in_reply_to_user_id_str": "737362108397060096",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@KulikovUNIATF @WHO @coronaviruscare @kayodeteslim @EpidAlert @COVID2019tests @InfectiousDz @IMD_Journal\u2026 https://t.co/vsgtYk4leJ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 01 07:41:46 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ordinary Indian Psychiatrist.!!\nFrom Mofussil India..!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5806,
+        "follow_request_sent": false,
+        "followers_count": 152,
+        "following": false,
+        "friends_count": 194,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 771251686451011584,
+        "id_str": "771251686451011584",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Hemant Wagh",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771251686451011584/1553235893",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108978995125616640/9fchBI-Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108978995125616640/9fchBI-Z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HemantWagh1984",
+        "statuses_count": 19993,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

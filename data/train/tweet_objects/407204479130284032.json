@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 17:48:07 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/rkOAC",
+                "expanded_url": "http://ow.ly/rkOAC",
+                "indices": [
+                    79,
+                    101
+                ],
+                "url": "http://t.co/thWqd4iGQD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16312576,
+                "id_str": "16312576",
+                "indices": [
+                    1,
+                    4
+                ],
+                "name": "Entertainment Weekly",
+                "screen_name": "EW"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407204479130284032,
+    "id_str": "407204479130284032",
+    "in_reply_to_screen_name": "EW",
+    "in_reply_to_status_id": 407188779255222273,
+    "in_reply_to_status_id_str": "407188779255222273",
+    "in_reply_to_user_id": 16312576,
+    "in_reply_to_user_id_str": "16312576",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@EW: Paul Walker remembered: Celebs react to 'Fast and Furious' star's death\n http://t.co/thWqd4iGQD\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 24 05:21:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17047,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 303,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34856810,
+        "id_str": "34856810",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "California",
+        "name": "Phousonh Trester",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34856810/1542007043",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061880618139639809/BZLkjIty_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061880618139639809/BZLkjIty_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StickyRice0507",
+        "statuses_count": 3593,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

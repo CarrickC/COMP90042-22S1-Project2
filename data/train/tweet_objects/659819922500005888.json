@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 19:51:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2498936086,
+                "id_str": "2498936086",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "fred shuttlesworth",
+                "screen_name": "reezustaughtyou"
+            },
+            {
+                "id": 2741039206,
+                "id_str": "2741039206",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "amelio",
+                "screen_name": "DirtyFlacko_"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 659819922500005888,
+    "id_str": "659819922500005888",
+    "in_reply_to_screen_name": "reezustaughtyou",
+    "in_reply_to_status_id": 659819631146848256,
+    "in_reply_to_status_id_str": "659819631146848256",
+    "in_reply_to_user_id": 2498936086,
+    "in_reply_to_user_id_str": "2498936086",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ReezusTaughtYou @DirtyFlacko_ what in the fuck",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 20 04:51:28 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "UNC Alum IG/Snap: rodneybperry",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16769,
+        "follow_request_sent": false,
+        "followers_count": 718,
+        "following": false,
+        "friends_count": 565,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 768855415,
+        "id_str": "768855415",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Disbelief",
+        "name": "Ohwell Fuckem, Jr.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768855415/1643502878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1459602950985297926/2Hvkv7hJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459602950985297926/2Hvkv7hJ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pnbRod",
+        "statuses_count": 126537,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 11:14:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    83
+                ],
+                "text": "CharlieHebdo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 25067168,
+                "id_str": "25067168",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "euronews",
+                "screen_name": "euronews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 552785374507175936,
+    "id_str": "552785374507175936",
+    "in_reply_to_screen_name": "euronews",
+    "in_reply_to_status_id": 552783667052167168,
+    "in_reply_to_status_id_str": "552783667052167168",
+    "in_reply_to_user_id": 25067168,
+    "in_reply_to_user_id_str": "25067168",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "MT @euronews France: 10 dead after shooting at HQ of satirical weekly #CharlieHebdo. If Zionists/Jews did this they'd be nuking Israel",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 24 17:01:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chartered Financial Planner / Later Life Finance adviser - private clients, exclusively.  Economist/Pundit/Speaker.  Writer of The (free) Booms & Busts Reports.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jonathandaviswm.com",
+                        "expanded_url": "https://www.jonathandaviswm.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jEu11jsfHe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4444,
+        "follow_request_sent": false,
+        "followers_count": 4143,
+        "following": false,
+        "friends_count": 256,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 76987535,
+        "id_str": "76987535",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 163,
+        "location": "Stirling/Lyons/Cranfield alum",
+        "name": "Jonathan Davis FCII FPFS TG: @jdcapitalist",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76987535/1616533837",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348286419085754368/HRjWn_oK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348286419085754368/HRjWn_oK_normal.png",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "j0nathandavis",
+        "statuses_count": 118567,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jEu11jsfHe",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

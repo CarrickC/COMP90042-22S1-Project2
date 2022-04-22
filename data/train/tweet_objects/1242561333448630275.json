@@ -1,0 +1,256 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 24 21:18:02 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1242561333448630275",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/n8Y1fGRNXv"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 1242561333448630275,
+    "id_str": "1242561333448630275",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Mar 24 21:15:30 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        73,
+                        85
+                    ],
+                    "text": "coronavirus"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1242560697617301504",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/aJRUdtkkob"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 59,
+        "favorited": false,
+        "geo": null,
+        "id": 1242560697617301504,
+        "id_str": "1242560697617301504",
+        "in_reply_to_screen_name": "chriswnews",
+        "in_reply_to_status_id": 1242560076818395138,
+        "in_reply_to_status_id_str": "1242560076818395138",
+        "in_reply_to_user_id": 503759934,
+        "in_reply_to_user_id_str": "503759934",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 35,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Gov. Beshear: We have a positive case today from someone who attended \"a #coronavirus party\". Doesn't name that per\u2026 https://t.co/aJRUdtkkob",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 26 00:29:14 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "@KyLeagueCities Legislative & Visual Comms Mgr. Recovering \ud83d\udcfa journalist. @ night I walk my homestead awaiting the Great Pumpkin. #GrowYourOwn @ourhomesteadadv",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/chriswnewsfanp\u2026",
+                            "expanded_url": "http://www.facebook.com/chriswnewsfanpage",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/GWQEj2L2Jd"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2693,
+            "follow_request_sent": false,
+            "followers_count": 7196,
+            "following": false,
+            "friends_count": 1622,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 503759934,
+            "id_str": "503759934",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 228,
+            "location": "#Louisville, #KY",
+            "name": "Chris Williams",
+            "notifications": false,
+            "profile_background_color": "E87817",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/503759934/1628258206",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387160660056870913/G0xNcs2M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387160660056870913/G0xNcs2M_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "chriswnews",
+            "statuses_count": 23805,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/GWQEj2L2Jd",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1242560697617301504,
+    "quoted_status_id_str": "1242560697617301504",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "You\u2019ve gotta be fucking kidding. STAY HOME. Honestly, I\u2019m not even sure this person deserves any of our limited med\u2026 https://t.co/n8Y1fGRNXv",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 15 00:38:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Political & Media Historian. Author: Talk Radio's America https://t.co/QMRcQ5CNF6. Editor @madebyhistory. Fellow @penn.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tinyurl.com/yyn4mukd",
+                        "expanded_url": "https://tinyurl.com/yyn4mukd",
+                        "indices": [
+                            58,
+                            81
+                        ],
+                        "url": "https://t.co/QMRcQ5CNF6"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "brianrosenwald.com",
+                        "expanded_url": "http://www.brianrosenwald.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4CVV7e9MST"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 163326,
+        "follow_request_sent": false,
+        "followers_count": 9249,
+        "following": false,
+        "friends_count": 5086,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143991014,
+        "id_str": "143991014",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 234,
+        "location": "Philadelphia",
+        "name": "Brian Rosenwald",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143991014/1555783085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/893306489905061888/Q3-MKcMN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/893306489905061888/Q3-MKcMN_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "brianros1",
+        "statuses_count": 221580,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/4CVV7e9MST",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

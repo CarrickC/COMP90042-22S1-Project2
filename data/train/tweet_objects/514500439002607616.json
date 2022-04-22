@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:43:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bzfd.it/1rtFSp5",
+                "expanded_url": "http://bzfd.it/1rtFSp5",
+                "indices": [
+                    106,
+                    128
+                ],
+                "url": "http://t.co/YPgbyy6KlN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    22,
+                    31
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514500439002607616,
+    "id_str": "514500439002607616",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 514468018970034176,
+    "in_reply_to_status_id_str": "514468018970034176",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Lol at 'phablets' RT \u201c@BuzzFeed: iPhone 6 Plus users are sitting on and bending their enormous new phones\nhttp://t.co/YPgbyy6KlN\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 14 09:37:35 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 219,
+        "follow_request_sent": false,
+        "followers_count": 240,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1670082841,
+        "id_str": "1670082841",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Gisborne, New Zealand",
+        "name": "Lego Librarian",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670082841/1398151565",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000802993597/c7be53411a1ac8d0bedc22b414a9047f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000802993597/c7be53411a1ac8d0bedc22b414a9047f_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LibraryGadgetGi",
+        "statuses_count": 8072,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

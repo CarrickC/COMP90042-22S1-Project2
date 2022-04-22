@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:10:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 8839632,
+                "id_str": "8839632",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "NBC Nightly News with Lester Holt",
+                "screen_name": "NBCNightlyNews"
+            },
+            {
+                "id": 16306235,
+                "id_str": "16306235",
+                "indices": [
+                    16,
+                    29
+                ],
+                "name": "Lauren Lapkus \ud83c\udf70",
+                "screen_name": "laurenlapkus"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614601775237066752,
+    "id_str": "614601775237066752",
+    "in_reply_to_screen_name": "NBCNightlyNews",
+    "in_reply_to_status_id": 614594195479752704,
+    "in_reply_to_status_id_str": "614594195479752704",
+    "in_reply_to_user_id": 8839632,
+    "in_reply_to_user_id_str": "8839632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NBCNightlyNews @laurenlapkus Should always be lit like that regardless of commemoration.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 10 04:02:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 58,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 198,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 46032579,
+        "id_str": "46032579",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "United States",
+        "name": "Ty Heard",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46032579/1567321315",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318210899136663552/KxH96h_K_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318210899136663552/KxH96h_K_normal.png",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MrKlorox",
+        "statuses_count": 820,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

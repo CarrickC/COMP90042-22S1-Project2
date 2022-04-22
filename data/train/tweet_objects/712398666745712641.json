@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 22 22:00:52 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            },
+            {
+                "id": 604175737,
+                "id_str": "604175737",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "Jimmy",
+                "screen_name": "JimmyGoebel"
+            },
+            {
+                "id": 832100871207002112,
+                "id_str": "832100871207002112",
+                "indices": [
+                    22,
+                    33
+                ],
+                "name": "Vinny",
+                "screen_name": "vschultz24"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 712398666745712641,
+    "id_str": "712398666745712641",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 674364257799004160,
+    "in_reply_to_status_id_str": "674364257799004160",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Gotham3 @JimmyGoebel @vschultz24 trump boy Schultz?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 04:31:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i got that yoyo on me",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/toiletcircle",
+                        "expanded_url": "http://instagram.com/toiletcircle",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OAll07gimW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23218,
+        "follow_request_sent": false,
+        "followers_count": 589,
+        "following": false,
+        "friends_count": 586,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 276336356,
+        "id_str": "276336356",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "boston",
+        "name": "full time complainer",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276336356/1476632726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171769232956121090/ToStMPRD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171769232956121090/ToStMPRD_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "philsabadass",
+        "statuses_count": 39528,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OAll07gimW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

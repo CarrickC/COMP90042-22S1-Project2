@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 18 05:23:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            },
+            {
+                "id": 64730073,
+                "id_str": "64730073",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "Jamie Satterfield",
+                "screen_name": "jamiescoop"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 490003793371607040,
+    "id_str": "490003793371607040",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 489800427152879616,
+    "in_reply_to_status_id_str": "489800427152879616",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@washingtonpost @jamiescoop Again! Maybe they'll fess up now to what they covered up last time!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 01 21:32:11 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ink-stained kvetch; crime and courts reporter for https://t.co/eAXxShny0w",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "VDARE.com",
+                        "expanded_url": "http://VDARE.com",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "url": "https://t.co/eAXxShny0w"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nicholasstixuncensored.blogspot.com",
+                        "expanded_url": "http://nicholasstixuncensored.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3hiK8ZYlxH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 63793,
+        "follow_request_sent": false,
+        "followers_count": 1948,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 426123063,
+        "id_str": "426123063",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 87,
+        "location": "In the belly of the beast",
+        "name": "Nicholas Stix",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824523551130710016/LZpW5-cL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824523551130710016/LZpW5-cL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NicholasStix",
+        "statuses_count": 94700,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/3hiK8ZYlxH",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

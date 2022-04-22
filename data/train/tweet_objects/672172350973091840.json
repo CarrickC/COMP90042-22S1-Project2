@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:55:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672172350973091840,
+    "id_str": "672172350973091840",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672169954016403456,
+    "in_reply_to_status_id_str": "672169954016403456",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ABC Except that he is president.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 02 11:11:35 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Call me Pops.  U.S. Army, retired.  Master Parachutist, Senior Aviator (UH-1/OH-58/UH-60) and proud grandpa of Taylor, Liam and Jude.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 35,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2902176611,
+        "id_str": "2902176611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "RIght here - Right now",
+        "name": "Jim Hinnant",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868090402171101184/gKFu6TXk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868090402171101184/gKFu6TXk_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jumpingjimhinna",
+        "statuses_count": 761,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

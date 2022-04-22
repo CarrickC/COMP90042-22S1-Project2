@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 09 20:57:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 466645191,
+                "id_str": "466645191",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Cloyd Rivers",
+                "screen_name": "CloydRivers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 619249133266665473,
+    "id_str": "619249133266665473",
+    "in_reply_to_screen_name": "CloydRivers",
+    "in_reply_to_status_id": 619242759359037440,
+    "in_reply_to_status_id_str": "619242759359037440",
+    "in_reply_to_user_id": 466645191,
+    "in_reply_to_user_id_str": "466645191",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CloydRivers regardless of what he supports he's the leader of the free world and it'd be ignorant to cater to one part of the population",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 27 01:36:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nat Turner in my past life|\u03a6\u0392\u03a3|NCCU Grad Student \ud83e\udd85| UNCP Alumnus| I write words and occasionally they rhyme|",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ndcpoetry.com",
+                        "expanded_url": "http://www.ndcpoetry.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/v6Z4xq2Fhn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12769,
+        "follow_request_sent": false,
+        "followers_count": 1251,
+        "following": false,
+        "friends_count": 1035,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 380674441,
+        "id_str": "380674441",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Jones BBQ and Foot Massage",
+        "name": "Radio Raheem",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380674441/1445132141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1388936971393900548/-ATxceWB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388936971393900548/-ATxceWB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nick_Courmon",
+        "statuses_count": 16914,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/v6Z4xq2Fhn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.3276362,
+            51.4507732
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 24 21:22:10 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    51,
+                    70
+                ],
+                "text": "donttreadonthelego"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 143145579,
+                "id_str": "143145579",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The Poke",
+                "screen_name": "ThePoke"
+            },
+            {
+                "id": 283545515,
+                "id_str": "283545515",
+                "indices": [
+                    15,
+                    25
+                ],
+                "name": "Nick Evans",
+                "screen_name": "nickevans"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.4507732,
+            -0.3276362
+        ],
+        "type": "Point"
+    },
+    "id": 536993202260443136,
+    "id_str": "536993202260443136",
+    "in_reply_to_screen_name": "ThePoke",
+    "in_reply_to_status_id": 536991428694376448,
+    "in_reply_to_status_id_str": "536991428694376448",
+    "in_reply_to_user_id": 143145579,
+    "in_reply_to_user_id_str": "143145579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.39216,
+                        51.391383
+                    ],
+                    [
+                        -0.221832,
+                        51.391383
+                    ],
+                    [
+                        -0.221832,
+                        51.489646
+                    ],
+                    [
+                        -0.39216,
+                        51.489646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Richmond, London",
+        "id": "1c37515518593fe3",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ThePoke Think @nickevans will agree with this! :) #donttreadonthelego",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 15 21:24:10 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Devoted to Quins and England rugby. Love life!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14255,
+        "follow_request_sent": false,
+        "followers_count": 534,
+        "following": false,
+        "friends_count": 615,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 90251347,
+        "id_str": "90251347",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Stockport. United Kingdom",
+        "name": "wendy kane",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90251347/1389700866",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/698102265601748996/DeFtV0Zk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/698102265601748996/DeFtV0Zk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "twicktw1",
+        "statuses_count": 11214,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

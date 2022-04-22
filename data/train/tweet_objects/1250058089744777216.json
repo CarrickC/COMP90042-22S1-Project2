@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 13:47:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37893146,
+                "id_str": "37893146",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Robin Njogu",
+                "screen_name": "robinnjogu"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    12,
+                    16
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 1462725421,
+                "id_str": "1462725421",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Mike Sonko",
+                "screen_name": "MikeSonko"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250058089744777216,
+    "id_str": "1250058089744777216",
+    "in_reply_to_screen_name": "robinnjogu",
+    "in_reply_to_status_id": 1250055100393029632,
+    "in_reply_to_status_id_str": "1250055100393029632",
+    "in_reply_to_user_id": 37893146,
+    "in_reply_to_user_id_str": "37893146",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@robinnjogu @WHO @MikeSonko Wueeeh, hii ni mbof",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 16 08:14:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am not from Kenya, I am a Kenyan | Sports Broadcaster | Michezo si Mchezo |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1160,
+        "follow_request_sent": false,
+        "followers_count": 3499,
+        "following": false,
+        "friends_count": 1584,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20970193,
+        "id_str": "20970193",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18,
+        "location": "Nairobi, Kenya",
+        "name": "Daniel N Wahome, LBW",
+        "notifications": false,
+        "profile_background_color": "0F0A02",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20970193/1386001421",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327558218927796224/wemOb74i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327558218927796224/wemOb74i_normal.jpg",
+        "profile_link_color": "000036",
+        "profile_sidebar_border_color": "BCB302",
+        "profile_sidebar_fill_color": "171106",
+        "profile_text_color": "8A7302",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MistaWahome",
+        "statuses_count": 49181,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

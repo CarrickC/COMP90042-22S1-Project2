@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 01 13:08:18 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1256208827000684544",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/2jkpaQMApk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 385149246,
+                "id_str": "385149246",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "PLAINTEXT Nic Sarc",
+                "screen_name": "drainbownick"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1256208827000684544,
+    "id_str": "1256208827000684544",
+    "in_reply_to_screen_name": "drainbownick",
+    "in_reply_to_status_id": 1256064242572300293,
+    "in_reply_to_status_id_str": "1256064242572300293",
+    "in_reply_to_user_id": 385149246,
+    "in_reply_to_user_id_str": "385149246",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@drainbownick I try to explain to people like this that if the news/history/science is made up, isn't it more than\u2026 https://t.co/2jkpaQMApk",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 11 03:10:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Blue Collar Speed Metal Sweetheart. \n@toiletovhell radio show.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 24426,
+        "follow_request_sent": false,
+        "followers_count": 2437,
+        "following": false,
+        "friends_count": 979,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 154386121,
+        "id_str": "154386121",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "Easthampton, MA",
+        "name": "BRENO)))",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154386121/1649533673",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1482443020771467278/4rUjP_zt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482443020771467278/4rUjP_zt_normal.jpg",
+        "profile_link_color": "434343",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlackBandShirt",
+        "statuses_count": 18774,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

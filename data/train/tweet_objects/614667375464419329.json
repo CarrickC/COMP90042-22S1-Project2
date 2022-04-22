@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 05:31:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614667375464419329,
+    "id_str": "614667375464419329",
+    "in_reply_to_screen_name": "NickKristof",
+    "in_reply_to_status_id": 614617234942656512,
+    "in_reply_to_status_id_str": "614617234942656512",
+    "in_reply_to_user_id": 17004618,
+    "in_reply_to_user_id_str": "17004618",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NickKristof @nytimes Now lets get busy and outlaw poverty and its sad, sad affect on people's lives.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 29 06:28:58 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "crabby, but looking. Happiest when reading, thinking, listening to music. These then are the things that sustain this baby boomer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Twitter.com",
+                        "expanded_url": "https://Twitter.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EvfI7qShk8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6692,
+        "follow_request_sent": false,
+        "followers_count": 94,
+        "following": false,
+        "friends_count": 125,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 27392069,
+        "id_str": "27392069",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Castlegar B.C., Canada",
+        "name": "Irene Cavalier",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/800594627837337602/oupbwKvC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/800594627837337602/oupbwKvC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Witiw",
+        "statuses_count": 7369,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/EvfI7qShk8",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

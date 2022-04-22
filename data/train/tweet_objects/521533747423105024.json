@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 05:31:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16331010,
+                "id_str": "16331010",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "TMZ",
+                "screen_name": "TMZ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521533747423105024,
+    "id_str": "521533747423105024",
+    "in_reply_to_screen_name": "TMZ",
+    "in_reply_to_status_id": 521533372280369152,
+    "in_reply_to_status_id_str": "521533372280369152",
+    "in_reply_to_user_id": 16331010,
+    "in_reply_to_user_id_str": "16331010",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TMZ | This wasn't today tho.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 27 20:59:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "news and humor for elohim's elect, chilly willy style; shared multiverse's first and only real twitter jockey.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/streetscoop",
+                        "expanded_url": "http://www.instagram.com/streetscoop",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WdJMBntjte"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 168441,
+        "follow_request_sent": false,
+        "followers_count": 3056,
+        "following": false,
+        "friends_count": 9,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 60708604,
+        "id_str": "60708604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 131,
+        "location": "",
+        "name": "tj chilly willy",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60708604/1650518020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516975633284288512/f4-71g_b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516975633284288512/f4-71g_b_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "streetscoop",
+        "statuses_count": 316446,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/WdJMBntjte",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

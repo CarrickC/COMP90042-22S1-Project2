@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 26 21:02:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16664681,
+                "id_str": "16664681",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Los Angeles Times",
+                "screen_name": "latimes"
+            },
+            {
+                "id": 7440462,
+                "id_str": "7440462",
+                "indices": [
+                    9,
+                    16
+                ],
+                "name": "MD",
+                "screen_name": "drance"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 526479110298546176,
+    "id_str": "526479110298546176",
+    "in_reply_to_screen_name": "latimes",
+    "in_reply_to_status_id": 526459255147491328,
+    "in_reply_to_status_id_str": "526459255147491328",
+    "in_reply_to_user_id": 16664681,
+    "in_reply_to_user_id_str": "16664681",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@latimes @drance Is that what happens when you spill paint in the garage?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 03 02:40:15 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software developer, cat dad, noise maker and tinkerer. Some days I even have my mise en place.  He/him.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "driscolldev.com",
+                        "expanded_url": "http://www.driscolldev.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2SsTjTZzLl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17396,
+        "follow_request_sent": false,
+        "followers_count": 652,
+        "following": false,
+        "friends_count": 480,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14070881,
+        "id_str": "14070881",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 54,
+        "location": "Michigan, USA",
+        "name": "Justin Driscoll",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14070881/1639362543",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1470219050265583633/b12tPRoG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470219050265583633/b12tPRoG_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jdriscoll",
+        "statuses_count": 30307,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2SsTjTZzLl",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

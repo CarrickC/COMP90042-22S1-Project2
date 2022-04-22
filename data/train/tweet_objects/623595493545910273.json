@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 21 20:48:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 11616202,
+                "id_str": "11616202",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Jay Caruso",
+                "screen_name": "JayCaruso"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 623595493545910273,
+    "id_str": "623595493545910273",
+    "in_reply_to_screen_name": "JayCaruso",
+    "in_reply_to_status_id": 623533663947517952,
+    "in_reply_to_status_id_str": "623533663947517952",
+    "in_reply_to_user_id": 11616202,
+    "in_reply_to_user_id_str": "11616202",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@JayCaruso pure SHAMEFUL.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 13:23:12 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Hearties",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35228,
+        "follow_request_sent": false,
+        "followers_count": 354,
+        "following": false,
+        "friends_count": 123,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20434339,
+        "id_str": "20434339",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "",
+        "name": "Fran",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738895140098592769/8Ut913Ul_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738895140098592769/8Ut913Ul_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FKDavis",
+        "statuses_count": 72173,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

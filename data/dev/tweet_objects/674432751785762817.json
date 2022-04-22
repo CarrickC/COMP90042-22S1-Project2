@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 03:37:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14780915,
+                "id_str": "14780915",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Rolling Stone",
+                "screen_name": "RollingStone"
+            },
+            {
+                "id": 11866582,
+                "id_str": "11866582",
+                "indices": [
+                    14,
+                    21
+                ],
+                "name": "LOLGOP",
+                "screen_name": "LOLGOP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674432751785762817,
+    "id_str": "674432751785762817",
+    "in_reply_to_screen_name": "RollingStone",
+    "in_reply_to_status_id": 674263945172119552,
+    "in_reply_to_status_id_str": "674263945172119552",
+    "in_reply_to_user_id": 14780915,
+    "in_reply_to_user_id_str": "14780915",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RollingStone @LOLGOP Jesus H. Christ. 1.15 million people? Who are we?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 03 21:27:51 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Liberal #Feminist #Humanist #BLM #901 #StandWithUkraine  I will always love Wendell Murray @DiIulio. Volunteer with https://t.co/bY6Bn8zW2J",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "AiredaleRescueGroup.com",
+                        "expanded_url": "https://AiredaleRescueGroup.com",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/bY6Bn8zW2J"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6612,
+        "follow_request_sent": false,
+        "followers_count": 261,
+        "following": false,
+        "friends_count": 965,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 482399067,
+        "id_str": "482399067",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Memphis",
+        "name": "Jackie Cash",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497713472196562951/4kU6aeGz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497713472196562951/4kU6aeGz_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jackie_cash",
+        "statuses_count": 2396,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

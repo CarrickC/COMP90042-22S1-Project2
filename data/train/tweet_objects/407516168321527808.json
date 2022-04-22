@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 02 14:26:40 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4900235571,
+                "id_str": "4900235571",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Savannah Kimber",
+                "screen_name": "simplysavvyy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407516168321527808,
+    "id_str": "407516168321527808",
+    "in_reply_to_screen_name": "SavvyySlayys",
+    "in_reply_to_status_id": 407169885345943552,
+    "in_reply_to_status_id_str": "407169885345943552",
+    "in_reply_to_user_id": 123846927,
+    "in_reply_to_user_id_str": "123846927",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@simplysavvyy aka the nigga who killed him",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 31 18:36:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I just be chilling",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kucoin.com/land/register/\u2026",
+                        "expanded_url": "https://www.kucoin.com/land/register/r/E3bd0l",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ECrl8LUEA7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 26230,
+        "follow_request_sent": false,
+        "followers_count": 583,
+        "following": false,
+        "friends_count": 286,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 308625599,
+        "id_str": "308625599",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "fl",
+        "name": "mr.",
+        "notifications": false,
+        "profile_background_color": "F7F6F4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308625599/1606365027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291906950482006016/Si7eNs42_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291906950482006016/Si7eNs42_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AD0E16",
+        "profile_text_color": "BDB2BD",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jdsafford",
+        "statuses_count": 21504,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ECrl8LUEA7",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

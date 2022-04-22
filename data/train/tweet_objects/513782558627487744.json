@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 21 20:11:22 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "buzzfeed.com/ryankincaid/st\u2026",
+                "expanded_url": "http://www.buzzfeed.com/ryankincaid/starbucks-dark-barrel-latte?utm_term=5yw8cz?bftw=main",
+                "indices": [
+                    108,
+                    130
+                ],
+                "url": "http://t.co/yDwpZv2CkH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    30,
+                    39
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 513782558627487744,
+    "id_str": "513782558627487744",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 513779458340569088,
+    "in_reply_to_status_id_str": "513779458340569088",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ASBrancato  OMG! Really?!?! \u201c@BuzzFeed: Starbucks Is Testing A New Latte That Tastes Exactly Like Guinness http://t.co/yDwpZv2CkH\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 08 00:54:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. --Prof Dumbledore",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jamionmymind.wordpress.com",
+                        "expanded_url": "https://jamionmymind.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/symQrOIUCZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4197,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 290,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 518074557,
+        "id_str": "518074557",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "London",
+        "name": "Jami Lashbrook",
+        "notifications": false,
+        "profile_background_color": "200709",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518074557/1411150015",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/454181640307105792/eZ05RTK0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/454181640307105792/eZ05RTK0_normal.jpeg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "200709",
+        "profile_text_color": "C96D43",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamiann70",
+        "statuses_count": 1483,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/symQrOIUCZ",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

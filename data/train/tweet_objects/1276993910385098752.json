@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 21:40:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1276993910385098752",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/UwToHO7xsI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1276993910385098752,
+    "id_str": "1276993910385098752",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 1276991466728980484,
+    "in_reply_to_status_id_str": "1276991466728980484",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@nytimes What is the point?  That it\u2019s not as serious as we thought?  That we are closer to herd immunity?  That we\u2026 https://t.co/UwToHO7xsI",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 08 16:33:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Populist Libertarian.Likes NE Pats, humor, & representative republic. A strong & broad Middle Class makes America great. Be responsible on social media. \u7ea6\u7ff0",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4288,
+        "follow_request_sent": false,
+        "followers_count": 732,
+        "following": false,
+        "friends_count": 1495,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54947470,
+        "id_str": "54947470",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 23,
+        "location": "Florida USA",
+        "name": "Poputarian",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54947470/1490134615",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/844742784787632128/WmuPckoU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/844742784787632128/WmuPckoU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Poputarian",
+        "statuses_count": 10582,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

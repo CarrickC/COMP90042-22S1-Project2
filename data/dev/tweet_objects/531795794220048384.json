@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 13:09:32 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/6IHfucumns",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "id": 531634492298256385,
+                "id_str": "531634492298256385",
+                "indices": [
+                    99,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531634492528939008,
+                "source_status_id_str": "531634492528939008",
+                "source_user_id": 18927441,
+                "source_user_id_str": "18927441",
+                "type": "photo",
+                "url": "http://t.co/6IHfucumns"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/UP3LYvC",
+                "expanded_url": "http://trib.al/UP3LYvC",
+                "indices": [
+                    76,
+                    98
+                ],
+                "url": "http://t.co/uxPwd7mxWx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    126,
+                    130
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/6IHfucumns",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "id": 531634492298256385,
+                "id_str": "531634492298256385",
+                "indices": [
+                    99,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531634492528939008,
+                "source_status_id_str": "531634492528939008",
+                "source_user_id": 18927441,
+                "source_user_id_str": "18927441",
+                "type": "photo",
+                "url": "http://t.co/6IHfucumns"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 531795794220048384,
+    "id_str": "531795794220048384",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Ewww! Pepsi taste-testing Doritos flavored Mountrain Dew. Would you try it? http://t.co/uxPwd7mxWx http://t.co/6IHfucumns via @IGN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 19:26:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anchor/Reporter Local12 WKRC-TV **Boy Mom\ud83d\udc99\ud83d\udc99**",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/MeghanMongillo",
+                        "expanded_url": "http://facebook.com/MeghanMongillo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mPOAle4Pel"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9878,
+        "follow_request_sent": false,
+        "followers_count": 6825,
+        "following": false,
+        "friends_count": 1289,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22049027,
+        "id_str": "22049027",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 164,
+        "location": "Cincinnati, Ohio",
+        "name": "meghan mongillo",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22049027/1641004324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891041599085522944/ZSgRxAyt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891041599085522944/ZSgRxAyt_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "meghanmongillo",
+        "statuses_count": 11714,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mPOAle4Pel",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

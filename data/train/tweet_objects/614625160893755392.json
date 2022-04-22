@@ -1,0 +1,120 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 02:43:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    123,
+                    138
+                ],
+                "text": "GodlessCountry"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614625160893755392,
+    "id_str": "614625160893755392",
+    "in_reply_to_screen_name": "NickKristof",
+    "in_reply_to_status_id": 614617234942656512,
+    "in_reply_to_status_id_str": "614617234942656512",
+    "in_reply_to_user_id": 17004618,
+    "in_reply_to_user_id_str": "17004618",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NickKristof @nytimes The USA is on thin ice... They're celebrating homosexuality  like if it's something to strive for... #GodlessCountry",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 02 04:04:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "it took more than one day to build Rome (preferred pro-nouns: He/Haw) (Latinx)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "website.com",
+                        "expanded_url": "http://www.website.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9SfmEjT44i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13158,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 376,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 383576531,
+        "id_str": "383576531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Boston, MA",
+        "name": "Ty Euro \u20acign \uf8ff",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/383576531/1604409529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368432728924946433/BadOTmYQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368432728924946433/BadOTmYQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Carlos_Espinal7",
+        "statuses_count": 13354,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9SfmEjT44i",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

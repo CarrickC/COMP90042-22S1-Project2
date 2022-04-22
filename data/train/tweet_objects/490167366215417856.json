@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 18 16:13:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 490167366215417856,
+    "id_str": "490167366215417856",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 490141776984825856,
+    "in_reply_to_status_id_str": "490141776984825856",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CNN really???? \"Most likely\" it wasn't Switzerland come back in off that limb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 12 14:38:30 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Economist, Teslafarian, Mathematician",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ts.la/anna66336",
+                        "expanded_url": "https://ts.la/anna66336",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/alOswq5Ruv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 219637,
+        "follow_request_sent": false,
+        "followers_count": 1287,
+        "following": false,
+        "friends_count": 2096,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 12153682,
+        "id_str": "12153682",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 35,
+        "location": "Princeton, NJ",
+        "name": "pjhornak",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12153682/1629576573",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626881775676071941/-yWwkbzn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626881775676071941/-yWwkbzn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PJHORNAK",
+        "statuses_count": 69831,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/alOswq5Ruv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

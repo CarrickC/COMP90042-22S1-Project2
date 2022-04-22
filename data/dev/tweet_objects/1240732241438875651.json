@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 19 20:09:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1240732241438875651",
+                "indices": [
+                    106,
+                    129
+                ],
+                "url": "https://t.co/72ix9VpUIV"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 737362108397060096,
+                "id_str": "737362108397060096",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Dr Alexey Kulikov",
+                "screen_name": "KulikovUNIATF"
+            },
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    15,
+                    19
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 251476656,
+                "id_str": "251476656",
+                "indices": [
+                    37,
+                    50
+                ],
+                "name": "Kayode Teslim",
+                "screen_name": "kayodeteslim"
+            },
+            {
+                "id": 2683045968,
+                "id_str": "2683045968",
+                "indices": [
+                    51,
+                    61
+                ],
+                "name": "COVID-19 Pandemic Response Mode",
+                "screen_name": "EpidAlert"
+            },
+            {
+                "id": 1154104193017417729,
+                "id_str": "1154104193017417729",
+                "indices": [
+                    62,
+                    77
+                ],
+                "name": "COVID-19 Test Capacity",
+                "screen_name": "COVID2019tests"
+            },
+            {
+                "id": 2713172484,
+                "id_str": "2713172484",
+                "indices": [
+                    78,
+                    91
+                ],
+                "name": "Infectious Diseases",
+                "screen_name": "InfectiousDz"
+            },
+            {
+                "id": 1183969130585542657,
+                "id_str": "1183969130585542657",
+                "indices": [
+                    92,
+                    104
+                ],
+                "name": "Infectious Microbes & Diseases",
+                "screen_name": "IMD_Journal"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1240732241438875651,
+    "id_str": "1240732241438875651",
+    "in_reply_to_screen_name": "KulikovUNIATF",
+    "in_reply_to_status_id": 1240730488031109125,
+    "in_reply_to_status_id_str": "1240730488031109125",
+    "in_reply_to_user_id": 737362108397060096,
+    "in_reply_to_user_id_str": "737362108397060096",
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Mar 18 22:46:17 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        9,
+                        19
+                    ],
+                    "text": "ibuprofen"
+                },
+                {
+                    "indices": [
+                        51,
+                        59
+                    ],
+                    "text": "COVID19"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1240409217997189128",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/kaAEMvw28V"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 7927,
+        "favorited": false,
+        "geo": null,
+        "id": 1240409217997189128,
+        "id_str": "1240409217997189128",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 7063,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Q: Could #ibuprofen worsen disease for people with #COVID19?\n\nA: Based on currently available information, WHO does\u2026 https://t.co/kaAEMvw28V",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We are the #UnitedNations\u2019 health agency - #HealthForAll.\n\u25b6\ufe0f Always check our latest tweets on #COVID19 for updated advice/information.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "who.int",
+                            "expanded_url": "http://www.who.int",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/wVulKuROWG"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 12077,
+            "follow_request_sent": false,
+            "followers_count": 11051880,
+            "following": false,
+            "friends_count": 1751,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 14499829,
+            "id_str": "14499829",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 35074,
+            "location": "Geneva, Switzerland",
+            "name": "World Health Organization (WHO)",
+            "notifications": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1639153014",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "WHO",
+            "statuses_count": 68955,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/wVulKuROWG",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1240409217997189128,
+    "quoted_status_id_str": "1240409217997189128",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@KulikovUNIATF @WHO @coronaviruscare @kayodeteslim @EpidAlert @COVID2019tests @InfectiousDz @IMD_Journal\u2026 https://t.co/72ix9VpUIV",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 23 17:18:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#transformer #harmreduction #vaping #InFavourOfFlavours #safernicotine #snus #HnB #THR @KnowNicotine @SaferWiki",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "safernicotine.wiki/mediawiki/inde\u2026",
+                        "expanded_url": "https://safernicotine.wiki/mediawiki/index.php/Main_Page",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JoZcwdT0DU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 152459,
+        "follow_request_sent": false,
+        "followers_count": 1696,
+        "following": false,
+        "friends_count": 2284,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 256591152,
+        "id_str": "256591152",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Currently Germany ",
+        "name": "Panthernoster",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/256591152/1642176470",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508882809242464266/jgluojlG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508882809242464266/jgluojlG_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "panthernoster",
+        "statuses_count": 97619,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JoZcwdT0DU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

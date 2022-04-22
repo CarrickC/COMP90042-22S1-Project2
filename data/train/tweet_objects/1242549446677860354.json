@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 24 20:30:48 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1242549446677860354",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/EBtvPRX2z1"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 33,
+    "favorited": false,
+    "geo": null,
+    "id": 1242549446677860354,
+    "id_str": "1242549446677860354",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Do vaccines against pneumonia protect you against the new coronavirus? No. Vaccines against pneumonia, such as pneu\u2026 https://t.co/EBtvPRX2z1",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 23 20:17:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Working to protect, promote and improve the health and prosperity of people in Tennessee! Clinic locations across the state. Like us on Facebook @TNDeptofHealth",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tn.gov/health",
+                        "expanded_url": "http://tn.gov/health",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/X5QE2Zif6a"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5072,
+        "follow_request_sent": false,
+        "followers_count": 60100,
+        "following": false,
+        "friends_count": 635,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 84678363,
+        "id_str": "84678363",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 527,
+        "location": "Tennessee",
+        "name": "TN Dept. of Health",
+        "notifications": false,
+        "profile_background_color": "002552",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84678363/1597439487",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905815024219721728/wYh6cRcU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905815024219721728/wYh6cRcU_normal.jpg",
+        "profile_link_color": "AD001D",
+        "profile_sidebar_border_color": "D6E8FF",
+        "profile_sidebar_fill_color": "9ED8FF",
+        "profile_text_color": "333033",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TNDeptofHealth",
+        "statuses_count": 15908,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/X5QE2Zif6a",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

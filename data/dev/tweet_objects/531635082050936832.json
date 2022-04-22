@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 02:30:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531635082050936832,
+    "id_str": "531635082050936832",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IGN unless every bag comes with pepTO.. im gonna have to say pepNO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 22 07:52:37 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14909,
+        "follow_request_sent": false,
+        "followers_count": 1122,
+        "following": false,
+        "friends_count": 532,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2668714728,
+        "id_str": "2668714728",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "The Big Apple",
+        "name": "ItsMe \u2b50\ud83c\udfc6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2668714728/1633892529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1301239420759216128/u6rW4DDk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301239420759216128/u6rW4DDk_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Josh_BKNY",
+        "statuses_count": 18050,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

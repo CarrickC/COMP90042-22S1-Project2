@@ -1,0 +1,203 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 26 06:14:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HxicPzSNxy",
+                "expanded_url": "https://twitter.com/scar5Heye/status/614315685813030912/photo/1",
+                "id": 614315668570304512,
+                "id_str": "614315668570304512",
+                "indices": [
+                    49,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/CIZ82IUW8AALRNN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CIZ82IUW8AALRNN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/HxicPzSNxy"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HxicPzSNxy",
+                "expanded_url": "https://twitter.com/scar5Heye/status/614315685813030912/photo/1",
+                "id": 614315668570304512,
+                "id_str": "614315668570304512",
+                "indices": [
+                    49,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/CIZ82IUW8AALRNN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CIZ82IUW8AALRNN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "http://t.co/HxicPzSNxy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614315685813030912,
+    "id_str": "614315685813030912",
+    "in_reply_to_screen_name": "Currentish",
+    "in_reply_to_status_id": 614054616154550273,
+    "in_reply_to_status_id_str": "614054616154550273",
+    "in_reply_to_user_id": 343051698,
+    "in_reply_to_user_id_str": "343051698",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        39.0081106,
+                        -7.1906489
+                    ],
+                    [
+                        39.5566698,
+                        -7.1906489
+                    ],
+                    [
+                        39.5566698,
+                        -6.5669735
+                    ],
+                    [
+                        39.0081106,
+                        -6.5669735
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Tanzania",
+        "country_code": "TZ",
+        "full_name": "Dar es Salaam, Tanzania",
+        "id": "00d9827647c0ff5a",
+        "name": "Dar es Salaam",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@NewsWatch33 that first reply is right on point. http://t.co/HxicPzSNxy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 04 10:47:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2018water can drip, water can crash \u2014 become like water, my friend.\u2019\ud83d\udca1",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.app.goo.gl/8wPEDZNwVaaLn7\u2026",
+                        "expanded_url": "https://soundcloud.app.goo.gl/8wPEDZNwVaaLn7Zz5",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/T6YgAxdhdn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9987,
+        "follow_request_sent": false,
+        "followers_count": 1335,
+        "following": false,
+        "friends_count": 657,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 119691662,
+        "id_str": "119691662",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "rivendell ",
+        "name": "b.",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119691662/1634315766",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512366569636208640/9VSopqBM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512366569636208640/9VSopqBM_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bxnifvcx",
+        "statuses_count": 49784,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/T6YgAxdhdn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

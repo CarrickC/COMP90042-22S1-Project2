@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 11 19:34:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2546562188,
+                "id_str": "2546562188",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Walter Cronkite",
+                "screen_name": "CronkiteSays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 543126771173191680,
+    "id_str": "543126771173191680",
+    "in_reply_to_screen_name": "CronkiteSays",
+    "in_reply_to_status_id": 542320823915536384,
+    "in_reply_to_status_id_str": "542320823915536384",
+    "in_reply_to_user_id": 2546562188,
+    "in_reply_to_user_id_str": "2546562188",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CronkiteSays @Raymcgillicuddy such a lovely bunch of people in ferguson.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 06 14:54:34 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative since 1964; grad Columbia,M.A.+ ABD. Ret. NYCBOE Special Educator; BK born/raised; ggranddaughter/CW/WWII vets; NYPD \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddea\u271d\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 42676,
+        "follow_request_sent": false,
+        "followers_count": 1585,
+        "following": false,
+        "friends_count": 2515,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2430576818,
+        "id_str": "2430576818",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 28,
+        "location": "3rd Rock from the Sun",
+        "name": "5th Gen American",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2430576818/1647631150",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504901703174438916/Z0a9kYW__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504901703174438916/Z0a9kYW__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iluvbkk",
+        "statuses_count": 57088,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

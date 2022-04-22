@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 31 20:19:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 4838383249,
+                "id_str": "4838383249",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Finesse, No More!",
+                "screen_name": "FinesseHaveN"
+            },
+            {
+                "id": 15392391,
+                "id_str": "15392391",
+                "indices": [
+                    24,
+                    28
+                ],
+                "name": "KFC",
+                "screen_name": "kfc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 660551680023527424,
+    "id_str": "660551680023527424",
+    "in_reply_to_screen_name": "Mealsaps",
+    "in_reply_to_status_id": 659466046605123584,
+    "in_reply_to_status_id_str": "659466046605123584",
+    "in_reply_to_user_id": 2304239234,
+    "in_reply_to_user_id_str": "2304239234",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@FiNeSSeHaVeN @lilwowdy @kfc yooo y'all dirty asf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 09 19:10:48 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "$tonerRidge.com / $laughter yo Daughter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.soundcloud.com/itchieich",
+                        "expanded_url": "https://m.soundcloud.com/itchieich",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SRuhS3eDfY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6072,
+        "follow_request_sent": false,
+        "followers_count": 488,
+        "following": false,
+        "friends_count": 367,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 747769250,
+        "id_str": "747769250",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Lil Haiti ",
+        "name": "Ricyt\u00f3",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747769250/1407795444",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/786204777457811456/cyYR04YM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/786204777457811456/cyYR04YM_normal.jpg",
+        "profile_link_color": "27B300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_Ritchierich_",
+        "statuses_count": 61035,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SRuhS3eDfY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

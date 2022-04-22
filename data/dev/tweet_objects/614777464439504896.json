@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 12:49:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9300262,
+                "id_str": "9300262",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "POLITICO",
+                "screen_name": "politico"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614777464439504896,
+    "id_str": "614777464439504896",
+    "in_reply_to_screen_name": "politico",
+    "in_reply_to_status_id": 614702244001382400,
+    "in_reply_to_status_id_str": "614702244001382400",
+    "in_reply_to_user_id": 9300262,
+    "in_reply_to_user_id_str": "9300262",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@politico sad sad sad using the capital to be political",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 27 05:19:57 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 16482761,
+        "id_str": "16482761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Houston",
+        "name": "Kevin Horn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1583235626/46006_1532548042559_1500518642_1335731_5690451_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583235626/46006_1532548042559_1500518642_1335731_5690451_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bigun55",
+        "statuses_count": 129,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

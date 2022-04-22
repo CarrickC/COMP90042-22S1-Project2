@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -88.15061061,
+            42.89763466
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 22 13:10:30 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    102,
+                    109
+                ],
+                "text": "Shelob"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 269054991,
+                "id_str": "269054991",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "andy jaynes",
+                "screen_name": "2_Jaynesss11"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    14,
+                    18
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            42.89763466,
+            -88.15061061
+        ],
+        "type": "Point"
+    },
+    "id": 524910670719250432,
+    "id_str": "524910670719250432",
+    "in_reply_to_screen_name": "2_Jaynesss11",
+    "in_reply_to_status_id": 524765830106460161,
+    "in_reply_to_status_id_str": "524765830106460161",
+    "in_reply_to_user_id": 269054991,
+    "in_reply_to_user_id_str": "269054991",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.189959,
+                        42.842802
+                    ],
+                    [
+                        -88.069408,
+                        42.842802
+                    ],
+                    [
+                        -88.069408,
+                        42.930888
+                    ],
+                    [
+                        -88.189959,
+                        42.930888
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Muskego, WI",
+        "id": "17879f10e478956c",
+        "name": "Muskego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/17879f10e478956c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@2_Jaynesss11 @ABC 2 inch fangs, venom, torso the size of a fist...still better than a black widow or #Shelob",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 28 18:02:03 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bucks \ud83e\udd8c , Brewers \ud83c\udf7a, Packers \ud83e\uddc0",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4067,
+        "follow_request_sent": false,
+        "followers_count": 295,
+        "following": false,
+        "friends_count": 399,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 539253224,
+        "id_str": "539253224",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Milwaukee, WI",
+        "name": "Ryan Ba\u00e9z",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/539253224/1618608534",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643070051176837121/II7BF3m-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643070051176837121/II7BF3m-_normal.jpg",
+        "profile_link_color": "002DB3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ryaez44",
+        "statuses_count": 2648,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

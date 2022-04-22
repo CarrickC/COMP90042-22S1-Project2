@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 18:47:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 643133940748840960,
+    "id_str": "643133940748840960",
+    "in_reply_to_screen_name": "AllenWest",
+    "in_reply_to_status_id": 643103859729166337,
+    "in_reply_to_status_id_str": "643103859729166337",
+    "in_reply_to_user_id": 237403203,
+    "in_reply_to_user_id_str": "237403203",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AllenWest &amp; throwing bottled water on train tracks/people, throwing food on ground provided by other charities, &amp; destroying property, etc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 11 19:26:54 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u201cOur actions are the evidence of our belief and become the substance of our faith.\u201d-L. Whitney Clayton.  \n\ud83d\udc02\ud83e\udd18#HookEm #TexasLonghorns #ThisIsTexas \ud83c\udfc8\ud83c\udfc0\ud83c\udfd0\ud83c\udfbe\u26be\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19619,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 656,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1954912118,
+        "id_str": "1954912118",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "",
+        "name": "TJ\ud83d\udc1d",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954912118/1571437514",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034254281422065664/Wp_dqAgH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034254281422065664/Wp_dqAgH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LongHrnGrl4life",
+        "statuses_count": 8706,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

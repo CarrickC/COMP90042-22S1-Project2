@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 17 19:24:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 567766517770625024,
+    "id_str": "567766517770625024",
+    "in_reply_to_screen_name": "Complex",
+    "in_reply_to_status_id": 567765185407234049,
+    "in_reply_to_status_id_str": "567765185407234049",
+    "in_reply_to_user_id": 13049362,
+    "in_reply_to_user_id_str": "13049362",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@ComplexMag @anoyes96",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 22 02:39:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I\u2019m right here Out Now!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jiglefrost.com/im-right-here",
+                        "expanded_url": "http://www.jiglefrost.com/im-right-here",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nFqAMXUPSb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 30903,
+        "follow_request_sent": false,
+        "followers_count": 948,
+        "following": false,
+        "friends_count": 846,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 963501349,
+        "id_str": "963501349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Los Angeles, CA",
+        "name": "JIG LeFrost",
+        "notifications": false,
+        "profile_background_color": "7886DE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963501349/1644441807",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1479240537685192706/79ouPt2F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479240537685192706/79ouPt2F_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jig_lefrost",
+        "statuses_count": 10764,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nFqAMXUPSb",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

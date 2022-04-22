@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 07 03:16:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 552664945352261635,
+    "id_str": "552664945352261635",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 552661209204260864,
+    "in_reply_to_status_id_str": "552661209204260864",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC how is it that the suit case makes it more sad?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 14 04:36:58 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "if I was any happier, I'd have to sit on my hands to keep from waving at everybody.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "livejournal.com",
+                        "expanded_url": "http://www.livejournal.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vW9IPCvwWg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6639,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 427,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1177651974,
+        "id_str": "1177651974",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Nashville, TN",
+        "name": "hollow and unearthly",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177651974/1579025297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255910858863054855/rcqvK9mN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255910858863054855/rcqvK9mN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Aprince619",
+        "statuses_count": 5076,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vW9IPCvwWg",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

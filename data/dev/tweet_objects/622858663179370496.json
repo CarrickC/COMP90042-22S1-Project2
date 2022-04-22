@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 19 20:00:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1354818992930611200,
+                "id_str": "1354818992930611200",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "sammy rhodes (new account, long story)",
+                "screen_name": "sammyrhodes"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 622858663179370496,
+    "id_str": "622858663179370496",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sammyrhodes &amp; in heaven, every day is Sunday.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 19 04:09:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Autora de L\u00e1grimas Valientes (2017), Para Siempre (2020) y pr\u00f3ximamente Heridas Fieles (2022) Mi blog: Coraz\u00f3n A papel. insta: aixa_corazonapapel y aixa_lapiz",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aixadelopez.org",
+                        "expanded_url": "http://www.aixadelopez.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/goR7TV9BAT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37263,
+        "follow_request_sent": false,
+        "followers_count": 27319,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 91032926,
+        "id_str": "91032926",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 75,
+        "location": "guate",
+        "name": "Aixa de L\u00f3pez \u0646",
+        "notifications": false,
+        "profile_background_color": "141818",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91032926/1609695367",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481370937031372807/LRLfgjzo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481370937031372807/LRLfgjzo_normal.jpg",
+        "profile_link_color": "46CED2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "aixa_delopez",
+        "statuses_count": 36824,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/goR7TV9BAT",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

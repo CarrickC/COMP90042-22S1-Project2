@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:12:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cbc.ca/1.2808710",
+                "expanded_url": "http://www.cbc.ca/1.2808710",
+                "indices": [
+                    74,
+                    96
+                ],
+                "url": "http://t.co/rOSrLhBDt7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524926310565814272,
+    "id_str": "524926310565814272",
+    "in_reply_to_screen_name": "CBCNews",
+    "in_reply_to_status_id": 524925050739490816,
+    "in_reply_to_status_id_str": "524925050739490816",
+    "in_reply_to_user_id": 6433472,
+    "in_reply_to_user_id_str": "6433472",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@CBCNews: BREAKING NEWS: Soldier shot at National War Memorial in Ottawa http://t.co/rOSrLhBDt7\u201d. Be safe out there folks in Uniform",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 22 18:55:53 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "To Strive,To Seek,To Find,& Not to Yield.~ One Week. If you want the fucking part, earn it! ~ Whiplash. NOT A BOT. 'Cause I'm just a girl, a little ol' me",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9597,
+        "follow_request_sent": false,
+        "followers_count": 204,
+        "following": false,
+        "friends_count": 673,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1289398842,
+        "id_str": "1289398842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "delta echo whiskey",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289398842/1519654839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181708926045343745/M3Mh-KHR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181708926045343745/M3Mh-KHR_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "phibian79",
+        "statuses_count": 9713,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

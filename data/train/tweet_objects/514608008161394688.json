@@ -1,0 +1,244 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -117.14545834,
+            32.72748061
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Sep 24 02:51:24 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Qnf0sPJp39",
+                "expanded_url": "https://twitter.com/katrinalome/status/514512849876836352/photo/1",
+                "id": 514512848526245889,
+                "id_str": "514512848526245889",
+                "indices": [
+                    100,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPqtbDIAAE6Eq5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ByPqtbDIAAE6Eq5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514512849876836352,
+                "source_status_id_str": "514512849876836352",
+                "source_user_id": 575853327,
+                "source_user_id_str": "575853327",
+                "type": "photo",
+                "url": "http://t.co/Qnf0sPJp39"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "m.huffpost.com/us/entry/58695\u2026",
+                "expanded_url": "http://m.huffpost.com/us/entry/5869572",
+                "indices": [
+                    77,
+                    99
+                ],
+                "url": "http://t.co/j6sloAvfBf"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 575853327,
+                "id_str": "575853327",
+                "indices": [
+                    17,
+                    29
+                ],
+                "name": "\u2280treenz",
+                "screen_name": "katrinalome"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Qnf0sPJp39",
+                "expanded_url": "https://twitter.com/katrinalome/status/514512849876836352/photo/1",
+                "id": 514512848526245889,
+                "id_str": "514512848526245889",
+                "indices": [
+                    100,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/ByPqtbDIAAE6Eq5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ByPqtbDIAAE6Eq5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 514512849876836352,
+                "source_status_id_str": "514512849876836352",
+                "source_user_id": 575853327,
+                "source_user_id_str": "575853327",
+                "type": "photo",
+                "url": "http://t.co/Qnf0sPJp39"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            32.72748061,
+            -117.14545834
+        ],
+        "type": "Point"
+    },
+    "id": 514608008161394688,
+    "id_str": "514608008161394688",
+    "in_reply_to_screen_name": "katrinalome",
+    "in_reply_to_status_id": 514512849876836352,
+    "in_reply_to_status_id_str": "514512849876836352",
+    "in_reply_to_user_id": 575853327,
+    "in_reply_to_user_id_str": "575853327",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.282538,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        33.0804044
+                    ],
+                    [
+                        -117.282538,
+                        33.0804044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Diego, CA",
+        "id": "a592bd6ceb1319f7",
+        "name": "San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Its_Nick_Nasty \u201c@katrinalome: don't put your iphone 6 in your pocket y'all  http://t.co/j6sloAvfBf http://t.co/Qnf0sPJp39\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 23 14:48:25 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/raaaaff__",
+                        "expanded_url": "https://instagram.com/raaaaff__",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zfkjjdALPn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1414,
+        "follow_request_sent": false,
+        "followers_count": 744,
+        "following": false,
+        "friends_count": 568,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 194143082,
+        "id_str": "194143082",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "",
+        "name": "Rafael\ud83c\uddf5\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194143082/1422254391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1492691197890076672/9MLR7Fuv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492691197890076672/9MLR7Fuv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Raaaaff__",
+        "statuses_count": 106004,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zfkjjdALPn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

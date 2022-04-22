@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 21:09:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2890961,
+                "id_str": "2890961",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gizmodo",
+                "screen_name": "Gizmodo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514522069984641025,
+    "id_str": "514522069984641025",
+    "in_reply_to_screen_name": "Gizmodo",
+    "in_reply_to_status_id": 514517470238240768,
+    "in_reply_to_status_id_str": "514517470238240768",
+    "in_reply_to_user_id": 2890961,
+    "in_reply_to_user_id_str": "2890961",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Gizmodo      Bare hands?!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 01 01:44:33 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "History / Stocks/ Travel/ Tennis",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "earthlink.net",
+                        "expanded_url": "http://earthlink.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EJNwylwGLM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 652,
+        "following": false,
+        "friends_count": 138,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 118551591,
+        "id_str": "118551591",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Seattle",
+        "name": "Clayton LaPlant",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3302630313/564b4007ea2e5de852956f7a9e9072b9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3302630313/564b4007ea2e5de852956f7a9e9072b9_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "clayton988",
+        "statuses_count": 72532,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/EJNwylwGLM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

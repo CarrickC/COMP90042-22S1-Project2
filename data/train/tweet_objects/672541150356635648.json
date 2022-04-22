@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:21:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23195603,
+                "id_str": "23195603",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Dale Now\u274c #COVFEFE",
+                "screen_name": "Dbargen"
+            },
+            {
+                "id": 2321322426,
+                "id_str": "2321322426",
+                "indices": [
+                    9,
+                    23
+                ],
+                "name": "Rebooting Liberty",
+                "screen_name": "RebootLiberty"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672541150356635648,
+    "id_str": "672541150356635648",
+    "in_reply_to_screen_name": "Dbargen",
+    "in_reply_to_status_id": 672432930426372096,
+    "in_reply_to_status_id_str": "672432930426372096",
+    "in_reply_to_user_id": 23195603,
+    "in_reply_to_user_id_str": "23195603",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Dbargen @RebootLiberty That's a bullshit story..lmao..Go back..try again...lmfao!! Idiot",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 08 13:43:16 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "up for anything...don't be offended ya might learn something..love the females. Somewhat off the wall thinking humorous ( sometime dry but funny). GO FLYERS!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3549,
+        "follow_request_sent": false,
+        "followers_count": 380,
+        "following": false,
+        "friends_count": 462,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2483778283,
+        "id_str": "2483778283",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Lancaster, PA",
+        "name": "jeff depoe",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2483778283/1455894362",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683212496597995520/xMwaCAc4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683212496597995520/xMwaCAc4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "1PhillyFlyers",
+        "statuses_count": 12249,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

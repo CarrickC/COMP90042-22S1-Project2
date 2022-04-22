@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 01:01:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sjWI2bMFgy",
+                "expanded_url": "https://twitter.com/hunterschwarz/status/614595181845839873/photo/1",
+                "id": 614595171276079104,
+                "id_str": "614595171276079104",
+                "indices": [
+                    70,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/CId7DVCUwAAeaLI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CId7DVCUwAAeaLI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 614595181845839873,
+                "source_status_id_str": "614595181845839873",
+                "source_user_id": 18939358,
+                "source_user_id_str": "18939358",
+                "type": "photo",
+                "url": "http://t.co/sjWI2bMFgy"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18939358,
+                "id_str": "18939358",
+                "indices": [
+                    19,
+                    33
+                ],
+                "name": "Hunter Schwarz",
+                "screen_name": "hunterschwarz"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sjWI2bMFgy",
+                "expanded_url": "https://twitter.com/hunterschwarz/status/614595181845839873/photo/1",
+                "id": 614595171276079104,
+                "id_str": "614595171276079104",
+                "indices": [
+                    70,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/CId7DVCUwAAeaLI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CId7DVCUwAAeaLI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 614595181845839873,
+                "source_status_id_str": "614595181845839873",
+                "source_user_id": 18939358,
+                "source_user_id_str": "18939358",
+                "type": "photo",
+                "url": "http://t.co/sjWI2bMFgy"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 614599327491579904,
+    "id_str": "614599327491579904",
+    "in_reply_to_screen_name": "hunterschwarz",
+    "in_reply_to_status_id": 614595181845839873,
+    "in_reply_to_status_id_str": "614595181845839873",
+    "in_reply_to_user_id": 18939358,
+    "in_reply_to_user_id_str": "18939358",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Fitting statement \"@hunterschwarz: The White House is lit up rainbow. http://t.co/sjWI2bMFgy\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 15 15:30:55 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Father. Husband. Award-winning reporter. Currently on leave. Our \u201cleaders\u201d are lost. Be authentic. Hold your line. Takes don\u2019t represent opinion of my employer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3077,
+        "follow_request_sent": false,
+        "followers_count": 812,
+        "following": false,
+        "friends_count": 1174,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 216015893,
+        "id_str": "216015893",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "",
+        "name": "Chris Halliday",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143692799390507008/vxwKf2ws_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143692799390507008/vxwKf2ws_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Chris_Hally",
+        "statuses_count": 6811,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

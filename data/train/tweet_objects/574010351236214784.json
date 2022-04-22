@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 07 00:55:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            },
+            {
+                "id": 94764057,
+                "id_str": "94764057",
+                "indices": [
+                    91,
+                    107
+                ],
+                "name": "Tony Starks",
+                "screen_name": "PuroPincheGotti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 574010351236214784,
+    "id_str": "574010351236214784",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 574004164570841088,
+    "in_reply_to_status_id_str": "574004164570841088",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ABC wow I would be very very upset.  How embarrassing  for the kid.. this is disgusting   @PuroPincheGotti",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 13 21:34:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "FORZA INTER MILAN.D C REDSKINS.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3456,
+        "follow_request_sent": false,
+        "followers_count": 64,
+        "following": false,
+        "friends_count": 323,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 523699818,
+        "id_str": "523699818",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Washington D C ",
+        "name": "Jumbo Villegas",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523699818/1406596847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065008120856891392/9TgAvY9Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065008120856891392/9TgAvY9Y_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mega89jumbo",
+        "statuses_count": 4181,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

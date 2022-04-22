@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 16:17:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/J7XIkXbRjQ",
+                "expanded_url": "https://twitter.com/Flipperoff/status/666651421610258432/photo/1",
+                "id": 666651412349087744,
+                "id_str": "666651412349087744",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUBr7W4UcAAOF5y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUBr7W4UcAAOF5y.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "medium": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "small": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/J7XIkXbRjQ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 756132303651373060,
+                "id_str": "756132303651373060",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Now @Anthony",
+                "screen_name": "antderosa"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/J7XIkXbRjQ",
+                "expanded_url": "https://twitter.com/Flipperoff/status/666651421610258432/photo/1",
+                "id": 666651412349087744,
+                "id_str": "666651412349087744",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUBr7W4UcAAOF5y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUBr7W4UcAAOF5y.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "medium": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "small": {
+                        "h": 305,
+                        "resize": "fit",
+                        "w": 458
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/J7XIkXbRjQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666651421610258432,
+    "id_str": "666651421610258432",
+    "in_reply_to_screen_name": "Anthony",
+    "in_reply_to_status_id": 666640008149925893,
+    "in_reply_to_status_id_str": "666640008149925893",
+    "in_reply_to_user_id": 1140451,
+    "in_reply_to_user_id_str": "1140451",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AntDeRosa son of Syrian refugee? https://t.co/J7XIkXbRjQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 15 02:39:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We're in a giant car heading towards a brick wall and everyone's arguing over where they're going to sit. -David Suzuki",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13101,
+        "follow_request_sent": false,
+        "followers_count": 606,
+        "following": false,
+        "friends_count": 2142,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 40156246,
+        "id_str": "40156246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Phila and SW FL",
+        "name": "Florida Fishin",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40156246/1487087587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814548500675432452/30SrVAgN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814548500675432452/30SrVAgN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Flipperoff",
+        "statuses_count": 14203,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

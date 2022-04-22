@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 01:45:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 44945327,
+                "id_str": "44945327",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Franklin Graham",
+                "screen_name": "Franklin_Graham"
+            },
+            {
+                "id": 1323730225067339784,
+                "id_str": "1323730225067339784",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "The White House",
+                "screen_name": "WhiteHouse"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 615697581251760128,
+    "id_str": "615697581251760128",
+    "in_reply_to_screen_name": "Franklin_Graham",
+    "in_reply_to_status_id": 615689290706595840,
+    "in_reply_to_status_id_str": "615689290706595840",
+    "in_reply_to_user_id": 44945327,
+    "in_reply_to_user_id_str": "44945327",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Franklin_Graham @WhiteHouse it's is GODs rainbow that's how I see it even thou these folks use it for there belief mine is in GOD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 03:10:43 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "family",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 64,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3191565672,
+        "id_str": "3191565672",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Randall Beauchamp",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618109155946074112/cFdLAqOu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/618109155946074112/cFdLAqOu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RandallBeaucha1",
+        "statuses_count": 135,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

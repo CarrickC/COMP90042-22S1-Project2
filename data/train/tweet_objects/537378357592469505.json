@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 25 22:52:39 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 537378357592469505,
+    "id_str": "537378357592469505",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 537377960471166976,
+    "in_reply_to_status_id_str": "537377960471166976",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@deray really? i read they didn't pay him anything",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 12 02:41:17 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Black feminist anthropologist, Academic mama/Chair; Author of Sex Tourism in Bahia; loves fiction & wellness; she/her/hers. Oni Oni \ud83c\udf0a \ud83d\udc51",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30706,
+        "follow_request_sent": false,
+        "followers_count": 9365,
+        "following": false,
+        "friends_count": 7667,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 521889265,
+        "id_str": "521889265",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 202,
+        "location": "Atlanta, GA",
+        "name": "Dr. Erica L. Williams is on sabbatical",
+        "notifications": false,
+        "profile_background_color": "B2D0DE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/521889265/1391634856",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499910592404070403/3OjCt2dr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499910592404070403/3OjCt2dr_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EricaLWilliams7",
+        "statuses_count": 27908,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

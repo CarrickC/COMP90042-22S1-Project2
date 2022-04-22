@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 14 17:00:00 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1238872520771559425",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/2Xmdpnao3C"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 132,
+    "favorited": false,
+    "geo": null,
+    "id": 1238872520771559425,
+    "id_str": "1238872520771559425",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 37,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "Are the experts telling us it's going to be worse so, when it's not as bad, we are pleasantly surprised?\n\nWatch ris\u2026 https://t.co/2Xmdpnao3C",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 04 23:19:08 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bill. Back. Better. Join @BillMaher Fridays at 10PM on @HBO + @HBOMax. The contents of this account don't reflect the opinions of HBO.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hbo.com/real-time-with\u2026",
+                        "expanded_url": "http://www.hbo.com/real-time-with-bill-maher",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7NIVOs7r8N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7979,
+        "follow_request_sent": false,
+        "followers_count": 208278,
+        "following": false,
+        "friends_count": 1138,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 455288410,
+        "id_str": "455288410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1536,
+        "location": "Los Angeles, CA",
+        "name": "Real Time with Bill Maher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455288410/1646869744",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1475884305897381894/qiNMrUfB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1475884305897381894/qiNMrUfB_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealTimers",
+        "statuses_count": 12262,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7NIVOs7r8N",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

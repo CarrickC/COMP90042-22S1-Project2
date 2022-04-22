@@ -1,0 +1,107 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 29 16:11:27 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    53
+                ],
+                "text": "DarrenWilson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            },
+            {
+                "id": 305628877,
+                "id_str": "305628877",
+                "indices": [
+                    7,
+                    17
+                ],
+                "name": "abettercaresource",
+                "screen_name": "abcsource"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538726943584428032,
+    "id_str": "538726943584428032",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 538724882461097986,
+    "in_reply_to_status_id_str": "538724882461097986",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@deray @ABCsource with knowledge of the #DarrenWilson interview talks said that ABCoffered to pay \u201cmid-to-high\u201dsix figures for the interview",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 02 02:26:40 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I think I'm funny; really really funny in my head. The comedy star of my world. My tweets will make you smile/laugh, inform/educate you and make you think.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 77,
+        "follow_request_sent": false,
+        "followers_count": 133,
+        "following": false,
+        "friends_count": 243,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1720942555,
+        "id_str": "1720942555",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "City of Champions ",
+        "name": "Lu Eg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720942555/1525307073",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/991837081679908865/YOQZTm9T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/991837081679908865/YOQZTm9T_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LuEgSwag",
+        "statuses_count": 612,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

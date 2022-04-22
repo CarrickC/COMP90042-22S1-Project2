@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 15:40:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271413771,
+                "id_str": "271413771",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "HuffPost UK",
+                "screen_name": "HuffPostUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489796678325895168,
+    "id_str": "489796678325895168",
+    "in_reply_to_screen_name": "HuffPostUK",
+    "in_reply_to_status_id": 489794593580650497,
+    "in_reply_to_status_id_str": "489794593580650497",
+    "in_reply_to_user_id": 271413771,
+    "in_reply_to_user_id_str": "271413771",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@HuffPostUK that's a bit sensationalist there's no reports of it being shot down only that it's crashed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 03 13:37:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A polymath with interests in History,Philosophy,Graphic and abstract art. A lovable rogue & De Montaigne Tribute Act",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/draigoroget",
+                        "expanded_url": "http://www.twitch.tv/draigoroget",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FhXjaUW4TA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3050,
+        "follow_request_sent": false,
+        "followers_count": 386,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 186441699,
+        "id_str": "186441699",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "West Hampstead, London, UK",
+        "name": "Draigo Rog\u00eat",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/186441699/1563716507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152935514502324224/ex4112BU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152935514502324224/ex4112BU_normal.jpg",
+        "profile_link_color": "FFBB33",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheDukeofCamden",
+        "statuses_count": 10343,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/FhXjaUW4TA",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

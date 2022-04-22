@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -82.07744214,
+            41.35810342
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Oct 18 20:16:05 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 944425148,
+                "id_str": "944425148",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Collective",
+                "screen_name": "SaveJobsGlobal"
+            },
+            {
+                "id": 279390084,
+                "id_str": "279390084",
+                "indices": [
+                    16,
+                    29
+                ],
+                "name": "Anonymous",
+                "screen_name": "YourAnonNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.35810342,
+            -82.07744214
+        ],
+        "type": "Point"
+    },
+    "id": 523568218045419522,
+    "id_str": "523568218045419522",
+    "in_reply_to_screen_name": "SaveJobsGlobal",
+    "in_reply_to_status_id": 523562674487975937,
+    "in_reply_to_status_id_str": "523562674487975937",
+    "in_reply_to_user_id": 944425148,
+    "in_reply_to_user_id_str": "944425148",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.178311,
+                        41.303092
+                    ],
+                    [
+                        -82.050455,
+                        41.303092
+                    ],
+                    [
+                        -82.050455,
+                        41.4185873
+                    ],
+                    [
+                        -82.178311,
+                        41.4185873
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Elyria, OH",
+        "id": "57c9ac9db3df7f8b",
+        "name": "Elyria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/57c9ac9db3df7f8b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SaveJobsGlobal @YourAnonNews lol your crazy delusional to say anyone who supports Wilson is doing those things lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 23 02:57:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Goth boy clique",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1479,
+        "follow_request_sent": false,
+        "followers_count": 267,
+        "following": false,
+        "friends_count": 404,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 218723484,
+        "id_str": "218723484",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "The E Ohio",
+        "name": "Norman Ray White IV",
+        "notifications": false,
+        "profile_background_color": "111412",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218723484/1367169947",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353559539988230144/SMGn5v6m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353559539988230144/SMGn5v6m_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "00FF44",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NRWIV",
+        "statuses_count": 3871,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 20:46:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 650049197618659329,
+    "id_str": "650049197618659329",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 650046859537448960,
+    "in_reply_to_status_id_str": "650046859537448960",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@nytimes It was an old friend of the Pope who happened to be gay. Vatican is trying to spin this as cover over secret meeting w/Kim Davis",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 20:34:51 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Run, write, travel, repeat. Occasionally goes on a date. Masters runner still in the game to keep that runner's build :) ... and yes we run \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1079,
+        "follow_request_sent": false,
+        "followers_count": 180,
+        "following": false,
+        "friends_count": 521,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3362982435,
+        "id_str": "3362982435",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Washington, DC",
+        "name": "Mercury's Rainbow",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3362982435/1436217752",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623954469311479808/2pZwoWiM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623954469311479808/2pZwoWiM_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "runner_selfies",
+        "statuses_count": 2537,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

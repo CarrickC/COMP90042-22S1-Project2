@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 25 14:30:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1425980648,
+                "id_str": "1425980648",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Team Killmonger",
+                "screen_name": "OckyJ83"
+            },
+            {
+                "id": 1072207833784115200,
+                "id_str": "1072207833784115200",
+                "indices": [
+                    9,
+                    20
+                ],
+                "name": "What Happened To Humanity",
+                "screen_name": "HumansGone"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614078227691126784,
+    "id_str": "614078227691126784",
+    "in_reply_to_screen_name": "OckyJ83",
+    "in_reply_to_status_id": 614072345200726019,
+    "in_reply_to_status_id_str": "614072345200726019",
+    "in_reply_to_user_id": 1425980648,
+    "in_reply_to_user_id_str": "1425980648",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@OckyJ83 @HumansGone @NewsWatch33 link works for me, must have been too much traffic earlier",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 23 00:48:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pour Decisions Podcast. Craft Beer. Baseball. Run The Jewels. #RTJ #PourDecisionsPod",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pourdecisionspodcast.com/podcast",
+                        "expanded_url": "https://www.pourdecisionspodcast.com/podcast",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ypWzfA6c1A"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 44512,
+        "follow_request_sent": false,
+        "followers_count": 628,
+        "following": false,
+        "friends_count": 2342,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 360306824,
+        "id_str": "360306824",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 23,
+        "location": "The Bay Area",
+        "name": "Sabeermetrics",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360306824/1478012052",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129149103043010560/c6sO5N0A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129149103043010560/c6sO5N0A_normal.jpg",
+        "profile_link_color": "00B336",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Joeystats707",
+        "statuses_count": 33248,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ypWzfA6c1A",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

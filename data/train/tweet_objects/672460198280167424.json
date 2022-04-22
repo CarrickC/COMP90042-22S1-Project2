@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:59:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 50769180,
+                "id_str": "50769180",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Laura Ingraham",
+                "screen_name": "IngrahamAngle"
+            },
+            {
+                "id": 539566673,
+                "id_str": "539566673",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "John R Lott Jr.",
+                "screen_name": "JohnRLottJr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672460198280167424,
+    "id_str": "672460198280167424",
+    "in_reply_to_screen_name": "IngrahamAngle",
+    "in_reply_to_status_id": 672424512516964352,
+    "in_reply_to_status_id_str": "672424512516964352",
+    "in_reply_to_user_id": 50769180,
+    "in_reply_to_user_id_str": "50769180",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@IngrahamAngle @JohnRLottJr   Ohhh but haven't you heard Laura?, these things only happen in the USA, according to the Huckster-in-Chief.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 08 19:06:18 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#LEO #MAGA #Conservative #ServiceDogs #AllLivesMatter #Dolphins #Phillies #CUBuffs #ASUSunDevils ~ Trader/Investor",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34844,
+        "follow_request_sent": false,
+        "followers_count": 3916,
+        "following": false,
+        "friends_count": 4679,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 112506363,
+        "id_str": "112506363",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 32,
+        "location": "Colorado ",
+        "name": "HCaulfield \ud83c\uddfa\ud83c\uddf8",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112506363/1448917179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496639951005380609/_ibMtQw0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496639951005380609/_ibMtQw0_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "333NEVERMO",
+        "statuses_count": 29595,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

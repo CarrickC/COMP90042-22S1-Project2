@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 04:15:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17004618,
+                "id_str": "17004618",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nicholas Kristof",
+                "screen_name": "NickKristof"
+            },
+            {
+                "id": 466941453,
+                "id_str": "466941453",
+                "indices": [
+                    13,
+                    27
+                ],
+                "name": "Kristen Hager",
+                "screen_name": "Kristen_Hager"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 614648125454614528,
+    "id_str": "614648125454614528",
+    "in_reply_to_screen_name": "NickKristof",
+    "in_reply_to_status_id": 614617234942656512,
+    "in_reply_to_status_id_str": "614617234942656512",
+    "in_reply_to_user_id": 17004618,
+    "in_reply_to_user_id_str": "17004618",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NickKristof @Kristen_Hager Bravo??? Are you on CRACK??? We look like fools all around the world",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 17:26:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Masshole...Have pronouns? Stick them!...Independent American Patriot. #NoVaxMandates @DiehlForMA Proudly FB @ScottPresler, @catturd2, @TimRunsHisMouth",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fubar.com/join_w1.php?fr\u2026",
+                        "expanded_url": "http://fubar.com/join_w1.php?friend=339852",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/M6t08CQNRs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25453,
+        "follow_request_sent": false,
+        "followers_count": 3350,
+        "following": false,
+        "friends_count": 3489,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 38473972,
+        "id_str": "38473972",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Massachusetts",
+        "name": "The B00g3yMan AKA Tim \ud83c\uddfa\ud83c\uddf8\ud83d\udcaf\ud83d\udc4d",
+        "notifications": false,
+        "profile_background_color": "17171F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38473972/1643153037",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1482753238856306691/TtRWX4lr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482753238856306691/TtRWX4lr_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheBoogeyPage",
+        "statuses_count": 33697,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/M6t08CQNRs",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

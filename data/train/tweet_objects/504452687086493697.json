@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 02:17:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29849267,
+                "id_str": "29849267",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Howard Bloom",
+                "screen_name": "SportsBizNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504452687086493697,
+    "id_str": "504452687086493697",
+    "in_reply_to_screen_name": "SportsBizNews",
+    "in_reply_to_status_id": 504448356584677377,
+    "in_reply_to_status_id_str": "504448356584677377",
+    "in_reply_to_user_id": 29849267,
+    "in_reply_to_user_id_str": "29849267",
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SportsBizNews Toronto??????????",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 03 02:01:18 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I do believe in spooks",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 216,
+        "follow_request_sent": false,
+        "followers_count": 263,
+        "following": false,
+        "friends_count": 1120,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 403830897,
+        "id_str": "403830897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "tortuga ",
+        "name": "Loose Cannon",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403830897/1443981141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1322361400929538048/0WnDTU-S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322361400929538048/0WnDTU-S_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "M2theKmF",
+        "statuses_count": 12522,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

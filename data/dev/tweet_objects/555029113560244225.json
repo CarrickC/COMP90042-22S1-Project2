@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 13 15:50:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3886361055,
+                "id_str": "3886361055",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Vicky Justus",
+                "screen_name": "acolich"
+            },
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    9,
+                    12
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            },
+            {
+                "id": 1378626210,
+                "id_str": "1378626210",
+                "indices": [
+                    13,
+                    19
+                ],
+                "name": "RWBPT",
+                "screen_name": "RWBPT"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 555029113560244225,
+    "id_str": "555029113560244225",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@acolich @AP @RWBPT It's about that time of year again!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 14 04:47:57 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They call me Kreftey. Breaking all the latest news of the Rich Wheeler Beer Pong Tournament. Also, I talk about pro wrasslin' and other sports. Big typo guy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rwbpt.com/home",
+                        "expanded_url": "https://www.rwbpt.com/home",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/D4Mtilei4i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 119,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 95,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2193532717,
+        "id_str": "2193532717",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "SoCal/PuebloCO/Indianapolis ",
+        "name": "Adam Krefter",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2193532717/1486251277",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000737609355/b0b89aca8346899ce0c1b30d4910c95d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000737609355/b0b89aca8346899ce0c1b30d4910c95d_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AKrefterREPORTS",
+        "statuses_count": 1681,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/D4Mtilei4i",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

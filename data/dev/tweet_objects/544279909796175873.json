@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 14 23:56:57 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    16
+                ],
+                "text": "BREAKING"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 544279909796175873,
+    "id_str": "544279909796175873",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 544278335455776769,
+    "in_reply_to_status_id_str": "544278335455776769",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "\"@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up\" &lt;&lt;Terrifying stuff.Nutters&gt;&gt;",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 01 20:27:28 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Sport etc. Leinster. Raiders. Oakland A's. \nLiberal etc. \u0420\u0430\u0437\u043e\u043c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u043e\u044e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18138,
+        "follow_request_sent": false,
+        "followers_count": 416,
+        "following": false,
+        "friends_count": 517,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22402352,
+        "id_str": "22402352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "",
+        "name": "Colin Mehigan \ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22402352/1624397151",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497246098259419136/Nz9f135E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497246098259419136/Nz9f135E_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "colinmehigan",
+        "statuses_count": 33956,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 28 19:07:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29465136,
+                "id_str": "29465136",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Mediaite",
+                "screen_name": "Mediaite"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 538408744414363648,
+    "id_str": "538408744414363648",
+    "in_reply_to_screen_name": "Mediaite",
+    "in_reply_to_status_id": 538374385665449985,
+    "in_reply_to_status_id_str": "538374385665449985",
+    "in_reply_to_user_id": 29465136,
+    "in_reply_to_user_id_str": "29465136",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.782296,
+                        42.873971
+                    ],
+                    [
+                        -85.732351,
+                        42.873971
+                    ],
+                    [
+                        -85.732351,
+                        42.933431
+                    ],
+                    [
+                        -85.782296,
+                        42.933431
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Grandville, MI",
+        "id": "6231ced9cc2b96aa",
+        "name": "Grandville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6231ced9cc2b96aa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Mediaite Obamacare to the rescue !!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 04 02:55:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/andrewh.cigler\u2026",
+                        "expanded_url": "https://www.facebook.com/andrewh.cigleriii",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Yo5vaEcoKv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 197,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 62699274,
+        "id_str": "62699274",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Holland, Michigan",
+        "name": "Andy Cigler",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62699274/1413499787",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/515046453660499968/db0GkqVz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/515046453660499968/db0GkqVz_normal.jpeg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AndyTheMan73aol",
+        "statuses_count": 357,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Yo5vaEcoKv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

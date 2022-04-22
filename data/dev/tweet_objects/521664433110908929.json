@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 14:11:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521664433110908929,
+    "id_str": "521664433110908929",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@lilduval: So Ebola was found in hair extensions? All my bitches wear weave \ud83d\ude33\u201d LOL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 16 03:58:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "uhhh i think alot.... humble guy... socially awkward... trill...somewhere listening to reggae and 90's RnB let's talk sports. snap: freshprinceofky",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 533,
+        "follow_request_sent": false,
+        "followers_count": 699,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19053860,
+        "id_str": "19053860",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Ky ",
+        "name": "Marcus",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19053860/1349306027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842703313871233029/8ckfUnZD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842703313871233029/8ckfUnZD_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Freshprinceofky",
+        "statuses_count": 41271,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

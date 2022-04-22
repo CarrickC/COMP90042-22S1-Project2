@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 21 18:19:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241429245437661191",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/32bSDe916i"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1133343710601777152,
+                "id_str": "1133343710601777152",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "ZsoltF418",
+                "screen_name": "ZsoltF418"
+            },
+            {
+                "id": 4113922828,
+                "id_str": "4113922828",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "rebeka",
+                "screen_name": "csrebeka97"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1241429245437661191,
+    "id_str": "1241429245437661191",
+    "in_reply_to_screen_name": "ZsoltF418",
+    "in_reply_to_status_id": 1241376512907018240,
+    "in_reply_to_status_id_str": "1241376512907018240",
+    "in_reply_to_user_id": 1133343710601777152,
+    "in_reply_to_user_id_str": "1133343710601777152",
+    "is_quote_status": false,
+    "lang": "hu",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ZsoltF418 @csrebeka97 Valoszinuleg valamit eleg erosen felreerthettel vagy dezinformalni probalo oldalakat kovetsz\u2026 https://t.co/32bSDe916i",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 13 17:25:19 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "23/m, devops engineer, menthetetlen, k\u00f6nyvmoly, furcsa zen\u00e9ket kedvel\u0151, egyetemista",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4053,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 186,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 435991697,
+        "id_str": "435991697",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Budapest, Hungary",
+        "name": "Mate Kubernetesz",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/435991697/1536254180",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1475996480817225732/Gg0ChDHK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1475996480817225732/Gg0ChDHK_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mtklikk",
+        "statuses_count": 899,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

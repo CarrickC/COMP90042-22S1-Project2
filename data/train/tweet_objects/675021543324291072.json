@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 10 18:37:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 426802833,
+                "id_str": "426802833",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "AP Politics",
+                "screen_name": "AP_Politics"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 675021543324291072,
+    "id_str": "675021543324291072",
+    "in_reply_to_screen_name": "AP_Politics",
+    "in_reply_to_status_id": 675005503160901632,
+    "in_reply_to_status_id_str": "675005503160901632",
+    "in_reply_to_user_id": 426802833,
+    "in_reply_to_user_id_str": "426802833",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@AP_Politics Read...Obama seeks to bypass the will of the people with exec. order. How many times do you have to be told NO ?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 16 04:11:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Owner of Rook's Hollow homestead. \n\nAnything approached without trepidation, isn't strong enough to merit my attention. \n\n#FuckCancer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/unclepyrelight",
+                        "expanded_url": "https://www.twitch.tv/unclepyrelight",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/d1UcbGaxQn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 31466,
+        "follow_request_sent": false,
+        "followers_count": 420,
+        "following": false,
+        "friends_count": 439,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 238829442,
+        "id_str": "238829442",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Blue Creek, OH",
+        "name": "Pyrelight \ud83c\udf77(Don Richardson)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238829442/1649817149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1478760286232399882/VKbXVMM7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478760286232399882/VKbXVMM7_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Pyrelight2112",
+        "statuses_count": 21199,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/d1UcbGaxQn",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

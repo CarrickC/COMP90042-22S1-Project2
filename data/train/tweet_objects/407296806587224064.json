@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -3.96288064,
+            51.61032078
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 23:55:00 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 76156485,
+                "id_str": "76156485",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Dave Schilling",
+                "screen_name": "dave_schilling"
+            },
+            {
+                "id": 23818581,
+                "id_str": "23818581",
+                "indices": [
+                    16,
+                    21
+                ],
+                "name": "VICE",
+                "screen_name": "VICE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.61032078,
+            -3.96288064
+        ],
+        "type": "Point"
+    },
+    "id": 407296806587224064,
+    "id_str": "407296806587224064",
+    "in_reply_to_screen_name": "dave_schilling",
+    "in_reply_to_status_id": 407275991610818560,
+    "in_reply_to_status_id_str": "407275991610818560",
+    "in_reply_to_user_id": 76156485,
+    "in_reply_to_user_id_str": "76156485",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.334,
+                        51.534995
+                    ],
+                    [
+                        -3.84275,
+                        51.534995
+                    ],
+                    [
+                        -3.84275,
+                        51.774232
+                    ],
+                    [
+                        -4.334,
+                        51.774232
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Swansea, Wales",
+        "id": "27373781641d4908",
+        "name": "Swansea",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/27373781641d4908.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@dave_schilling @VICE Vice makes money giving trolls and morons the attention they crave.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 25 18:06:56 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 64321,
+        "follow_request_sent": false,
+        "followers_count": 283,
+        "following": false,
+        "friends_count": 1771,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1380076699,
+        "id_str": "1380076699",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "E1",
+        "name": "uefa maffia",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380076699/1575015331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1469070701600641026/003kVebo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469070701600641026/003kVebo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Poch5ever",
+        "statuses_count": 9230,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

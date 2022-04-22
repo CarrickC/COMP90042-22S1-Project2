@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 25 17:22:57 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/h9czeYl0cE",
+                "expanded_url": "https://twitter.com/Gotham3/status/674364257799004160/photo/1",
+                "indices": [
+                    57,
+                    80
+                ],
+                "url": "https://t.co/h9czeYl0cE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    19,
+                    27
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 713415888561651712,
+    "id_str": "713415888561651712",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 674364257799004160,
+    "in_reply_to_status_id_str": "674364257799004160",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Beware of Haters! \"@Gotham3 Adolf Hitler Vs Donald Trump https://t.co/h9czeYl0cE\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 19 09:51:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I live for Social Media  #MKenyaDaima!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/joe.muhahami",
+                        "expanded_url": "https://www.facebook.com/joe.muhahami",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1HruJGRGmM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9482,
+        "follow_request_sent": false,
+        "followers_count": 21506,
+        "following": false,
+        "friends_count": 3582,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 254463619,
+        "id_str": "254463619",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 72,
+        "location": "Nairobi, Kenya",
+        "name": "Joe Muhahami",
+        "notifications": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254463619/1623254401",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1472187946124075010/80igzurC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472187946124075010/80igzurC_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Muhahami",
+        "statuses_count": 164939,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1HruJGRGmM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

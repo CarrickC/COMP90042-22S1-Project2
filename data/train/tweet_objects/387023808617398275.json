@@ -1,0 +1,111 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 01:17:21 +0000 2013",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    21
+                ],
+                "text": "Spitehouse"
+            },
+            {
+                "indices": [
+                    110,
+                    121
+                ],
+                "text": "AmberAlert"
+            },
+            {
+                "indices": [
+                    122,
+                    131
+                ],
+                "text": "shutdown"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21888595,
+                "id_str": "21888595",
+                "indices": [
+                    25,
+                    36
+                ],
+                "name": "Razor",
+                "screen_name": "hale_razor"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 387023808617398275,
+    "id_str": "387023808617398275",
+    "in_reply_to_screen_name": "hale_razor",
+    "in_reply_to_status_id": 387021726007042051,
+    "in_reply_to_status_id_str": "387021726007042051",
+    "in_reply_to_user_id": 21888595,
+    "in_reply_to_user_id_str": "21888595",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 5,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "POS petty #Spitehouse RT @hale_razor Cruz stood 21 hours for freedom. Obama won't stand for missing children. #AmberAlert #shutdown",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 07 02:16:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Beep. bop. boop. I support @GinaCarano. \"Never bend a knee to the rage mob. Ever.\" - @DLoesch",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 792,
+        "follow_request_sent": false,
+        "followers_count": 8334,
+        "following": false,
+        "friends_count": 3137,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 386331159,
+        "id_str": "386331159",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 350,
+        "location": "USA",
+        "name": "Joe",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/386331159/1543541915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793064996712292352/xj6qoDVr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793064996712292352/xj6qoDVr_normal.jpg",
+        "profile_link_color": "271F99",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "9E0C25",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoeC1776",
+        "statuses_count": 753343,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

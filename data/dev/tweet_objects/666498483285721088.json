@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 06:09:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15754281,
+                "id_str": "15754281",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "USA TODAY",
+                "screen_name": "USATODAY"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 666498483285721088,
+    "id_str": "666498483285721088",
+    "in_reply_to_screen_name": "USATODAY",
+    "in_reply_to_status_id": 666497286663503872,
+    "in_reply_to_status_id_str": "666497286663503872",
+    "in_reply_to_user_id": 15754281,
+    "in_reply_to_user_id_str": "15754281",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@USATODAY Different world...Different day.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 11 16:36:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A simple cow that grew up a few years on a NJ dairy farm. I decided to break free to enjoy all the good food, travel & adventure to live the Happy Cow life",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32813,
+        "follow_request_sent": false,
+        "followers_count": 653,
+        "following": false,
+        "friends_count": 471,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 214531891,
+        "id_str": "214531891",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 68,
+        "location": "",
+        "name": "bd560",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214531891/1472355946",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807438908573130752/0XPbHzrD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807438908573130752/0XPbHzrD_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bd560_1988",
+        "statuses_count": 28847,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

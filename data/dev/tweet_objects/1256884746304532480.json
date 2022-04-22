@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 03 09:54:09 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "sciencedirect.com/science/articl\u2026",
+                "expanded_url": "https://www.sciencedirect.com/science/article/pii/S016041202031254X",
+                "indices": [
+                    30,
+                    53
+                ],
+                "url": "https://t.co/HtUb1ikSPj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1256884746304532480,
+    "id_str": "1256884746304532480",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1254780226833313793,
+    "in_reply_to_status_id_str": "1254780226833313793",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TIME Of course it\u2019s airborne https://t.co/HtUb1ikSPj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 13 23:13:56 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Venice, it\u2019s 4 a.m. January 1868 A woman limps through a foggy Piazza San Marco, a new born in her arms. The Venetian Girl. My novel in progress.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 109709,
+        "follow_request_sent": false,
+        "followers_count": 7365,
+        "following": false,
+        "friends_count": 6896,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 143608676,
+        "id_str": "143608676",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "Bournemouth, England",
+        "name": "Sally Wilton",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143608676/1610245914",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1352042171625517057/8Gt-zejo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352042171625517057/8Gt-zejo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sallywilts",
+        "statuses_count": 105920,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

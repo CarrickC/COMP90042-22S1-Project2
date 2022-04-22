@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 23 16:38:14 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 337608421228560384,
+    "id_str": "337608421228560384",
+    "in_reply_to_screen_name": "AllenWest",
+    "in_reply_to_status_id": 336873759271157760,
+    "in_reply_to_status_id_str": "336873759271157760",
+    "in_reply_to_user_id": 237403203,
+    "in_reply_to_user_id_str": "237403203",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AllenWest apalling",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 09 01:13:53 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative Independent",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 184,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 162,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1161647473,
+        "id_str": "1161647473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "West By God Virginia ",
+        "name": "Arlosgpa",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194845043401674752/di9fHDYw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194845043401674752/di9fHDYw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rhodes_eddie",
+        "statuses_count": 698,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 13 03:24:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/31opk1EwN9",
+                "expanded_url": "https://twitter.com/NBCNews/status/543586319168196608/photo/1",
+                "id": 543586318630916097,
+                "id_str": "543586318630916097",
+                "indices": [
+                    83,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/B4s04HLCEAE0yWa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B4s04HLCEAE0yWa.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 543586319168196608,
+                "source_status_id_str": "543586319168196608",
+                "source_user_id": 14173315,
+                "source_user_id_str": "14173315",
+                "type": "photo",
+                "url": "http://t.co/31opk1EwN9"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nbcnews.to/1w0HtF0",
+                "expanded_url": "http://nbcnews.to/1w0HtF0",
+                "indices": [
+                    60,
+                    82
+                ],
+                "url": "http://t.co/LFyhhEmIOT"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/31opk1EwN9",
+                "expanded_url": "https://twitter.com/NBCNews/status/543586319168196608/photo/1",
+                "id": 543586318630916097,
+                "id_str": "543586318630916097",
+                "indices": [
+                    83,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/B4s04HLCEAE0yWa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B4s04HLCEAE0yWa.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 429,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 543586319168196608,
+                "source_status_id_str": "543586319168196608",
+                "source_user_id": 14173315,
+                "source_user_id_str": "14173315",
+                "type": "photo",
+                "url": "http://t.co/31opk1EwN9"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 543607346464034816,
+    "id_str": "543607346464034816",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 543586319168196608,
+    "in_reply_to_status_id_str": "543586319168196608",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NBCNews: New dog-ma? Pope says heaven is for hounds, too\n http://t.co/LFyhhEmIOT http://t.co/31opk1EwN9\u201d - was there ever a doubt?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 25 18:20:24 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Providing entrepreneurial solutions to all aspects of education management and administration.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TheManagementSolution.com",
+                        "expanded_url": "http://www.TheManagementSolution.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fRZi9u06Gi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 191,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 250,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2767401457,
+        "id_str": "2767401457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "TMS - President",
+        "name": "Andy Paquette, SFO, CGFM, HRSM",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605130794366062593/kTAKMXb5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605130794366062593/kTAKMXb5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andypaquettetms",
+        "statuses_count": 826,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fRZi9u06Gi",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

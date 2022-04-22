@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 30 18:59:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18208354,
+                "id_str": "18208354",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Joe Rogan",
+                "screen_name": "joerogan"
+            },
+            {
+                "id": 366415076,
+                "id_str": "366415076",
+                "indices": [
+                    10,
+                    25
+                ],
+                "name": "DB",
+                "screen_name": "DangerBurgundy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 450346666344738816,
+    "id_str": "450346666344738816",
+    "in_reply_to_screen_name": "joerogan",
+    "in_reply_to_status_id": 450341615979069440,
+    "in_reply_to_status_id_str": "450341615979069440",
+    "in_reply_to_user_id": 18208354,
+    "in_reply_to_user_id_str": "18208354",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@joerogan @DangerBurgundy Am... Am I being trolled? That us unreal...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 18 10:13:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Totally not a robot. 01000100 01100101 01110011 01110100 01110010 01101111 01111001 00100000 01100001 01101100 01101100 00100000 01101000 01110101 01101101 0110",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6757,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 106051561,
+        "id_str": "106051561",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Auckland, NZ",
+        "name": "Dara",
+        "notifications": false,
+        "profile_background_color": "080808",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106051561/1596694290",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197315601422618624/4zx_saPR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197315601422618624/4zx_saPR_normal.jpg",
+        "profile_link_color": "FFA200",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dara____",
+        "statuses_count": 1695,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

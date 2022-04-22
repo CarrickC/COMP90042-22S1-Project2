@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 03:45:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 102325442,
+                "id_str": "102325442",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Male Thoughts",
+                "screen_name": "SteveStfler"
+            },
+            {
+                "id": 1594450364,
+                "id_str": "1594450364",
+                "indices": [
+                    28,
+                    41
+                ],
+                "name": "mia rose",
+                "screen_name": "miasummerlin"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673347490578489344,
+    "id_str": "673347490578489344",
+    "in_reply_to_screen_name": "SteveStfler",
+    "in_reply_to_status_id": 673346166822694914,
+    "in_reply_to_status_id_str": "673346166822694914",
+    "in_reply_to_user_id": 102325442,
+    "in_reply_to_user_id_str": "102325442",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SteveStfler @lexii_brown98 @miasummerlin",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 14 13:01:37 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3017,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1516359690,
+        "id_str": "1516359690",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Saritta\u2728",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516359690/1466306805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744711334684590080/Bkp5-BO5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744711334684590080/Bkp5-BO5_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SaraHendrix16",
+        "statuses_count": 3665,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

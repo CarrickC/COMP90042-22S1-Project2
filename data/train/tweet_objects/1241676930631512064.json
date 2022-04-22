@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 22 10:43:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1241676930631512064",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/iRo0xaf1gx"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1241676930631512064,
+    "id_str": "1241676930631512064",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "In the past few weeks, the world has been fighting the Covid-19 pandemic and Nigeria has a few confirmed cases alre\u2026 https://t.co/iRo0xaf1gx",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 04 22:09:31 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Africa's no. 1 online platform for Pig Farming\nFund a Pig farm today and enjoy awesome returns",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "porkvest.com",
+                        "expanded_url": "http://www.porkvest.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SmKL6h5TwU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 14,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1180243068852883457,
+        "id_str": "1180243068852883457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Nigeria",
+        "name": "Porkvest",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180243068852883457/1582806243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180243760623415297/NIj2UUbb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180243760623415297/NIj2UUbb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "porkvest",
+        "statuses_count": 47,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SmKL6h5TwU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

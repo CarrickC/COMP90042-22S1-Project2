@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 20:31:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14294848,
+                "id_str": "14294848",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "snopes.com",
+                "screen_name": "snopes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669614511486144514,
+    "id_str": "669614511486144514",
+    "in_reply_to_screen_name": "snopes",
+    "in_reply_to_status_id": 669613420665159680,
+    "in_reply_to_status_id_str": "669613420665159680",
+    "in_reply_to_user_id": 14294848,
+    "in_reply_to_user_id_str": "14294848",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@snopes \ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 06 19:28:06 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 79606,
+        "follow_request_sent": false,
+        "followers_count": 2460,
+        "following": false,
+        "friends_count": 2357,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2178663834,
+        "id_str": "2178663834",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 368,
+        "location": "US",
+        "name": "Barbara",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2178663834/1650590981",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1296959228817682435/BDXnuPnR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296959228817682435/BDXnuPnR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Arbara0728B",
+        "statuses_count": 330090,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 18:51:35 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            },
+            {
+                "id": 735273521027424256,
+                "id_str": "735273521027424256",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "\ud83c\uddf5\ud83c\uddf0",
+                "screen_name": "Xer06ix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489844883478175744,
+    "id_str": "489844883478175744",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 489841070818488320,
+    "in_reply_to_status_id_str": "489841070818488320",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Independent @Xer06ix check this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 23 23:53:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Libra | Foodie | cooking | I am saint of loners, procrastinators and self doubtors |  Keeping up appearances is what it is all about.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "secret.viralsachxd.com/8141ca65f",
+                        "expanded_url": "https://secret.viralsachxd.com/8141ca65f",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xUt9jP59PT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 64692,
+        "follow_request_sent": false,
+        "followers_count": 440,
+        "following": false,
+        "friends_count": 260,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 92149348,
+        "id_str": "92149348",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Alpha Lima India",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92149348/1631505352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486302785259847697/C7cLMSMW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486302785259847697/C7cLMSMW_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aallliiii",
+        "statuses_count": 85904,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xUt9jP59PT",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

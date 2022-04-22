@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 22:43:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17865252,
+                "id_str": "17865252",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Dom Joly",
+                "screen_name": "domjoly"
+            },
+            {
+                "id": 522109018,
+                "id_str": "522109018",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "China_Meltdown",
+                "screen_name": "TheAnalytic"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    22,
+                    38
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519981422837510144,
+    "id_str": "519981422837510144",
+    "in_reply_to_screen_name": "domjoly",
+    "in_reply_to_status_id": 519962401144586241,
+    "in_reply_to_status_id_str": "519962401144586241",
+    "in_reply_to_user_id": 17865252,
+    "in_reply_to_user_id_str": "17865252",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@domjoly @TheAnalytic @realDonaldTrump \nBUILD WALL BUILD SKYSCAPPERS AIRPORTS BUILD BUILD BUILD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 05 15:43:07 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Due Dilligence/M&A Audition, Corp. Finance",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 92377,
+        "follow_request_sent": false,
+        "followers_count": 3102,
+        "following": false,
+        "friends_count": 366,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2231654796,
+        "id_str": "2231654796",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 109,
+        "location": "Germany",
+        "name": "Realist",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2231654796/1412570649",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667746334879948800/4nqZJuo3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667746334879948800/4nqZJuo3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TeslaAgnostic",
+        "statuses_count": 58009,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

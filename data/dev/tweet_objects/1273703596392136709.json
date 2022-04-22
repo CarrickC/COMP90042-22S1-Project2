@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 18 19:46:16 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1273703596392136709",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/qoysJjbD4K"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2978837542,
+                "id_str": "2978837542",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Governor Tom Wolf",
+                "screen_name": "GovernorTomWolf"
+            }
+        ]
+    },
+    "favorite_count": 15,
+    "favorited": false,
+    "geo": null,
+    "id": 1273703596392136709,
+    "id_str": "1273703596392136709",
+    "in_reply_to_screen_name": "GovernorTomWolf",
+    "in_reply_to_status_id": 1273647795484966913,
+    "in_reply_to_status_id_str": "1273647795484966913",
+    "in_reply_to_user_id": 2978837542,
+    "in_reply_to_user_id_str": "2978837542",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GovernorTomWolf Thank you, thank you. Pennsylvania is now one of states NOT increasing the COVID cases by 2,000 3,\u2026 https://t.co/qoysJjbD4K",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 31 00:54:31 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "We will not let hate win.  Phillies \u26be fan, Outlander obsessed, \nReader \ud83d\udcda, \ud83c\udfd6\ufe0f\ud83d\udc1a\ud83e\ude74Wave listener\nMoon & star watcher \ud83c\udf1c\ud83c\udf20\ud83d\udcab",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 324919,
+        "follow_request_sent": false,
+        "followers_count": 582,
+        "following": false,
+        "friends_count": 1883,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 308208246,
+        "id_str": "308208246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "United States",
+        "name": "Judy Papineau \ud83c\uddfa\ud83c\uddf8\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83e\udd43\ud83c\udf0a",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308208246/1611036198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498693669666406407/ULl2eZlU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498693669666406407/ULl2eZlU_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "judypapineau",
+        "statuses_count": 19223,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

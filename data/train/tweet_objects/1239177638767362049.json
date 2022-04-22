@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 15 13:12:26 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1239177638767362049",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/JpBjHqBZhO"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 1239177638767362049,
+    "id_str": "1239177638767362049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Mar 15 11:51:44 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1239157329184120832",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/KJfDHdb7FR"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 19242750,
+                    "id_str": "19242750",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "david ropeik",
+                    "screen_name": "dropeik"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1239157329184120832,
+        "id_str": "1239157329184120832",
+        "in_reply_to_screen_name": "dropeik",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 19242750,
+        "in_reply_to_user_id_str": "19242750",
+        "is_quote_status": true,
+        "lang": "en",
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -71.178586,
+                            42.29466
+                        ],
+                        [
+                            -71.105725,
+                            42.29466
+                        ],
+                        [
+                            -71.105725,
+                            42.351818
+                        ],
+                        [
+                            -71.178586,
+                            42.351818
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Brookline, MA",
+            "id": "13f1b1eadfb47f9b",
+            "name": "Brookline",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/13f1b1eadfb47f9b.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status_id": 1238897203852103680,
+        "quoted_status_id_str": "1238897203852103680",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@dropeik This piece of scientific literature would have been something worth reading and deeply engaging over the l\u2026 https://t.co/KJfDHdb7FR",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 22 14:23:47 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Does Climate relevant work. These days that means developing & permitting an offshore windfarm. But of course, opinions are solely mine & RTs aren't endorsement",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mayflowerwind.com",
+                            "expanded_url": "http://www.mayflowerwind.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/MOGnNbw8OE"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1544,
+            "follow_request_sent": false,
+            "followers_count": 804,
+            "following": false,
+            "friends_count": 818,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 34284490,
+            "id_str": "34284490",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 34,
+            "location": "Eastern US, MA etc",
+            "name": "Seth Kaplan",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1794774981/120130-153917_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794774981/120130-153917_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sethlkap",
+            "statuses_count": 15548,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/MOGnNbw8OE",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1239157329184120832,
+    "quoted_status_id_str": "1239157329184120832",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "Smug, Seth. A journalist can learn and know. I cite the WHO\n\nCan the virus that causes COVID-19 be transmitted thro\u2026 https://t.co/JpBjHqBZhO",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 16:14:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author, Potter, Expertise in Risk Perception Psychology",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dropeik.com",
+                        "expanded_url": "http://www.dropeik.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IEUDaOedVc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1408,
+        "follow_request_sent": false,
+        "followers_count": 3138,
+        "following": false,
+        "friends_count": 93,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19242750,
+        "id_str": "19242750",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 130,
+        "location": "near Boston",
+        "name": "david ropeik",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19242750/1388449689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/417813475495141376/w-w0Okd6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/417813475495141376/w-w0Okd6_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dropeik",
+        "statuses_count": 16085,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/IEUDaOedVc",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

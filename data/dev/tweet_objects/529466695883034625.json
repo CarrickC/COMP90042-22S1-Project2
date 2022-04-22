@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 04 02:54:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28245852,
+                "id_str": "28245852",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "G a b r i e l - I g l e s i a s",
+                "screen_name": "fluffyguy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 529466695883034625,
+    "id_str": "529466695883034625",
+    "in_reply_to_screen_name": "fluffyguy",
+    "in_reply_to_status_id": 529088963420909569,
+    "in_reply_to_status_id_str": "529088963420909569",
+    "in_reply_to_user_id": 28245852,
+    "in_reply_to_user_id_str": "28245852",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@fluffyguy NOO HE WASNT READY!!! lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 17 03:27:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just Enjoying This: Life, Fam n anything positive. This is an adventure and I just let the music guide me from dusk till dawn",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/pollo707",
+                        "expanded_url": "https://soundcloud.com/pollo707",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YRzYoDzHHR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 782,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 390,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57538874,
+        "id_str": "57538874",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "California, USA",
+        "name": "PL7",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57538874/1558725404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132002501287223296/-UEKust6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132002501287223296/-UEKust6_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "P_L_7_",
+        "statuses_count": 1603,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/YRzYoDzHHR",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 23 15:49:45 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            },
+            {
+                "id": 19240249,
+                "id_str": "19240249",
+                "indices": [
+                    8,
+                    13
+                ],
+                "name": "CKNW",
+                "screen_name": "CKNW"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 525313132898828288,
+    "id_str": "525313132898828288",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 525301290218553344,
+    "in_reply_to_status_id_str": "525301290218553344",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@PzFeed @CKNW A new look at the Canadian Government. Not so polite eh?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 12 22:48:44 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#IncomeInequality For the rich to become richer, everyone else must become poorer Increasing the wealth of the rich results in more homeless on our streets",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 44781,
+        "follow_request_sent": false,
+        "followers_count": 259,
+        "following": false,
+        "friends_count": 238,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 46768647,
+        "id_str": "46768647",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 31,
+        "location": "",
+        "name": "Doug (fully vaxxed)",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/339737433/Dug._normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/339737433/Dug._normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "geodug",
+        "statuses_count": 16033,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:12:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 50769180,
+                "id_str": "50769180",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Laura Ingraham",
+                "screen_name": "IngrahamAngle"
+            },
+            {
+                "id": 539566673,
+                "id_str": "539566673",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "John R Lott Jr.",
+                "screen_name": "JohnRLottJr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672508802059644928,
+    "id_str": "672508802059644928",
+    "in_reply_to_screen_name": "IngrahamAngle",
+    "in_reply_to_status_id": 672424512516964352,
+    "in_reply_to_status_id_str": "672424512516964352",
+    "in_reply_to_user_id": 50769180,
+    "in_reply_to_user_id_str": "50769180",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@IngrahamAngle @JohnRLottJr obamas clueless! !  Get em OUT !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 21 16:30:24 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 278,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 53,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 498965009,
+        "id_str": "498965009",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "colleg point, nyc",
+        "name": "jimmy raviele",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668955455968960513/bR_m8NOl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668955455968960513/bR_m8NOl_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimmyraviele",
+        "statuses_count": 473,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

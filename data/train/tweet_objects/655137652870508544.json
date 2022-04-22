@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 16 21:46:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 655137652870508544,
+    "id_str": "655137652870508544",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 655080266784968705,
+    "in_reply_to_status_id_str": "655080266784968705",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @HillaryClinton @BernieSanders not according to your website poll.  I hope your stock plummets for publishing lies as a news source.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 11 09:32:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Made shows for @AltspaceVR, @Skype & @HighFidelityXR | Social Media Futurist/Speaker/Author | #NFT #web3 #VR #Metaverse | CEO @ Studio Capon | capondesign.eth",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "taplink.cc/capondesign",
+                        "expanded_url": "https://taplink.cc/capondesign",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2uyWpNJY8q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10126,
+        "follow_request_sent": false,
+        "followers_count": 16318,
+        "following": false,
+        "friends_count": 3570,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18862246,
+        "id_str": "18862246",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 179,
+        "location": "#Metaverse since 2014",
+        "name": "Eugene Capon | Social Media Futurist",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18862246/1584485928",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1500049405126209540/25NVUrT9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500049405126209540/25NVUrT9_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "009699",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CaponDesign",
+        "statuses_count": 17411,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2uyWpNJY8q",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

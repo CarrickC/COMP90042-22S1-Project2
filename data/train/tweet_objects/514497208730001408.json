@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 19:31:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ti.me/1uiLm7T",
+                "expanded_url": "http://ti.me/1uiLm7T",
+                "indices": [
+                    60,
+                    82
+                ],
+                "url": "http://t.co/XL9pwamt2i"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    1,
+                    6
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514497208730001408,
+    "id_str": "514497208730001408",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 514495841600811009,
+    "in_reply_to_status_id_str": "514495841600811009",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@TIME: iPhone 6 owners claim it's bending in their pockets http://t.co/XL9pwamt2i\u201d oh really ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 06 20:49:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "JustRefiloe.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "justrefiloe.gumroad.com/l/tCcdS",
+                        "expanded_url": "http://justrefiloe.gumroad.com/l/tCcdS",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0lE6yGw009"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22289,
+        "follow_request_sent": false,
+        "followers_count": 1410,
+        "following": false,
+        "friends_count": 2419,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29289697,
+        "id_str": "29289697",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "Johannesburg, South Africa",
+        "name": "Refiloe Mokoena",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29289697/1634163299",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1448411959100121089/c-_0iMWT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448411959100121089/c-_0iMWT_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "6E6A6A",
+        "profile_text_color": "F71190",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JustRefiloe_",
+        "statuses_count": 51608,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/0lE6yGw009",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 18:58:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            },
+            {
+                "id": 1349170292564905988,
+                "id_str": "1349170292564905988",
+                "indices": [
+                    6,
+                    15
+                ],
+                "name": "Jen Psaki",
+                "screen_name": "PressSec"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674301976495177728,
+    "id_str": "674301976495177728",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 674301413040758785,
+    "in_reply_to_status_id_str": "674301413040758785",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@cnni @PressSec Honest question: Aren't their any official restrictions that legally(!) disqualify a candidate who acts unconstitutionally?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 00:29:30 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2853,
+        "follow_request_sent": false,
+        "followers_count": 319,
+        "following": false,
+        "friends_count": 513,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3024226222,
+        "id_str": "3024226222",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21,
+        "location": "",
+        "name": "Good Life Decoder",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3024226222/1423575573",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564219580654948352/5rTn2uPo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564219580654948352/5rTn2uPo_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GoodLifeDecoder",
+        "statuses_count": 9258,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

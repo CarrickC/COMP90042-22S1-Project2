@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 10 20:39:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    36,
+                    52
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642074996966223872,
+    "id_str": "642074996966223872",
+    "in_reply_to_screen_name": "CNNPolitics",
+    "in_reply_to_status_id": 642027433693171712,
+    "in_reply_to_status_id_str": "642027433693171712",
+    "in_reply_to_user_id": 13850422,
+    "in_reply_to_user_id_str": "13850422",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.427669,
+                        31.241189
+                    ],
+                    [
+                        -89.248409,
+                        31.241189
+                    ],
+                    [
+                        -89.248409,
+                        31.380085
+                    ],
+                    [
+                        -89.427669,
+                        31.380085
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hattiesburg, MS",
+        "id": "2b34df148a211c3e",
+        "name": "Hattiesburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2b34df148a211c3e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CNNPolitics @cnnbrk @BernieSanders @realDonaldTrump Professor Irwin Corey lashes out.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 09 21:02:34 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired journalist, author & university news director",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 4,
+        "following": false,
+        "friends_count": 44,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3273300234,
+        "id_str": "3273300234",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Hattiesburg, MS",
+        "name": "Philip Hearn",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3273300234/1441653108",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640965714535288832/xfDUDj64_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640965714535288832/xfDUDj64_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "philhearn48",
+        "statuses_count": 318,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

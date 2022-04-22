@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 18 02:09:29 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1273437647583580162",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/vBNSKimg0K"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22997830,
+                "id_str": "22997830",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Adrian Dix",
+                "screen_name": "adriandix"
+            }
+        ]
+    },
+    "favorite_count": 8,
+    "favorited": false,
+    "geo": null,
+    "id": 1273437647583580162,
+    "id_str": "1273437647583580162",
+    "in_reply_to_screen_name": "adriandix",
+    "in_reply_to_status_id": 1273391477578543104,
+    "in_reply_to_status_id_str": "1273391477578543104",
+    "in_reply_to_user_id": 22997830,
+    "in_reply_to_user_id_str": "22997830",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@adriandix A flat curve is a far longer curve with high chance of 2nd wave.We need more spread of virus for herd im\u2026 https://t.co/vBNSKimg0K",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 22:03:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\ud83c\udde8\ud83c\udde6\ud83c\udde9\ud83c\uddeaOpinions on Real Estate, Energy, Economy, Hybrid & E-Cars, Travel, Urban Mobility, Politics & Climate. Opinionated but open to learning here !",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "prestprop.com",
+                        "expanded_url": "http://prestprop.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AkOEeiDF2E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 49282,
+        "follow_request_sent": false,
+        "followers_count": 1951,
+        "following": false,
+        "friends_count": 799,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 27318735,
+        "id_str": "27318735",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "W-Canada",
+        "name": "Thomas Beyer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27318735/1610328580",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349600990127800324/jfcg0jkX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349600990127800324/jfcg0jkX_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ThomasBeyer",
+        "statuses_count": 46511,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AkOEeiDF2E",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

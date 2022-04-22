@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 13 13:00:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 51241574,
+                "id_str": "51241574",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "The Associated Press",
+                "screen_name": "AP"
+            },
+            {
+                "id": 67293615,
+                "id_str": "67293615",
+                "indices": [
+                    4,
+                    15
+                ],
+                "name": "THE Chris Coon",
+                "screen_name": "Coondawg68"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 554986280119832577,
+    "id_str": "554986280119832577",
+    "in_reply_to_screen_name": "AP",
+    "in_reply_to_status_id": 554979642210549760,
+    "in_reply_to_status_id_str": "554979642210549760",
+    "in_reply_to_user_id": 51241574,
+    "in_reply_to_user_id_str": "51241574",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AP @Coondawg68 note self, drink less crocodile bile.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 14 17:20:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like Campbell's Soup!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 531,
+        "follow_request_sent": false,
+        "followers_count": 1145,
+        "following": false,
+        "friends_count": 1547,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 96800761,
+        "id_str": "96800761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 58,
+        "location": "nether regions",
+        "name": "Tooth Fairy Denier",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96800761/1349278366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766455751858466816/7GSqOoDz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/766455751858466816/7GSqOoDz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FunkynFortunate",
+        "statuses_count": 61293,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

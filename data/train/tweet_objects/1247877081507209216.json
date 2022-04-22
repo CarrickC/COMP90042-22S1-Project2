@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 08 13:20:55 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1247877081507209216",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/4Xb2rkovmQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1558350697,
+                "id_str": "1558350697",
+                "indices": [
+                    41,
+                    55
+                ],
+                "name": "Hakuna Matata \u30c4",
+                "screen_name": "ArsalaanQamar"
+            }
+        ]
+    },
+    "favorite_count": 35,
+    "favorited": false,
+    "geo": null,
+    "id": 1247877081507209216,
+    "id_str": "1247877081507209216",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Once again with the help of our designer @ArsalaanQamar we have designed a fun information graphic to continue to h\u2026 https://t.co/4Xb2rkovmQ",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 05 07:32:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I own a rusty bicycle.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13882,
+        "follow_request_sent": false,
+        "followers_count": 18135,
+        "following": false,
+        "friends_count": 963,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 152170595,
+        "id_str": "152170595",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Usman",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/152170595/1623490565",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1512686233448767488/56xv8I6A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512686233448767488/56xv8I6A_normal.jpg",
+        "profile_link_color": "585858",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UsmanAhmad_iam",
+        "statuses_count": 61597,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 12 16:47:07 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 543446963728154625,
+    "id_str": "543446963728154625",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 543443188934250496,
+    "in_reply_to_status_id_str": "543443188934250496",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nytimes i hope i will not see al those mosquitoes. or he just meant \"furry mammals we happen to like\"?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 01 17:49:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Almost Literate. Accidental Jedi. Amateur  at most things.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fragmentablog.blogspot.com",
+                        "expanded_url": "http://fragmentablog.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LPJ69cGkwL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 159154,
+        "follow_request_sent": false,
+        "followers_count": 2058,
+        "following": false,
+        "friends_count": 275,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 150734923,
+        "id_str": "150734923",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 34,
+        "location": "Buenos Aires, Argentina",
+        "name": "Sergio Felperin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032784533568008192/v0ctdz-y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032784533568008192/v0ctdz-y_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SergioFelperin",
+        "statuses_count": 108670,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/LPJ69cGkwL",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 01 17:50:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3996897673,
+                "id_str": "3996897673",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Windscribe",
+                "screen_name": "windscribecom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1267513830508310532,
+    "id_str": "1267513830508310532",
+    "in_reply_to_screen_name": "windscribecom",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3996897673,
+    "in_reply_to_user_id_str": "3996897673",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@windscribecom hey people, I participated, when can we expect results though? \nDamn Excited",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 20 11:25:35 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83c\udfe9 Travel & Accommodation Experts \n\ud83d\udde3 Tag Us: #thespherical\n\ud83e\udd1d\ud83c\udffb Follow Us For Daily Posts",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thespherical.com",
+                        "expanded_url": "http://thespherical.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CE9BzvXnzX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 2,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1263068275828756480,
+        "id_str": "1263068275828756480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "TheSpherical.Com",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263068275828756480/1597150544",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1293575463013556224/bFnWv0xb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293575463013556224/bFnWv0xb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "the_spherical",
+        "statuses_count": 164,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CE9BzvXnzX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

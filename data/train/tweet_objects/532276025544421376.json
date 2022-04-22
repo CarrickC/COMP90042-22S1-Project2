@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 20:57:48 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    4,
+                    16
+                ],
+                "text": "BigBankHank"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "tmz.me/KJ7vz4J",
+                "expanded_url": "http://tmz.me/KJ7vz4J",
+                "indices": [
+                    79,
+                    101
+                ],
+                "url": "http://t.co/uCyvLnwIy4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16331010,
+                "id_str": "16331010",
+                "indices": [
+                    20,
+                    24
+                ],
+                "name": "TMZ",
+                "screen_name": "TMZ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532276025544421376,
+    "id_str": "532276025544421376",
+    "in_reply_to_screen_name": "TMZ",
+    "in_reply_to_status_id": 532275383430041600,
+    "in_reply_to_status_id_str": "532275383430041600",
+    "in_reply_to_user_id": 16331010,
+    "in_reply_to_user_id_str": "16331010",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RIP #BigBankHank RT @TMZ Sugarhill Gang's Big Bank Hank dies at 57 from cancer http://t.co/uCyvLnwIy4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 10 08:03:01 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@helladogmoms founder \u2022 yoga + pilates instructor \u2022 grizzlies + bulldogs emcee \u2022 ex newsie \u2022 power manifestor",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "helladogmoms.com",
+                        "expanded_url": "http://www.helladogmoms.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gHJShPEhix"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16764,
+        "follow_request_sent": false,
+        "followers_count": 1820,
+        "following": false,
+        "friends_count": 2259,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14722766,
+        "id_str": "14722766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 47,
+        "location": "Fresno, CA",
+        "name": "christinierose",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14722766/1430108157",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006051467139080192/cokCgLWv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006051467139080192/cokCgLWv_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "F02B73",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hashtagprettyCB",
+        "statuses_count": 17512,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gHJShPEhix",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

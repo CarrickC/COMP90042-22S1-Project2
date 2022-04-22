@@ -1,0 +1,194 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 08 02:13:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    124,
+                    138
+                ],
+                "text": "JeSuisCharlie"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MavVJTkNPz",
+                "expanded_url": "https://twitter.com/HuffPostArts/status/553008832784642048/photo/1",
+                "id": 553008831626620928,
+                "id_str": "553008831626620928",
+                "indices": [
+                    100,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6yumjbCMAAyT7J.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6yumjbCMAAyT7J.png",
+                "sizes": {
+                    "large": {
+                        "h": 903,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 903,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 678
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 553008832784642048,
+                "source_status_id_str": "553008832784642048",
+                "source_user_id": 129051309,
+                "source_user_id_str": "129051309",
+                "type": "photo",
+                "url": "http://t.co/MavVJTkNPz"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "huff.to/1KnGqVv",
+                "expanded_url": "http://huff.to/1KnGqVv",
+                "indices": [
+                    77,
+                    99
+                ],
+                "url": "http://t.co/QGeyBRuOlq"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 129051309,
+                "id_str": "129051309",
+                "indices": [
+                    1,
+                    14
+                ],
+                "name": "HuffPostCulture",
+                "screen_name": "HuffPostArts"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MavVJTkNPz",
+                "expanded_url": "https://twitter.com/HuffPostArts/status/553008832784642048/photo/1",
+                "id": 553008831626620928,
+                "id_str": "553008831626620928",
+                "indices": [
+                    100,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/B6yumjbCMAAyT7J.png",
+                "media_url_https": "https://pbs.twimg.com/media/B6yumjbCMAAyT7J.png",
+                "sizes": {
+                    "large": {
+                        "h": 903,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "medium": {
+                        "h": 903,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 678
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 553008832784642048,
+                "source_status_id_str": "553008832784642048",
+                "source_user_id": 129051309,
+                "source_user_id_str": "129051309",
+                "type": "photo",
+                "url": "http://t.co/MavVJTkNPz"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 553011522096467969,
+    "id_str": "553011522096467969",
+    "in_reply_to_screen_name": "HuffPostArts",
+    "in_reply_to_status_id": 553008832784642048,
+    "in_reply_to_status_id_str": "553008832784642048",
+    "in_reply_to_user_id": 129051309,
+    "in_reply_to_user_id_str": "129051309",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@HuffPostArts: Banksy shares simple but beautiful tribute to Charlie Hebdo  http://t.co/QGeyBRuOlq http://t.co/MavVJTkNPz\u201d #JeSuisCharlie",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 12 15:00:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Oxford comma enthusiast and art lover with a serious case of wanderlust.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2579,
+        "follow_request_sent": false,
+        "followers_count": 831,
+        "following": false,
+        "friends_count": 1038,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 39516670,
+        "id_str": "39516670",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51,
+        "location": "Des Moines, IA",
+        "name": "Jenna Ekstrom",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39516670/1475358094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000748823867/dd566e95d3ff70721e94357653233826_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000748823867/dd566e95d3ff70721e94357653233826_normal.jpeg",
+        "profile_link_color": "0857BA",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "A4B2B0",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JennaNathan",
+        "statuses_count": 5808,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

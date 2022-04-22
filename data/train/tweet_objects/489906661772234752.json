@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 22:57:04 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/stH1hN8JyBI",
+                "expanded_url": "http://youtu.be/stH1hN8JyBI",
+                "indices": [
+                    47,
+                    69
+                ],
+                "url": "http://t.co/3v72434jTm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16973333,
+                "id_str": "16973333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "The Independent",
+                "screen_name": "Independent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489906661772234752,
+    "id_str": "489906661772234752",
+    "in_reply_to_screen_name": "Independent",
+    "in_reply_to_status_id": 489854703321509888,
+    "in_reply_to_status_id_str": "489854703321509888",
+    "in_reply_to_user_id": 16973333,
+    "in_reply_to_user_id_str": "16973333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Independent EUROPE, WAKE UP! PUTIN, FUCK OFF! http://t.co/3v72434jTm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 16 18:56:48 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 87,
+        "following": false,
+        "friends_count": 803,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 253190457,
+        "id_str": "253190457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "name": "Kindrat",
+        "notifications": false,
+        "profile_background_color": "C3EBCE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253190457/1423555010",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584830539217108992/U3C_dZJZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584830539217108992/U3C_dZJZ_normal.jpg",
+        "profile_link_color": "5C9106",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F2EBD0",
+        "profile_text_color": "CC0000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kavalyeros",
+        "statuses_count": 1057,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

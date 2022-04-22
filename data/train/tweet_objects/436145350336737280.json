@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 14:28:49 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 571107566,
+                "id_str": "571107566",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "sandra \u262f",
+                "screen_name": "_exhalebieber_"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 436145350336737280,
+    "id_str": "436145350336737280",
+    "in_reply_to_screen_name": "_exhalebieber_",
+    "in_reply_to_status_id": 436089462326849536,
+    "in_reply_to_status_id_str": "436089462326849536",
+    "in_reply_to_user_id": 571107566,
+    "in_reply_to_user_id_str": "571107566",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@_exhalebieber_ It would still know if you put your finger on the camera even if there was a person there.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 00:04:38 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "high in the custerdome \ud83d\udc12",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 51624,
+        "follow_request_sent": false,
+        "followers_count": 407,
+        "following": false,
+        "friends_count": 366,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1281836166,
+        "id_str": "1281836166",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "SMTX",
+        "name": "kid presentable",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281836166/1578363920",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1320786082850549760/Djm0kSt9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320786082850549760/Djm0kSt9_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "fusionselite",
+        "statuses_count": 43518,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

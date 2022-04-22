@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 22 01:09:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2377815434,
+                "id_str": "2377815434",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "ClickHole",
+                "screen_name": "ClickHole"
+            },
+            {
+                "id": 177759801,
+                "id_str": "177759801",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "Joey",
+                "screen_name": "viserov"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612789383167520768,
+    "id_str": "612789383167520768",
+    "in_reply_to_screen_name": "ClickHole",
+    "in_reply_to_status_id": 612741808125120513,
+    "in_reply_to_status_id_str": "612741808125120513",
+    "in_reply_to_user_id": 2377815434,
+    "in_reply_to_user_id_str": "2377815434",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@ClickHole @viserov why did you rt this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 25 17:04:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 66565,
+        "follow_request_sent": false,
+        "followers_count": 4119,
+        "following": false,
+        "friends_count": 1803,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 287770977,
+        "id_str": "287770977",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 96,
+        "location": "San Diego, CA",
+        "name": "John",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287770977/1633408195",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1445242106247741442/0LjGcaO4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445242106247741442/0LjGcaO4_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Friar_Faithful",
+        "statuses_count": 208167,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

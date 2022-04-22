@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 23 06:20:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 893856362,
+                "id_str": "893856362",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Carolina Girl",
+                "screen_name": "carolinagirl63"
+            },
+            {
+                "id": 23856262,
+                "id_str": "23856262",
+                "indices": [
+                    16,
+                    30
+                ],
+                "name": "Right Wing Diva",
+                "screen_name": "RightWingDiva"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 668675456401412096,
+    "id_str": "668675456401412096",
+    "in_reply_to_screen_name": "carolinagirl63",
+    "in_reply_to_status_id": 667465205258051584,
+    "in_reply_to_status_id_str": "667465205258051584",
+    "in_reply_to_user_id": 893856362,
+    "in_reply_to_user_id_str": "893856362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@carolinagirl63 @RightWingDiva \"If you like your terrorist-free refugee pool, you can keep your terrorist-free refugee pool. Period.\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 07 15:57:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The purpose of government is to protect my liberty. The rest is commentary.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7624,
+        "follow_request_sent": false,
+        "followers_count": 600,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18725838,
+        "id_str": "18725838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "California, USA",
+        "name": "Joel Fine",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18725838/1478758142",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966222229808627712/co742sm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966222229808627712/co742sm__normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "joelfine",
+        "statuses_count": 24313,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

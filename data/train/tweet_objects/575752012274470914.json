@@ -1,0 +1,191 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 11 20:15:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Nickibelievers\u2026",
+                "expanded_url": "https://twitter.com/Nickibelieverss/status/573980865056882689",
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/LXUNoRCmhW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16049723,
+                "id_str": "16049723",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Yammer",
+                "screen_name": "Yammer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 575752012274470914,
+    "id_str": "575752012274470914",
+    "in_reply_to_screen_name": "Yammer",
+    "in_reply_to_status_id": 562387516964491265,
+    "in_reply_to_status_id_str": "562387516964491265",
+    "in_reply_to_user_id": 16049723,
+    "in_reply_to_user_id_str": "16049723",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Mar 06 22:57:56 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 35787166,
+                    "id_str": "35787166",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Nicki Minaj",
+                    "screen_name": "NICKIMINAJ"
+                }
+            ]
+        },
+        "favorite_count": 92,
+        "favorited": false,
+        "geo": null,
+        "id": 573980865056882689,
+        "id_str": "573980865056882689",
+        "in_reply_to_screen_name": "NICKIMINAJ",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 35787166,
+        "in_reply_to_user_id_str": "35787166",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 844,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@NICKIMINAJ  if  this tweet reaches 1000 rt follow me? Please\ud83d\ude2d\u2764",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 07 10:14:17 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\u2609 cancer \u263d leo \u2191 cancer ( sorry ) 20% pansexual mess \u0a48\u2729 #BTLM",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 8055,
+            "follow_request_sent": false,
+            "followers_count": 8842,
+            "following": false,
+            "friends_count": 7462,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2682897695,
+            "id_str": "2682897695",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 14,
+            "location": "\u25df\u033d\u25de\u033d",
+            "name": "A *\u0a48\u2729 \ud83e\uddf8",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2682897695/1643927436",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1489365726838374416/izXJc_TG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489365726838374416/izXJc_TG_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "vengonoibrividi",
+            "statuses_count": 53660,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 573980865056882689,
+    "quoted_status_id_str": "573980865056882689",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yammer @BldYrNtwrk rt pls? https://t.co/LXUNoRCmhW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 07 10:14:17 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2609 cancer \u263d leo \u2191 cancer ( sorry ) 20% pansexual mess \u0a48\u2729 #BTLM",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8055,
+        "follow_request_sent": false,
+        "followers_count": 8842,
+        "following": false,
+        "friends_count": 7462,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2682897695,
+        "id_str": "2682897695",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "\u25df\u033d\u25de\u033d",
+        "name": "A *\u0a48\u2729 \ud83e\uddf8",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2682897695/1643927436",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1489365726838374416/izXJc_TG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489365726838374416/izXJc_TG_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vengonoibrividi",
+        "statuses_count": 53660,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

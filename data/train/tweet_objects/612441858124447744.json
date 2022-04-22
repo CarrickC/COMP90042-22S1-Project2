@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 02:08:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3218894223,
+                "id_str": "3218894223",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Corazon Giorno",
+                "screen_name": "tchopstl"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612441858124447744,
+    "id_str": "612441858124447744",
+    "in_reply_to_screen_name": "tchopstl_",
+    "in_reply_to_status_id": 612438528803213312,
+    "in_reply_to_status_id_str": "612438528803213312",
+    "in_reply_to_user_id": 9112032,
+    "in_reply_to_user_id_str": "9112032",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@tchopStL stfu!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 18 23:25:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Lover of RAVENS Football, ORIOLES MAGIC and all things British. Proud Teacher #BlackLivesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 89754,
+        "follow_request_sent": false,
+        "followers_count": 484,
+        "following": false,
+        "friends_count": 2755,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21254873,
+        "id_str": "21254873",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Baltimore!!!",
+        "name": "Audiomom",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21254873/1646170097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498772132121165827/QF0P522E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498772132121165827/QF0P522E_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "audiomom",
+        "statuses_count": 30674,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

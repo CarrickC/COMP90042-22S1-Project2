@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 02:50:40 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/1miM8vaLPi"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            },
+            {
+                "id": 874117003,
+                "id_str": "874117003",
+                "indices": [
+                    127,
+                    139
+                ],
+                "name": "Ki",
+                "screen_name": "PullmanKian"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 527291399771652096,
+    "id_str": "527291399771652096",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/1miM8vaLPi\u201d @PullmanKian",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 31 04:37:50 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The road to Hell is paved with good intentions. Seattle Kraken season ticket holder. #GoCougs",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 47076,
+        "follow_request_sent": false,
+        "followers_count": 721,
+        "following": false,
+        "friends_count": 733,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 245216787,
+        "id_str": "245216787",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Seattle, WA",
+        "name": "Connor Reichenbach",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245216787/1598115334",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297216332371386368/zJppvM3B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297216332371386368/zJppvM3B_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "conreich",
+        "statuses_count": 13287,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

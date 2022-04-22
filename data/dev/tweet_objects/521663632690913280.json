@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 13 14:07:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16638685,
+                "id_str": "16638685",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "lil duval",
+                "screen_name": "lilduval"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 521663632690913280,
+    "id_str": "521663632690913280",
+    "in_reply_to_screen_name": "lilduval",
+    "in_reply_to_status_id": 521663202183348224,
+    "in_reply_to_status_id_str": "521663202183348224",
+    "in_reply_to_user_id": 16638685,
+    "in_reply_to_user_id_str": "16638685",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lilduval \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 03 09:19:21 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#TeamMommy #TeamNaturalBeauty #BeautifulIn&Out #TeamWorksHard #TeamKeaghan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 890,
+        "follow_request_sent": false,
+        "followers_count": 272,
+        "following": false,
+        "friends_count": 258,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 260155885,
+        "id_str": "260155885",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "**@ work r with my son**",
+        "name": "JL\ud83c\udfc1",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260155885/1429199574",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182399374871158784/QRYhxh5H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182399374871158784/QRYhxh5H_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Just__Me03",
+        "statuses_count": 23286,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

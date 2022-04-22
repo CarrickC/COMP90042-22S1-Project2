@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 17 15:56:26 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    51,
+                    66
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 489800803637796865,
+    "id_str": "489800803637796865",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 489800427152879616,
+    "in_reply_to_status_id_str": "489800427152879616",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Check Facebook for any possible local tea parties, @washingtonpost.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 06 15:17:28 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Healthy Conversation Enthusiast\ud83d\ude03",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 83277,
+        "follow_request_sent": false,
+        "followers_count": 1801,
+        "following": false,
+        "friends_count": 930,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 546886420,
+        "id_str": "546886420",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 123,
+        "location": "Banana Republika USA",
+        "name": "\ud83c\udf4c\ud83c\uddfa\ud83c\uddf8\ud83c\udf4cVACUOUS CIPHER\ud83c\udf4c\ud83c\uddfa\ud83c\uddf8\ud83c\udf4c",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/546886420/1610511633",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516434223019835406/z4LlInAD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516434223019835406/z4LlInAD_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "THE_DAILY_BLEAT",
+        "statuses_count": 279624,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 24 08:44:44 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1264477421040029696",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/plVamyJqcF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783676030078836736,
+                "id_str": "783676030078836736",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "C Roberts(Occupation by force is so last empire)",
+                "screen_name": "CRobertsonUK"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1264477421040029696,
+    "id_str": "1264477421040029696",
+    "in_reply_to_screen_name": "CRobertsonUK",
+    "in_reply_to_status_id": 1264315211684679682,
+    "in_reply_to_status_id_str": "1264315211684679682",
+    "in_reply_to_user_id": 783676030078836736,
+    "in_reply_to_user_id_str": "783676030078836736",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CRobertsonUK 16 years on we still have no vaccine for SARS, a respiratory flu reportedly with similar symptoms as\u2026 https://t.co/plVamyJqcF",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 25 15:52:30 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ProIndy. Anti smug people. If music be the food of love play on \ud83c\udfb6\ud83c\udfb8\ud83d\ude1c #NeverTrustATory #Indyref2",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22640,
+        "follow_request_sent": false,
+        "followers_count": 1818,
+        "following": false,
+        "friends_count": 2167,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 970270484,
+        "id_str": "970270484",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Just ootside the Toon",
+        "name": "Wee Indy Rainmaker \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83e\udd18\ud83d\udc99",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970270484/1593209635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368518994983010308/eJ3F0mV-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368518994983010308/eJ3F0mV-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KMCGcharmed",
+        "statuses_count": 9076,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

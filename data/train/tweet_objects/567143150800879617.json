@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 16 02:07:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 565555889,
+                "id_str": "565555889",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Raul Pudd \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+                "screen_name": "DanielMadison78"
+            },
+            {
+                "id": 1377719425,
+                "id_str": "1377719425",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "Look at This Asshole \u2b07\ufe0f",
+                "screen_name": "assholeofday"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 567143150800879617,
+    "id_str": "567143150800879617",
+    "in_reply_to_screen_name": "DanielMadison78",
+    "in_reply_to_status_id": 567143010283298816,
+    "in_reply_to_status_id_str": "567143010283298816",
+    "in_reply_to_user_id": 565555889,
+    "in_reply_to_user_id_str": "565555889",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DanielMadison78 @assholeofday Pretty sure he's Arby's quality.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 12 21:42:51 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wild BULBASAUR appeared! 28 year old trans girl, she/her. Pre-transition. Autistic. Disabled. Gamer nerd. Weird and angry eco-anarchist. avi by @USGMEN_GIF",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 314687,
+        "follow_request_sent": false,
+        "followers_count": 1031,
+        "following": false,
+        "friends_count": 1105,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1084217197,
+        "id_str": "1084217197",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 71,
+        "location": "Pallet Town",
+        "name": "Emily the Bulbasaur, trying not to get COVID",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084217197/1636240144",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1456917865282605058/1x6KukWd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456917865282605058/1x6KukWd_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bulbafren",
+        "statuses_count": 312857,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

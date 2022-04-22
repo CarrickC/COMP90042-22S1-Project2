@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 25 23:00:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 537380207087611904,
+    "id_str": "537380207087611904",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 537377960471166976,
+    "in_reply_to_status_id_str": "537377960471166976",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "text": "@deray  If a fund is set up to support the Browns in a civil suit against Wilson + Ferguson PD then it would raise millions of dollars.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 16 21:54:32 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Youngest of six brothers. Grew up steeped in socialism and Celtic FC. Love gardening, strumming the guitar and vege junk food.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19730,
+        "follow_request_sent": false,
+        "followers_count": 431,
+        "following": false,
+        "friends_count": 1088,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 114872619,
+        "id_str": "114872619",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Lanark Scotland",
+        "name": "Kenny Edwards",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938533439132839936/HstRbwGL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938533439132839936/HstRbwGL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KennyEdw",
+        "statuses_count": 13288,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -98.6895362,
+            33.97133279
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 01 23:14:45 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 149655776,
+                "id_str": "149655776",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Bitch Problems \ud83d\udc81\ud83c\udffc",
+                "screen_name": "ItsThingsInLife"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.97133279,
+            -98.6895362
+        ],
+        "type": "Point"
+    },
+    "id": 407286675388104704,
+    "id_str": "407286675388104704",
+    "in_reply_to_screen_name": "ItsThingsInLife",
+    "in_reply_to_status_id": 407164597511393280,
+    "in_reply_to_status_id_str": "407164597511393280",
+    "in_reply_to_user_id": 149655776,
+    "in_reply_to_user_id_str": "149655776",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.696673,
+                        33.935929
+                    ],
+                    [
+                        -98.655598,
+                        33.935929
+                    ],
+                    [
+                        -98.655598,
+                        33.976054
+                    ],
+                    [
+                        -98.696673,
+                        33.976054
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Iowa Park, TX",
+        "id": "010b5dffb4a0973b",
+        "name": "Iowa Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/010b5dffb4a0973b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ItsThingsInLife: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 11 00:26:29 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14422,
+        "follow_request_sent": false,
+        "followers_count": 820,
+        "following": false,
+        "friends_count": 679,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1258260391,
+        "id_str": "1258260391",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Skye \ud83e\udd0d",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258260391/1647541225",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504522947976912911/FQh_2_v6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504522947976912911/FQh_2_v6_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_kobiskye_",
+        "statuses_count": 5977,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

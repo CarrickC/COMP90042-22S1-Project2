@@ -1,0 +1,108 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 22 06:55:27 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 526975727,
+                "id_str": "526975727",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Susan",
+                "screen_name": "VoiceofaPatriot"
+            },
+            {
+                "id": 237403203,
+                "id_str": "237403203",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "Allen West",
+                "screen_name": "AllenWest"
+            },
+            {
+                "id": 630717039,
+                "id_str": "630717039",
+                "indices": [
+                    28,
+                    37
+                ],
+                "name": "Paratisi",
+                "screen_name": "Paratisi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 337099370908483584,
+    "id_str": "337099370908483584",
+    "in_reply_to_screen_name": "VoiceofaPatriot",
+    "in_reply_to_status_id": 337082363278409729,
+    "in_reply_to_status_id_str": "337082363278409729",
+    "in_reply_to_user_id": 526975727,
+    "in_reply_to_user_id_str": "526975727",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@VoiceofaPatriot @AllenWest @Paratisi Salvation Army, please. Red Cross have not performed well in past situations. Seems to be going well t",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 26 14:55:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Do Not Drink & Drive, My Cause \ud83d\udc99#StopDrunkDriving /No DM/LSU and University of Oklahoma \u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 84448,
+        "follow_request_sent": false,
+        "followers_count": 4643,
+        "following": false,
+        "friends_count": 4438,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 563785715,
+        "id_str": "563785715",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 67,
+        "location": "",
+        "name": "Nancy Ann",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586939293433643009/_TPOJ6_b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/586939293433643009/_TPOJ6_b_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "england498",
+        "statuses_count": 110485,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

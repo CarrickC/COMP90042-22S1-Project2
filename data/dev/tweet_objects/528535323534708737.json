@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 13:13:35 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    66
+                ],
+                "text": "integrity"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "breitbart.com/Big-Government\u2026",
+                "expanded_url": "http://www.breitbart.com/Big-Government/2014/10/31/Obama-Demands-Cheaper-Better-Day-Care-For-Children",
+                "indices": [
+                    117,
+                    139
+                ],
+                "url": "http://t.co/wSn41ETkgh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15739391,
+                "id_str": "15739391",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Conn Carroll",
+                "screen_name": "conncarroll"
+            },
+            {
+                "id": 15739391,
+                "id_str": "15739391",
+                "indices": [
+                    68,
+                    80
+                ],
+                "name": "Conn Carroll",
+                "screen_name": "conncarroll"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528535323534708737,
+    "id_str": "528535323534708737",
+    "in_reply_to_screen_name": "conncarroll",
+    "in_reply_to_status_id": 528240834660298753,
+    "in_reply_to_status_id_str": "528240834660298753",
+    "in_reply_to_user_id": 15739391,
+    "in_reply_to_user_id_str": "15739391",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Uh @conncarroll Reading article B4 commenting helps all #integrity \u201c@conncarroll: Wow Obama disses stay at home moms http://t.co/wSn41ETkgh\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 28 22:17:13 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 243,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 449,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2790123802,
+        "id_str": "2790123802",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "U.S.A.",
+        "name": "Little White Dove",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2790123802/1415544053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531456398035804160/ALiSXwjT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531456398035804160/ALiSXwjT_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lilwhitedove2",
+        "statuses_count": 1661,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

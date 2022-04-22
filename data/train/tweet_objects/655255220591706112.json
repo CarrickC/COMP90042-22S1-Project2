@@ -1,0 +1,129 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 05:33:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 85738930,
+                "id_str": "85738930",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Starseed",
+                "screen_name": "Starseed52"
+            },
+            {
+                "id": 2730550162,
+                "id_str": "2730550162",
+                "indices": [
+                    28,
+                    37
+                ],
+                "name": "Muck Maker",
+                "screen_name": "VoteMuck"
+            },
+            {
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    38,
+                    50
+                ],
+                "name": "CNN Politics",
+                "screen_name": "CNNPolitics"
+            },
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    51,
+                    55
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    56,
+                    70
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 655255220591706112,
+    "id_str": "655255220591706112",
+    "in_reply_to_screen_name": "Starseed52",
+    "in_reply_to_status_id": 655179142133121029,
+    "in_reply_to_status_id_str": "655179142133121029",
+    "in_reply_to_user_id": 85738930,
+    "in_reply_to_user_id_str": "85738930",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starseed52 @JustThatGuyBen @VoteMuck @CNNPolitics @CNN @BernieSanders #7 actually",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 10 03:13:36 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "20+ years in the media circus. Rebel with a cause \ud83d\udcf1 Social justice. Climate. Extreme Wx. Market structure reform.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 186347,
+        "follow_request_sent": false,
+        "followers_count": 12283,
+        "following": false,
+        "friends_count": 9104,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3368690836,
+        "id_str": "3368690836",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 293,
+        "location": "Arizona, USA",
+        "name": "Grassroots Media",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3368690836/1635793426",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408417524387958792/rgrO6ptz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408417524387958792/rgrO6ptz_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GrassrootsJill",
+        "statuses_count": 247682,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

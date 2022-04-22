@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 07 11:50:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nyti.ms/10J0r6B",
+                "expanded_url": "http://nyti.ms/10J0r6B",
+                "indices": [
+                    107,
+                    129
+                ],
+                "url": "http://t.co/0sqx7WlbaT"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    32,
+                    40
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 519454810727526400,
+    "id_str": "519454810727526400",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 519447199164665856,
+    "in_reply_to_status_id_str": "519447199164665856",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Negative hallucination, smhd. RT@nytimes: 43 Missing Students, a Mass Grave and a Suspect: Mexico\u2019s Police http://t.co/0sqx7WlbaT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 27 10:49:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Attorney & Child Welfare Advocate. Adjunct Prof (legal ethics) @FordhamLawNYC & @TempleLaw (Tokyo). @FCAANational @miltonhershey alum (7 YRS)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "protecthersheychildren.org",
+                        "expanded_url": "http://protecthersheychildren.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/X1GjtK8ZnY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 78644,
+        "follow_request_sent": false,
+        "followers_count": 1609,
+        "following": false,
+        "friends_count": 441,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 69259701,
+        "id_str": "69259701",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 74,
+        "location": "New York, NY & Tokyo, Japan",
+        "name": "Ric Fouad",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69259701/1623604136",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347553654157488132/nWIk1q-t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347553654157488132/nWIk1q-t_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ricfouad",
+        "statuses_count": 58619,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/X1GjtK8ZnY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

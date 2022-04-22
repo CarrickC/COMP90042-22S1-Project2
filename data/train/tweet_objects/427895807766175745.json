@@ -1,0 +1,100 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 20:08:05 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "yhoo.it/1brx3QC",
+                "expanded_url": "http://yhoo.it/1brx3QC",
+                "indices": [
+                    112,
+                    134
+                ],
+                "url": "http://t.co/0bfOTMr4vX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 7309052,
+                "id_str": "7309052",
+                "indices": [
+                    1,
+                    11
+                ],
+                "name": "Yahoo News",
+                "screen_name": "YahooNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427895807766175745,
+    "id_str": "427895807766175745",
+    "in_reply_to_screen_name": "YahooNews",
+    "in_reply_to_status_id": 427662266993889280,
+    "in_reply_to_status_id_str": "427662266993889280",
+    "in_reply_to_user_id": 7309052,
+    "in_reply_to_user_id_str": "7309052",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "\u201c@YahooNews: Actor who portrayed Marlboro Man in cigarette ads in late 1970s dies from smoking-related disease: http://t.co/0bfOTMr4vX\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 10 13:53:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 222,
+        "follow_request_sent": false,
+        "followers_count": 76,
+        "following": false,
+        "friends_count": 501,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 263661452,
+        "id_str": "263661452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "NY Metro",
+        "name": "Alescia Peyton",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263661452/1484889786",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1160588721122623490/8rtSmJtX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160588721122623490/8rtSmJtX_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "apeyday",
+        "statuses_count": 860,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

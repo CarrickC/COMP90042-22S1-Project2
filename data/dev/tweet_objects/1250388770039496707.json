@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 11:41:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14293310,
+                "id_str": "14293310",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "TIME",
+                "screen_name": "TIME"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250388770039496707,
+    "id_str": "1250388770039496707",
+    "in_reply_to_screen_name": "TIME",
+    "in_reply_to_status_id": 1250386358507573249,
+    "in_reply_to_status_id_str": "1250386358507573249",
+    "in_reply_to_user_id": 14293310,
+    "in_reply_to_user_id_str": "14293310",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@TIME Please, let us tell about vaccination..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 13:09:20 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Animal Doctor | Writer | Personal Opinion | RT\u2260Endorsement",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 450,
+        "follow_request_sent": false,
+        "followers_count": 258,
+        "following": false,
+        "friends_count": 1031,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 833302450379563008,
+        "id_str": "833302450379563008",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Pakistan ",
+        "name": "Shoaib Khan",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/833302450379563008/1639301772",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1486493763925069824/vSkiDqhV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486493763925069824/vSkiDqhV_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shoaib_shaffi",
+        "statuses_count": 188,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

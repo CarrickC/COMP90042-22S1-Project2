@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 13 16:21:22 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1260606070071926793",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0W8UYnuBm5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 22478516,
+                "id_str": "22478516",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Don C. Williams, Jr.",
+                "screen_name": "blackdontrump"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1260606070071926793,
+    "id_str": "1260606070071926793",
+    "in_reply_to_screen_name": "blackdontrump",
+    "in_reply_to_status_id": 1260605415882133513,
+    "in_reply_to_status_id_str": "1260605415882133513",
+    "in_reply_to_user_id": 22478516,
+    "in_reply_to_user_id_str": "22478516",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@blackdontrump Right. That means the defense needs to be excellent for them to be correct. WHen the D is not excell\u2026 https://t.co/0W8UYnuBm5",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 16:15:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Grant&Danny Show 2-6:30 106.7 The Fan, Comic/Dork Cameo: https://t.co/45kHzj5jPJ Memmo: https://t.co/dqtCs84Xon\u2026",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "cameo.com/drouhier",
+                        "expanded_url": "http://cameo.com/drouhier",
+                        "indices": [
+                            57,
+                            80
+                        ],
+                        "url": "https://t.co/45kHzj5jPJ"
+                    },
+                    {
+                        "display_url": "memmo.me/global/en/p/da",
+                        "expanded_url": "http://memmo.me/global/en/p/da",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "url": "https://t.co/dqtCs84Xon"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "funnydanny.com",
+                        "expanded_url": "http://www.funnydanny.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BK7d7FRVTM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3870,
+        "follow_request_sent": false,
+        "followers_count": 46775,
+        "following": false,
+        "friends_count": 499,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 31156984,
+        "id_str": "31156984",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 515,
+        "location": "Washington, DC",
+        "name": "Danny Rouhier",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31156984/1573430172",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780051723612098564/mp_9kbCq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780051723612098564/mp_9kbCq_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "funnydanny",
+        "statuses_count": 83818,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/BK7d7FRVTM",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

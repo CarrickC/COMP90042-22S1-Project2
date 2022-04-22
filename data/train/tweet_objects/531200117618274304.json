@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 08 21:42:31 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59300026,
+                "id_str": "59300026",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Derek Young \ud83c\uddfa\ud83c\udde6",
+                "screen_name": "DerekMYoung"
+            },
+            {
+                "id": 15464697,
+                "id_str": "15464697",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "Judd Legum",
+                "screen_name": "JuddLegum"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531200117618274304,
+    "id_str": "531200117618274304",
+    "in_reply_to_screen_name": "DerekMYoung",
+    "in_reply_to_status_id": 531180976760975361,
+    "in_reply_to_status_id_str": "531180976760975361",
+    "in_reply_to_user_id": 59300026,
+    "in_reply_to_user_id_str": "59300026",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@derekmyoung @juddlegum I think I just threw up a little.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 27 11:57:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I like bikes, computers, and, over usage of commas. DadOps, BikeOps. Author of Mastering Ansible. https://t.co/A5PeqGRESD instructor. he/him. GitHub Eng.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Lynda.com",
+                        "expanded_url": "http://Lynda.com",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/A5PeqGRESD"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "derpops.bike",
+                        "expanded_url": "https://derpops.bike",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sf4hVd06ao"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 63324,
+        "follow_request_sent": false,
+        "followers_count": 1637,
+        "following": false,
+        "friends_count": 1158,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 399370021,
+        "id_str": "399370021",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 91,
+        "location": "Grit City",
+        "name": "Snack Overflow",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399370021/1596644689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291047514213244928/PeI_Jspb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291047514213244928/PeI_Jspb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamjkeating",
+        "statuses_count": 31700,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/sf4hVd06ao",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

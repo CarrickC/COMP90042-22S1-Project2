@@ -1,0 +1,118 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 19:03:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "CNN International",
+                "screen_name": "cnni"
+            },
+            {
+                "id": 1349170292564905988,
+                "id_str": "1349170292564905988",
+                "indices": [
+                    6,
+                    15
+                ],
+                "name": "Jen Psaki",
+                "screen_name": "PressSec"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    16,
+                    32
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 265815873,
+                "id_str": "265815873",
+                "indices": [
+                    33,
+                    43
+                ],
+                "name": "Daddy Raggy",
+                "screen_name": "DjKashRag"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674303261839663104,
+    "id_str": "674303261839663104",
+    "in_reply_to_screen_name": "cnni",
+    "in_reply_to_status_id": 674301413040758785,
+    "in_reply_to_status_id_str": "674301413040758785",
+    "in_reply_to_user_id": 2097571,
+    "in_reply_to_user_id_str": "2097571",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@cnni @PressSec @realDonaldTrump @DjKashRag",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 16 07:32:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Materials Engineer; Campion College;",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 226,
+        "following": false,
+        "friends_count": 219,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 66075520,
+        "id_str": "66075520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "Jamaica",
+        "name": "Dico",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850478104036478976/ocbacWIz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850478104036478976/ocbacWIz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dixondico",
+        "statuses_count": 3859,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

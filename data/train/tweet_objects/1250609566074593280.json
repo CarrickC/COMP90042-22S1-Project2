@@ -1,0 +1,150 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 02:18:50 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    47
+                ],
+                "text": "Canada"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1250609566074593280",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/YBlxkZChsg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16303106,
+                "id_str": "16303106",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Stephen Colbert",
+                "screen_name": "StephenAtHome"
+            },
+            {
+                "id": 21373560,
+                "id_str": "21373560",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "Jonathan LaPook, M.D",
+                "screen_name": "DrLaPook"
+            },
+            {
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    79,
+                    95
+                ],
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump"
+            },
+            {
+                "id": 1349149096909668363,
+                "id_str": "1349149096909668363",
+                "indices": [
+                    109,
+                    115
+                ],
+                "name": "President Biden",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250609566074593280,
+    "id_str": "1250609566074593280",
+    "in_reply_to_screen_name": "StephenAtHome",
+    "in_reply_to_status_id": 1250246021629849602,
+    "in_reply_to_status_id_str": "1250246021629849602",
+    "in_reply_to_user_id": 16303106,
+    "in_reply_to_user_id_str": "16303106",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@StephenAtHome @DrLaPook Thank you from #Canada for letting the world know how @realDonaldTrump is the worst @POTUS\u2026 https://t.co/YBlxkZChsg",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 23 18:25:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "When you think Mortgage, think Marcus! Making home ownership into reality, Making dreams come true, Making sense of mortgages! Marcus Keller, 403-650-6272",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imgmortgages.com",
+                        "expanded_url": "http://www.imgmortgages.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iz20GBPhZ4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 53,
+        "follow_request_sent": false,
+        "followers_count": 443,
+        "following": false,
+        "friends_count": 727,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 92080141,
+        "id_str": "92080141",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Calgary Alberta Canada",
+        "name": "Marcus Keller",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92080141/1445027891",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476829294778261504/zKmh19p1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476829294778261504/zKmh19p1_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thinkmortgage",
+        "statuses_count": 1024,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/iz20GBPhZ4",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

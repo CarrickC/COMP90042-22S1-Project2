@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 00:25:58 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469194846,
+                "id_str": "469194846",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Twitchy Team",
+                "screen_name": "TwitchyTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528342146131456000,
+    "id_str": "528342146131456000",
+    "in_reply_to_screen_name": "TwitchyTeam",
+    "in_reply_to_status_id": 528341588867416064,
+    "in_reply_to_status_id_str": "528341588867416064",
+    "in_reply_to_user_id": 469194846,
+    "in_reply_to_user_id_str": "469194846",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TwitchyTeam Wait! What!?! As a former Stay-At-Home Dad of two special needs kids, I could outdo anyone in the real world.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 05 20:35:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Heartbroken Father. Rest In Peace...My Beloved Son, Zachary. (12/04/06 to 01/28/22)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "anchor.fm/jason-tuttle2",
+                        "expanded_url": "https://anchor.fm/jason-tuttle2",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tkLhC10Lzz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 788,
+        "following": false,
+        "friends_count": 1270,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 129924853,
+        "id_str": "129924853",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 53,
+        "location": "Newnan, GA",
+        "name": "\u267f \ud83c\uddfa\ud83c\uddf2 \u271d\ufe0f The Mr. Tuttle \u271d\ufe0f \ud83c\uddfa\ud83c\uddf2 \u267f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/129924853/1650301619",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516901134060896257/X6_th7-h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516901134060896257/X6_th7-h_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TuttlePatriarch",
+        "statuses_count": 288363,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tkLhC10Lzz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

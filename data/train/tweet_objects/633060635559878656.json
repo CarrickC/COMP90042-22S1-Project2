@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 16 23:39:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2163076560,
+                "id_str": "2163076560",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Khaled Beydoun",
+                "screen_name": "KhaledBeydoun"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 633060635559878656,
+    "id_str": "633060635559878656",
+    "in_reply_to_screen_name": "KhaledBeydoun",
+    "in_reply_to_status_id": 632377165477191680,
+    "in_reply_to_status_id_str": "632377165477191680",
+    "in_reply_to_user_id": 2163076560,
+    "in_reply_to_user_id_str": "2163076560",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@KhaledBeydoun @officialCelebV \ud83d\ude14",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 23 21:42:09 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I write, I read, I leave room for dessert \ud83e\uddc1",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "saltnsprinkles.com",
+                        "expanded_url": "http://saltnsprinkles.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Sor7L1ZEtv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12595,
+        "follow_request_sent": false,
+        "followers_count": 653,
+        "following": false,
+        "friends_count": 780,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1452573342,
+        "id_str": "1452573342",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Los Angeles, CA",
+        "name": "radical edward",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452573342/1621561499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169376542792638464/V3HkZaZh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169376542792638464/V3HkZaZh_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "saltnsprinkles",
+        "statuses_count": 3965,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Sor7L1ZEtv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

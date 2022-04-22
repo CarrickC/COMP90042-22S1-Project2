@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 07 03:02:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            },
+            {
+                "id": 574023889,
+                "id_str": "574023889",
+                "indices": [
+                    17,
+                    28
+                ],
+                "name": "dave weasel",
+                "screen_name": "DaveWeasel"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 640721780668264448,
+    "id_str": "640721780668264448",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.508143,
+                        41.187054
+                    ],
+                    [
+                        -69.858861,
+                        41.187054
+                    ],
+                    [
+                        -69.858861,
+                        42.8868241
+                    ],
+                    [
+                        -73.508143,
+                        42.8868241
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Massachusetts, USA",
+        "id": "cd450c94084cbf9b",
+        "name": "Massachusetts",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/cd450c94084cbf9b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@TheValleyReport @DaveWeasel Girls got a point though",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 26 19:50:41 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#TheResistance #vegan #rescue #GunControlNow #Dreamers #DACA, #BLM #MitchMcConnellisbad #proscience #provax #GeorgeFloyd #Karenswillbeblocked",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 80059,
+        "follow_request_sent": false,
+        "followers_count": 2959,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 342919252,
+        "id_str": "342919252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 24,
+        "location": "",
+        "name": "Coco's Mom \ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342919252/1597747162",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268541119173984256/tnn4yRmM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268541119173984256/tnn4yRmM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CrystalChild59",
+        "statuses_count": 55521,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

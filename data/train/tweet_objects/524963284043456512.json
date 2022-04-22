@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 16:39:34 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 6017542,
+                "id_str": "6017542",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Breaking News",
+                "screen_name": "BreakingNews"
+            },
+            {
+                "id": 212178717,
+                "id_str": "212178717",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "Michael O'Byrne",
+                "screen_name": "MICHAELCTV"
+            },
+            {
+                "id": 6433472,
+                "id_str": "6433472",
+                "indices": [
+                    26,
+                    34
+                ],
+                "name": "CBC News",
+                "screen_name": "CBCNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524963284043456512,
+    "id_str": "524963284043456512",
+    "in_reply_to_screen_name": "BreakingNews",
+    "in_reply_to_status_id": 524961908903149568,
+    "in_reply_to_status_id_str": "524961908903149568",
+    "in_reply_to_user_id": 6017542,
+    "in_reply_to_user_id_str": "6017542",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BreakingNews @MICHAELCTV @CBCNews omg \ud83d\ude1e",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 25 11:07:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7150,
+        "follow_request_sent": false,
+        "followers_count": 1015,
+        "following": false,
+        "friends_count": 274,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 42388054,
+        "id_str": "42388054",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8,
+        "location": "Ottawa, Ontario",
+        "name": "nima \ud83e\udd0e",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42388054/1614110218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1509678391548645381/SRuLcOQR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509678391548645381/SRuLcOQR_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_nimaaibrahim",
+        "statuses_count": 24247,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

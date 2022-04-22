@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 02:08:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    21,
+                    35
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 642157698696499201,
+    "id_str": "642157698696499201",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 642145732435292160,
+    "in_reply_to_status_id_str": "642145732435292160",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@CNN @HillaryClinton @BernieSanders That is what happens when you tout a fake scandal 24/7. We are still seeing stories about Benghazi.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 19 05:02:38 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#VoteBlue \n\nAnnoying Husband. Father. Historian. Red State Democrat. Gamecock. Lover of film.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7487,
+        "follow_request_sent": false,
+        "followers_count": 898,
+        "following": false,
+        "friends_count": 2145,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 204653280,
+        "id_str": "204653280",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": "Greenville, SC",
+        "name": "John D Sheppard",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204653280/1609644664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510075823025438722/6bJX_Jxh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075823025438722/6bJX_Jxh_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sheppj2021",
+        "statuses_count": 67052,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

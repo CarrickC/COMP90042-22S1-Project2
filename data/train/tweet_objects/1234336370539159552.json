@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 02 04:34:58 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1234336370539159552",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/8RAKD4d9QB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1234336370539159552,
+    "id_str": "1234336370539159552",
+    "in_reply_to_screen_name": "sampul_buku_",
+    "in_reply_to_status_id": 1234335781222699009,
+    "in_reply_to_status_id_str": "1234335781222699009",
+    "in_reply_to_user_id": 416836355,
+    "in_reply_to_user_id_str": "416836355",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@WHO Q : Should I wear a mask to protect myself?\n\nA : People with no respiratory symptoms, such as cough, do not ne\u2026 https://t.co/8RAKD4d9QB",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 20 06:08:54 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1673,
+        "follow_request_sent": false,
+        "followers_count": 307,
+        "following": false,
+        "friends_count": 1033,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 416836355,
+        "id_str": "416836355",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "London Colney",
+        "name": "Iwan",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/416836355/1625492521",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211862359095930880/rjK-qoPC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211862359095930880/rjK-qoPC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sampul_buku_",
+        "statuses_count": 11610,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

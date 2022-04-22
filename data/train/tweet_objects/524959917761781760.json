@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            67.07158845,
+            24.90526034
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 22 16:26:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "CBS News",
+                "screen_name": "CBSNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            24.90526034,
+            67.07158845
+        ],
+        "type": "Point"
+    },
+    "id": 524959917761781760,
+    "id_str": "524959917761781760",
+    "in_reply_to_screen_name": "CBSNews",
+    "in_reply_to_status_id": 524941041301225472,
+    "in_reply_to_status_id_str": "524941041301225472",
+    "in_reply_to_user_id": 15012486,
+    "in_reply_to_user_id_str": "15012486",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        66.654132,
+                        23.703272
+                    ],
+                    [
+                        71.124185,
+                        23.703272
+                    ],
+                    [
+                        71.124185,
+                        28.529442
+                    ],
+                    [
+                        66.654132,
+                        28.529442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "country_code": "PK",
+        "full_name": "\u0633\u0646\u062f\u06be, \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "id": "0120615153b21abb",
+        "name": "\u0633\u0646\u062f\u06be",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0120615153b21abb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CBSNews",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 22 20:04:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Consultant General Surgeon, Rustaq Hospital , Rustaq, Sultanate of Oman.  Football  and Spain Admirer\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5574,
+        "follow_request_sent": false,
+        "followers_count": 537,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 91857604,
+        "id_str": "91857604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Rustaq, Sultanate of Oman",
+        "name": "Tariq Wahab Khanzada",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91857604/1396023507",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1503591364734459905/MRHP_qLL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503591364734459905/MRHP_qLL_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tariqwahab",
+        "statuses_count": 37173,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

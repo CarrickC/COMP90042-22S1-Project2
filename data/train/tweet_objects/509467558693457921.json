@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:25:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "engt.co/1wcNy1q",
+                "expanded_url": "http://engt.co/1wcNy1q",
+                "indices": [
+                    104,
+                    126
+                ],
+                "url": "http://t.co/as4YNhGGM0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 170465427,
+                "id_str": "170465427",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Betty",
+                "screen_name": "Buharibawa"
+            },
+            {
+                "id": 14372486,
+                "id_str": "14372486",
+                "indices": [
+                    18,
+                    27
+                ],
+                "name": "Engadget",
+                "screen_name": "engadget"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509467558693457921,
+    "id_str": "509467558693457921",
+    "in_reply_to_screen_name": "engadget",
+    "in_reply_to_status_id": 509466295344304129,
+    "in_reply_to_status_id_str": "509466295344304129",
+    "in_reply_to_user_id": 14372486,
+    "in_reply_to_user_id_str": "14372486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Buharibawa wtf? \u201c@engadget: Microsoft is reportedly buying 'Minecraft' developer Mojang for $2 billion http://t.co/as4YNhGGM0\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 12 20:33:56 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "5'3\" | \ud83c\uddf3\ud83c\uddea | chubby | uncool | npc | \ud83c\uddf5\ud83c\uddf8",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2070,
+        "follow_request_sent": false,
+        "followers_count": 2604,
+        "following": false,
+        "friends_count": 499,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 113723157,
+        "id_str": "113723157",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "NxNE",
+        "name": "Clifford?",
+        "notifications": false,
+        "profile_background_color": "341E21",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113723157/1524076475",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1435392817317224452/oze2-4yP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435392817317224452/oze2-4yP_normal.jpg",
+        "profile_link_color": "34495E",
+        "profile_sidebar_border_color": "F57A4E",
+        "profile_sidebar_fill_color": "F59B5F",
+        "profile_text_color": "FCE59F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zhrddn",
+        "statuses_count": 157829,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

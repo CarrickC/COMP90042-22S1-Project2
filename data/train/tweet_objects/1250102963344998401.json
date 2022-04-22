@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 14 16:45:46 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 70394965,
+                "id_str": "70394965",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Citizen TV Kenya",
+                "screen_name": "citizentvkenya"
+            },
+            {
+                "id": 323946147,
+                "id_str": "323946147",
+                "indices": [
+                    16,
+                    26
+                ],
+                "name": "Madridude",
+                "screen_name": "Madridude"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1250102963344998401,
+    "id_str": "1250102963344998401",
+    "in_reply_to_screen_name": "citizentvkenya",
+    "in_reply_to_status_id": 1250066794066444290,
+    "in_reply_to_status_id_str": "1250066794066444290",
+    "in_reply_to_user_id": 70394965,
+    "in_reply_to_user_id_str": "70394965",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@citizentvkenya @Madridude @orinalam10 habari ya gavana umeipata?!?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 09 08:54:47 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Therapist: Tech, Data, Computing.\nArsenal, Juventus, R. Madrid*\u26bd",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36176,
+        "follow_request_sent": false,
+        "followers_count": 2290,
+        "following": false,
+        "friends_count": 1915,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1073234930,
+        "id_str": "1073234930",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Loreburn No. 254, Saskatchewan",
+        "name": "EGH, Burning Spear.",
+        "notifications": false,
+        "profile_background_color": "78803C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073234930/1596310572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481651187849981963/N8y00Ubl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481651187849981963/N8y00Ubl_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CarlOkari",
+        "statuses_count": 69509,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

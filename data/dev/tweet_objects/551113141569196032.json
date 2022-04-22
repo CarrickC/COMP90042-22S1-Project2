@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 02 20:29:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1367531,
+                "id_str": "1367531",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Fox News",
+                "screen_name": "FoxNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 551113141569196032,
+    "id_str": "551113141569196032",
+    "in_reply_to_screen_name": "FoxNews",
+    "in_reply_to_status_id": 551106923601219585,
+    "in_reply_to_status_id_str": "551106923601219585",
+    "in_reply_to_user_id": 1367531,
+    "in_reply_to_user_id_str": "1367531",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@FoxNews @ShepNewsTeam OH NO!  She was my husbands favorite. God\nrest her soul......and his.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 04 14:38:44 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Retired mother and grandmom. Interests in Politics,Sports,Music& Fashion.I AM ALSO A GOOD CHRISTIAN AND LOVE JESUS.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1036,
+        "follow_request_sent": false,
+        "followers_count": 348,
+        "following": false,
+        "friends_count": 183,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 861509263,
+        "id_str": "861509263",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "Las Vegas, NV",
+        "name": "judy brown",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724381745013870592/08j9PPN7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724381745013870592/08j9PPN7_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "judyb4jesus",
+        "statuses_count": 25179,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

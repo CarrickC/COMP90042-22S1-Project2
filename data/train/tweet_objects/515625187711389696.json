@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 26 22:13:19 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22844997,
+                "id_str": "22844997",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Robin Marsh KWTV-9",
+                "screen_name": "robinmarsh9"
+            },
+            {
+                "id": 1060329906553286657,
+                "id_str": "1060329906553286657",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "THEE Arizona Luke",
+                "screen_name": "ArizonaLuke"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 515625187711389696,
+    "id_str": "515625187711389696",
+    "in_reply_to_screen_name": "robinmarsh9",
+    "in_reply_to_status_id": 515519742355185664,
+    "in_reply_to_status_id_str": "515519742355185664",
+    "in_reply_to_user_id": 22844997,
+    "in_reply_to_user_id_str": "22844997",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@robinmarsh9 @ArizonaLuke \n\" Alton Nolen was shouting Islamic phrases\" sounds like the case\nof Workplace Violence at Fort Hood by Maj Nadal",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 05 15:57:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15026,
+        "follow_request_sent": false,
+        "followers_count": 44781,
+        "following": false,
+        "friends_count": 40735,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 515597525,
+        "id_str": "515597525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 192,
+        "location": "United States of America",
+        "name": "Gene",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1355676362980216833/PQPNuRp9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355676362980216833/PQPNuRp9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PutneySwoped",
+        "statuses_count": 27117,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

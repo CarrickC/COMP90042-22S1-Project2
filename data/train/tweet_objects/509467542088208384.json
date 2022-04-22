@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 09 22:25:02 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14649689,
+                "id_str": "14649689",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Daniel",
+                "screen_name": "C418"
+            },
+            {
+                "id": 13461662,
+                "id_str": "13461662",
+                "indices": [
+                    6,
+                    20
+                ],
+                "name": "Patrick Klepek",
+                "screen_name": "patrickklepek"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509467542088208384,
+    "id_str": "509467542088208384",
+    "in_reply_to_screen_name": "C418",
+    "in_reply_to_status_id": 509465801926389761,
+    "in_reply_to_status_id_str": "509465801926389761",
+    "in_reply_to_user_id": 14649689,
+    "in_reply_to_user_id_str": "14649689",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@C418 @patrickklepek Holy buckets... I hope it isn't. But that is a lot of money...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 07 15:33:20 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT for @JILAScience.\nCo-founder of Slow-Jam Studios.\n\nI love breakfast, computers, music, sci-fi, and video games. Not necessarily in that order.\n\nHe/him.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hotdog.zone",
+                        "expanded_url": "https://hotdog.zone",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ulw2BtIEbz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 221011,
+        "follow_request_sent": false,
+        "followers_count": 803,
+        "following": false,
+        "friends_count": 1288,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15343034,
+        "id_str": "15343034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 38,
+        "location": "Longmont, CO",
+        "name": "J.R. Raith \ud83c\udf37",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15343034/1380663277",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345541983914192896/9wLLZsW8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345541983914192896/9wLLZsW8_normal.jpg",
+        "profile_link_color": "064F40",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jrronimo",
+        "statuses_count": 54257,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ulw2BtIEbz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

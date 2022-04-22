@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -75.75329835,
+            39.7831433
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Oct 29 02:38:16 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.it/1pWsG7L",
+                "expanded_url": "http://cnn.it/1pWsG7L",
+                "indices": [
+                    103,
+                    125
+                ],
+                "url": "http://t.co/SWhWIfkMzm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "CNN Breaking News",
+                "screen_name": "cnnbrk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            39.7831433,
+            -75.75329835
+        ],
+        "type": "Point"
+    },
+    "id": 527288275791519745,
+    "id_str": "527288275791519745",
+    "in_reply_to_screen_name": "cnnbrk",
+    "in_reply_to_status_id": 527286846347567104,
+    "in_reply_to_status_id_str": "527286846347567104",
+    "in_reply_to_user_id": 428333,
+    "in_reply_to_user_id_str": "428333",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@cnnbrk: Former baseball slugger Jose Canseco accidentally shot himself in the left hand, police say. http://t.co/SWhWIfkMzm\u201d Brilliant",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 04 16:27:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Farmer's wife, mom to 3, two time cancer survivor, lover of all things #Springsteen #EStreetNation #Flyers #Eagles #Phillies #PSUmom",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25314,
+        "follow_request_sent": false,
+        "followers_count": 1801,
+        "following": false,
+        "friends_count": 2130,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 44653773,
+        "id_str": "44653773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "Land of Hope and Dreams",
+        "name": "Kim",
+        "notifications": false,
+        "profile_background_color": "6B5E70",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44653773/1473649250",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1434667665465950217/4a8JqxfC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434667665465950217/4a8JqxfC_normal.jpg",
+        "profile_link_color": "030717",
+        "profile_sidebar_border_color": "C84823",
+        "profile_sidebar_fill_color": "9DADF5",
+        "profile_text_color": "121229",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "imabossfan",
+        "statuses_count": 21682,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 19:26:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29849267,
+                "id_str": "29849267",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Howard Bloom",
+                "screen_name": "SportsBizNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504711623240474624,
+    "id_str": "504711623240474624",
+    "in_reply_to_screen_name": "SportsBizNews",
+    "in_reply_to_status_id": 504456599079907328,
+    "in_reply_to_status_id_str": "504456599079907328",
+    "in_reply_to_user_id": 29849267,
+    "in_reply_to_user_id_str": "29849267",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SportsBizNews You can't be serious. You're using the anniversary as reasoning for 4 team expansion? This is conjecture at best.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 06:47:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Contributor @Forbes | BBWAA | prior: @BaseballPro @USAToday @BaseballAmerica @FanGraphs @Variety | #SportsBiz | Bizball LLC | Guitar  @ShootToThrillNW",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "forbes.com/sites/maurybro\u2026",
+                        "expanded_url": "http://www.forbes.com/sites/maurybrown/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zU08RbBpEr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 52449,
+        "follow_request_sent": false,
+        "followers_count": 24261,
+        "following": false,
+        "friends_count": 10959,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 32817728,
+        "id_str": "32817728",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1248,
+        "location": "Portland, OR",
+        "name": "Maury Brown",
+        "notifications": false,
+        "profile_background_color": "040404",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32817728/1593354635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1516487104401870853/rW0Jicmi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1516487104401870853/rW0Jicmi_normal.jpg",
+        "profile_link_color": "2E2E2E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1D1E16",
+        "profile_text_color": "040404",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BizballMaury",
+        "statuses_count": 170867,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zU08RbBpEr",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

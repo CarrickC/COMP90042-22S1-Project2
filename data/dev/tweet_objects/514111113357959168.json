@@ -1,0 +1,122 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 17:56:55 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2746041570,
+                "id_str": "2746041570",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "\ud83c\uddfa\ud83c\uddf8Magar The Deplorable\u274c",
+                "screen_name": "USA___Forever"
+            },
+            {
+                "id": 15455893,
+                "id_str": "15455893",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "AFP Colorado",
+                "screen_name": "AFPColorado"
+            },
+            {
+                "id": 14173315,
+                "id_str": "14173315",
+                "indices": [
+                    28,
+                    36
+                ],
+                "name": "NBC News",
+                "screen_name": "NBCNews"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 514111113357959168,
+    "id_str": "514111113357959168",
+    "in_reply_to_screen_name": "USA___Forever",
+    "in_reply_to_status_id": 514110227609059328,
+    "in_reply_to_status_id_str": "514110227609059328",
+    "in_reply_to_user_id": 2746041570,
+    "in_reply_to_user_id_str": "2746041570",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@USA___Forever @AFPColorado @NBCNews What is NBC?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 19 16:31:54 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative, Christian, paramedic, admin of Stop Common Core in NYS Dutchess County",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/groups/1427949\u2026",
+                        "expanded_url": "https://www.facebook.com/groups/1427949470753420/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/awSKDC4Juv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1576,
+        "follow_request_sent": false,
+        "followers_count": 384,
+        "following": false,
+        "friends_count": 211,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2203385035,
+        "id_str": "2203385035",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13,
+        "location": "",
+        "name": "Kevin Kelly",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2203385035/1408539720",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759355037571280896/TarBYEOp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759355037571280896/TarBYEOp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dadagainstcore",
+        "statuses_count": 11523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/awSKDC4Juv",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

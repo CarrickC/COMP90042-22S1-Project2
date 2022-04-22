@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 22 15:25:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 9763482,
+                "id_str": "9763482",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "New York Daily News",
+                "screen_name": "NYDailyNews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514073002208935936,
+    "id_str": "514073002208935936",
+    "in_reply_to_screen_name": "NYDailyNews",
+    "in_reply_to_status_id": 514072132301910016,
+    "in_reply_to_status_id_str": "514072132301910016",
+    "in_reply_to_user_id": 9763482,
+    "in_reply_to_user_id_str": "9763482",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NYDailyNews yes like all men are turned off by another breast",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 17 23:18:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sticks and Stones may break the internet but Twitter will never verified me. I am a Tiny House Builder, Structural Engineer, Nerd/Geek & Viral Content Creator.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2147,
+        "follow_request_sent": false,
+        "followers_count": 558,
+        "following": false,
+        "friends_count": 1259,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 32653092,
+        "id_str": "32653092",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "Manhattan, NY",
+        "name": "Howie Zen",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32653092/1608181263",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350482200207257600/xOhgyjzG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350482200207257600/xOhgyjzG_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "setox",
+        "statuses_count": 13482,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

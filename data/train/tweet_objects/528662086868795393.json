@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 01 21:37:18 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/3tDJW7",
+                "expanded_url": "http://ow.ly/3tDJW7",
+                "indices": [
+                    112,
+                    134
+                ],
+                "url": "http://t.co/64Zd7dzvJW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 469194846,
+                "id_str": "469194846",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Twitchy Team",
+                "screen_name": "TwitchyTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 528662086868795393,
+    "id_str": "528662086868795393",
+    "in_reply_to_screen_name": "TwitchyTeam",
+    "in_reply_to_status_id": 528341588867416064,
+    "in_reply_to_status_id_str": "528341588867416064",
+    "in_reply_to_user_id": 469194846,
+    "in_reply_to_user_id_str": "469194846",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "Huh? RT @TwitchyTeam: \u2018Who is we?\u2019 Obama says being a stay-at-home mom \u2018not a choice we want Americans to make\u2019 http://t.co/64Zd7dzvJW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 10 21:50:12 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Voices of Republican Women in Central Ohio - Follow us on Facebook too!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "caparearepublicanwomen.wordpress.com/blog/",
+                        "expanded_url": "https://caparearepublicanwomen.wordpress.com/blog/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/h9vtBsTQk1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22069,
+        "follow_request_sent": false,
+        "followers_count": 1149,
+        "following": false,
+        "friends_count": 873,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 89031083,
+        "id_str": "89031083",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 39,
+        "location": "Ohio",
+        "name": "Capital Women GOP",
+        "notifications": false,
+        "profile_background_color": "B33A3A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89031083/1525886608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520284569/images_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520284569/images_normal.jpg",
+        "profile_link_color": "5C2315",
+        "profile_sidebar_border_color": "A087A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CapitalWomenOH",
+        "statuses_count": 8500,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/h9vtBsTQk1",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

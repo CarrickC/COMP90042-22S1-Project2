@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 29 02:35:05 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1255324698843525120",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/o5XaYhh5q8"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1618898251,
+                "id_str": "1618898251",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Lillia Poveda",
+                "screen_name": "LilliaPoveda"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1255324698843525120,
+    "id_str": "1255324698843525120",
+    "in_reply_to_screen_name": "LilliaPoveda",
+    "in_reply_to_status_id": 1255285099899293696,
+    "in_reply_to_status_id_str": "1255285099899293696",
+    "in_reply_to_user_id": 1618898251,
+    "in_reply_to_user_id_str": "1618898251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.19397,
+                        35.831436
+                    ],
+                    [
+                        -83.733713,
+                        35.831436
+                    ],
+                    [
+                        -83.733713,
+                        36.133505
+                    ],
+                    [
+                        -84.19397,
+                        36.133505
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Knoxville, TN",
+        "id": "6565298bcadb82a1",
+        "name": "Knoxville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6565298bcadb82a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LilliaPoveda RIGHT?! EVER SINCE I SAW THAT MAX PROJECTED FLU CASES I WAS LIKE OMG this is completely different. Am\u2026 https://t.co/o5XaYhh5q8",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 14 23:36:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nature daddy/Aerospace Engineer \u2708\ufe0f\ud83d\ude80\ud83d\udef0",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 72382,
+        "follow_request_sent": false,
+        "followers_count": 574,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 437061999,
+        "id_str": "437061999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Seymour, TN",
+        "name": "Redbeard\ud83c\udff4\u200d\u2620\ufe0f",
+        "notifications": false,
+        "profile_background_color": "0E1142",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437061999/1586205642",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247307831180746753/xgBYQcNQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247307831180746753/xgBYQcNQ_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F09580",
+        "profile_text_color": "F60C49",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danwhaleallen",
+        "statuses_count": 40772,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

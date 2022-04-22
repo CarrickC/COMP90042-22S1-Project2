@@ -1,0 +1,119 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 01 05:35:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1278200482520072192",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/iKT8Kc0yJL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87679233,
+                "id_str": "87679233",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Alex Berenson",
+                "screen_name": "AlexBerenson"
+            },
+            {
+                "id": 803694179079458816,
+                "id_str": "803694179079458816",
+                "indices": [
+                    14,
+                    17
+                ],
+                "name": "Vice President Kamala Harris",
+                "screen_name": "VP"
+            },
+            {
+                "id": 19291441,
+                "id_str": "19291441",
+                "indices": [
+                    18,
+                    28
+                ],
+                "name": "Gov. Greg Abbott",
+                "screen_name": "GovAbbott"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1278200482520072192,
+    "id_str": "1278200482520072192",
+    "in_reply_to_screen_name": "AlexBerenson",
+    "in_reply_to_status_id": 1278168876027650049,
+    "in_reply_to_status_id_str": "1278168876027650049",
+    "in_reply_to_user_id": 87679233,
+    "in_reply_to_user_id_str": "87679233",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AlexBerenson @VP @GovAbbott \nAntibody tests that are positive for ANTIBODIES is like having your own vaccine on bo\u2026 https://t.co/iKT8Kc0yJL",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 18 20:00:00 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 65853,
+        "follow_request_sent": false,
+        "followers_count": 155,
+        "following": false,
+        "friends_count": 362,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2836427637,
+        "id_str": "2836427637",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "",
+        "name": "TRUTH",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836427637/1582348988",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228927797948637189/qQ2G1IZo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228927797948637189/qQ2G1IZo_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "l_o_v_e_truth",
+        "statuses_count": 14425,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

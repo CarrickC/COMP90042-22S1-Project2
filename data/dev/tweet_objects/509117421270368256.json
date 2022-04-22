@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 23:13:46 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 725665248280236032,
+                "id_str": "725665248280236032",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "E! Online",
+                "screen_name": "eonline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 509117421270368256,
+    "id_str": "509117421270368256",
+    "in_reply_to_screen_name": "enews",
+    "in_reply_to_status_id": 509114008587100160,
+    "in_reply_to_status_id_str": "509114008587100160",
+    "in_reply_to_user_id": 2883841,
+    "in_reply_to_user_id_str": "2883841",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@eonline Too bad, vaginas! Guess you'll have to settle for apple cinnammon this fall.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 21 00:46:33 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "Poshmark seller, home-baker, hobby gardener, wife & mom, cat mom, lover of horror/suspense movies & tv. Check out my closet on #Poshmark https://t.co/7k1zkXiFbJ",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "posh.mk/6G",
+                        "expanded_url": "https://posh.mk/6G",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "url": "https://t.co/7k1zkXiFbJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 161,
+        "follow_request_sent": false,
+        "followers_count": 62,
+        "following": false,
+        "friends_count": 237,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2353978032,
+        "id_str": "2353978032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "S. Texas",
+        "name": "Melissa V.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Melissavalero6",
+        "statuses_count": 1151,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

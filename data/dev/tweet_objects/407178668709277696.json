@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 16:05:34 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 148779151,
+                "id_str": "148779151",
+                "indices": [
+                    1,
+                    15
+                ],
+                "name": "Teenager Notes",
+                "screen_name": "teenagernotes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 407178668709277696,
+    "id_str": "407178668709277696",
+    "in_reply_to_screen_name": "teenagernotes",
+    "in_reply_to_status_id": 407177474788057088,
+    "in_reply_to_status_id_str": "407177474788057088",
+    "in_reply_to_user_id": 148779151,
+    "in_reply_to_user_id_str": "148779151",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@teenagernotes: R.I.P to the driver that died with Paul Walker that no one cares about because he wasn't famous.\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 05 21:09:00 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 57,
+        "follow_request_sent": false,
+        "followers_count": 164,
+        "following": false,
+        "friends_count": 291,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 515868635,
+        "id_str": "515868635",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Liza \u2728",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/515868635/1416244753",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/561682192485863425/4O9eB_NS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/561682192485863425/4O9eB_NS_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xLizavdVeen",
+        "statuses_count": 4404,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 15:10:42 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zUEKo0sT5T",
+                "expanded_url": "https://twitter.com/globeandmail/status/524925215235911680/photo/1",
+                "id": 524925214837473281,
+                "id_str": "524925214837473281",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0jos6QIgAEdT6I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0jos6QIgAEdT6I.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 648,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 648,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524925215235911680,
+                "source_status_id_str": "524925215235911680",
+                "source_user_id": 8736882,
+                "source_user_id_str": "8736882",
+                "type": "photo",
+                "url": "http://t.co/zUEKo0sT5T"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/leVL91w",
+                "expanded_url": "http://trib.al/leVL91w",
+                "indices": [
+                    91,
+                    113
+                ],
+                "url": "http://t.co/lJrDWxgxQz"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 8736882,
+                "id_str": "8736882",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "The Globe and Mail",
+                "screen_name": "globeandmail"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/zUEKo0sT5T",
+                "expanded_url": "https://twitter.com/globeandmail/status/524925215235911680/photo/1",
+                "id": 524925214837473281,
+                "id_str": "524925214837473281",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B0jos6QIgAEdT6I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B0jos6QIgAEdT6I.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 648,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "medium": {
+                        "h": 648,
+                        "resize": "fit",
+                        "w": 1152
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 524925215235911680,
+                "source_status_id_str": "524925215235911680",
+                "source_user_id": 8736882,
+                "source_user_id_str": "8736882",
+                "type": "photo",
+                "url": "http://t.co/zUEKo0sT5T"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524940919494426624,
+    "id_str": "524940919494426624",
+    "in_reply_to_screen_name": "globeandmail",
+    "in_reply_to_status_id": 524925215235911680,
+    "in_reply_to_status_id_str": "524925215235911680",
+    "in_reply_to_user_id": 8736882,
+    "in_reply_to_user_id_str": "8736882",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Canada: \u201c@globeandmail: BREAKING: Shots fired at Parliament Hill. Follow developing story: http://t.co/lJrDWxgxQz http://t.co/zUEKo0sT5T\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 19:23:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Skriver om b\u00f8ker og byer for @apinnsikt, kultur for @dagbladet. Writes about culture and cities",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fredrikgiertsen.com",
+                        "expanded_url": "http://fredrikgiertsen.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/EYYM1ULkOE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1478,
+        "follow_request_sent": false,
+        "followers_count": 1580,
+        "following": false,
+        "friends_count": 1120,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 85146182,
+        "id_str": "85146182",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 45,
+        "location": "Oslo Indre \u00d8st",
+        "name": "Fredrik Giertsen",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85146182/1353347785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667089480382357504/isd-Q2hn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667089480382357504/isd-Q2hn_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FredrikGiertsen",
+        "statuses_count": 39201,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/EYYM1ULkOE",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

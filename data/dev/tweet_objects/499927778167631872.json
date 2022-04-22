@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 14 14:37:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42921216,
+                "id_str": "42921216",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "KSDK News",
+                "screen_name": "ksdknews"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 499927778167631872,
+    "id_str": "499927778167631872",
+    "in_reply_to_screen_name": "ksdknews",
+    "in_reply_to_status_id": 499679379820412928,
+    "in_reply_to_status_id_str": "499679379820412928",
+    "in_reply_to_user_id": 42921216,
+    "in_reply_to_user_id_str": "42921216",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ksdknews",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 23 17:58:27 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "https://t.co/MwittpzFuT",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/artist/4V13YXk\u2026",
+                        "expanded_url": "https://open.spotify.com/artist/4V13YXkJGkMeZgn6yR8Iwf?si=mu_X_EIpTn6SzCUiy4I5KA&dl_branch=1",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MwittpzFuT"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "baecons.ai/officiallykoma",
+                        "expanded_url": "https://baecons.ai/officiallykoma",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/HGQiAWPJPY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 106,
+        "follow_request_sent": false,
+        "followers_count": 185,
+        "following": false,
+        "friends_count": 261,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2358307674,
+        "id_str": "2358307674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bay City, Tx.",
+        "name": "Official Koma Page",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2358307674/1479845093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/801154500295872512/VqO5wo9j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/801154500295872512/VqO5wo9j_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OfficiallyKoma",
+        "statuses_count": 362,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/HGQiAWPJPY",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

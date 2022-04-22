@@ -1,0 +1,121 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 06 23:09:56 +0000 2012",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    77
+                ],
+                "text": "hivote"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/chrissyteigen/\u2026",
+                "expanded_url": "https://twitter.com/chrissyteigen/status/265953285247209472",
+                "indices": [
+                    0,
+                    21
+                ],
+                "url": "https://t.co/5WYLe8uj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 39364684,
+                "id_str": "39364684",
+                "indices": [
+                    54,
+                    68
+                ],
+                "name": "chrissy teigen",
+                "screen_name": "chrissyteigen"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 265954195352473600,
+    "id_str": "265954195352473600",
+    "in_reply_to_screen_name": "chrissyteigen",
+    "in_reply_to_status_id": 265953285247209472,
+    "in_reply_to_status_id_str": "265953285247209472",
+    "in_reply_to_user_id": 39364684,
+    "in_reply_to_user_id_str": "39364684",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "https://t.co/5WYLe8uj\nElection party food courtesy of @chrissyteigen \n#hivote",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 17:57:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Event Planner, Photographer, Food Lover, Chinese Medicine Student & Creative Nerd.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TheAlohaLifestyle.com",
+                        "expanded_url": "http://www.TheAlohaLifestyle.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3zCe2JhMmM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5306,
+        "follow_request_sent": false,
+        "followers_count": 546,
+        "following": false,
+        "friends_count": 943,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24921845,
+        "id_str": "24921845",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 33,
+        "location": "Maui",
+        "name": "Lisa Villiarimo",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24921845/1425793648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656373588971261952/C2rNzSOE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656373588971261952/C2rNzSOE_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thealohalife",
+        "statuses_count": 5028,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/3zCe2JhMmM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

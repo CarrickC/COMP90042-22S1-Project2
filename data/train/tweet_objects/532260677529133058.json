@@ -1,0 +1,143 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 19:56:49 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    117,
+                    131
+                ],
+                "text": "ohwhitepeople"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13879842,
+                "id_str": "13879842",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Zo\u00eb Eckman",
+                "screen_name": "hedgerows"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 532260677529133058,
+    "id_str": "532260677529133058",
+    "in_reply_to_screen_name": "hedgerows",
+    "in_reply_to_status_id": 532204418633330688,
+    "in_reply_to_status_id_str": "532204418633330688",
+    "in_reply_to_user_id": 13879842,
+    "in_reply_to_user_id_str": "13879842",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.0075886,
+                        35.866334
+                    ],
+                    [
+                        -78.783292,
+                        35.866334
+                    ],
+                    [
+                        -78.783292,
+                        36.115631
+                    ],
+                    [
+                        -79.0075886,
+                        36.115631
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Durham, NC",
+        "id": "bced47a0c99c71d0",
+        "name": "Durham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bced47a0c99c71d0.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@hedgerows In other words--no ebonics allowed, but the manager doesn't know all the words in the ebonics dictionary. #ohwhitepeople",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 23:51:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Poet/Scholar, PhD @Duke_English | SAVAGE PAGEANT @birdsllc | Editing @AGNIMagazine @HoneyLiterary | Teaching @UofNorthFlorida | 100% Viet Mongrel \ud83e\uddac",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jessicaqstark.com",
+                        "expanded_url": "http://www.jessicaqstark.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7rByfpyS3c"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 52319,
+        "follow_request_sent": false,
+        "followers_count": 3950,
+        "following": false,
+        "friends_count": 3541,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267447385,
+        "id_str": "267447385",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27,
+        "location": "Jacksonville, FL",
+        "name": "Jessica Q. Stark",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267447385/1582144512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513598759237734401/hGX24Xwp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513598759237734401/hGX24Xwp_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jezzbah",
+        "statuses_count": 11979,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7rByfpyS3c",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

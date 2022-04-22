@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 29 11:12:25 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36311369,
+                "id_str": "36311369",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Dan Ryckert",
+                "screen_name": "DanRyckert"
+            },
+            {
+                "id": 810605923702079494,
+                "id_str": "810605923702079494",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "Breaking News Alert",
+                "screen_name": "PzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 527417669293965312,
+    "id_str": "527417669293965312",
+    "in_reply_to_screen_name": "pzf",
+    "in_reply_to_status_id": 527272948680622080,
+    "in_reply_to_status_id_str": "527272948680622080",
+    "in_reply_to_user_id": 292777349,
+    "in_reply_to_user_id_str": "292777349",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Plus</a>",
+    "text": "@DanRyckert \"@PzFeed: UPDATE: Police confirm former baseball star Jose Canseco shot himself in his left hand in an accidental shooting -",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 15 15:48:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 22,
+        "following": false,
+        "friends_count": 30,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 317856203,
+        "id_str": "317856203",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "",
+        "name": "Steve McAwesome",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3061410476/5f104019f74021707c04a23d56980798_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3061410476/5f104019f74021707c04a23d56980798_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveMcAwesome",
+        "statuses_count": 9638,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

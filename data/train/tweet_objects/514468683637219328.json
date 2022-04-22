@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 23 17:37:47 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bzfd.it/1rtFSp5",
+                "expanded_url": "http://bzfd.it/1rtFSp5",
+                "indices": [
+                    85,
+                    107
+                ],
+                "url": "http://t.co/Fh6yuvHeqc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 514468683637219328,
+    "id_str": "514468683637219328",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 514468018970034176,
+    "in_reply_to_status_id_str": "514468018970034176",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@BuzzFeed: iPhone 6 Plus users are sitting on and bending their enormous new phones\nhttp://t.co/Fh6yuvHeqc\u201d @Nathanfed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 03 22:31:07 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Magazine editor & writer. Believer in shoes and the written word.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bethlivesay.com",
+                        "expanded_url": "http://www.bethlivesay.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/95uVpXx4nI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 496,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 925,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 247010729,
+        "id_str": "247010729",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 24,
+        "location": "Anaheim, CA",
+        "name": "Beth Livesay",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247010729/1401489343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/789262460997947392/TJmEUbgw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/789262460997947392/TJmEUbgw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shmeth",
+        "statuses_count": 6197,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/95uVpXx4nI",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

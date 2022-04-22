@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 08 14:48:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1236664978779881472",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/pucsO01dI7"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1236664978779881472,
+    "id_str": "1236664978779881472",
+    "in_reply_to_screen_name": "Dali_Yang",
+    "in_reply_to_status_id": 1236495662197465089,
+    "in_reply_to_status_id_str": "1236495662197465089",
+    "in_reply_to_user_id": 54131391,
+    "in_reply_to_user_id_str": "54131391",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Is there anything I should not do?\nThe following measures ARE NOT effective against COVID-2019 and can be harmful:\u2026 https://t.co/pucsO01dI7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 05:55:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "William C. Reavis Professor of Political Science, University of Chicago | Senior Fellow N.R., Chicago Council on Global Affairs. Pls send me docs/readings",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "daliyang.org",
+                        "expanded_url": "http://www.daliyang.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9QQYhRLX8h"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 30240,
+        "follow_request_sent": false,
+        "followers_count": 16856,
+        "following": false,
+        "friends_count": 5831,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54131391,
+        "id_str": "54131391",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Chicago, IL",
+        "name": "Dali L. Yang",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54131391/1445808044",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574727595075350528/ewU4gLae_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574727595075350528/ewU4gLae_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dali_Yang",
+        "statuses_count": 37760,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9QQYhRLX8h",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 19:26:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3369234799,
+                "id_str": "3369234799",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "The Valley Report",
+                "screen_name": "TheValleyReport"
+            },
+            {
+                "id": 1257697427110453248,
+                "id_str": "1257697427110453248",
+                "indices": [
+                    17,
+                    31
+                ],
+                "name": "alex",
+                "screen_name": "grungedbutera"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 638070382470275073,
+    "id_str": "638070382470275073",
+    "in_reply_to_screen_name": "TheValleyReport",
+    "in_reply_to_status_id": 637868242560638980,
+    "in_reply_to_status_id_str": "637868242560638980",
+    "in_reply_to_user_id": 3369234799,
+    "in_reply_to_user_id_str": "3369234799",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TheValleyReport @grungedbutera THIS IS A JOKE RIGHT OH MYKFSOFD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 17 05:28:43 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "( \u02d8 \u00b3\u02d8)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/ehhvita/",
+                        "expanded_url": "https://www.instagram.com/ehhvita/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mjrkROkM2o"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51680,
+        "follow_request_sent": false,
+        "followers_count": 560,
+        "following": false,
+        "friends_count": 250,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2393840870,
+        "id_str": "2393840870",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Chicago, IL",
+        "name": "\ud835\ude26\ud835\ude37\ud835\ude22",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2393840870/1603596975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1517367013823422464/QHWEabs5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517367013823422464/QHWEabs5_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ehhhvita",
+        "statuses_count": 25648,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mjrkROkM2o",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

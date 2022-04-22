@@ -1,0 +1,120 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 06 02:25:25 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    133,
+                    142
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17494767,
+                "id_str": "17494767",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "God\u00b7Country\u00b7Israel\u274c",
+                "screen_name": "veritaz"
+            },
+            {
+                "id": 43182702,
+                "id_str": "43182702",
+                "indices": [
+                    9,
+                    19
+                ],
+                "name": "Defund NPR PBS & NEA",
+                "screen_name": "Jarjarbug"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 518950122055806976,
+    "id_str": "518950122055806976",
+    "in_reply_to_screen_name": "veritaz",
+    "in_reply_to_status_id": 518947463596494848,
+    "in_reply_to_status_id_str": "518947463596494848",
+    "in_reply_to_user_id": 17494767,
+    "in_reply_to_user_id_str": "17494767",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@veritaz @Jarjarbug Was the guy a cop? Did the police fail to arrest him, then send him on a 2 month (&amp; counting) paid vacation? #Ferguson",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 28 00:50:28 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I don't deprogram cultists - I block them. Slava Ukraini!\n#BlackLivesMatter\n#DcStatehood\ud83d\uddf3\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vote.org/absentee-ballo\u2026",
+                        "expanded_url": "https://www.vote.org/absentee-ballot/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eieAE2AP7Q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 35838,
+        "follow_request_sent": false,
+        "followers_count": 5772,
+        "following": false,
+        "friends_count": 6324,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 5571722,
+        "id_str": "5571722",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 306,
+        "location": "Wisconsin, US",
+        "name": "\ud83c\uddfa\ud83c\udde6\ud83c\udff4\u200d\u2620\ufe0fBlue & Yellow Wisco\ud83c\udff4\u200d\u2620\ufe0f\ud83c\uddfa\ud83c\udde6",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5571722/1648001695",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249840739812589569/OSWpbRJH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249840739812589569/OSWpbRJH_normal.jpg",
+        "profile_link_color": "90918D",
+        "profile_sidebar_border_color": "BBBCB8",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "90918D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Wisco",
+        "statuses_count": 310837,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/eieAE2AP7Q",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

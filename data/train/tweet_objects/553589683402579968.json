@@ -1,0 +1,194 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 16:30:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    137,
+                    140
+                ],
+                "text": "FB"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/idX9V3plft",
+                "expanded_url": "https://twitter.com/France24_en/status/553586897168392192/photo/1",
+                "id": 553586892612984832,
+                "id_str": "553586892612984832",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B668WIaCYAAFU3Z.png",
+                "media_url_https": "https://pbs.twimg.com/media/B668WIaCYAAFU3Z.png",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 553586897168392192,
+                "source_status_id_str": "553586897168392192",
+                "source_user_id": 25049056,
+                "source_user_id_str": "25049056",
+                "type": "photo",
+                "url": "http://t.co/idX9V3plft"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "f24.my/YTliveEN",
+                "expanded_url": "http://f24.my/YTliveEN",
+                "indices": [
+                    91,
+                    113
+                ],
+                "url": "http://t.co/wuPIIjroD0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 25049056,
+                "id_str": "25049056",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "FRANCE 24 English",
+                "screen_name": "France24_en"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/idX9V3plft",
+                "expanded_url": "https://twitter.com/France24_en/status/553586897168392192/photo/1",
+                "id": 553586892612984832,
+                "id_str": "553586892612984832",
+                "indices": [
+                    114,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/B668WIaCYAAFU3Z.png",
+                "media_url_https": "https://pbs.twimg.com/media/B668WIaCYAAFU3Z.png",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 553586897168392192,
+                "source_status_id_str": "553586897168392192",
+                "source_user_id": 25049056,
+                "source_user_id_str": "25049056",
+                "type": "photo",
+                "url": "http://t.co/idX9V3plft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553589683402579968,
+    "id_str": "553589683402579968",
+    "in_reply_to_screen_name": "France24_en",
+    "in_reply_to_status_id": 553586897168392192,
+    "in_reply_to_status_id_str": "553586897168392192",
+    "in_reply_to_user_id": 25049056,
+    "in_reply_to_user_id_str": "25049056",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@France24_en: Both Charlie Hebdo suspects killed as police storm building (police sources) http://t.co/wuPIIjroD0 http://t.co/idX9V3plft #FB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 13:38:46 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@16WAPTNews Emmy-nominated Anchor & Reporter, @NABJ, dad, cyclist. @Ravens fan! Tweets = mine. Got a story idea? Send it to troyjohnson@hearst.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2393,
+        "follow_request_sent": false,
+        "followers_count": 3712,
+        "following": false,
+        "friends_count": 3890,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15917486,
+        "id_str": "15917486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 68,
+        "location": "Jackson, MS",
+        "name": "Troy Johnson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15917486/1567298776",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1460507412822114306/06BgA79b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460507412822114306/06BgA79b_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Troy_Johnson",
+        "statuses_count": 12022,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

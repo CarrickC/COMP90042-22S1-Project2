@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -83.0900377,
+            42.5590525
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Sep 26 19:55:52 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469194846,
+                "id_str": "469194846",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Twitchy Team",
+                "screen_name": "TwitchyTeam"
+            },
+            {
+                "id": 209941571,
+                "id_str": "209941571",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Melody",
+                "screen_name": "prfekrdumbrella"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            42.5590525,
+            -83.0900377
+        ],
+        "type": "Point"
+    },
+    "id": 515590597173059587,
+    "id_str": "515590597173059587",
+    "in_reply_to_screen_name": "TwitchyTeam",
+    "in_reply_to_status_id": 515538937058971648,
+    "in_reply_to_status_id_str": "515538937058971648",
+    "in_reply_to_user_id": 469194846,
+    "in_reply_to_user_id_str": "469194846",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.209206,
+                        42.5337815
+                    ],
+                    [
+                        -83.0868811,
+                        42.5337815
+                    ],
+                    [
+                        -83.0868811,
+                        42.624224
+                    ],
+                    [
+                        -83.209206,
+                        42.624224
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, MI",
+        "id": "4e284ea3fff91c09",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4e284ea3fff91c09.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TwitchyTeam @prfekrdumbrella I'll just bet the women he attacked were white. But if the DOJ is involved it's work place violence.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 02 19:00:21 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Former cylinder head research tech at Diamond Racing, christian, everything Detroit fan, check that, not their politics, all type of motorsport fan,pro-Israel",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2784,
+        "follow_request_sent": false,
+        "followers_count": 372,
+        "following": false,
+        "friends_count": 1683,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 291869266,
+        "id_str": "291869266",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "Arthur Dudlets",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291869266/1373309899",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/514475514782699520/HpdVYjJ0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/514475514782699520/HpdVYjJ0_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ADudlets",
+        "statuses_count": 6104,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

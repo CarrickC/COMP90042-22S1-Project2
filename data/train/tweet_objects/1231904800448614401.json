@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 11:32:46 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    14
+                ],
+                "text": "helpIRAN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1231904800448614401,
+    "id_str": "1231904800448614401",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1231835437246926849,
+    "in_reply_to_status_id_str": "1231835437246926849",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO #helpIRAN plz,there is no control no quarantine,everyone is in danger plz plz help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 23 18:40:12 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "civil engineer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "t.me/BiChatBot?star\u2026",
+                        "expanded_url": "https://t.me/BiChatBot?start=sc-134980-sUb370e",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fR0DYmBB7f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 142635,
+        "follow_request_sent": false,
+        "followers_count": 2949,
+        "following": false,
+        "friends_count": 4374,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 944638788852166658,
+        "id_str": "944638788852166658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "\u0637\u0647\u0631\u0627\u0646",
+        "name": "\u0633\u0627\u0644\u0627\u0631\u06cc\u0648\u0633\ud83d\udc3a\ud83d\udc3a",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944638788852166658/1604384283",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1490064108015730694/02XwBo0b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490064108015730694/02XwBo0b_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "salarious",
+        "statuses_count": 26631,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fR0DYmBB7f",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

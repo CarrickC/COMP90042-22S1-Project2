@@ -1,0 +1,140 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 22 04:58:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    127,
+                    132
+                ],
+                "text": "SOTU"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "thefederalist.com/2015/01/21/im-\u2026",
+                "expanded_url": "http://thefederalist.com/2015/01/21/im-a-stay-at-home-working-mom-and-im-sick-of-being-insulted-by-the-president/",
+                "indices": [
+                    104,
+                    126
+                ],
+                "url": "http://t.co/dJsMhi9ptn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 736840885,
+                "id_str": "736840885",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Joy Pullmann",
+                "screen_name": "JoyPullmann"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 558126544875704321,
+    "id_str": "558126544875704321",
+    "in_reply_to_screen_name": "JoyPullmann",
+    "in_reply_to_status_id": 557885928417816576,
+    "in_reply_to_status_id_str": "557885928417816576",
+    "in_reply_to_user_id": 736840885,
+    "in_reply_to_user_id_str": "736840885",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JoyPullmann: Mr. President, stop mansplaining your \"need\" to have government care for *my* children http://t.co/dJsMhi9ptn #SOTU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 05:44:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NEVER STOP FIGHTING FOR WHATS RIGHT | https://t.co/JGIt9EIzSv |BOOK https://t.co/RwcrLq0m04 |CEO @RANACTIONFUND| Follow/RT \u2260 Endorsement|\u2764\ufe0f= Bookmark",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "RANAF.org",
+                        "expanded_url": "http://www.RANAF.org",
+                        "indices": [
+                            38,
+                            61
+                        ],
+                        "url": "https://t.co/JGIt9EIzSv"
+                    },
+                    {
+                        "display_url": "amzn.to/2F0SHTt",
+                        "expanded_url": "http://amzn.to/2F0SHTt",
+                        "indices": [
+                            68,
+                            91
+                        ],
+                        "url": "https://t.co/RwcrLq0m04"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/realerincruz",
+                        "expanded_url": "https://linktr.ee/realerincruz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NVJZPuhReK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18392,
+        "follow_request_sent": false,
+        "followers_count": 69669,
+        "following": false,
+        "friends_count": 25912,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22456513,
+        "id_str": "22456513",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 856,
+        "location": "Palm Springs, CA",
+        "name": "CRUZ FOR THE PEOPLE (CA)",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22456513/1557734025",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230682767639248896/-MmqiF9X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230682767639248896/-MmqiF9X_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealErinCruz",
+        "statuses_count": 256845,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NVJZPuhReK",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

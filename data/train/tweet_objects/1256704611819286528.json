@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 02 21:58:22 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1256704611819286528",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/OAunz9YXf1"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1256704611819286528,
+    "id_str": "1256704611819286528",
+    "in_reply_to_screen_name": "ExpediteLlp",
+    "in_reply_to_status_id": 1256704609919221760,
+    "in_reply_to_status_id_str": "1256704609919221760",
+    "in_reply_to_user_id": 1247866298349936640,
+    "in_reply_to_user_id_str": "1247866298349936640",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "The virus that cause COVID-19 spreads primarily through droplets generated when an infected person coughs, sneezes\u2026 https://t.co/OAunz9YXf1",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 08 12:38:21 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Expedite Automation LLP is an elevator company which manufactures, installs and maintains elevators!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "expediteautomation.com",
+                        "expanded_url": "http://www.expediteautomation.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/JBkpT3PFYA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1247866298349936640,
+        "id_str": "1247866298349936640",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Kannur  Kerala",
+        "name": "Expedite Automation LLP",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247866298349936640/1592918149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311316365232332802/5OMmdx33_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311316365232332802/5OMmdx33_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ExpediteLlp",
+        "statuses_count": 849,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JBkpT3PFYA",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

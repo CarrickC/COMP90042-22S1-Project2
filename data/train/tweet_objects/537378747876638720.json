@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 25 22:54:12 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29417304,
+                "id_str": "29417304",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "deray",
+                "screen_name": "deray"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 537378747876638720,
+    "id_str": "537378747876638720",
+    "in_reply_to_screen_name": "deray",
+    "in_reply_to_status_id": 537377960471166976,
+    "in_reply_to_status_id_str": "537377960471166976",
+    "in_reply_to_user_id": 29417304,
+    "in_reply_to_user_id_str": "29417304",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@deray This country is literally built on &amp; thru the destruction of Black lives. That it continues is saddening, maddening, &amp; unsurprising.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 20 23:01:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Personal views of a Black feminist sociology professor. I center Black girls and women in my work on relationships, place, & identity. UIUC & Northwestern alum.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 128439,
+        "follow_request_sent": false,
+        "followers_count": 2701,
+        "following": false,
+        "friends_count": 1404,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 770387311,
+        "id_str": "770387311",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 70,
+        "location": "Born and raised on Chicago's West Side",
+        "name": "Tennille N. Allen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770387311/1590861830",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1367313174630969345/djuhPBgv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367313174630969345/djuhPBgv_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TennilleNAllen",
+        "statuses_count": 26099,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

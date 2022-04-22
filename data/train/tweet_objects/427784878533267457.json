@@ -1,0 +1,113 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 12:47:17 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "gu.com/p/3m7q4/tw",
+                "expanded_url": "http://gu.com/p/3m7q4/tw",
+                "indices": [
+                    74,
+                    96
+                ],
+                "url": "http://t.co/tnFp1P2MU6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 87818409,
+                "id_str": "87818409",
+                "indices": [
+                    7,
+                    16
+                ],
+                "name": "The Guardian",
+                "screen_name": "guardian"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 427784878533267457,
+    "id_str": "427784878533267457",
+    "in_reply_to_screen_name": "guardian",
+    "in_reply_to_status_id": 427780584979836929,
+    "in_reply_to_status_id_str": "427780584979836929",
+    "in_reply_to_user_id": 87818409,
+    "in_reply_to_user_id_str": "87818409",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": ":'( RT @guardian:Marlboro ad man Eric Lawson dies of chronic lung disease http://t.co/tnFp1P2MU6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 15 08:26:04 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer @anoawords. Creative projects: #ijeyx \\ #ScammerBuster \\ #WanDayWanRandomQuoteByIjey",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/ijey",
+                        "expanded_url": "https://linktr.ee/ijey",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/63rXXIasXX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5488,
+        "follow_request_sent": false,
+        "followers_count": 1808,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18133368,
+        "id_str": "18133368",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Jakarta",
+        "name": "meizar",
+        "notifications": false,
+        "profile_background_color": "2A2829",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18133368/1582442847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1485500625555451905/bDCLTf81_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1485500625555451905/bDCLTf81_normal.jpg",
+        "profile_link_color": "6B8E23",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ijey",
+        "statuses_count": 138448,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/63rXXIasXX",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

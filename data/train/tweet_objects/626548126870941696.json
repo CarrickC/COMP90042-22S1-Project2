@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 00:21:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 626548126870941696,
+    "id_str": "626548126870941696",
+    "in_reply_to_screen_name": "BuzzFeed",
+    "in_reply_to_status_id": 626546123713474560,
+    "in_reply_to_status_id_str": "626546123713474560",
+    "in_reply_to_user_id": 5695632,
+    "in_reply_to_user_id_str": "5695632",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BuzzFeed wow.... I mean I'd definitely be scared to take the escalator after the accident, but this is taking it to a new level",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 12 22:25:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reclaiming my time  $Kiarratee \ud83e\udd74",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 111097,
+        "follow_request_sent": false,
+        "followers_count": 408,
+        "following": false,
+        "friends_count": 2952,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 65182738,
+        "id_str": "65182738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Seattle, WA",
+        "name": "\ud835\udcda\ud835\udcf2\ud835\udcea\ud835\udcfb\ud835\udcfb\ud835\udcea",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65182738/1628384247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1424172258663092230/2RFens_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424172258663092230/2RFens_n_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KiarraTee",
+        "statuses_count": 28347,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

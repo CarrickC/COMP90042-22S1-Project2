@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            17.95144418,
+            62.63698919
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed May 15 19:13:44 +0000 2013",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "m.ibtimes.co.uk/man-sweden-die\u2026",
+                "expanded_url": "http://m.ibtimes.co.uk/man-sweden-dies-sex-hornet-s-nest-467900.html",
+                "indices": [
+                    104,
+                    126
+                ],
+                "url": "http://t.co/UjGhTRCKRY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15439395,
+                "id_str": "15439395",
+                "indices": [
+                    32,
+                    43
+                ],
+                "name": "Stephen Fry",
+                "screen_name": "stephenfry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            62.63698919,
+            17.95144418
+        ],
+        "type": "Point"
+    },
+    "id": 334748449452982272,
+    "id_str": "334748449452982272",
+    "in_reply_to_screen_name": "stephenfry",
+    "in_reply_to_status_id": 334722003057647616,
+    "in_reply_to_status_id_str": "334722003057647616",
+    "in_reply_to_user_id": 15439395,
+    "in_reply_to_user_id_str": "15439395",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        17.1775803,
+                        62.4107519
+                    ],
+                    [
+                        18.5925995,
+                        62.4107519
+                    ],
+                    [
+                        18.5925995,
+                        62.9097873
+                    ],
+                    [
+                        17.1775803,
+                        62.9097873
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sverige",
+        "country_code": "SE",
+        "full_name": "H\u00e4rn\u00f6sand, Sverige",
+        "id": "8a5eabbe21759275",
+        "name": "H\u00e4rn\u00f6sand",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8a5eabbe21759275.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Jo tjena \"Bertil St\u00e5hfr\u00e4\u00e4s\" RT:\u201c@stephenfry: This is just about the weirdest fetish I've ever heard of. http://t.co/UjGhTRCKRY\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 22 14:13:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tr\u00f6tt politisk redakt\u00f6r och ett hot mot din livsstil.\nL\u00e4sarkommentar: \"Hon beter sej som en argsint ton\u00e5rstjej\"",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vf.se",
+                        "expanded_url": "http://www.vf.se",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/y9E8YbzmUz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32833,
+        "follow_request_sent": false,
+        "followers_count": 6551,
+        "following": false,
+        "friends_count": 3743,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 125342906,
+        "id_str": "125342906",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 69,
+        "location": "",
+        "name": "Susanne Sj\u00f6stedt",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125342906/1645475020",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960526261692092416/5e3vkbcx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960526261692092416/5e3vkbcx_normal.jpg",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Solsjo",
+        "statuses_count": 130846,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/y9E8YbzmUz",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 25 02:34:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            },
+            {
+                "id": 8695932,
+                "id_str": "8695932",
+                "indices": [
+                    25,
+                    37
+                ],
+                "name": "The Charlotte Observer",
+                "screen_name": "theobserver"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 613898004810956800,
+    "id_str": "613898004810956800",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ajplus @Kajols__Unibrow @theobserver Might as well have given him a trophy....The dirty dogg!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 09 19:54:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": true,
+        "description": "TRUTH will stand even if U Don't.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1639,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 280,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 279682776,
+        "id_str": "279682776",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 44,
+        "location": "universal",
+        "name": "ccwriter",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "logicalmist",
+        "statuses_count": 11510,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

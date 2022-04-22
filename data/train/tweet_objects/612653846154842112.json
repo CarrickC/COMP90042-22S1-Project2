@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 16:10:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110396781,
+                "id_str": "110396781",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "AJ+",
+                "screen_name": "ajplus"
+            },
+            {
+                "id": 279390084,
+                "id_str": "279390084",
+                "indices": [
+                    8,
+                    21
+                ],
+                "name": "Anonymous",
+                "screen_name": "YourAnonNews"
+            },
+            {
+                "id": 8695932,
+                "id_str": "8695932",
+                "indices": [
+                    22,
+                    34
+                ],
+                "name": "The Charlotte Observer",
+                "screen_name": "theobserver"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 612653846154842112,
+    "id_str": "612653846154842112",
+    "in_reply_to_screen_name": "ajplus",
+    "in_reply_to_status_id": 612646796355960832,
+    "in_reply_to_status_id_str": "612646796355960832",
+    "in_reply_to_user_id": 110396781,
+    "in_reply_to_user_id_str": "110396781",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ajplus @YourAnonNews @theobserver height - 0ft 0 inches????",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 27 19:56:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "illur arfur!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35364,
+        "follow_request_sent": false,
+        "followers_count": 662,
+        "following": false,
+        "friends_count": 581,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42956891,
+        "id_str": "42956891",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Bristol",
+        "name": "charlie",
+        "notifications": false,
+        "profile_background_color": "191B21",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42956891/1593456960",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1509657204537888774/JRLcVh8P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509657204537888774/JRLcVh8P_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "3E3547",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sykurmolarnir_",
+        "statuses_count": 16755,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

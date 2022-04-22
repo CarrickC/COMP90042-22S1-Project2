@@ -1,0 +1,110 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 09 12:55:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    16
+                ],
+                "text": "BREAKING"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 380648579,
+                "id_str": "380648579",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "AFP News Agency",
+                "screen_name": "AFP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 553535581586993152,
+    "id_str": "553535581586993152",
+    "in_reply_to_screen_name": "AFP",
+    "in_reply_to_status_id": 553534838880608256,
+    "in_reply_to_status_id_str": "553534838880608256",
+    "in_reply_to_user_id": 380648579,
+    "in_reply_to_user_id_str": "380648579",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@AFP: #BREAKING Gunman in policewoman killing suspected in new Paris hostage-taking: source\u201d source please?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 16 17:40:59 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder Cebisu Research \u2022 Candidate Adv. Fmr Hub: ABC News nom. @Saltylegs Career \u2022 @Mikannej @pinkolive \u2022 @HarvardClubMV \u2022 Fmr PhD Student \u2022 Classical Pianist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/susankangnam",
+                        "expanded_url": "https://about.me/susankangnam",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/S4HtDpw4xW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11720,
+        "follow_request_sent": false,
+        "followers_count": 7308,
+        "following": false,
+        "friends_count": 1171,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15136484,
+        "id_str": "15136484",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 293,
+        "location": "Boston, MA ",
+        "name": "Susan Kang Nam \ud83d\udca7\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+        "notifications": false,
+        "profile_background_color": "08185C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15136484/1518407812",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149538717125660672/5OAuEtgM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149538717125660672/5OAuEtgM_normal.jpg",
+        "profile_link_color": "1484A6",
+        "profile_sidebar_border_color": "FAFA08",
+        "profile_sidebar_fill_color": "F7C708",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SusanKang_Nam",
+        "statuses_count": 40250,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/S4HtDpw4xW",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

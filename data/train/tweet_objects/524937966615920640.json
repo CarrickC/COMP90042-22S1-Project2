@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 14:58:58 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    102,
+                    112
+                ],
+                "text": "gunowners"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19038934,
+                "id_str": "19038934",
+                "indices": [
+                    44,
+                    54
+                ],
+                "name": "CBC News Alerts",
+                "screen_name": "CBCAlerts"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524937966615920640,
+    "id_str": "524937966615920640",
+    "in_reply_to_screen_name": "CBCAlerts",
+    "in_reply_to_status_id": 524936872666353664,
+    "in_reply_to_status_id_str": "524936872666353664",
+    "in_reply_to_user_id": 19038934,
+    "in_reply_to_user_id_str": "19038934",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "3,854,082 square mile gun-free zone... | MT @CBCAlerts \"More shots fired just off Parliament Hill...\"\n#gunowners",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 13:57:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#FairTax #tlot #gunowners #Patriot #USAF vet. RT \u2260 endorsement. #LibriVox Admin excommunicatus",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2688,
+        "follow_request_sent": false,
+        "followers_count": 5423,
+        "following": false,
+        "friends_count": 5840,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 511970204,
+        "id_str": "511970204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 86,
+        "location": "The Eschaton",
+        "name": "Simon Jester",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/511970204/1353391597",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759893135564480512/pDrsE2sQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759893135564480512/pDrsE2sQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jxchristopher",
+        "statuses_count": 16749,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

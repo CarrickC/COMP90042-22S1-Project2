@@ -1,0 +1,217 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 03:07:00 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/e8mpTeWcXo",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "id": 531634492298256385,
+                "id_str": "531634492298256385",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531634492528939008,
+                "source_status_id_str": "531634492528939008",
+                "source_user_id": 18927441,
+                "source_user_id_str": "18927441",
+                "type": "photo",
+                "url": "http://t.co/e8mpTeWcXo"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/UP3LYvC",
+                "expanded_url": "http://trib.al/UP3LYvC",
+                "indices": [
+                    90,
+                    112
+                ],
+                "url": "http://t.co/ku0Ktf1lic"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    1,
+                    5
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/e8mpTeWcXo",
+                "expanded_url": "https://twitter.com/IGN/status/531634492528939008/photo/1",
+                "id": 531634492298256385,
+                "id_str": "531634492298256385",
+                "indices": [
+                    113,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/B2C-wQfIYAE7Njb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 1280
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 531634492528939008,
+                "source_status_id_str": "531634492528939008",
+                "source_user_id": 18927441,
+                "source_user_id_str": "18927441",
+                "type": "photo",
+                "url": "http://t.co/e8mpTeWcXo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531644161225920513,
+    "id_str": "531644161225920513",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@IGN: Pepsi is currently taste-testing Doritos flavored Mountrain Dew. Would you try it? http://t.co/ku0Ktf1lic http://t.co/e8mpTeWcXo\u201dyuck",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 01 15:17:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Official Guide for Modern Entrepreneurs. Untold Story of The American Dream https://t.co/9WpqPE2piO https://t.co/Zfzu9fRHK0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ownersillustrated.com",
+                        "expanded_url": "http://ownersillustrated.com",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "url": "https://t.co/9WpqPE2piO"
+                    },
+                    {
+                        "display_url": "toyzelectronics.com/events",
+                        "expanded_url": "http://toyzelectronics.com/events",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "url": "https://t.co/Zfzu9fRHK0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            32
+                        ],
+                        "url": "http://www.ownersillustrated.com"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3701,
+        "follow_request_sent": false,
+        "followers_count": 812,
+        "following": false,
+        "friends_count": 2216,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 36963617,
+        "id_str": "36963617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 34,
+        "location": "Mobile Print Web Video Podcast",
+        "name": "owners illustrated",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36963617/1581275245",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226583388343144448/EWsWS6MG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226583388343144448/EWsWS6MG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ownersmag",
+        "statuses_count": 20615,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://www.ownersillustrated.com",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

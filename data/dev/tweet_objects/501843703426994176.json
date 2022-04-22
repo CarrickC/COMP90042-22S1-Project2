@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 21:30:37 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 156743986,
+                "id_str": "156743986",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Emmanuelle Saliba \ud83e\uddd0",
+                "screen_name": "_esaliba"
+            },
+            {
+                "id": 1349154719386775552,
+                "id_str": "1349154719386775552",
+                "indices": [
+                    101,
+                    108
+                ],
+                "name": "Jill Biden",
+                "screen_name": "FLOTUS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 501843703426994176,
+    "id_str": "501843703426994176",
+    "in_reply_to_screen_name": "_esaliba",
+    "in_reply_to_status_id": 501760566160289794,
+    "in_reply_to_status_id_str": "501760566160289794",
+    "in_reply_to_user_id": 156743986,
+    "in_reply_to_user_id_str": "156743986",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@_esaliba you are blowing this out of proportion ! Where are your freedoms and Democratic values now @FLOTUS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 07 19:53:32 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "International Relations and the love toward making a balance in the world created a human being to respect the Rule of LAW",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 47194,
+        "follow_request_sent": false,
+        "followers_count": 684,
+        "following": false,
+        "friends_count": 1803,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1653716970,
+        "id_str": "1653716970",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Serbia",
+        "name": "Dino Basovic",
+        "notifications": false,
+        "profile_background_color": "488FB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653716970/1402572721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000256716721/c6cfbe03e36738fdbb23cb3185d1c420_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000256716721/c6cfbe03e36738fdbb23cb3185d1c420_normal.png",
+        "profile_link_color": "395C5C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DinoBasovic",
+        "statuses_count": 11550,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

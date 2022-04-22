@@ -1,0 +1,130 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 08 03:00:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    66
+                ],
+                "text": "RIP"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "The New York Times",
+                "screen_name": "nytimes"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 641083574737895425,
+    "id_str": "641083574737895425",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 641082932740947972,
+    "in_reply_to_status_id_str": "641082932740947972",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nytimes @TonyPerkinsFOX5 Wow, I remember watching that show. #RIP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 13 04:27:11 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Former United States Marine. All D.C.Sports, #DM(V) born and raised. If I'm not Smiling, I'm sleeping",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 95439,
+        "follow_request_sent": false,
+        "followers_count": 2021,
+        "following": false,
+        "friends_count": 2654,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1007989718,
+        "id_str": "1007989718",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": "",
+        "name": "Steve Nelson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007989718/1572893527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1513633720405839878/5zBIFg1H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1513633720405839878/5zBIFg1H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Stevo10211Steve",
+        "statuses_count": 38220,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

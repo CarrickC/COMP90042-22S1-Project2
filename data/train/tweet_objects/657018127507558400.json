@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 02:18:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425231,
+                "id_str": "2425231",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Fact",
+                "screen_name": "Fact"
+            },
+            {
+                "id": 1173187458,
+                "id_str": "1173187458",
+                "indices": [
+                    6,
+                    17
+                ],
+                "name": "\u0645\u0635\u0631 \u0623\u0645 \u0627\u0644\u062f\u0646\u064a\u0627 \ud80c\udc8b\ud80c\udfbc\ud80c\udd3f\ud80c\uddcc",
+                "screen_name": "MyTrueHope"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 657018127507558400,
+    "id_str": "657018127507558400",
+    "in_reply_to_screen_name": "Fact",
+    "in_reply_to_status_id": 657007736467525632,
+    "in_reply_to_status_id_str": "657007736467525632",
+    "in_reply_to_user_id": 2425231,
+    "in_reply_to_user_id_str": "2425231",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Fact @MyTrueHope Also he was adopted by Armenian Refugees in USA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 12 04:37:46 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Armenian, Assyrian, Greeks News, Views and Interviews, #gagrulenet #gagrulelive  @Gagrulelive #DePashification",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gagrule.net",
+                        "expanded_url": "http://www.gagrule.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hD3M1byXFD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 588,
+        "follow_request_sent": false,
+        "followers_count": 2191,
+        "following": false,
+        "friends_count": 1880,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104069830,
+        "id_str": "104069830",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 39,
+        "location": "USA",
+        "name": "Wally Sarkeesian",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104069830/1541733343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060724572104749057/4jktT_MC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060724572104749057/4jktT_MC_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gagrulenet",
+        "statuses_count": 32250,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/hD3M1byXFD",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 29 15:53:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 167421802,
+                "id_str": "167421802",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Burger King",
+                "screen_name": "BurgerKing"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 560828185529827328,
+    "id_str": "560828185529827328",
+    "in_reply_to_screen_name": "BurgerKing",
+    "in_reply_to_status_id": 560414522758799361,
+    "in_reply_to_status_id_str": "560414522758799361",
+    "in_reply_to_user_id": 167421802,
+    "in_reply_to_user_id_str": "167421802",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BurgerKing ew",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 07 05:33:51 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2600\ufe0f https://t.co/SMazNI5Glt",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vsco.co/raelynnm",
+                        "expanded_url": "http://vsco.co/raelynnm",
+                        "indices": [
+                            3,
+                            26
+                        ],
+                        "url": "https://t.co/SMazNI5Glt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11083,
+        "follow_request_sent": false,
+        "followers_count": 714,
+        "following": false,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 547349228,
+        "id_str": "547349228",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "",
+        "name": "Raelynn",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547349228/1485501211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834130119836962816/d31-NXJE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834130119836962816/d31-NXJE_normal.jpg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Raelynn_Menard",
+        "statuses_count": 20417,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

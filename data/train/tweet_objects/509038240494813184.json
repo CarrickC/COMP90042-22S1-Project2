@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 08 17:59:08 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 311529219,
+                "id_str": "311529219",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Morgan",
+                "screen_name": "honeycuttitout"
+            },
+            {
+                "id": 5695632,
+                "id_str": "5695632",
+                "indices": [
+                    16,
+                    25
+                ],
+                "name": "BuzzFeed",
+                "screen_name": "BuzzFeed"
+            },
+            {
+                "id": 185022585,
+                "id_str": "185022585",
+                "indices": [
+                    41,
+                    51
+                ],
+                "name": "Durex USA",
+                "screen_name": "Durex_USA"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 509038240494813184,
+    "id_str": "509038240494813184",
+    "in_reply_to_screen_name": "honeycuttitout",
+    "in_reply_to_status_id": 509032572849229824,
+    "in_reply_to_status_id_str": "509032572849229824",
+    "in_reply_to_user_id": 311529219,
+    "in_reply_to_user_id_str": "311529219",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@honeycuttitout @BuzzFeed dreams crushed @Durex_USA get it together",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 25 01:29:37 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Shani. NYC. she/her \ud83c\udf3a $ShaniiM \ud83c\uddf9\ud83c\uddf9",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 120774,
+        "follow_request_sent": false,
+        "followers_count": 329,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 562489031,
+        "id_str": "562489031",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "",
+        "name": "cherry blossom baby \ud83c\udf38",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/562489031/1644773333",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505549309231738888/kpSJ92d9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505549309231738888/kpSJ92d9_normal.jpg",
+        "profile_link_color": "06C7D1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shana_masala",
+        "statuses_count": 96495,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

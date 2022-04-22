@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 21:56:56 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15163466,
+                "id_str": "15163466",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Digg",
+                "screen_name": "digg"
+            },
+            {
+                "id": 259399482,
+                "id_str": "259399482",
+                "indices": [
+                    6,
+                    18
+                ],
+                "name": "Chris Lilley",
+                "screen_name": "ChrisLilley"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 519969721698222080,
+    "id_str": "519969721698222080",
+    "in_reply_to_screen_name": "digg",
+    "in_reply_to_status_id": 519965814175567872,
+    "in_reply_to_status_id_str": "519965814175567872",
+    "in_reply_to_user_id": 15163466,
+    "in_reply_to_user_id_str": "15163466",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@digg @ChrisLilley dick-tation?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 18:54:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Scaling @PaytientApp, was at @stripe for awhile / mostly lurk, rarely tweet",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12851,
+        "follow_request_sent": false,
+        "followers_count": 500,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 39313479,
+        "id_str": "39313479",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 23,
+        "location": "Brooklyn, NY ",
+        "name": "nate",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39313479/1465518497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404875239834755076/ha82_CFC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404875239834755076/ha82_CFC_normal.jpg",
+        "profile_link_color": "FF1008",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DEDEDE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "natesaete",
+        "statuses_count": 11032,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 27 03:52:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 29849267,
+                "id_str": "29849267",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Howard Bloom",
+                "screen_name": "SportsBizNews"
+            },
+            {
+                "id": 1030240102935605248,
+                "id_str": "1030240102935605248",
+                "indices": [
+                    15,
+                    29
+                ],
+                "name": "jenkinssports",
+                "screen_name": "jenkinssports"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504476400846651392,
+    "id_str": "504476400846651392",
+    "in_reply_to_screen_name": "SportsBizNews",
+    "in_reply_to_status_id": 504448356584677377,
+    "in_reply_to_status_id_str": "504448356584677377",
+    "in_reply_to_user_id": 29849267,
+    "in_reply_to_user_id_str": "29849267",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SportsBizNews @JenkinsSports I think two current teams would move in that situation.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 04 23:54:20 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Assistant Executive of Hockey Media for the @TexSportsReview. @TexSR_StarsTalk",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "texsr.com",
+                        "expanded_url": "http://www.texsr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QdU3P2zJsy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 39002,
+        "follow_request_sent": false,
+        "followers_count": 1448,
+        "following": false,
+        "friends_count": 1941,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2477561683,
+        "id_str": "2477561683",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 33,
+        "location": "Dallas, Texas",
+        "name": "Tanner Wilson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2477561683/1432923386",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/603242483124801536/JgYQOwFU_normal.jpg",
+        "profile_link_color": "00B383",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TexSR_Tanner1",
+        "statuses_count": 95612,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/QdU3P2zJsy",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

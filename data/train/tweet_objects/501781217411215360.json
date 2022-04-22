@@ -1,0 +1,97 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 19 17:22:19 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    34,
+                    43
+                ],
+                "text": "Ferguson"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "nbcnews.com/storyline/mich\u2026",
+                "expanded_url": "http://www.nbcnews.com/storyline/michael-brown-shooting/78-arrested-overnight-most-missouri-arrest-records-show-n184036",
+                "indices": [
+                    45,
+                    67
+                ],
+                "url": "http://t.co/AIKQBh8RhU"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 19,
+    "favorited": false,
+    "geo": null,
+    "id": 501781217411215360,
+    "id_str": "501781217411215360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 125,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "78, not 31, arrested overnight in #Ferguson. http://t.co/AIKQBh8RhU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 25 03:53:02 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ombudsman for the Internet on a #MissionToCivilize. Not affiliated with @HBO or The #Newsroom. I mute notifications from nonfollowers.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8797,
+        "follow_request_sent": false,
+        "followers_count": 108611,
+        "following": false,
+        "friends_count": 3791,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 617825073,
+        "id_str": "617825073",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1897,
+        "location": "New York, NY",
+        "name": "Will McAvoy",
+        "notifications": false,
+        "profile_background_color": "012538",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/617825073/1458072321",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710091475342594048/SaqeMxYZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710091475342594048/SaqeMxYZ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WillMcAvoyACN",
+        "statuses_count": 137748,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

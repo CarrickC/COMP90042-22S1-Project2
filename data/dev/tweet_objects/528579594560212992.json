@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.20659282,
+            51.4965588
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Nov 01 16:09:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2467791,
+                "id_str": "2467791",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.4965588,
+            -0.20659282
+        ],
+        "type": "Point"
+    },
+    "id": 528579594560212992,
+    "id_str": "528579594560212992",
+    "in_reply_to_screen_name": "washingtonpost",
+    "in_reply_to_status_id": 528562608463704064,
+    "in_reply_to_status_id_str": "528562608463704064",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_user_id_str": "2467791",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2285894,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.5303477
+                    ],
+                    [
+                        -0.2285894,
+                        51.5303477
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kensington, London",
+        "id": "01c7ed8caf11e8b2",
+        "name": "Kensington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@washingtonpost \nAnother success for western occupancy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 11 13:27:22 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 63,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 142679213,
+        "id_str": "142679213",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "London, England",
+        "name": "Jeffrey Mandel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Konjiter",
+        "statuses_count": 1501,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

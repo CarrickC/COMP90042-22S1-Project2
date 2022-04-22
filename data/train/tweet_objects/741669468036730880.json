@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -96.87775,
+            33.15930556
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Jun 11 16:32:35 +0000 2016",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 986745014326788096,
+                "id_str": "986745014326788096",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Gotham",
+                "screen_name": "Gotham3"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.15930556,
+            -96.87775
+        ],
+        "type": "Point"
+    },
+    "id": 741669468036730880,
+    "id_str": "741669468036730880",
+    "in_reply_to_screen_name": "KaptanHindustan",
+    "in_reply_to_status_id": 741665547549577216,
+    "in_reply_to_status_id_str": "741665547549577216",
+    "in_reply_to_user_id": 126903716,
+    "in_reply_to_user_id_str": "126903716",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.937783,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.081206
+                    ],
+                    [
+                        -96.7327146,
+                        33.219073
+                    ],
+                    [
+                        -96.937783,
+                        33.219073
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Frisco, TX",
+        "id": "00c3e46c3d0cac08",
+        "name": "Frisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c3e46c3d0cac08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Gotham3 \rHillary:  Hold-your-nose-and-vote.\rDonald:  Vote-and-hold-your-breath.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 14:16:38 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#FreeJudgeReinhold Single Dad, Beagle Wrangler, GO!SPURS!GO! #LivingLaVidaMija\nBill Kristol sings \"Onward, Christian Soldiers\".\nPronouns:  Y\u2019all/All Y\u2019all",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "urban75.com",
+                        "expanded_url": "http://www.urban75.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NtEbOiwMH2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 40282,
+        "follow_request_sent": false,
+        "followers_count": 1168,
+        "following": false,
+        "friends_count": 1423,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 375652126,
+        "id_str": "375652126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 17,
+        "location": "Texas, USA",
+        "name": "furious_\ud83d\ude80\ud83c\udf1b\ud83d\ude80\ud83c\udf1b\ud83d\ude80_a",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375652126/1495602161",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1110696377586253826/ICWShAz3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110696377586253826/ICWShAz3_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "furious_a",
+        "statuses_count": 60743,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NtEbOiwMH2",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

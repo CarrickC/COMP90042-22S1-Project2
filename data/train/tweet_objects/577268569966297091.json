@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 00:42:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16049723,
+                "id_str": "16049723",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Yammer",
+                "screen_name": "Yammer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 577268569966297091,
+    "id_str": "577268569966297091",
+    "in_reply_to_screen_name": "Yammer",
+    "in_reply_to_status_id": 562387516964491265,
+    "in_reply_to_status_id_str": "562387516964491265",
+    "in_reply_to_user_id": 16049723,
+    "in_reply_to_user_id_str": "16049723",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Yammer yes, however you need team chemistry.  IMO diversity too early could have killed many a startup companies, especially tech.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 16 14:53:58 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Stock / Options trader, beach bum, dog lover, Celtics, Bruins, Red Sox fan. Snarky, wise a$$. Medical device and semiconductor markets are my focus.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 48193,
+        "follow_request_sent": false,
+        "followers_count": 622,
+        "following": false,
+        "friends_count": 1246,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 227323748,
+        "id_str": "227323748",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51,
+        "location": "Plum Island, MA",
+        "name": "J. Bob O'Malley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227323748/1465902138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628035448439353345/AClqSdJf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628035448439353345/AClqSdJf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimomal77",
+        "statuses_count": 19536,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

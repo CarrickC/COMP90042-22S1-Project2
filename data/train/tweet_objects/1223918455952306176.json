@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 02 10:37:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1223918455952306176",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/IRvn4kpz0E"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "World Health Organization (WHO)",
+                "screen_name": "WHO"
+            },
+            {
+                "id": 3794682452,
+                "id_str": "3794682452",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "World Health Organization (WHO) Western Pacific",
+                "screen_name": "WHOWPRO"
+            },
+            {
+                "id": 1545915336,
+                "id_str": "1545915336",
+                "indices": [
+                    14,
+                    23
+                ],
+                "name": "WHO South-East Asia",
+                "screen_name": "WHOSEARO"
+            },
+            {
+                "id": 125403342,
+                "id_str": "125403342",
+                "indices": [
+                    24,
+                    35
+                ],
+                "name": "WHO/Europe",
+                "screen_name": "WHO_Europe"
+            },
+            {
+                "id": 20629893,
+                "id_str": "20629893",
+                "indices": [
+                    36,
+                    44
+                ],
+                "name": "PAHO/WHO",
+                "screen_name": "pahowho"
+            },
+            {
+                "id": 259372802,
+                "id_str": "259372802",
+                "indices": [
+                    45,
+                    53
+                ],
+                "name": "WHO EMRO",
+                "screen_name": "WHOEMRO"
+            },
+            {
+                "id": 544389588,
+                "id_str": "544389588",
+                "indices": [
+                    54,
+                    62
+                ],
+                "name": "WHO African Region",
+                "screen_name": "WHOAFRO"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1223918455952306176,
+    "id_str": "1223918455952306176",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1221800661039419398,
+    "in_reply_to_status_id_str": "1221800661039419398",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WHO @WHOWPRO @WHOSEARO @WHO_Europe @pahowho @WHOEMRO @WHOAFRO Dear WHO, can my institution translate these FAQs in\u2026 https://t.co/IRvn4kpz0E",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 23 15:10:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Teaching & researching medical biotechnology in a med school. Amateur Countertenor. Views are my own. #PakaiMasker #VaccinesWork #PrecisionMedicine",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17887,
+        "follow_request_sent": false,
+        "followers_count": 1612,
+        "following": false,
+        "friends_count": 727,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 84613009,
+        "id_str": "84613009",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "Pekan Baru, Riau",
+        "name": "Rahmat #PakaiMasker #Vaksinasi",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84613009/1460094416",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1441955185740300291/OL8TIBzB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441955185740300291/OL8TIBzB_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RAKemal",
+        "statuses_count": 47723,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

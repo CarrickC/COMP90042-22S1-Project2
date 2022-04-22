@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 10 03:58:33 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18927441,
+                "id_str": "18927441",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IGN",
+                "screen_name": "IGN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 531657134703124480,
+    "id_str": "531657134703124480",
+    "in_reply_to_screen_name": "IGN",
+    "in_reply_to_status_id": 531634492528939008,
+    "in_reply_to_status_id_str": "531634492528939008",
+    "in_reply_to_user_id": 18927441,
+    "in_reply_to_user_id_str": "18927441",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@IGN Thanks for the slick wallpaper.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 19:51:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Puerto Rican phenom \ud83c\uddf5\ud83c\uddf7. You know me from libraries, videogames, sneakers, or a combination of those.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 47662,
+        "follow_request_sent": false,
+        "followers_count": 732,
+        "following": false,
+        "friends_count": 623,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23641687,
+        "id_str": "23641687",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "NYC",
+        "name": "An\u00edbal",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23641687/1487808247",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515105129078394883/CdpAb6-O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515105129078394883/CdpAb6-O_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "arocho",
+        "statuses_count": 19361,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

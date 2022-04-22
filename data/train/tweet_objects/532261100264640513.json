@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 11 19:58:29 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35586563,
+                "id_str": "35586563",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Jemele Hill",
+                "screen_name": "jemelehill"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 532261100264640513,
+    "id_str": "532261100264640513",
+    "in_reply_to_screen_name": "jemelehill",
+    "in_reply_to_status_id": 532255606623989760,
+    "in_reply_to_status_id_str": "532255606623989760",
+    "in_reply_to_user_id": 35586563,
+    "in_reply_to_user_id_str": "35586563",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@jemelehill could they be any more ignorant?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 28 20:48:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#BlackLivesMatter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 129991,
+        "follow_request_sent": false,
+        "followers_count": 401,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 78118277,
+        "id_str": "78118277",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "buffalo buffalo ",
+        "name": "taylor",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78118277/1644111491",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403446077911670786/JhVHsKkz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403446077911670786/JhVHsKkz_normal.jpg",
+        "profile_link_color": "93DCF3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "121F43",
+        "profile_text_color": "0B0A6D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tkwilson01",
+        "statuses_count": 28432,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

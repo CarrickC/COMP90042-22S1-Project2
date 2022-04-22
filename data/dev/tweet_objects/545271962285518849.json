@@ -1,0 +1,196 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 17 17:39:01 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vf2WC9mUt2",
+                "expanded_url": "https://twitter.com/verge/status/545271117355958272/photo/1",
+                "id": 545271116671905792,
+                "id_str": "545271116671905792",
+                "indices": [
+                    118,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/B5ExMQ-CcAACqcl.png",
+                "media_url_https": "https://pbs.twimg.com/media/B5ExMQ-CcAACqcl.png",
+                "sizes": {
+                    "large": {
+                        "h": 580,
+                        "resize": "fit",
+                        "w": 988
+                    },
+                    "medium": {
+                        "h": 580,
+                        "resize": "fit",
+                        "w": 988
+                    },
+                    "small": {
+                        "h": 399,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 545271117355958272,
+                "source_status_id_str": "545271117355958272",
+                "source_user_id": 275686563,
+                "source_user_id_str": "275686563",
+                "type": "photo",
+                "url": "http://t.co/vf2WC9mUt2"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "theverge.com/e/7173020",
+                "expanded_url": "http://theverge.com/e/7173020",
+                "indices": [
+                    95,
+                    117
+                ],
+                "url": "http://t.co/aj660kdlbR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 248696148,
+                "id_str": "248696148",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "CT",
+                "screen_name": "luvyablue74"
+            },
+            {
+                "id": 275686563,
+                "id_str": "275686563",
+                "indices": [
+                    24,
+                    30
+                ],
+                "name": "The Verge",
+                "screen_name": "verge"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vf2WC9mUt2",
+                "expanded_url": "https://twitter.com/verge/status/545271117355958272/photo/1",
+                "id": 545271116671905792,
+                "id_str": "545271116671905792",
+                "indices": [
+                    118,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/B5ExMQ-CcAACqcl.png",
+                "media_url_https": "https://pbs.twimg.com/media/B5ExMQ-CcAACqcl.png",
+                "sizes": {
+                    "large": {
+                        "h": 580,
+                        "resize": "fit",
+                        "w": 988
+                    },
+                    "medium": {
+                        "h": 580,
+                        "resize": "fit",
+                        "w": 988
+                    },
+                    "small": {
+                        "h": 399,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 545271117355958272,
+                "source_status_id_str": "545271117355958272",
+                "source_user_id": 275686563,
+                "source_user_id_str": "275686563",
+                "type": "photo",
+                "url": "http://t.co/vf2WC9mUt2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 545271962285518849,
+    "id_str": "545271962285518849",
+    "in_reply_to_screen_name": "verge",
+    "in_reply_to_status_id": 545271117355958272,
+    "in_reply_to_status_id_str": "545271117355958272",
+    "in_reply_to_user_id": 275686563,
+    "in_reply_to_user_id_str": "275686563",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Classic @luvyablue74 RT @verge: A Texas plumbing company's truck ended up in Syria's civil war http://t.co/aj660kdlbR http://t.co/vf2WC9mUt2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 18 20:11:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former sports journo, proud elitist and employee of @TAMUVetMed. Aggie '07 (or '09 if we're being literal.) Obviously this is my personal account.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5266,
+        "follow_request_sent": false,
+        "followers_count": 4338,
+        "following": false,
+        "friends_count": 610,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 66786345,
+        "id_str": "66786345",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 222,
+        "location": "College Station, Texas",
+        "name": "Aubrey Bloom",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66786345/1403368656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/486946006945116161/MGLFjtJF_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/486946006945116161/MGLFjtJF_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aubreybloom",
+        "statuses_count": 51187,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

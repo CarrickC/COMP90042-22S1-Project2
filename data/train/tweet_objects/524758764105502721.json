@@ -1,0 +1,98 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 22 03:06:53 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36631460,
+                "id_str": "36631460",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tony Hrvatska \ud83c\udf32\ud83d\udd4a",
+                "screen_name": "tonybalogna"
+            },
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 524758764105502721,
+    "id_str": "524758764105502721",
+    "in_reply_to_screen_name": "tonybalogna",
+    "in_reply_to_status_id": 524758540804976640,
+    "in_reply_to_status_id_str": "524758540804976640",
+    "in_reply_to_user_id": 36631460,
+    "in_reply_to_user_id_str": "36631460",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@tonybalogna @ABC  my niece wants a puppy.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 30 23:12:58 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 267585,
+        "follow_request_sent": false,
+        "followers_count": 944,
+        "following": false,
+        "friends_count": 1842,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 345643533,
+        "id_str": "345643533",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 49,
+        "location": "",
+        "name": "billy runaway",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3020963176/9db5ffe79bfcca20040e3c837e124bf7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3020963176/9db5ffe79bfcca20040e3c837e124bf7_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "billyrunaway",
+        "statuses_count": 161607,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

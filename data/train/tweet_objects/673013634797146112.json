@@ -1,0 +1,88 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:38:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ABC News",
+                "screen_name": "ABC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673013634797146112,
+    "id_str": "673013634797146112",
+    "in_reply_to_screen_name": "ABC",
+    "in_reply_to_status_id": 672906198434209792,
+    "in_reply_to_status_id_str": "672906198434209792",
+    "in_reply_to_user_id": 28785486,
+    "in_reply_to_user_id_str": "28785486",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@ABC @MarissaSemkiw  garbage",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 30 20:17:41 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Old confused follower of politics and news - horrible speller",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 278527,
+        "follow_request_sent": false,
+        "followers_count": 628,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 274662393,
+        "id_str": "274662393",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 68,
+        "location": "Brentwood Bay. BC",
+        "name": "Ibelieve",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/556538235732500480/Uv6rhQ_C_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/556538235732500480/Uv6rhQ_C_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mervin42",
+        "statuses_count": 95466,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

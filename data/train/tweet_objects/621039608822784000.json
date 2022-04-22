@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -121.3535001,
+            38.5426424
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Jul 14 19:32:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 143257853,
+                "id_str": "143257853",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "THE ILLUMINATI",
+                "screen_name": "ThelIluminati"
+            },
+            {
+                "id": 1056861344660516864,
+                "id_str": "1056861344660516864",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "\ud835\udd7d\ud835\udd94\ud835\udd9e\ud835\udd86\ud835\udd91\ud835\udd8a \ud835\udd6f\ud835\udd8e\ud835\udd9b\ud835\udd86",
+                "screen_name": "StylesRoyale"
+            },
+            {
+                "id": 794713192693841920,
+                "id_str": "794713192693841920",
+                "indices": [
+                    29,
+                    38
+                ],
+                "name": "Yolanda",
+                "screen_name": "acmswish"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            38.5426424,
+            -121.3535001
+        ],
+        "type": "Point"
+    },
+    "id": 621039608822784000,
+    "id_str": "621039608822784000",
+    "in_reply_to_screen_name": "ThelIluminati",
+    "in_reply_to_status_id": 620971220301787136,
+    "in_reply_to_status_id_str": "620971220301787136",
+    "in_reply_to_user_id": 143257853,
+    "in_reply_to_user_id_str": "143257853",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.3858365,
+                        38.528987
+                    ],
+                    [
+                        -121.334884,
+                        38.528987
+                    ],
+                    [
+                        -121.334884,
+                        38.566098
+                    ],
+                    [
+                        -121.3858365,
+                        38.566098
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rosemont, CA",
+        "id": "af828ecae0dcb2be",
+        "name": "Rosemont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/af828ecae0dcb2be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ThelIluminati @stylesroyale @acmswish I'm scared",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 29 01:46:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/princessrissaxo",
+                        "expanded_url": "http://Instagram.com/princessrissaxo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4lKolEgOLC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 117240,
+        "follow_request_sent": false,
+        "followers_count": 2126,
+        "following": false,
+        "friends_count": 48,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 621475807,
+        "id_str": "621475807",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Sacramento, CA",
+        "name": "issa \u2661",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/621475807/1586499040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235243676445470720/tmZhQnRI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235243676445470720/tmZhQnRI_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marissaohmygod",
+        "statuses_count": 40702,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4lKolEgOLC",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

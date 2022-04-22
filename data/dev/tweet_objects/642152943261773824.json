@@ -1,0 +1,109 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 11 01:49:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "CNN",
+                "screen_name": "CNN"
+            },
+            {
+                "id": 216776631,
+                "id_str": "216776631",
+                "indices": [
+                    5,
+                    19
+                ],
+                "name": "Bernie Sanders",
+                "screen_name": "BernieSanders"
+            },
+            {
+                "id": 1339835893,
+                "id_str": "1339835893",
+                "indices": [
+                    20,
+                    35
+                ],
+                "name": "Hillary Clinton",
+                "screen_name": "HillaryClinton"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 642152943261773824,
+    "id_str": "642152943261773824",
+    "in_reply_to_screen_name": "CNN",
+    "in_reply_to_status_id": 642145732435292160,
+    "in_reply_to_status_id_str": "642145732435292160",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@CNN @BernieSanders @HillaryClinton Sanders talks a good game about things he can't possibly deliver.  He's near comical.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 16:43:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SGM, USA (Ret), mom to a great son, grandmom, love my family, my country, the Braves, & politics. #BravesCountry World Champion Braves!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 #wtpBLUE",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 242892,
+        "follow_request_sent": false,
+        "followers_count": 4754,
+        "following": false,
+        "friends_count": 5164,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38465698,
+        "id_str": "38465698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 22,
+        "location": "Metro Atlanta",
+        "name": "Braveswyn \u26be\ufe0f\ud83c\udf7b\ud83c\uddfa\ud83c\uddf8",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38465698/1647955307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505632646696689666/aA55RswO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505632646696689666/aA55RswO_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Braveswyn",
+        "statuses_count": 103205,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

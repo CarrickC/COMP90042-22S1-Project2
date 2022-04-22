@@ -1,0 +1,102 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 10 18:41:26 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1270788180002906118",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/eKINHT052Q"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1270788180002906118,
+    "id_str": "1270788180002906118",
+    "in_reply_to_screen_name": "RCPath",
+    "in_reply_to_status_id": 1270782984178843649,
+    "in_reply_to_status_id_str": "1270782984178843649",
+    "in_reply_to_user_id": 869617806,
+    "in_reply_to_user_id_str": "869617806",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "We\u2019ve just closed a fascinating seminar on a hot topic \u2013 testing outside the NHS. We\u2019d like to thank\u2026 https://t.co/eKINHT052Q",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 09 10:24:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Royal College of Pathologists promotes excellence in the practice of pathology. Members work across 17 specialities in healthcare, universities & industry.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rcpath.org",
+                        "expanded_url": "http://www.rcpath.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zpRjk38jTK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4058,
+        "follow_request_sent": false,
+        "followers_count": 12654,
+        "following": false,
+        "friends_count": 763,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 869617806,
+        "id_str": "869617806",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 132,
+        "location": "London ",
+        "name": "RC of Pathologists",
+        "notifications": false,
+        "profile_background_color": "07547A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/869617806/1639496262",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061901238906826753/x9lTDoI-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061901238906826753/x9lTDoI-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RCPath",
+        "statuses_count": 7418,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zpRjk38jTK",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

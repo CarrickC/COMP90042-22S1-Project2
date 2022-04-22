@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 08 00:25:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    7
+                ],
+                "text": "UPDATE"
+            },
+            {
+                "indices": [
+                    110,
+                    124
+                ],
+                "text": "JeSuisCharlie"
+            },
+            {
+                "indices": [
+                    125,
+                    138
+                ],
+                "text": "CharlieHebdo"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "u.afp.com/Rhs",
+                "expanded_url": "http://u.afp.com/Rhs",
+                "indices": [
+                    87,
+                    109
+                ],
+                "url": "http://t.co/5NoNuqJSu1"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 17,
+    "favorited": false,
+    "geo": null,
+    "id": 552984502063337472,
+    "id_str": "552984502063337472",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 103,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#UPDATE Three men including two brothers identified in France newspaper attack: source http://t.co/5NoNuqJSu1 #JeSuisCharlie #CharlieHebdo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 27 00:35:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Top news and features from AFP's reporters around the world. Elsewhere on Twitter: https://t.co/ELSlBpSrHN",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "u.afp.com/AFPTwitter",
+                        "expanded_url": "http://u.afp.com/AFPTwitter",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "url": "https://t.co/ELSlBpSrHN"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "afp.com/en",
+                        "expanded_url": "http://www.afp.com/en",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nr2Pv8O51K"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2430,
+        "follow_request_sent": false,
+        "followers_count": 2317716,
+        "following": false,
+        "friends_count": 607,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 380648579,
+        "id_str": "380648579",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26486,
+        "location": "France",
+        "name": "AFP News Agency",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380648579/1649984562",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272776111722770432/4ZvQTfXv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272776111722770432/4ZvQTfXv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AFP",
+        "statuses_count": 295298,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nr2Pv8O51K",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 26 04:08:59 +0000 2014",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    64,
+                    77
+                ],
+                "text": "MichaelBrown"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/6QrGTF1LSIQ",
+                "expanded_url": "http://youtu.be/6QrGTF1LSIQ",
+                "indices": [
+                    80,
+                    102
+                ],
+                "url": "http://t.co/ms8D3zrTnj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1675592408,
+                "id_str": "1675592408",
+                "indices": [
+                    1,
+                    17
+                ],
+                "name": "Steven Jackson",
+                "screen_name": "NumbersAGangsta"
+            },
+            {
+                "id": 14090948,
+                "id_str": "14090948",
+                "indices": [
+                    19,
+                    33
+                ],
+                "name": "Antonio French",
+                "screen_name": "AntonioFrench"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 504118283344158720,
+    "id_str": "504118283344158720",
+    "in_reply_to_screen_name": "NumbersAGangsta",
+    "in_reply_to_status_id": 504109775358287872,
+    "in_reply_to_status_id_str": "504109775358287872",
+    "in_reply_to_user_id": 1675592408,
+    "in_reply_to_user_id_str": "1675592408",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@NumbersAGangsta: @AntonioFrench Alleged New Shooting Audio of #MichaelBrown / http://t.co/ms8D3zrTnj\u201d Jesus.....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 23:17:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just google Alyx Jolivet! Animator, Illustrator, Writer, Poet, Cat Whisperer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "romancingalyx.com",
+                        "expanded_url": "http://www.romancingalyx.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lhGexlchzM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 155,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48157887,
+        "id_str": "48157887",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Los Angeles",
+        "name": "Alyx Jolivet",
+        "notifications": false,
+        "profile_background_color": "00705A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648588133202661376/6ZPIQO-4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648588133202661376/6ZPIQO-4_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A3FFDD",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "holyjellyfish",
+        "statuses_count": 2398,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lhGexlchzM",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

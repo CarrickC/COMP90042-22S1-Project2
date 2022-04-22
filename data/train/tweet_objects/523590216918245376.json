@@ -1,0 +1,99 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 18 21:43:30 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1275232311307497472,
+                "id_str": "1275232311307497472",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "the artist formerly known as",
+                "screen_name": "sa_roux"
+            },
+            {
+                "id": 16906137,
+                "id_str": "16906137",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "pourmecoffee",
+                "screen_name": "pourmecoffee"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 523590216918245376,
+    "id_str": "523590216918245376",
+    "in_reply_to_screen_name": "ZaraVarin",
+    "in_reply_to_status_id": 523589673319272449,
+    "in_reply_to_status_id_str": "523589673319272449",
+    "in_reply_to_user_id": 123093889,
+    "in_reply_to_user_id_str": "123093889",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@sa_roux @pourmecoffee Goliath bird eaters can be bought and kept as pet tarantulas! They\u2019re just not good for beginners. LOOK AT THAT CUTIE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 10 01:46:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "tabletop & video games | comics | writer | Flex Role main | Merch&Tech Coordinator at Dual Wield Studio | they/them",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22363,
+        "follow_request_sent": false,
+        "followers_count": 1147,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 73011620,
+        "id_str": "73011620",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "18+ only thanks!",
+        "name": "Ritzy\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2728",
+        "notifications": false,
+        "profile_background_color": "FFCC66",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73011620/1603343317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190610595252523008/rE7SuZDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190610595252523008/rE7SuZDv_normal.jpg",
+        "profile_link_color": "FFA200",
+        "profile_sidebar_border_color": "FF9900",
+        "profile_sidebar_fill_color": "FF9933",
+        "profile_text_color": "000099",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ritzyfoxx",
+        "statuses_count": 79635,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

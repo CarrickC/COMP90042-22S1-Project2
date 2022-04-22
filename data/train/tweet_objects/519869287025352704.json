@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 08 15:17:51 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jvmJOWqKrV",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/jvmJOWqKrV"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trib.al/LCfbZqy",
+                "expanded_url": "http://trib.al/LCfbZqy",
+                "indices": [
+                    78,
+                    100
+                ],
+                "url": "http://t.co/QZt5IxkSJ6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 784467,
+                "id_str": "784467",
+                "indices": [
+                    1,
+                    12
+                ],
+                "name": "...",
+                "screen_name": "complexmag"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jvmJOWqKrV",
+                "expanded_url": "https://twitter.com/ComplexMag/status/519867098945044480/photo/1",
+                "id": 519867098601111552,
+                "id_str": "519867098601111552",
+                "indices": [
+                    101,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/BzbwXy6IQAALvmm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "medium": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "small": {
+                        "h": 440,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 519867098945044480,
+                "source_status_id_str": "519867098945044480",
+                "source_user_id": 13049362,
+                "source_user_id_str": "13049362",
+                "type": "photo",
+                "url": "http://t.co/jvmJOWqKrV"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 519869287025352704,
+    "id_str": "519869287025352704",
+    "in_reply_to_screen_name": "Complex",
+    "in_reply_to_status_id": 519867098945044480,
+    "in_reply_to_status_id_str": "519867098945044480",
+    "in_reply_to_user_id": 13049362,
+    "in_reply_to_user_id_str": "13049362",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@ComplexMag: Someone spray painted a penis on a $2.4 million Bugatti Veyron: http://t.co/QZt5IxkSJ6 http://t.co/jvmJOWqKrV\u201d haters smh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 17:49:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sometimey artist and all the time weirdo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "purplefreakingrain.tumblr.com",
+                        "expanded_url": "http://www.purplefreakingrain.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/O5Rlj0xGVU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23117,
+        "follow_request_sent": false,
+        "followers_count": 1419,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 43723844,
+        "id_str": "43723844",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14,
+        "location": "baltimore heaux",
+        "name": "Shawnie",
+        "notifications": false,
+        "profile_background_color": "8F8878",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43723844/1596322867",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1289697694705950720/cQS1GTh2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289697694705950720/cQS1GTh2_normal.jpg",
+        "profile_link_color": "F8564B",
+        "profile_sidebar_border_color": "85684D",
+        "profile_sidebar_fill_color": "4F607C",
+        "profile_text_color": "F5AF0C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CookieCrumblz",
+        "statuses_count": 83317,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/O5Rlj0xGVU",
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}

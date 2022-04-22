@@ -1,0 +1,89 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 20 21:36:06 +0000 2014",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28638191,
+                "id_str": "28638191",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Nicole Polizzi",
+                "screen_name": "snooki"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 524313130902376449,
+    "id_str": "524313130902376449",
+    "in_reply_to_screen_name": "snooki",
+    "in_reply_to_status_id": 524312881823637504,
+    "in_reply_to_status_id_str": "524312881823637504",
+    "in_reply_to_user_id": 28638191,
+    "in_reply_to_user_id_str": "28638191",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@snooki ok",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 20 23:35:40 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Something Clever - WITCH\ud83d\udc41 ... Snapchat: jamessharif116...\nHobbies: I Collect Dolls...\nAntique Shops",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 73883,
+        "follow_request_sent": false,
+        "followers_count": 725,
+        "following": false,
+        "friends_count": 318,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2400607903,
+        "id_str": "2400607903",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 76,
+        "location": "New York / Atlanta ",
+        "name": "James \u262e\ud83d\udc7d\ud83e\udd18\ud83c\udffb",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2400607903/1478228053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393307704878411778/LEjUlp5z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393307704878411778/LEjUlp5z_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_JamesSharif",
+        "statuses_count": 44581,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false,
+        "withheld_in_countries": []
+    }
+}
