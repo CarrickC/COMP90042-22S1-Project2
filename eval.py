@@ -25,15 +25,23 @@ def main(args):
 
     try:
         groundtruth = [item.strip() for item in open(args.groundtruth, "r").readlines()]
-        predictions = [item.strip() for item in open(args.predictions, "r").readlines()]
 
-        if (len(groundtruth)!=len(predictions)):
-            raise Exception("groundtruth file must have the same number of lines as the predictions file")
+        #parse predictions CSV
+        predictions = {}
+        for line_id, line in enumerate(open(args.predictions, "r").readlines()):
+            if line_id > 0:
+                elements = line.strip().split(",")
+                instance_id = int(elements[0])
+                predicted_label = int(elements[1])
+                predictions[instance_id] = predicted_label
 
         y_true, y_pred = [], []
 
         for vi, v in enumerate(groundtruth):
-            y_pred.append(convert_label(predictions[vi]))
+            if vi in predictions:
+                y_pred.append(predictions[vi])
+            else:
+                y_pred.append(1-convert_label(v)) #assume incorrect prediction if missing prediction
             y_true.append(convert_label(v))
 
         p, r, f, _ = precision_recall_fscore_support(y_true, y_pred, pos_label=1, average="binary")
@@ -47,7 +55,7 @@ def main(args):
     print("Recall    =", r)
     print("F1        =", f)
         
-
+1
 if __name__ == "__main__":
 
     #parser arguments
@@ -56,7 +64,7 @@ if __name__ == "__main__":
 
     #arguments
     parser.add_argument("--predictions", required=True, help="text file containing system predictions (one line per label)")
-    parser.add_argument("--groundtruth", required=True, help="text file containing ground truth labels (one line per label)")
+    parser.add_argument("--groundtruth", required=True, help="text file containing ground truth labels (CSV format)")
     args = parser.parse_args()
 
     main(args)
